@@ -31,9 +31,9 @@ ts.year,
 p1.team_id,
 p2.team_id,
 
-(case when ts.home_game then 'offense_home'
-      when not(ts.home_game) and not(ts.neutral_site) then 'defense_home'
-      when ts.neutral_site then 'neutral'
+(case when ts.neutral_site then 'neutral'
+      when not(ts.neutral_site) and ts.home_game then 'offense_home'
+      when not(ts.neutral_site) and not(ts.home_game) then 'defense_home'
 end) as field,
 
 x.team_score,

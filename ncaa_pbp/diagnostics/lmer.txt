@@ -1,16 +1,17 @@
 [1] 3048    7
 [1] TRUE
 [1] 3048    3
-start par. =  1 1 fn =  15450.06 
+start par. =  1 1 fn =  15451.72 
 At return
-eval:  51 fn:      15226.659 par: 0.179915 0.179915
-(NM) 20: f = 15226.7 at   0.179915   0.179915 -0.0370833  0.0741666
-(NM) 40: f = 15226.7 at   0.179915   0.179915 -0.0370833  0.0741666
-(NM) 60: f = 15226.7 at   0.179915   0.179915 -0.0370833  0.0741666
-(NM) 80: f = 15226.7 at   0.179915   0.179915 -0.0370833  0.0741666
-(NM) 100: f = 15226.7 at   0.179914   0.179919 -0.0371322  0.0742267
-(NM) 120: f = 15226.7 at   0.179907   0.179915 -0.0371108  0.0742149
-(NM) 140: f = 15226.7 at   0.179914   0.179914 -0.0371069  0.0742152
+eval:  48 fn:      15227.497 par: 0.178667 0.178667
+(NM) 20: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
+(NM) 40: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
+(NM) 60: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
+(NM) 80: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
+(NM) 100: f = 15227.5 at  0.178713  0.178706 -0.038158 0.0382249 0.0763922
+(NM) 120: f = 15227.5 at   0.178684   0.178674 -0.0381835  0.0381904  0.0763958
+(NM) 140: f = 15227.5 at   0.178667   0.178664 -0.0381957  0.0382063  0.0764029
+(NM) 160: f = 15227.5 at   0.178669   0.178668 -0.0381983  0.0382018  0.0763998
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: binomial  ( logit )
@@ -18,15 +19,15 @@ Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |
     defense)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
-15234.659 15258.748 -7613.329 15226.659      3044 
+15237.496 15267.608 -7613.748 15227.496      3043 
 Random effects:
  Groups  Name        Std.Dev.
- offense (Intercept) 0.1799  
- defense (Intercept) 0.1799  
+ offense (Intercept) 0.1787  
+ defense (Intercept) 0.1787  
 Number of obs: 3048, groups:  offense, 50; defense, 50
 Fixed Effects:
-      (Intercept)  fieldoffense_home  
-         -0.03711            0.07422  
+      (Intercept)       fieldneutral  fieldoffense_home  
+          -0.0382             0.0382             0.0764  
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: binomial  ( logit )
@@ -35,29 +36,31 @@ Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |
    Data: g
 
      AIC      BIC   logLik deviance df.resid 
- 15234.7  15258.7  -7613.3  15226.7     3044 
+ 15237.5  15267.6  -7613.7  15227.5     3043 
 
 Scaled residuals: 
-    Min      1Q  Median      3Q     Max 
--2.8261 -0.5474  0.0000  0.5474  2.8261 
+   Min     1Q Median     3Q    Max 
+-2.815 -0.551  0.000  0.551  2.815 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- offense (Intercept) 0.03237  0.1799  
- defense (Intercept) 0.03237  0.1799  
+ offense (Intercept) 0.03192  0.1787  
+ defense (Intercept) 0.03192  0.1787  
 Number of obs: 3048, groups:  offense, 50; defense, 50
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)       -0.03711    0.03786  -0.980    0.327    
-fieldoffense_home  0.07422    0.01136   6.531 6.52e-11 ***
+(Intercept)       -0.03820    0.03777  -1.011    0.312    
+fieldneutral       0.03820    0.02699   1.415    0.157    
+fieldoffense_home  0.07640    0.01181   6.467 9.97e-11 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
-            (Intr)
-fildffns_hm -0.150
+            (Intr) fldntr
+fieldneutrl -0.110       
+fildffns_hm -0.156  0.219
 Analysis of Variance Table
       Df Sum Sq Mean Sq F value
-field  1  42.71   42.71   42.71
+field  2 41.906  20.953  20.953
 [1] TRUE
