@@ -130,7 +130,7 @@ left outer join ncaa_pbp._basic_factors nbf
 where
     npl.type='fixed'
 and npl.parameter in ('field')
-and npl.level not in ('none')
+and npl.level not in ('neutral')
 );
 
 -- other fixed
@@ -181,11 +181,11 @@ where s.parameter=_factors.parameter;
 update ncaa_pbp._factors
 set exp_factor=exp(raw_factor);
 
--- 'neutral' park confounded with 'none' field; set factor = 1.0 for field 'none'
+-- 'neutral' park confounded with 'neutral' field; set factor = 1.0 for field 'neutral'
 
 insert into ncaa_pbp._factors
 (parameter,level,type,method,year,first_year,last_year,raw_factor,exp_factor)
 values
-('field','none','fixed','log_regression',null,null,null,0.0,1.0);
+('field','neutral','fixed','log_regression',null,null,null,0.0,1.0);
 
 commit;
