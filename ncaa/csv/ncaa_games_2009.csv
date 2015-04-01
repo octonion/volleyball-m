@@ -1,0 +1,2808 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2009,Albertus Magnus,2798,Rivier,18422,01/30/2009,0,3,Home,,-,73
+2009,Albertus Magnus,2798,Emerson,214,01/31/2009,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Johnson & Wales (RI),22626,01/31/2009,0,3,Neutral,"Boston, MA",-,0
+2009,Albertus Magnus,2798,Yeshiva,814,02/05/2009,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Mount Ida,27901,02/08/2009,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Emmanuel (MA),215,02/11/2009,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Rivier,18422,02/21/2009,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Medgar Evers,403,02/24/2009,3,1,Away,,-,0
+2009,Albertus Magnus,2798,Lasell,8486,02/25/2009,0,3,Away,,-,61
+2009,Albertus Magnus,2798,Lasell,8486,03/03/2009,0,3,Home,,-,27
+2009,Albertus Magnus,2798,Emmanuel (MA),215,03/05/2009,0,3,Home,,-,31
+2009,Albertus Magnus,2798,Johnson & Wales (RI),22626,03/14/2009,0,3,Away,,-,50
+2009,Albertus Magnus,2798,Emerson,214,03/14/2009,0,3,Home,,-,0
+2009,Albertus Magnus,2798,St. Joseph's (Brkln),30072,03/15/2009,3,0,Home,,-,25
+2009,Albertus Magnus,2798,Mount Ida,27901,03/21/2009,0,3,Home,,-,73
+2009,Albertus Magnus,2798,MIT,398,03/21/2009,0,3,Home,,-,57
+2009,Albertus Magnus,2798,Yeshiva,814,03/22/2009,0,3,Home,,-,36
+2009,Albertus Magnus,2798,York (NY),2730,01/27/2010,0,3,Away,,-,50
+2009,Albertus Magnus,2798,Yeshiva,814,01/31/2010,0,3,Away,,-,25
+2009,Albertus Magnus,2798,Bard,962,01/31/2010,0,3,Neutral,Yeshiva University,-,50
+2009,Albertus Magnus,2798,Lasell,8486,02/02/2010,0,3,Away,,-,78
+2009,Albertus Magnus,2798,Mount Ida,27901,02/06/2010,0,3,Home,,-,37
+2009,Albertus Magnus,2798,Rivier,18422,02/07/2010,0,3,Home,,-,49
+2009,Albertus Magnus,2798,Rivier,18422,02/07/2010,0,3,Home,,-,43
+2009,Albertus Magnus,2798,Regis (MA),569,02/09/2010,2,3,Away,,2 Sets,0
+2009,Albertus Magnus,2798,Emmanuel (MA),215,02/13/2010,0,3,Neutral,"West Haven, Conn.",-,23
+2009,Albertus Magnus,2798,New Haven,470,02/13/2010,0,3,Away,,-,28
+2009,Albertus Magnus,2798,St. Joseph's (Brkln),30072,02/19/2010,0,3,Away,,-,42
+2009,Albertus Magnus,2798,Lasell,8486,02/20/2010,0,3,Home,,-,37
+2009,Albertus Magnus,2798,Regis (MA),569,02/24/2010,2,3,Home,,2 Sets,43
+2009,Albertus Magnus,2798,Emerson,214,02/28/2010,0,3,Home,,-,37
+2009,Albertus Magnus,2798,Emerson,214,03/13/2010,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Johnson & Wales (RI),22626,03/13/2010,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Johnson & Wales (RI),22626,03/14/2010,0,3,Home,,-,23
+2009,Albertus Magnus,2798,Emmanuel (MA),215,03/20/2010,0,3,Away,,-,0
+2009,Albertus Magnus,2798,Lesley,24317,03/20/2010,0,3,Away,,-,0
+2009,Ball St.,47,Stanford,674,01/17/2009,0,3,Home,,-,"3,729"
+2009,Ball St.,47,Penn St.,539,01/23/2009,1,3,Away,,1 Sets,"1,013"
+2009,Ball St.,47,Saint Francis (PA),600,01/24/2009,1,3,Away,,1 Sets,503
+2009,Ball St.,47,Lewis,354,01/30/2009,3,0,Home,,-,"1,507"
+2009,Ball St.,47,George Mason,248,02/05/2009,0,3,Home,,-,706
+2009,Ball St.,47,Rutgers-Newark,589,02/06/2009,3,0,Home,,-,726
+2009,Ball St.,47,Milwaukee Engr.,20220,02/13/2009,3,0,Home,,-,816
+2009,Ball St.,47,Milwaukee Engr.,20220,02/20/2009,3,0,Away,,-,188
+2009,Ball St.,47,Carthage,121,02/21/2009,3,0,Away,,-,475
+2009,Ball St.,47,IPFW,308,02/27/2009,3,0,Home,,-,"1,266"
+2009,Ball St.,47,Loyola Chicago,371,02/28/2009,3,2,Home,,2 Sets,"1,377"
+2009,Ball St.,47,Quincy,561,03/05/2009,3,1,Away,,1 Sets,150
+2009,Ball St.,47,Grand Canyon,1104,03/07/2009,3,1,Away,,1 Sets,210
+2009,Ball St.,47,Grand Canyon,1104,03/08/2009,3,0,Away,,-,157
+2009,Ball St.,47,Ohio St.,518,03/11/2009,2,3,Away,,2 Sets,572
+2009,Ball St.,47,Lewis,354,03/13/2009,2,3,Away,,2 Sets,663
+2009,Ball St.,47,Loyola Chicago,371,03/14/2009,2,3,Away,,2 Sets,875
+2009,Ball St.,47,Carthage,121,03/17/2009,3,0,Home,,-,429
+2009,Ball St.,47,Rutgers-Newark,589,03/20/2009,3,1,Away,,1 Sets,213
+2009,Ball St.,47,George Mason,248,03/21/2009,3,2,Away,,2 Sets,482
+2009,Ball St.,47,Ohio St.,518,03/27/2009,2,3,Home,,2 Sets,"1,217"
+2009,Ball St.,47,Quincy,561,03/28/2009,3,0,Home,,-,531
+2009,Ball St.,47,IPFW,308,04/11/2009,3,2,Away,,2 Sets,915
+2009,Ball St.,47,Penn St.,539,04/17/2009,0,3,Home,,-,"1,061"
+2009,Ball St.,47,Saint Francis (PA),600,04/18/2009,3,1,Home,,1 Sets,563
+2009,Ball St.,47,Quincy,561,04/25/2009,3,0,Home,,-,413
+2009,Ball St.,47,Lewis,354,04/30/2009,3,2,Neutral,"Columbus, OH",2 Sets,0
+2009,Ball St.,47,Ohio St.,518,05/02/2009,0,3,Away,,-,610
+2009,Bard,962,SUNYIT,9500,01/22/2009,3,1,Away,,1 Sets,75
+2009,Bard,962,City Tech,8580,01/24/2009,3,0,Neutral,"Brooklyn, NY",-,50
+2009,Bard,962,Medgar Evers,403,01/24/2009,3,0,Away,,-,50
+2009,Bard,962,Mt. St. Vincent,451,01/29/2009,0,3,Home,,-,50
+2009,Bard,962,Lehman,279,01/31/2009,3,2,Away,,2 Sets,75
+2009,Bard,962,Yeshiva,814,02/01/2009,3,0,Home,,-,50
+2009,Bard,962,CCNY,480,02/01/2009,3,1,Home,,1 Sets,50
+2009,Bard,962,SUNY New Paltz,475,02/04/2009,0,3,Away,,-,50
+2009,Bard,962,Lancaster Bible,,02/07/2009,3,1,Home,,1 Sets,50
+2009,Bard,962,Polytechnic (NY),481,02/07/2009,3,0,Home,,-,50
+2009,Bard,962,Purchase St.,30029,02/11/2009,1,3,Away,,1 Sets,0
+2009,Bard,962,Brooklyn,79,02/14/2009,3,1,Home,,1 Sets,50
+2009,Bard,962,Phila. Biblical,1305,02/14/2009,0,3,Home,,-,50
+2009,Bard,962,Ramapo,564,02/19/2009,0,3,Home,,-,75
+2009,Bard,962,Yeshiva,814,02/22/2009,3,0,Away,,-,50
+2009,Bard,962,SUNY New Paltz,475,02/22/2009,0,3,Neutral,"New York, NY",-,50
+2009,Bard,962,Vassar,737,02/25/2009,0,3,Away,,-,75
+2009,Bard,962,Mount Ida,27901,02/27/2009,3,1,Home,,1 Sets,50
+2009,Bard,962,Lasell,8486,02/28/2009,0,3,Home,,-,50
+2009,Bard,962,Polytechnic (NY),481,02/28/2009,3,0,Home,,-,50
+2009,Bard,962,Purchase St.,30029,03/03/2009,3,0,Home,,-,50
+2009,Bard,962,MIT,398,03/07/2009,0,3,Away,,-,100
+2009,Bard,962,Lasell,8486,03/07/2009,1,3,Neutral,"Cambridge, MA",1 Sets,75
+2009,Bard,962,Emmanuel (MA),215,03/08/2009,0,3,Neutral,"Cambridge, MA",-,75
+2009,Bard,962,Mount Ida,27901,03/08/2009,3,0,Neutral,"Cambridge, MA",-,75
+2009,Bard,962,New Jersey City,319,03/10/2009,2,3,Home,,2 Sets,75
+2009,Bard,962,Mt. St. Vincent,451,03/11/2009,1,3,Away,,1 Sets,47
+2009,Bard,962,Purchase St.,30029,03/15/2009,3,1,Neutral,"Riverdale, NY",1 Sets,30
+2009,Bard,962,Mt. St. Vincent,451,03/15/2009,1,3,Away,,1 Sets,35
+2009,Bard,962,Stevens,679,03/18/2009,1,3,Home,,1 Sets,50
+2009,Bard,962,Stevenson,21852,03/21/2009,0,3,Away,,-,50
+2009,Bard,962,Lehman,279,03/21/2009,3,1,Neutral,"Stevenson, MD",1 Sets,50
+2009,Baruch,58,Medaille,23725,01/16/2009,1,3,Neutral,"Milwaukee, WI",1 Sets,123
+2009,Baruch,58,Milwaukee Engr.,20220,01/17/2009,3,2,Away,,2 Sets,108
+2009,Baruch,58,Endicott,8981,01/17/2009,3,0,Neutral,"Milwaukee, WI",-,42
+2009,Baruch,58,Carthage,121,01/18/2009,3,1,Away,,1 Sets,100
+2009,Baruch,58,Rivier,18422,01/18/2009,0,3,Neutral,"Milwaukee, WI",-,47
+2009,Baruch,58,D'Youville,1059,01/24/2009,3,0,Neutral,"Utica, NY",-,35
+2009,Baruch,58,SUNYIT,9500,01/24/2009,3,0,Away,,-,55
+2009,Baruch,58,Hilbert,8398,01/24/2009,3,0,Neutral,"Utica, NY",-,45
+2009,Baruch,58,New Jersey City,319,01/27/2009,3,0,Away,,-,65
+2009,Baruch,58,Phila. Biblical,1305,01/29/2009,1,3,Away,,1 Sets,120
+2009,Baruch,58,Stevenson,21852,01/30/2009,3,1,Away,,1 Sets,76
+2009,Baruch,58,Mt. St. Vincent,451,01/31/2009,3,0,Neutral,"Stevenson, MD",-,43
+2009,Baruch,58,King (TN),30051,01/31/2009,1,3,Neutral,"Stevenson, MD",-2 Sets,0
+2009,Baruch,58,CCNY,480,02/03/2009,3,0,Home,,-,62
+2009,Baruch,58,Lehman,279,02/07/2009,3,0,Neutral,"Jamaica, NY",-,70
+2009,Baruch,58,York (NY),2730,02/07/2009,3,0,Away,,-,30
+2009,Baruch,58,Medgar Evers,403,02/07/2009,3,0,Neutral,"Jamaica, NY",-,40
+2009,Baruch,58,City Tech,8580,02/10/2009,3,0,Home,,-,38
+2009,Baruch,58,Brooklyn,79,02/12/2009,3,0,Home,,-,27
+2009,Baruch,58,Rivier,18422,02/14/2009,1,3,Neutral,"Beverly, MA",1 Sets,51
+2009,Baruch,58,SUNYIT,9500,02/14/2009,3,0,Neutral,"Beverly, MA",-,42
+2009,Baruch,58,Emmanuel (MA),215,02/15/2009,1,3,Neutral,"Beverly, MA",1 Sets,46
+2009,Baruch,58,MIT,398,02/15/2009,2,3,Neutral,"Beverly, MA",2 Sets,38
+2009,Baruch,58,Ramapo,564,02/17/2009,2,3,Home,,2 Sets,138
+2009,Baruch,58,York (NY),2730,02/19/2009,3,0,Home,,-,41
+2009,Baruch,58,Polytechnic (NY),481,02/19/2009,3,0,Home,,-,37
+2009,Baruch,58,CCNY,480,02/21/2009,3,0,Neutral,"New York, NY",-,44
+2009,Baruch,58,Hunter,292,02/21/2009,3,2,Away,,2 Sets,120
+2009,Baruch,58,New Haven,470,02/24/2009,3,0,Home,,-,25
+2009,Baruch,58,Medgar Evers,403,02/26/2009,3,0,Home,,-,27
+2009,Baruch,58,Stevens,679,02/27/2009,0,3,Home,,-,47
+2009,Baruch,58,Mt. St. Vincent,451,03/01/2009,3,0,Away,,-,25
+2009,Baruch,58,City Tech,8580,03/03/2009,3,0,Away,,-,25
+2009,Baruch,58,Brooklyn,79,03/07/2009,3,0,Away,,-,0
+2009,Baruch,58,Hunter,292,03/10/2009,3,1,Home,,1 Sets,327
+2009,Baruch,58,SUNY New Paltz,475,03/12/2009,3,1,Away,,1 Sets,235
+2009,Baruch,58,Lehman,279,03/17/2009,3,0,Home,,-,48
+2009,Baruch,58,Elms,532,03/21/2009,3,1,Away,,1 Sets,41
+2009,Baruch,58,Daniel Webster,2691,03/21/2009,3,0,Neutral,"Chicopee, MA",-,33
+2009,Baruch,58,Medgar Evers,403,03/24/2009,3,0,Home,,-,34
+2009,Baruch,58,York (NY),2730,03/27/2009,3,0,Home,,-,86
+2009,Baruch,58,Hunter,292,03/27/2009,3,1,Home,,1 Sets,0
+2009,Baruch,58,Medaille,23725,04/03/2009,3,0,Neutral,"Cambridge, MA",-,25
+2009,Baruch,58,Rivier,18422,04/04/2009,3,2,Neutral,"Cambridge, MA",2 Sets,0
+2009,Baruch,58,Stevens,679,04/04/2009,1,3,Neutral,"Cambridge, MA",1 Sets,75
+2009,Brooklyn,79,New Jersey City,319,01/29/2009,0,3,Away,,-,30
+2009,Brooklyn,79,Purchase St.,30029,02/02/2009,0,3,Away,,-,75
+2009,Brooklyn,79,City Tech,8580,02/03/2009,1,3,Home,,1 Sets,47
+2009,Brooklyn,79,Lehman,279,02/07/2009,3,0,Neutral,"Jamaica, NY",-,75
+2009,Brooklyn,79,CCNY,480,02/07/2009,1,3,Neutral,"Jamaica, NY",1 Sets,0
+2009,Brooklyn,79,Medgar Evers,403,02/10/2009,3,0,Away,,-,30
+2009,Brooklyn,79,Baruch,58,02/12/2009,0,3,Away,,-,27
+2009,Brooklyn,79,Bard,962,02/14/2009,1,3,Away,,1 Sets,50
+2009,Brooklyn,79,Phila. Biblical,1305,02/14/2009,0,3,Neutral,"Annandale, NY",-,30
+2009,Brooklyn,79,New Jersey City,319,02/17/2009,1,3,Home,,1 Sets,22
+2009,Brooklyn,79,Hunter,292,02/19/2009,0,3,Home,,-,46
+2009,Brooklyn,79,York (NY),2730,02/21/2009,0,3,Neutral,"New York, NY",-,55
+2009,Brooklyn,79,City Tech,8580,02/21/2009,0,3,Neutral,"New York, NY",-,10
+2009,Brooklyn,79,Lehman,279,02/26/2009,1,3,Away,,1 Sets,60
+2009,Brooklyn,79,Medgar Evers,403,03/03/2009,3,0,Home,,-,30
+2009,Brooklyn,79,Polytechnic (NY),481,03/05/2009,3,0,Away,,-,50
+2009,Brooklyn,79,Hunter,292,03/07/2009,3,0,Neutral,"New York, NY",-,0
+2009,Brooklyn,79,Baruch,58,03/07/2009,0,3,Home,,-,0
+2009,Brooklyn,79,York (NY),2730,03/10/2009,3,2,Away,,2 Sets,65
+2009,Brooklyn,79,St. Joseph's (Brkln),30072,03/12/2009,3,0,Home,,-,49
+2009,Brooklyn,79,CCNY,480,03/17/2009,2,3,Away,,2 Sets,50
+2009,Brooklyn,79,City Tech,8580,03/24/2009,1,3,Away,,1 Sets,0
+2009,BYU,77,Stanford,674,01/09/2009,0,3,Neutral,"Santa Barbara, CA",-,0
+2009,BYU,77,UC Irvine,109,01/09/2009,1,3,Neutral,"Santa Barbara, CA",1 Sets,0
+2009,BYU,77,Pacific,534,01/10/2009,3,0,Home,"Santa Barbara, CA",-,88
+2009,BYU,77,Cal Baptist,,01/15/2009,2,3,Home,,2 Sets,"2,703"
+2009,BYU,77,Lewis,354,01/17/2009,3,1,Home,,1 Sets,"2,729"
+2009,BYU,77,Hawaii,277,01/22/2009,3,1,Home,,1 Sets,"1,778"
+2009,BYU,77,Hawaii,277,01/23/2009,3,0,Home,,-,"2,836"
+2009,BYU,77,UC Santa Barbara,104,01/30/2009,2,3,Away,,2 Sets,315
+2009,BYU,77,UC Santa Barbara,104,01/31/2009,3,2,Away,,2 Sets,351
+2009,BYU,77,Southern California,657,02/06/2009,1,3,Away,,1 Sets,400
+2009,BYU,77,Southern California,657,02/07/2009,2,3,Away,,2 Sets,425
+2009,BYU,77,UC San Diego,112,02/20/2009,3,0,Home,,-,"2,320"
+2009,BYU,77,UC San Diego,112,02/21/2009,3,0,Home,,-,"2,142"
+2009,BYU,77,Pacific,534,02/27/2009,3,1,Away,,1 Sets,330
+2009,BYU,77,Pacific,534,02/28/2009,3,0,Away,,-,302
+2009,BYU,77,Cal St. Northridge,101,03/05/2009,0,3,Away,,-,515
+2009,BYU,77,Cal St. Northridge,101,03/06/2009,0,3,Away,,-,778
+2009,BYU,77,Penn St.,539,03/13/2009,3,2,Neutral,"Long Beach, CA",2 Sets,0
+2009,BYU,77,IPFW,308,03/14/2009,3,0,Neutral,"Long Beach, CA",-,0
+2009,BYU,77,Long Beach St.,99,03/20/2009,3,2,Home,,2 Sets,"2,273"
+2009,BYU,77,Long Beach St.,99,03/21/2009,3,2,Away,,2 Sets,"2,085"
+2009,BYU,77,UCLA,110,03/27/2009,1,3,Home,,1 Sets,"2,278"
+2009,BYU,77,UCLA,110,03/28/2009,3,1,Home,,1 Sets,"1,918"
+2009,BYU,77,UC Irvine,109,04/02/2009,3,1,Home,,1 Sets,"2,140"
+2009,BYU,77,UC Irvine,109,04/03/2009,1,3,Home,,1 Sets,"3,878"
+2009,BYU,77,Stanford,674,04/10/2009,3,2,Away,,2 Sets,"1,100"
+2009,BYU,77,Stanford,674,04/11/2009,0,3,Away,,-,860
+2009,BYU,77,Pepperdine,541,04/16/2009,1,3,Away,,1 Sets,"1,214"
+2009,BYU,77,Pepperdine,541,04/17/2009,3,1,Away,,1 Sets,"1,310"
+2009,BYU,77,Cal St. Northridge,101,04/25/2009,1,3,Away,,1 Sets,"1,056"
+2009,BYU,77,UCLA,110,01/07/2010,3,2,Neutral,Santa Barbara,2 Sets,150
+2009,BYU,77,UC Irvine,109,01/07/2010,3,1,Neutral,"Santa Barbara, Calif",1 Sets,0
+2009,BYU,77,CS Northridge,,01/08/2010,1,3,Neutral,"Santa Barbara, CA",1 Sets,210
+2009,BYU,77,Pacific,534,01/15/2010,3,0,Home,,-,"4,024"
+2009,BYU,77,Pacific,534,01/16/2010,3,0,Home,,-,"2,742"
+2009,BYU,77,Stanford,674,01/22/2010,3,1,Home,,1 Sets,"4,409"
+2009,BYU,77,Stanford,674,01/23/2010,1,3,Home,,1 Sets,"3,829"
+2009,BYU,77,UCLA,110,01/29/2010,0,3,Away,,-,"1,075"
+2009,BYU,77,UCLA,110,01/30/2010,3,2,Away,,2 Sets,"1,003"
+2009,BYU,77,UC Irvine,109,02/04/2010,3,2,Away,,2 Sets,"1,003"
+2009,BYU,77,UC Irvine,109,02/05/2010,0,3,Away,,-,"1,458"
+2009,BYU,77,UC San Diego,112,02/19/2010,3,1,Away,,1 Sets,229
+2009,BYU,77,UC San Diego,112,02/20/2010,3,0,Away,,-,469
+2009,BYU,77,Hawaii,277,02/26/2010,2,3,Away,,2 Sets,"3,631"
+2009,BYU,77,Hawaii,277,03/01/2010,0,3,Away,,-,"1,084"
+2009,BYU,77,Pepperdine,541,03/05/2010,3,1,Home,,1 Sets,"4,168"
+2009,BYU,77,Pepperdine,541,03/06/2010,0,3,Home,,-,"3,235"
+2009,BYU,77,Penn State,,03/12/2010,3,1,Neutral,"Long Beach, Calif.",1 Sets,0
+2009,BYU,77,ST. FRANCIS,,03/13/2010,3,1,Neutral,"Long Beach, Calif.",1 Sets,0
+2009,BYU,77,USC,,03/19/2010,3,1,Home,,1 Sets,"2,456"
+2009,BYU,77,USC,,03/20/2010,3,0,Home,,-,"1,104"
+2009,BYU,77,UC Santa Barbara,104,03/26/2010,3,1,Home,,1 Sets,"1,804"
+2009,BYU,77,UC Santa Barbara,104,03/27/2010,3,1,Home,,1 Sets,"1,394"
+2009,BYU,77,Long Beach State,,04/01/2010,3,1,Away,,1 Sets,586
+2009,BYU,77,Long Beach State,,04/02/2010,3,1,Away,,1 Sets,797
+2009,BYU,77,Cal Baptist,,04/09/2010,3,0,Home,,-,"1,418"
+2009,BYU,77,Cal Baptist,,04/10/2010,3,0,Home,,-,"1,229"
+2009,Cairn,1305,Lancaster Bible,30085,01/22/2009,3,0,Away,,-,200
+2009,Cairn,1305,Sacred Heart,590,01/23/2009,2,3,Neutral,"Ramapo, NJ",2 Sets,0
+2009,Cairn,1305,Rivier,18422,01/24/2009,0,3,Neutral,"Ramapo, NJ",-,10
+2009,Cairn,1305,Ramapo,564,01/24/2009,0,3,Away,,-,100
+2009,Cairn,1305,Baruch,58,01/29/2009,3,1,Home,,1 Sets,120
+2009,Cairn,1305,East. Mennonite,203,01/31/2009,1,3,Home,,1 Sets,150
+2009,Cairn,1305,Stevens,679,02/04/2009,0,3,Home,,-,70
+2009,Cairn,1305,Lancaster Bible,30085,02/05/2009,3,1,Home,,1 Sets,90
+2009,Cairn,1305,East. Mennonite,203,02/07/2009,3,1,Away,,1 Sets,360
+2009,Cairn,1305,Stevenson,21852,02/11/2009,3,0,Home,,-,80
+2009,Cairn,1305,Bard,962,02/14/2009,3,0,Away,,-,55
+2009,Cairn,1305,Brooklyn,79,02/14/2009,3,0,Neutral,"Annandale, NY",-,30
+2009,Cairn,1305,Hunter,292,02/17/2009,2,3,Home,,2 Sets,120
+2009,Cairn,1305,Vassar,737,02/20/2009,1,3,Away,,1 Sets,150
+2009,Cairn,1305,Elms,532,02/20/2009,3,0,Neutral,"Poughkeepsie, NY",-,50
+2009,Cairn,1305,Johnson & Wales (RI),22626,02/21/2009,3,0,Neutral,"Poughkeepsie, NY",-,16
+2009,Cairn,1305,Nazareth,461,02/21/2009,0,3,Neutral,"Poughkeepsie, NY",-,30
+2009,Cairn,1305,Polytechnic (NY),481,02/24/2009,3,0,Away,,-,20
+2009,Cairn,1305,CCNY,480,03/05/2009,3,0,Away,,-,40
+2009,Cairn,1305,SUNY New Paltz,475,03/06/2009,3,1,Home,,1 Sets,130
+2009,Cairn,1305,Stevenson,21852,03/07/2009,3,0,Away,,-,55
+2009,Cairn,1305,Lees-McRae,13302,03/07/2009,3,2,Neutral,"Stevenson, MD",2 Sets,50
+2009,Cairn,1305,SUNYIT,9500,03/09/2009,3,0,Home,,-,40
+2009,Cairn,1305,Carthage,121,03/11/2009,3,0,Away,,-,20
+2009,Cairn,1305,Nazareth,461,03/13/2009,1,3,Neutral,"Kenosha, WI",1 Sets,10
+2009,Cairn,1305,Milwaukee Engr.,20220,03/14/2009,3,0,Neutral,"Kenosha, WI",-,25
+2009,Cairn,1305,UC Santa Cruz,113,03/14/2009,0,3,Neutral,"Kenosha, WI",-,30
+2009,Cairn,1305,Ramapo,564,03/25/2009,3,0,Home,,-,90
+2009,Cairn,1305,D'Youville,1059,03/27/2009,3,0,Neutral,"Langhorne, PA",-,30
+2009,Cairn,1305,Nazareth,461,03/28/2009,0,3,Away,,-,89
+2009,Cairn,1305,East. Mennonite,203,03/28/2009,3,0,Neutral,"Rochester, NY",-,20
+2009,Cairn,1305,Newbury,21772,04/03/2009,3,1,Neutral,"Cambridge, MA",1 Sets,50
+2009,Cairn,1305,Nazareth,461,04/04/2009,0,3,Neutral,"Cambridge, MA",-,40
+2009,Carthage,121,Loyola Chicago,371,01/14/2009,0,3,Away,,-,755
+2009,Carthage,121,Endicott,8981,01/17/2009,1,3,Home,,1 Sets,250
+2009,Carthage,121,Medaille,23725,01/17/2009,3,0,Home,,-,250
+2009,Carthage,121,Rivier,18422,01/18/2009,3,2,Home,,2 Sets,100
+2009,Carthage,121,Baruch,58,01/18/2009,1,3,Home,,1 Sets,100
+2009,Carthage,121,Lewis,354,01/21/2009,0,3,Away,,-,342
+2009,Carthage,121,Fontbonne,11538,01/24/2009,3,0,Away,,-,50
+2009,Carthage,121,Lindenwood (MO),,01/24/2009,2,3,Away,,2 Sets,50
+2009,Carthage,121,Quincy,561,01/25/2009,0,3,Away,,-,127
+2009,Carthage,121,Clarke,1020,01/30/2009,0,3,Away,,-,50
+2009,Carthage,121,St. Ambrose,,01/31/2009,0,3,Away,,-,120
+2009,Carthage,121,Park,,01/31/2009,0,3,Neutral,"Davenport, IA",-,40
+2009,Carthage,121,Milwaukee Engr.,20220,02/03/2009,3,0,Home,,-,250
+2009,Carthage,121,Lewis,354,02/10/2009,0,3,Home,,-,100
+2009,Carthage,121,Vassar,737,02/13/2009,1,3,Neutral,"Rochester, NY",1 Sets,200
+2009,Carthage,121,Stevens,679,02/13/2009,0,3,Neutral,"Rochester, NY",-,150
+2009,Carthage,121,Nazareth,461,02/14/2009,0,3,Away,,-,200
+2009,Carthage,121,UC Santa Cruz,113,02/14/2009,1,3,Neutral,"Rochester, NY",1 Sets,150
+2009,Carthage,121,Ball St.,47,02/21/2009,0,3,Home,,-,475
+2009,Carthage,121,Cardinal Stritch,,02/24/2009,1,3,Home,,1 Sets,350
+2009,Carthage,121,Cardinal Stritch,,03/04/2009,1,3,Away,,1 Sets,175
+2009,Carthage,121,Lindenwood (MO),,03/06/2009,0,3,Home,,-,125
+2009,Carthage,121,Clarke,1020,03/11/2009,1,3,Home,,1 Sets,100
+2009,Carthage,121,UC Santa Cruz,113,03/13/2009,1,3,Home,,1 Sets,250
+2009,Carthage,121,Phila. Biblical,1305,03/13/2009,0,3,Home,,-,40
+2009,Carthage,121,New York U.,479,03/14/2009,1,3,Home,,1 Sets,200
+2009,Carthage,121,Nazareth,461,03/14/2009,1,3,Home,,1 Sets,100
+2009,Carthage,121,Ball St.,47,03/17/2009,0,3,Away,,-,429
+2009,Carthage,121,Milwaukee Engr.,20220,03/25/2009,3,2,Away,,2 Sets,52
+2009,Carthage,121,Quincy,561,03/27/2009,3,2,Home,,2 Sets,100
+2009,Carthage,121,Fontbonne,11538,03/28/2009,3,0,Home,,-,100
+2009,Carthage,121,St. Ambrose,,03/28/2009,0,3,Home,,-,100
+2009,Carthage,121,Milwaukee Engr.,20220,04/04/2009,3,0,Home,,-,250
+2009,CCNY,480,Stevenson,21852,01/23/2009,0,3,Away,,-,102
+2009,CCNY,480,Lancaster Bible,30085,01/23/2009,2,3,Away,,2 Sets,0
+2009,CCNY,480,Mt. St. Vincent,451,01/27/2009,0,3,Home,,-,75
+2009,CCNY,480,New Jersey City,319,01/30/2009,0,3,Away,,-,40
+2009,CCNY,480,Bard,962,02/01/2009,1,3,Away,,1 Sets,50
+2009,CCNY,480,Yeshiva,814,02/01/2009,3,2,Neutral,"Annandale-On-Hudson, NY",2 Sets,50
+2009,CCNY,480,Baruch,58,02/03/2009,0,3,Away,,-,62
+2009,CCNY,480,Ramapo,564,02/04/2009,0,3,Home,,-,50
+2009,CCNY,480,Brooklyn,79,02/07/2009,3,1,Neutral,"Jamaica, NY",1 Sets,0
+2009,CCNY,480,York (NY),2730,02/07/2009,2,3,Away,,2 Sets,50
+2009,CCNY,480,Hunter,292,02/10/2009,0,3,Home,,-,50
+2009,CCNY,480,City Tech,8580,02/12/2009,0,3,Home,,-,50
+2009,CCNY,480,Purchase St.,30029,02/14/2009,1,3,Away,,1 Sets,30
+2009,CCNY,480,D'Youville,1059,02/16/2009,0,3,Away,,-,50
+2009,CCNY,480,Medgar Evers,403,02/19/2009,3,0,Home,,-,50
+2009,CCNY,480,Lehman,279,02/21/2009,3,0,Neutral,"New York, NY",-,50
+2009,CCNY,480,Baruch,58,02/21/2009,0,3,Neutral,"New York, NY",-,44
+2009,CCNY,480,York (NY),2730,02/26/2009,2,3,Home,,2 Sets,35
+2009,CCNY,480,Hunter,292,03/03/2009,0,3,Away,,-,50
+2009,CCNY,480,Phila. Biblical,1305,03/05/2009,0,3,Home,,-,50
+2009,CCNY,480,City Tech,8580,03/07/2009,0,3,Away,,-,50
+2009,CCNY,480,Medgar Evers,403,03/07/2009,3,0,Away,,-,50
+2009,CCNY,480,Lehman,279,03/10/2009,3,2,Away,,2 Sets,50
+2009,CCNY,480,Polytechnic (NY),481,03/12/2009,3,0,Home,,-,50
+2009,CCNY,480,East. Mennonite,203,03/14/2009,0,3,Away,,-,117
+2009,CCNY,480,Medaille,23725,03/14/2009,0,3,Neutral,"Harrisonburg, VA",-,50
+2009,CCNY,480,Brooklyn,79,03/17/2009,3,2,Home,,2 Sets,50
+2009,CCNY,480,St. Joseph's (Brkln),30072,03/19/2009,3,0,Home,,-,50
+2009,CCNY,480,York (NY),2730,03/24/2009,0,3,Away,,-,55
+2009,City Tech,8580,Bard,962,01/24/2009,0,3,Neutral,"Brooklyn, NY",-,20
+2009,City Tech,8580,Medgar Evers,403,01/24/2009,3,0,Away,,-,0
+2009,City Tech,8580,Cooper Union,,01/30/2009,3,0,Away,,-,0
+2009,City Tech,8580,Brooklyn,79,02/03/2009,3,1,Away,,1 Sets,47
+2009,City Tech,8580,Hunter,292,02/07/2009,0,3,Neutral,"Jamaica, NY",-,0
+2009,City Tech,8580,York (NY),2730,02/07/2009,3,1,Away,,1 Sets,100
+2009,City Tech,8580,Baruch,58,02/10/2009,0,3,Away,,-,38
+2009,City Tech,8580,CCNY,480,02/12/2009,3,0,Away,,-,50
+2009,City Tech,8580,Purchase St.,30029,02/17/2009,3,1,Home,,1 Sets,20
+2009,City Tech,8580,Lehman,279,02/19/2009,3,0,Home,,-,20
+2009,City Tech,8580,Brooklyn,79,02/21/2009,3,0,Neutral,"New York, NY",-,10
+2009,City Tech,8580,Medgar Evers,403,02/21/2009,3,0,Neutral,"New York, NY",-,10
+2009,City Tech,8580,Hunter,292,02/28/2009,0,3,Home,,-,25
+2009,City Tech,8580,Baruch,58,03/03/2009,0,3,Home,,-,25
+2009,City Tech,8580,Lehman,279,03/07/2009,3,0,Neutral,"New York, NY",-,50
+2009,City Tech,8580,CCNY,480,03/07/2009,3,0,Home,,-,50
+2009,City Tech,8580,Medgar Evers,403,03/10/2009,3,0,Away,,-,50
+2009,City Tech,8580,Quincy,561,03/13/2009,1,3,Neutral,"Queens, NY",1 Sets,110
+2009,City Tech,8580,Stevenson,21852,03/14/2009,0,3,Neutral,"Queens, NY",-,0
+2009,City Tech,8580,SUNYIT,9500,03/14/2009,3,1,Neutral,"Queens, NY",1 Sets,50
+2009,City Tech,8580,King (TN),30051,03/14/2009,0,3,Neutral,"Queens, NY",-,0
+2009,City Tech,8580,York (NY),2730,03/17/2009,3,1,Home,,1 Sets,20
+2009,City Tech,8580,St. Joseph's (Brkln),30072,03/20/2009,3,0,Away,,-,15
+2009,City Tech,8580,Brooklyn,79,03/24/2009,3,1,Home,,1 Sets,0
+2009,City Tech,8580,Hunter,292,03/27/2009,0,3,Neutral,"New York, NY",-,200
+2009,CSUN,101,UCLA,110,01/09/2009,3,1,Neutral,"Santa Barbara, CA",1 Sets,100
+2009,CSUN,101,UC Santa Barbara,104,01/09/2009,3,1,Away,,1 Sets,218
+2009,CSUN,101,Stanford,674,01/10/2009,3,1,Neutral,"Santa Barbara, CA",1 Sets,197
+2009,CSUN,101,UCLA,110,01/14/2009,3,0,Away,,-,625
+2009,CSUN,101,UC Irvine,109,01/16/2009,3,1,Away,,1 Sets,678
+2009,CSUN,101,UC Santa Barbara,104,01/23/2009,3,0,Home,,-,502
+2009,CSUN,101,Hawaii,277,01/30/2009,2,3,Away,,2 Sets,"2,346"
+2009,CSUN,101,Hawaii,277,01/31/2009,1,3,Away,,1 Sets,"2,395"
+2009,CSUN,101,Long Beach St.,99,02/06/2009,3,0,Home,,-,892
+2009,CSUN,101,UC San Diego,112,02/07/2009,3,0,Home,,-,410
+2009,CSUN,101,Cal Baptist,,02/13/2009,3,0,Home,,-,243
+2009,CSUN,101,Pacific,534,02/19/2009,3,0,Home,,-,306
+2009,CSUN,101,Stanford,674,02/20/2009,3,1,Home,,1 Sets,824
+2009,CSUN,101,Pepperdine,541,02/25/2009,3,2,Away,,2 Sets,724
+2009,CSUN,101,Southern California,657,02/28/2009,3,0,Away,,-,500
+2009,CSUN,101,BYU,77,03/05/2009,3,0,Home,,-,515
+2009,CSUN,101,BYU,77,03/06/2009,3,0,Home,,-,778
+2009,CSUN,101,UCLA,110,03/11/2009,3,1,Home,,1 Sets,"1,032"
+2009,CSUN,101,UC Irvine,109,03/13/2009,2,3,Home,,2 Sets,"1,197"
+2009,CSUN,101,NJIT,471,03/17/2009,3,0,Home,,-,128
+2009,CSUN,101,Lees-McRae,13302,03/18/2009,3,0,Home,,-,112
+2009,CSUN,101,Hope Int'l,,03/21/2009,3,0,Home,,-,242
+2009,CSUN,101,Stanford,674,03/27/2009,1,3,Away,,1 Sets,471
+2009,CSUN,101,Pacific,534,03/28/2009,3,0,Away,,-,127
+2009,CSUN,101,Pepperdine,541,04/01/2009,2,3,Home,,2 Sets,"1,455"
+2009,CSUN,101,Southern California,657,04/03/2009,3,1,Home,,1 Sets,"1,303"
+2009,CSUN,101,UC San Diego,112,04/10/2009,3,1,Away,,1 Sets,292
+2009,CSUN,101,Long Beach St.,99,04/11/2009,1,3,Away,,1 Sets,805
+2009,CSUN,101,UC Santa Barbara,104,04/17/2009,3,0,Away,,-,358
+2009,CSUN,101,BYU,77,04/25/2009,3,1,Home,,1 Sets,"1,056"
+2009,CSUN,101,Pepperdine,541,04/30/2009,1,3,Neutral,,1 Sets,0
+2009,CSUN,101,UC Santa Barbara,104,01/07/2010,3,1,Away,,1 Sets,136
+2009,CSUN,101,Cal Baptist,,01/07/2010,3,1,Neutral,"Santa Barbara, Calif",1 Sets,100
+2009,CSUN,101,BYU,77,01/08/2010,3,1,Neutral,"Santa Barbara, CA",1 Sets,210
+2009,CSUN,101,UC San Diego,112,01/13/2010,3,0,Home,,-,314
+2009,CSUN,101,Long Beach State,,01/15/2010,3,0,Away,,-,712
+2009,CSUN,101,UC Irvine,109,01/20/2010,3,1,Home,,1 Sets,468
+2009,CSUN,101,UCLA,110,01/22/2010,0,3,Home,,-,692
+2009,CSUN,101,Stanford,674,01/29/2010,3,2,Away,,2 Sets,611
+2009,CSUN,101,Pacific,534,01/30/2010,3,0,Away,,-,205
+2009,CSUN,101,USC,,02/03/2010,3,2,Home,,2 Sets,"1,475"
+2009,CSUN,101,Pepperdine,541,02/05/2010,1,3,Home,,1 Sets,"1,329"
+2009,CSUN,101,Long Beach State,,02/11/2010,3,0,Home,,-,652
+2009,CSUN,101,UC San Diego,112,02/12/2010,3,0,Away,,-,109
+2009,CSUN,101,UC Irvine,109,02/17/2010,1,3,Away,,1 Sets,812
+2009,CSUN,101,UCLA,110,02/19/2010,2,3,Away,,2 Sets,923
+2009,CSUN,101,USC,,02/24/2010,3,1,Away,,1 Sets,500
+2009,CSUN,101,Pepperdine,541,02/26/2010,1,3,Away,,1 Sets,"1,115"
+2009,CSUN,101,Hawaii,277,03/05/2010,3,2,Home,,2 Sets,448
+2009,CSUN,101,Hawaii,277,03/06/2010,0,3,Home,,-,532
+2009,CSUN,101,UC Santa Barbara,104,03/10/2010,3,0,Away,,-,151
+2009,CSUN,101,LOYOLA-CHICAGO,,03/13/2010,3,0,Home,,-,415
+2009,CSUN,101,Ball State,,03/26/2010,3,0,Away,,-,"1,486"
+2009,CSUN,101,Ball State,,03/27/2010,0,3,Away,,-,759
+2009,CSUN,101,Stanford,674,04/02/2010,3,1,Home,,1 Sets,956
+2009,CSUN,101,Pacific,534,04/03/2010,3,0,Home,,-,288
+2009,CSUN,101,UC Santa Barbara,104,04/07/2010,3,2,Home,,2 Sets,377
+2009,CSUN,101,Penn State,,04/10/2010,3,0,Home,,-,"1,042"
+2009,D'Youville,1059,Baruch,58,01/24/2009,0,3,Neutral,"Utica, NY",-,35
+2009,D'Youville,1059,SUNYIT,9500,01/24/2009,3,1,Away,,1 Sets,35
+2009,D'Youville,1059,Nazareth,461,01/29/2009,0,3,Away,,-,0
+2009,D'Youville,1059,Lancaster Bible,30085,01/30/2009,3,1,Neutral,"Hamburg, NY",-2 Sets,0
+2009,D'Youville,1059,Hilbert,8398,01/31/2009,3,0,Away,,-,72
+2009,D'Youville,1059,Hunter,292,02/01/2009,0,3,Home,,-,75
+2009,D'Youville,1059,Hilbert,8398,02/10/2009,3,0,Away,,-,67
+2009,D'Youville,1059,Medaille,23725,02/12/2009,0,3,Home,,-,135
+2009,D'Youville,1059,Stevenson,21852,02/14/2009,0,3,Home,,-,85
+2009,D'Youville,1059,Polytechnic (NY),481,02/15/2009,3,0,Away,,-,50
+2009,D'Youville,1059,CCNY,480,02/16/2009,3,0,Home,,-,40
+2009,D'Youville,1059,York (NY),2730,02/16/2009,3,0,Away,,-,50
+2009,D'Youville,1059,Lancaster Bible,30085,02/20/2009,2,3,Home,,2 Sets,85
+2009,D'Youville,1059,SUNYIT,9500,02/20/2009,3,0,Home,,-,125
+2009,D'Youville,1059,Nazareth,461,02/25/2009,0,3,Home,,-,105
+2009,D'Youville,1059,Medaille,23725,03/04/2009,0,3,Away,,-,40
+2009,D'Youville,1059,Quincy,561,03/07/2009,1,3,Neutral,"Rochester, NY",1 Sets,75
+2009,D'Youville,1059,Ramapo,564,03/07/2009,0,3,Home,,-,75
+2009,D'Youville,1059,Milwaukee Engr.,20220,03/08/2009,0,3,Neutral,"Rochester, NY",-,50
+2009,D'Youville,1059,Hilbert,8398,03/12/2009,3,0,Home,,-,111
+2009,D'Youville,1059,East. Mennonite,203,03/20/2009,1,3,Away,,1 Sets,194
+2009,D'Youville,1059,East. Mennonite,203,03/21/2009,2,3,Away,,2 Sets,187
+2009,D'Youville,1059,Phila. Biblical,1305,03/27/2009,0,3,Neutral,"Langhorne, PA",-,30
+2009,D'Youville,1059,Stevenson,21852,03/28/2009,0,3,Neutral,"Rochester, NY",-,0
+2009,Daniel Webster,2691,Wentworth Inst.,762,01/31/2009,1,3,Home,,1 Sets,50
+2009,Daniel Webster,2691,Southern Vt.,1379,01/31/2009,3,0,Home,,-,25
+2009,Daniel Webster,2691,Lesley,24317,02/04/2009,3,0,Home,,-,50
+2009,Daniel Webster,2691,Endicott,8981,02/06/2009,0,3,Home,,-,30
+2009,Daniel Webster,2691,MIT,398,02/10/2009,0,3,Away,,-,15
+2009,Daniel Webster,2691,Mount Ida,27901,02/13/2009,3,1,Away,,1 Sets,50
+2009,Daniel Webster,2691,Lasell,8486,02/16/2009,0,3,Away,,-,72
+2009,Daniel Webster,2691,Wentworth Inst.,762,02/19/2009,0,3,Away,,-,75
+2009,Daniel Webster,2691,MIT,398,02/26/2009,0,2,Home,,-,25
+2009,Daniel Webster,2691,Newbury,21772,03/03/2009,0,3,Away,,-,98
+2009,Daniel Webster,2691,Endicott,8981,03/05/2009,0,3,Away,,-,34
+2009,Daniel Webster,2691,Elms,532,03/07/2009,0,3,Home,,-,25
+2009,Daniel Webster,2691,Newbury,21772,03/19/2009,1,3,Home,,1 Sets,50
+2009,Daniel Webster,2691,Elms,532,03/21/2009,0,3,Away,,-,40
+2009,Daniel Webster,2691,Baruch,58,03/21/2009,0,3,Neutral,"Chicopee, MA",-,33
+2009,Daniel Webster,2691,Lesley,24317,03/24/2009,3,0,Away,,-,50
+2009,Daniel Webster,2691,Southern Vt.,1379,03/25/2009,3,0,Away,,-,48
+2009,Daniel Webster,2691,Elms,532,03/28/2009,0,3,Neutral,"Brookline, MA",-,44
+2009,East Stroudsburg,197,NJIT,471,01/23/2009,1,3,Away,,1 Sets,580
+2009,East Stroudsburg,197,Rutgers-Newark,589,01/30/2009,0,3,Away,,-,180
+2009,East Stroudsburg,197,NJIT,471,01/31/2009,1,3,Neutral,"Newark, NJ",1 Sets,167
+2009,East Stroudsburg,197,Springfield,673,02/06/2009,3,0,Away,,-,176
+2009,East Stroudsburg,197,Harvard,275,02/07/2009,2,3,Away,,2 Sets,84
+2009,East Stroudsburg,197,Rutgers-Newark,589,02/11/2009,1,3,Home,,1 Sets,175
+2009,East Stroudsburg,197,Harvard,275,02/14/2009,3,0,Home,,-,150
+2009,East Stroudsburg,197,Sacred Heart,590,02/22/2009,3,2,Away,,2 Sets,218
+2009,East Stroudsburg,197,Quincy,561,03/11/2009,1,3,Home,,1 Sets,110
+2009,East Stroudsburg,197,King (TN),30051,03/12/2009,3,0,Home,,-,135
+2009,East Stroudsburg,197,Harvard,275,03/14/2009,0,3,Home,,-,75
+2009,East Stroudsburg,197,Mount Olive,1245,03/21/2009,3,2,Home,,2 Sets,75
+2009,East Stroudsburg,197,SUNY New Paltz,475,03/27/2009,3,0,Home,,-,85
+2009,East Stroudsburg,197,Mount Olive,1245,03/29/2009,3,2,Home,,2 Sets,95
+2009,East Stroudsburg,197,NJIT,471,03/31/2009,3,0,Home,,-,115
+2009,East Stroudsburg,197,New York U.,479,04/02/2009,2,3,Away,,2 Sets,586
+2009,East Stroudsburg,197,Juniata,325,04/08/2009,1,3,Neutral,"Landisville, PA",1 Sets,675
+2009,East Stroudsburg,197,New York U.,479,04/17/2009,3,0,Home,,-,100
+2009,East Stroudsburg,197,Sacred Heart,590,04/18/2009,3,0,Home,,-,175
+2009,East. Mennonite,203,Emmanuel (MA),215,01/16/2009,3,2,Neutral,"New Paltz, NY",2 Sets,0
+2009,East. Mennonite,203,Elms,532,01/16/2009,3,0,Neutral,"New Paltz, NY",-,0
+2009,East. Mennonite,203,Sacred Heart,590,01/17/2009,0,3,Neutral,"New Paltz, NY",-,0
+2009,East. Mennonite,203,Mount Olive,1245,01/23/2009,3,2,Home,,2 Sets,539
+2009,East. Mennonite,203,King (TN),30051,01/28/2009,2,3,Home,,2 Sets,275
+2009,East. Mennonite,203,Phila. Biblical,1305,01/31/2009,3,1,Away,,1 Sets,0
+2009,East. Mennonite,203,Stevenson,21852,02/03/2009,3,0,Away,,-,56
+2009,East. Mennonite,203,Mount Olive,1245,02/05/2009,1,3,Away,,1 Sets,0
+2009,East. Mennonite,203,Phila. Biblical,1305,02/07/2009,1,3,Home,,1 Sets,360
+2009,East. Mennonite,203,Lancaster Bible,30085,02/10/2009,3,0,Away,,-,0
+2009,East. Mennonite,203,Medaille,23725,02/13/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,East. Mennonite,203,Stevens,679,02/13/2009,0,3,Neutral,"Rochester, NY",-,50
+2009,East. Mennonite,203,Vassar,737,02/14/2009,1,3,Neutral,"Rochester, NY",1 Sets,0
+2009,East. Mennonite,203,Nazareth,461,02/14/2009,0,3,Away,,-,0
+2009,East. Mennonite,203,Stevenson,21852,02/16/2009,3,1,Home,,1 Sets,240
+2009,East. Mennonite,203,King (TN),30051,02/20/2009,2,3,Away,,2 Sets,50
+2009,East. Mennonite,203,Grand Canyon,1104,02/21/2009,2,3,Neutral,"Bristol, TN",2 Sets,50
+2009,East. Mennonite,203,Lees-McRae,13302,02/21/2009,0,3,Neutral,"Bristol, TN",-,50
+2009,East. Mennonite,203,Lancaster Bible,30085,02/25/2009,3,0,Home,,-,117
+2009,East. Mennonite,203,Mount Olive,1245,02/27/2009,1,3,Away,,1 Sets,0
+2009,East. Mennonite,203,York (NY),2730,02/27/2009,3,0,Neutral,"Mount Olive, NC",-,0
+2009,East. Mennonite,203,Lees-McRae,13302,02/28/2009,1,3,Neutral,"Mount Olive, NC",1 Sets,0
+2009,East. Mennonite,203,Warner,,03/05/2009,0,3,Away,,-,56
+2009,East. Mennonite,203,Warner,,03/07/2009,2,3,Neutral,"Lake Sumter, FL",2 Sets,0
+2009,East. Mennonite,203,Lees-McRae,13302,03/11/2009,2,3,Home,,2 Sets,217
+2009,East. Mennonite,203,CCNY,480,03/14/2009,3,0,Home,,-,117
+2009,East. Mennonite,203,Medaille,23725,03/14/2009,3,2,Home,,2 Sets,117
+2009,East. Mennonite,203,D'Youville,1059,03/20/2009,3,1,Home,,1 Sets,194
+2009,East. Mennonite,203,D'Youville,1059,03/21/2009,3,2,Home,,2 Sets,187
+2009,East. Mennonite,203,Medaille,23725,03/28/2009,0,3,Neutral,"Rochester, NY",-,0
+2009,East. Mennonite,203,Phila. Biblical,1305,03/28/2009,0,3,Neutral,"Rochester, NY",-,20
+2009,East. Mennonite,203,Stevens,679,04/13/2009,0,3,Neutral,"Cambridge, MA",-,75
+2009,Elms,532,Emmanuel (MA),215,01/16/2009,1,3,Neutral,"New Paltz, NY",1 Sets,0
+2009,Elms,532,East. Mennonite,203,01/16/2009,0,3,Neutral,"New Paltz, NY",-,0
+2009,Elms,532,MIT,398,01/17/2009,0,3,Neutral,"New Paltz, NY",-,0
+2009,Elms,532,Mount Ida,27901,01/19/2009,3,0,Away,,-,0
+2009,Elms,532,Lesley,24317,01/20/2009,3,0,Home,,-,0
+2009,Elms,532,Endicott,8981,01/22/2009,1,3,Home,,1 Sets,105
+2009,Elms,532,Springfield,673,01/29/2009,0,3,Away,,-,190
+2009,Elms,532,Newbury,21772,01/31/2009,1,3,Home,,1 Sets,222
+2009,Elms,532,Rivier,18422,02/04/2009,0,3,Away,,-,0
+2009,Elms,532,MIT,398,02/07/2009,3,0,Home,,-,66
+2009,Elms,532,Lesley,24317,02/10/2009,3,0,Away,,-,35
+2009,Elms,532,Lasell,8486,02/14/2009,3,0,Home,,-,49
+2009,Elms,532,Wentworth Inst.,762,02/14/2009,3,0,Home,,-,59
+2009,Elms,532,Southern Vt.,1379,02/16/2009,3,0,Home,,-,47
+2009,Elms,532,Nazareth,461,02/20/2009,0,3,Neutral,"Poughkeepsie, NY",-,88
+2009,Elms,532,Phila. Biblical,1305,02/20/2009,0,3,Neutral,"Poughkeepsie, NY",-,50
+2009,Elms,532,Johnson & Wales (RI),22626,02/21/2009,3,0,Neutral,"Poughkeepsie, NY",-,50
+2009,Elms,532,Vassar,737,02/21/2009,2,3,Away,,2 Sets,150
+2009,Elms,532,Newbury,21772,02/26/2009,3,1,Away,,1 Sets,29
+2009,Elms,532,Emerson,214,02/28/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Elms,532,MIT,398,02/28/2009,1,3,Away,,1 Sets,0
+2009,Elms,532,Daniel Webster,2691,03/07/2009,3,0,Away,,-,25
+2009,Elms,532,New Haven,470,03/10/2009,3,0,Away,,-,145
+2009,Elms,532,Endicott,8981,03/12/2009,3,1,Away,,1 Sets,52
+2009,Elms,532,Southern Vt.,1379,03/18/2009,3,0,Away,,-,44
+2009,Elms,532,Daniel Webster,2691,03/21/2009,3,0,Home,,-,40
+2009,Elms,532,Baruch,58,03/21/2009,1,3,Home,,1 Sets,41
+2009,Elms,532,Wentworth Inst.,762,03/24/2009,3,0,Away,,-,0
+2009,Elms,532,Daniel Webster,2691,03/28/2009,3,0,Neutral,"Brookline, MA",-,44
+2009,Elms,532,Newbury,21772,03/28/2009,3,1,Away,,1 Sets,61
+2009,Elms,532,Johnson & Wales (RI),22626,03/31/2009,3,0,Home,,-,60
+2009,Elms,532,Ramapo,564,04/03/2009,1,3,Neutral,"Cambridge, MA",1 Sets,150
+2009,Elms,532,Newbury,21772,04/11/2009,3,2,Home,,2 Sets,43
+2009,Emerson,214,Emmanuel (MA),215,01/22/2009,0,3,Away,,-,0
+2009,Emerson,214,Johnson & Wales (RI),22626,01/31/2009,0,3,Home,,-,157
+2009,Emerson,214,Albertus Magnus,2798,01/31/2009,3,0,Home,,-,60
+2009,Emerson,214,Mount Ida,27901,02/04/2009,2,3,Away,,2 Sets,0
+2009,Emerson,214,Lasell,8486,02/06/2009,0,3,Home,,-,76
+2009,Emerson,214,Newbury,21772,02/12/2009,0,3,Away,,-,37
+2009,Emerson,214,Rivier,18422,02/17/2009,0,3,Away,,-,0
+2009,Emerson,214,Wentworth Inst.,762,02/21/2009,0,3,Away,,-,0
+2009,Emerson,214,Lesley,24317,02/21/2009,3,0,Neutral,"Boston, MA",-,0
+2009,Emerson,214,Rivier,18422,02/23/2009,0,3,Home,,-,58
+2009,Emerson,214,Elms,532,02/28/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Emerson,214,MIT,398,02/28/2009,0,3,Away,,-,0
+2009,Emerson,214,Mount Ida,27901,03/03/2009,0,3,Home,,-,41
+2009,Emerson,214,Albertus Magnus,2798,03/14/2009,3,0,Away,,-,0
+2009,Emerson,214,Johnson & Wales (RI),22626,03/14/2009,0,3,Away,,-,50
+2009,Emerson,214,Lesley,24317,03/18/2009,3,0,Home,,-,27
+2009,Emerson,214,Emmanuel (MA),215,03/24/2009,0,3,Home,,-,0
+2009,Emerson,214,Lasell,8486,03/27/2009,0,3,Away,,-,0
+2009,Emmanuel (MA),215,East. Mennonite,203,01/16/2009,2,3,Neutral,"New Paltz, NY",2 Sets,0
+2009,Emmanuel (MA),215,Elms,532,01/16/2009,3,1,Neutral,"New Paltz, NY",1 Sets,0
+2009,Emmanuel (MA),215,SUNY New Paltz,475,01/17/2009,2,3,Away,,2 Sets,0
+2009,Emmanuel (MA),215,Emerson,214,01/22/2009,3,0,Home,,-,100
+2009,Emmanuel (MA),215,Mount Ida,27901,01/24/2009,3,1,Neutral,"Brookline, MA",1 Sets,0
+2009,Emmanuel (MA),215,Newbury,21772,01/24/2009,2,3,Away,,2 Sets,86
+2009,Emmanuel (MA),215,Johnson & Wales (RI),22626,01/28/2009,3,0,Away,,-,50
+2009,Emmanuel (MA),215,Lasell,8486,02/03/2009,3,1,Away,,1 Sets,0
+2009,Emmanuel (MA),215,Rivier,18422,02/06/2009,0,3,Away,,-,82
+2009,Emmanuel (MA),215,Albertus Magnus,2798,02/11/2009,3,0,Home,,-,60
+2009,Emmanuel (MA),215,New Jersey City,319,02/14/2009,2,3,Neutral,"Beverly, MA",2 Sets,28
+2009,Emmanuel (MA),215,Ramapo,564,02/14/2009,1,3,Neutral,"Beverly, MA",1 Sets,0
+2009,Emmanuel (MA),215,Hunter,292,02/15/2009,3,0,Neutral,"Beverly, MA",-,0
+2009,Emmanuel (MA),215,Baruch,58,02/15/2009,3,1,Neutral,"Beverly, MA",1 Sets,0
+2009,Emmanuel (MA),215,Endicott,8981,02/21/2009,1,3,Home,,1 Sets,0
+2009,Emmanuel (MA),215,Lasell,8486,02/21/2009,2,3,Home,,2 Sets,0
+2009,Emmanuel (MA),215,Mount Ida,27901,02/25/2009,3,0,Away,,-,0
+2009,Emmanuel (MA),215,Rivier,18422,03/03/2009,0,3,Home,,-,0
+2009,Emmanuel (MA),215,Albertus Magnus,2798,03/05/2009,3,0,Away,,-,0
+2009,Emmanuel (MA),215,Hilbert,8398,03/07/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Emmanuel (MA),215,Mt. St. Vincent,451,03/07/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Emmanuel (MA),215,New Haven,470,03/08/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Emmanuel (MA),215,Bard,962,03/08/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Emmanuel (MA),215,Newbury,21772,03/17/2009,3,0,Home,,-,100
+2009,Emmanuel (MA),215,MIT,398,03/19/2009,2,3,Away,,2 Sets,0
+2009,Emmanuel (MA),215,SUNY New Paltz,475,03/21/2009,2,3,Home,,2 Sets,0
+2009,Emmanuel (MA),215,Johnson & Wales (RI),22626,03/21/2009,3,0,Home,,-,0
+2009,Emmanuel (MA),215,Emerson,214,03/24/2009,3,0,Away,,-,0
+2009,Emmanuel (MA),215,Rivier,18422,03/28/2009,0,3,Away,,-,0
+2009,Emmanuel (MA),215,Lasell,8486,03/28/2009,3,0,Neutral,"Nashua, NH",-,0
+2009,Emmanuel (MA),215,Wentworth Inst.,762,03/31/2009,3,1,Home,,1 Sets,100
+2009,Emmanuel (MA),215,Nazareth,461,04/03/2009,0,3,Neutral,"Cambridge, MA",-,120
+2009,Endicott,8981,Baruch,58,01/17/2009,0,3,Neutral,"Milwaukee, WI",-,42
+2009,Endicott,8981,Carthage,121,01/17/2009,3,1,Away,,1 Sets,250
+2009,Endicott,8981,Milwaukee Engr.,20220,01/18/2009,0,3,Away,,-,83
+2009,Endicott,8981,Medaille,23725,01/18/2009,1,3,Neutral,"Milwaukee, WI",1 Sets,54
+2009,Endicott,8981,Elms,532,01/22/2009,3,1,Away,,1 Sets,105
+2009,Endicott,8981,Wentworth Inst.,762,01/24/2009,3,0,Home,,-,70
+2009,Endicott,8981,MIT,398,01/27/2009,3,1,Away,,1 Sets,110
+2009,Endicott,8981,Lesley,24317,01/29/2009,3,0,Home,,-,82
+2009,Endicott,8981,Stevens,679,01/30/2009,0,3,Home,,-,100
+2009,Endicott,8981,Sacred Heart,590,01/31/2009,0,3,Home,,-,105
+2009,Endicott,8981,Southern Vt.,1379,02/03/2009,3,0,Home,,-,28
+2009,Endicott,8981,Daniel Webster,2691,02/06/2009,3,0,Away,,-,75
+2009,Endicott,8981,Wentworth Inst.,762,02/10/2009,3,0,Away,,-,60
+2009,Endicott,8981,New Haven,470,02/12/2009,3,0,Away,,-,102
+2009,Endicott,8981,New Jersey City,319,02/14/2009,3,0,Home,,-,50
+2009,Endicott,8981,Hunter,292,02/14/2009,3,1,Home,,1 Sets,47
+2009,Endicott,8981,SUNYIT,9500,02/15/2009,3,0,Home,,-,55
+2009,Endicott,8981,Ramapo,564,02/15/2009,2,3,Home,,2 Sets,101
+2009,Endicott,8981,Springfield,673,02/17/2009,0,3,Away,,-,145
+2009,Endicott,8981,Newbury,21772,02/19/2009,3,0,Home,,-,89
+2009,Endicott,8981,Emmanuel (MA),215,02/21/2009,3,1,Away,,1 Sets,104
+2009,Endicott,8981,Lasell,8486,02/21/2009,3,0,Neutral,"Boston, MA",-,73
+2009,Endicott,8981,Lesley,24317,02/23/2009,3,0,Away,,-,30
+2009,Endicott,8981,Southern Vt.,1379,02/25/2009,3,0,Away,,-,65
+2009,Endicott,8981,MIT,398,03/03/2009,3,0,Home,,-,74
+2009,Endicott,8981,Daniel Webster,2691,03/05/2009,3,0,Home,,-,34
+2009,Endicott,8981,Harvard,275,03/10/2009,0,3,Away,,-,82
+2009,Endicott,8981,Elms,532,03/12/2009,1,3,Home,,1 Sets,52
+2009,Endicott,8981,Newbury,21772,03/24/2009,1,3,Away,,1 Sets,64
+2009,Endicott,8981,Rivier,18422,03/26/2009,2,3,Home,,2 Sets,178
+2009,Endicott,8981,Vassar,737,03/28/2009,3,0,Away,,-,125
+2009,Endicott,8981,New Haven,470,04/01/2009,3,0,Home,,-,118
+2009,Endicott,8981,SUNY New Paltz,475,04/03/2009,3,0,Neutral,"Cambridge, MA",-,80
+2009,Endicott,8981,Stevens,679,04/04/2009,1,3,Neutral,"Cambridge, MA",1 Sets,100
+2009,Endicott,8981,Newbury,21772,04/11/2009,0,3,Neutral,"Chicopee, MA",-,43
+2009,Fontbonne,11538,Hannibal-La Grange,,01/20/2009,0,3,Home,,-,0
+2009,Fontbonne,11538,Carthage,121,01/24/2009,0,3,Home,,-,50
+2009,Fontbonne,11538,Quincy,561,01/25/2009,0,3,Away,,-,103
+2009,Fontbonne,11538,Quincy,561,01/29/2009,1,3,Home,,1 Sets,0
+2009,Fontbonne,11538,Milwaukee Engr.,20220,01/31/2009,0,3,Home,,-,78
+2009,Fontbonne,11538,Warner,,02/08/2009,1,3,Home,,1 Sets,0
+2009,Fontbonne,11538,Warner,,02/08/2009,0,3,Home,,-,0
+2009,Fontbonne,11538,Mo. Baptist,,02/09/2009,1,3,Away,,1 Sets,0
+2009,Fontbonne,11538,Park,,02/14/2009,0,3,Away,,-,0
+2009,Fontbonne,11538,Lees-McRae,13302,03/20/2009,0,3,Neutral,"Lake Wales, FL",-,0
+2009,Fontbonne,11538,Grand Canyon,1104,03/21/2009,0,3,Neutral,"Lake Wales, FL",-,0
+2009,George Mason,248,New York U.,479,01/15/2009,3,0,Home,,-,137
+2009,George Mason,248,Loyola Chicago,371,01/23/2009,2,3,Home,,2 Sets,396
+2009,George Mason,248,IPFW,308,01/24/2009,3,0,Home,,-,265
+2009,George Mason,248,Ball St.,47,02/05/2009,3,0,Away,,-,706
+2009,George Mason,248,Ohio St.,518,02/06/2009,3,2,Away,,2 Sets,697
+2009,George Mason,248,Springfield,673,02/13/2009,3,0,Away,,-,750
+2009,George Mason,248,UC San Diego,112,02/14/2009,0,3,Neutral,"Springfield, MA",-,500
+2009,George Mason,248,Juniata,325,02/19/2009,1,3,Home,,1 Sets,307
+2009,George Mason,248,NJIT,471,02/21/2009,3,0,Away,,-,108
+2009,George Mason,248,Saint Francis (PA),600,02/27/2009,1,3,Home,,1 Sets,323
+2009,George Mason,248,Rutgers-Newark,589,02/28/2009,3,0,Home,,-,315
+2009,George Mason,248,Penn St.,539,03/06/2009,0,3,Away,,-,511
+2009,George Mason,248,Princeton,554,03/07/2009,3,1,Away,,1 Sets,105
+2009,George Mason,248,UC Santa Barbara,104,03/11/2009,2,3,Away,,2 Sets,128
+2009,George Mason,248,Cal Baptist,,03/12/2009,0,3,Away,,-,104
+2009,George Mason,248,Pepperdine,541,03/14/2009,0,3,Away,,-,676
+2009,George Mason,248,Ohio St.,518,03/20/2009,3,1,Home,,1 Sets,510
+2009,George Mason,248,Ball St.,47,03/21/2009,2,3,Home,,2 Sets,482
+2009,George Mason,248,Lewis,354,03/26/2009,0,3,Away,,-,479
+2009,George Mason,248,Loyola Chicago,371,03/27/2009,0,3,Away,,-,279
+2009,George Mason,248,IPFW,308,03/28/2009,3,1,Away,,1 Sets,396
+2009,George Mason,248,Juniata,325,04/04/2009,1,3,Away,,1 Sets,620
+2009,George Mason,248,Saint Francis (PA),600,04/05/2009,0,3,Away,,-,200
+2009,George Mason,248,Springfield,673,04/10/2009,3,2,Home,,2 Sets,187
+2009,George Mason,248,Penn St.,539,04/11/2009,0,3,Home,,-,"1,178"
+2009,George Mason,248,Princeton,554,04/17/2009,1,3,Home,,1 Sets,194
+2009,George Mason,248,NJIT,471,04/18/2009,3,0,Home,,-,0
+2009,George Mason,248,Harvard,275,04/22/2009,3,1,Home,,1 Sets,96
+2009,George Mason,248,Springfield,673,04/25/2009,3,1,Away,,1 Sets,454
+2009,George Mason,248,Penn St.,539,04/30/2009,0,3,Away,,-,"1,011"
+2009,George Mason,248,Lees-McRae,13302,01/23/2010,3,0,Home,,-,281
+2009,George Mason,248,Ohio State,,01/28/2010,0,3,Away,,-,294
+2009,George Mason,248,Ball State,,01/29/2010,1,3,Away,,1 Sets,915
+2009,George Mason,248,IPFW,308,01/30/2010,3,1,Away,,1 Sets,392
+2009,George Mason,248,Saint Francis,,02/12/2010,3,1,Away,,1 Sets,300
+2009,George Mason,248,Juniata,325,02/13/2010,0,3,Away,,-,623
+2009,George Mason,248,Lewis,354,02/19/2010,0,3,Home,,-,206
+2009,George Mason,248,Loyola,,02/20/2010,0,3,Home,,-,476
+2009,George Mason,248,Springfield,673,02/21/2010,1,3,Home,,1 Sets,84
+2009,George Mason,248,Springfield,673,02/25/2010,3,2,Away,,2 Sets,218
+2009,George Mason,248,Ohio State,,02/26/2010,0,3,Neutral,"Springfield, Mass.",-,205
+2009,George Mason,248,Springfield,673,02/27/2010,1,3,Away,,1 Sets,818
+2009,George Mason,248,Rutgers-Newark,589,03/05/2010,2,3,Home,,2 Sets,0
+2009,George Mason,248,Penn State,,03/06/2010,0,3,Away,,-,461
+2009,George Mason,248,Ball State,,03/19/2010,1,3,Home,,1 Sets,280
+2009,George Mason,248,IPFW,308,03/20/2010,3,2,Home,,2 Sets,146
+2009,George Mason,248,Ohio State,,03/22/2010,1,3,Home,,1 Sets,156
+2009,George Mason,248,Loyola,,03/26/2010,1,3,Away,,1 Sets,405
+2009,George Mason,248,Lewis,354,03/27/2010,0,3,Away,,-,242
+2009,George Mason,248,Princeton,554,04/02/2010,2,3,Away,,2 Sets,280
+2009,George Mason,248,Rutgers-Newark,589,04/03/2010,0,3,Away,,-,120
+2009,George Mason,248,Saint Francis,,04/07/2010,3,2,Home,,2 Sets,0
+2009,George Mason,248,Juniata,325,04/10/2010,3,1,Home,,1 Sets,219
+2009,George Mason,248,Princeton,554,04/11/2010,0,3,Home,,-,128
+2009,Grand Canyon,1104,UC Santa Cruz,113,01/09/2009,0,3,Away,,-,175
+2009,Grand Canyon,1104,Holy Names,,01/10/2009,3,1,Neutral,"Santa Cruz, CA",1 Sets,50
+2009,Grand Canyon,1104,UC Santa Cruz,113,01/10/2009,0,3,Away,,-,75
+2009,Grand Canyon,1104,King (TN),30051,01/16/2009,2,3,Neutral,"Mount Olive, NC",2 Sets,0
+2009,Grand Canyon,1104,Mount Olive,1245,01/17/2009,2,3,Away,,2 Sets,0
+2009,Grand Canyon,1104,Lees-McRae,13302,01/17/2009,2,3,Neutral,"Mount Olive, NC",2 Sets,0
+2009,Grand Canyon,1104,Cal Baptist,,01/22/2009,1,3,Away,,1 Sets,178
+2009,Grand Canyon,1104,Hope Int'l,,01/23/2009,1,3,Away,,1 Sets,150
+2009,Grand Canyon,1104,Loyola Chicago,371,02/06/2009,0,3,Away,,-,252
+2009,Grand Canyon,1104,Lewis,354,02/07/2009,0,3,Away,,-,213
+2009,Grand Canyon,1104,IPFW,308,02/13/2009,1,3,Away,,1 Sets,344
+2009,Grand Canyon,1104,IPFW,308,02/14/2009,0,3,Away,,-,342
+2009,Grand Canyon,1104,Lees-McRae,13302,02/20/2009,1,3,Away,,1 Sets,0
+2009,Grand Canyon,1104,Mount Olive,1245,02/20/2009,0,3,Neutral,"Banner Elk, NC",-,0
+2009,Grand Canyon,1104,East. Mennonite,203,02/21/2009,3,2,Neutral,"Bristol, TN",2 Sets,50
+2009,Grand Canyon,1104,King (TN),,02/27/2009,0,3,Away,,-,0
+2009,Grand Canyon,1104,Loyola Chicago,371,03/01/2009,0,3,Home,,-,325
+2009,Grand Canyon,1104,UCLA,110,03/04/2009,0,3,Away,,-,436
+2009,Grand Canyon,1104,Ball St.,47,03/07/2009,1,3,Home,,1 Sets,210
+2009,Grand Canyon,1104,Ball St.,47,03/08/2009,0,3,Home,,-,157
+2009,Grand Canyon,1104,St. Ambrose,,03/09/2009,0,3,Home,,-,238
+2009,Grand Canyon,1104,Mo. Baptist,,03/20/2009,0,3,Neutral,"Lake Wales, FL",-,0
+2009,Grand Canyon,1104,Lees-McRae,13302,03/20/2009,1,3,Neutral,"Lake Wales, FL",1 Sets,0
+2009,Grand Canyon,1104,Fontbonne,11538,03/21/2009,3,0,Neutral,"Lake Wales, FL",-,0
+2009,Grand Canyon,1104,Cardinal Stritch,,03/21/2009,0,3,Neutral,"Lake Wales, FL",-,0
+2009,Grand Canyon,1104,Warner,,03/22/2009,3,1,Away,,1 Sets,0
+2009,Grand Canyon,1104,Johnson & Wales (CO),,03/27/2009,0,3,Away,,-,0
+2009,Grand Canyon,1104,Johnson & Wales (CO),,03/28/2009,1,3,Away,,1 Sets,0
+2009,Grand Canyon,1104,UC San Diego,112,04/18/2009,0,3,Away,,-,67
+2009,Harvard,275,Springfield,673,01/27/2009,2,3,Away,,2 Sets,186
+2009,Harvard,275,Stevens,679,01/31/2009,3,1,Home,,1 Sets,103
+2009,Harvard,275,New York U.,479,02/06/2009,2,3,Home,,2 Sets,108
+2009,Harvard,275,East Stroudsburg,197,02/07/2009,3,2,Home,,2 Sets,84
+2009,Harvard,275,Penn St.,539,02/13/2009,0,3,Away,,-,"1,726"
+2009,Harvard,275,East Stroudsburg,197,02/14/2009,0,3,Away,,-,150
+2009,Harvard,275,Newbury,21772,02/17/2009,3,2,Home,,2 Sets,104
+2009,Harvard,275,Rivier,18422,02/25/2009,0,3,Home,,-,114
+2009,Harvard,275,Rutgers-Newark,589,03/06/2009,3,2,Home,,2 Sets,114
+2009,Harvard,275,NJIT,471,03/07/2009,3,1,Home,,1 Sets,93
+2009,Harvard,275,Endicott,8981,03/10/2009,3,0,Home,,-,82
+2009,Harvard,275,Princeton,554,03/13/2009,0,3,Away,,-,75
+2009,Harvard,275,East Stroudsburg,197,03/14/2009,3,0,Away,,-,75
+2009,Harvard,275,MIT,398,03/17/2009,3,0,Home,,-,121
+2009,Harvard,275,New York U.,479,03/28/2009,3,2,Away,,2 Sets,212
+2009,Harvard,275,Sacred Heart,590,03/29/2009,3,2,Away,,2 Sets,206
+2009,Harvard,275,Sacred Heart,590,04/11/2009,3,1,Home,,1 Sets,129
+2009,Harvard,275,Rutgers-Newark,589,04/17/2009,0,3,Away,,-,213
+2009,Harvard,275,George Mason,248,04/22/2009,1,3,Away,,1 Sets,96
+2009,Harvard,275,Juniata,325,01/23/2010,0,3,Away,,-,300
+2009,Harvard,275,Saint Francis,,01/24/2010,1,3,Away,,1 Sets,500
+2009,Harvard,275,Endicott,8981,01/29/2010,2,3,Away,,2 Sets,117
+2009,Harvard,275,Baruch,58,02/04/2010,0,3,Home,,-,117
+2009,Harvard,275,Princeton,554,02/13/2010,0,3,Home,,-,147
+2009,Harvard,275,MIT,398,02/17/2010,0,3,Away,,-,243
+2009,Harvard,275,UC Santa Barbara,104,02/25/2010,0,3,Home,,-,63
+2009,Harvard,275,Rutgers-Newark,589,02/27/2010,0,3,Home,,-,84
+2009,Harvard,275,Stevens Tech,,03/05/2010,1,3,Away,,1 Sets,75
+2009,Harvard,275,NJIT,471,03/06/2010,3,0,Away,,-,84
+2009,Harvard,275,Springfield,673,03/09/2010,0,3,Home,,-,30
+2009,Harvard,275,Rivier,18422,03/17/2010,1,3,Away,,1 Sets,95
+2009,Harvard,275,Sacred Heart,590,03/20/2010,3,0,Away,,-,132
+2009,Harvard,275,Springfield,673,03/23/2010,1,3,Away,,1 Sets,318
+2009,Harvard,275,NYU,,03/27/2010,3,1,Home,,1 Sets,162
+2009,Harvard,275,Emmanuel,,03/30/2010,3,0,Home,,-,103
+2009,Harvard,275,Newbury College,,04/01/2010,3,1,Away,,1 Sets,54
+2009,Harvard,275,Rutgers-Newark,589,04/09/2010,0,3,Away,,-,105
+2009,Harvard,275,NYU,,04/10/2010,2,3,Away,,2 Sets,240
+2009,Hawaii,277,Ohio St.,518,01/08/2009,3,0,Home,,-,"2,490"
+2009,Hawaii,277,Southern California,657,01/09/2009,0,3,Home,,-,"2,823"
+2009,Hawaii,277,Penn St.,539,01/10/2009,1,3,Home,,1 Sets,"2,765"
+2009,Hawaii,277,Pepperdine,541,01/15/2009,1,3,Home,,1 Sets,"2,271"
+2009,Hawaii,277,Pepperdine,541,01/16/2009,1,3,Home,,1 Sets,"2,421"
+2009,Hawaii,277,BYU,77,01/22/2009,1,3,Away,,1 Sets,"1,778"
+2009,Hawaii,277,BYU,77,01/23/2009,0,3,Away,,-,"2,836"
+2009,Hawaii,277,Cal St. Northridge,101,01/30/2009,3,2,Home,,2 Sets,"2,346"
+2009,Hawaii,277,Cal St. Northridge,101,01/31/2009,3,1,Home,,1 Sets,"2,395"
+2009,Hawaii,277,Long Beach St.,99,02/12/2009,0,3,Away,,-,"1,262"
+2009,Hawaii,277,Long Beach St.,99,02/13/2009,1,3,Away,,1 Sets,"1,022"
+2009,Hawaii,277,Stanford,674,02/26/2009,0,3,Home,,-,"2,585"
+2009,Hawaii,277,Stanford,674,02/28/2009,0,3,Home,,-,"3,565"
+2009,Hawaii,277,UC Santa Barbara,104,03/05/2009,1,3,Home,,1 Sets,"2,226"
+2009,Hawaii,277,UC Santa Barbara,104,03/06/2009,3,0,Home,,-,"2,348"
+2009,Hawaii,277,UC San Diego,112,03/13/2009,1,3,Away,,1 Sets,507
+2009,Hawaii,277,UC San Diego,112,03/14/2009,2,3,Away,,2 Sets,198
+2009,Hawaii,277,NJIT,471,03/20/2009,3,0,Home,,-,"2,296"
+2009,Hawaii,277,NJIT,471,03/21/2009,3,0,Home,,-,"2,351"
+2009,Hawaii,277,UC Irvine,109,03/26/2009,0,3,Away,,-,825
+2009,Hawaii,277,UC Irvine,109,03/27/2009,0,3,Away,,-,890
+2009,Hawaii,277,UCLA,110,04/02/2009,2,3,Away,,2 Sets,629
+2009,Hawaii,277,UCLA,110,04/03/2009,1,3,Away,,1 Sets,892
+2009,Hawaii,277,Pacific,534,04/10/2009,3,1,Home,,1 Sets,"2,314"
+2009,Hawaii,277,Pacific,534,04/11/2009,3,0,Home,,-,"2,489"
+2009,Hawaii,277,Southern California,657,04/17/2009,0,3,Home,,-,"2,529"
+2009,Hawaii,277,Southern California,657,04/18/2009,3,1,Home,,1 Sets,"3,306"
+2009,Hawaii,277,Ohio State,,01/07/2010,3,0,Home,,-,"2,828"
+2009,Hawaii,277,USC,,01/08/2010,3,1,Home,,1 Sets,"4,023"
+2009,Hawaii,277,Penn State,,01/08/2010,2,3,Home,,2 Sets,"3,233"
+2009,Hawaii,277,Stanford,674,01/15/2010,0,3,Away,,-,"1,108"
+2009,Hawaii,277,Stanford,674,01/16/2010,0,3,Away,,-,960
+2009,Hawaii,277,Pacific,534,01/19/2010,3,1,Away,,1 Sets,236
+2009,Hawaii,277,Pacific,534,01/20/2010,3,0,Away,,-,217
+2009,Hawaii,277,UC Irvine,109,01/29/2010,3,2,Home,,2 Sets,"3,246"
+2009,Hawaii,277,UC Irvine,109,01/30/2010,3,2,Home,,2 Sets,"3,657"
+2009,Hawaii,277,UCLA,110,02/04/2010,1,3,Home,,1 Sets,"3,221"
+2009,Hawaii,277,UCLA,110,02/05/2010,1,3,Home,,1 Sets,"3,951"
+2009,Hawaii,277,Hope International,,02/18/2010,3,0,Home,,-,"2,586"
+2009,Hawaii,277,Hope International,,02/19/2010,3,0,Home,,-,"3,023"
+2009,Hawaii,277,BYU,77,02/26/2010,3,2,Home,,2 Sets,"3,631"
+2009,Hawaii,277,BYU,77,03/01/2010,3,0,Home,,-,"1,084"
+2009,Hawaii,277,CS Northridge,,03/05/2010,2,3,Away,,2 Sets,448
+2009,Hawaii,277,CS Northridge,,03/06/2010,3,0,Away,,-,532
+2009,Hawaii,277,USC,,03/08/2010,1,3,Away,,1 Sets,500
+2009,Hawaii,277,USC,,03/09/2010,3,1,Away,,1 Sets,400
+2009,Hawaii,277,Long Beach State,,03/19/2010,3,1,Home,,1 Sets,"3,213"
+2009,Hawaii,277,Long Beach State,,03/20/2010,3,2,Home,,2 Sets,"3,347"
+2009,Hawaii,277,Pepperdine,541,03/26/2010,0,3,Away,,-,945
+2009,Hawaii,277,Pepperdine,541,03/27/2010,3,0,Away,,-,874
+2009,Hawaii,277,UC San Diego,112,04/02/2010,3,1,Home,,1 Sets,"3,528"
+2009,Hawaii,277,UC San Diego,112,04/03/2010,3,0,Home,,-,"4,382"
+2009,Hilbert,8398,Baruch,58,01/24/2009,0,3,Neutral,"Utica, NY",-,45
+2009,Hilbert,8398,SUNYIT,9500,01/24/2009,3,2,Away,,2 Sets,40
+2009,Hilbert,8398,Lancaster Bible,30085,01/30/2009,3,1,Home,,1 Sets,90
+2009,Hilbert,8398,D'Youville,1059,01/31/2009,0,3,Home,,-,72
+2009,Hilbert,8398,SUNYIT,9500,01/31/2009,3,0,Home,,-,59
+2009,Hilbert,8398,Hunter,292,02/01/2009,0,3,Neutral,"Buffalo, NY",-,55
+2009,Hilbert,8398,Nazareth,461,02/04/2009,0,3,Home,,-,101
+2009,Hilbert,8398,Medaille,23725,02/05/2009,0,3,Away,,-,49
+2009,Hilbert,8398,D'Youville,1059,02/10/2009,0,3,Home,,-,67
+2009,Hilbert,8398,Stevenson,21852,02/14/2009,0,3,Home,,-,52
+2009,Hilbert,8398,Stevenson,21852,02/21/2009,0,3,Away,,-,50
+2009,Hilbert,8398,New Jersey City,319,02/21/2009,2,3,Neutral,"Stevenson, MD",2 Sets,31
+2009,Hilbert,8398,Medaille,23725,02/25/2009,0,3,Home,,-,62
+2009,Hilbert,8398,Milwaukee Engr.,20220,03/03/2009,0,3,Home,,-,52
+2009,Hilbert,8398,Nazareth,461,03/04/2009,0,3,Away,,-,0
+2009,Hilbert,8398,Emmanuel (MA),215,03/07/2009,0,3,Neutral,"Cambridge, MA",-,59
+2009,Hilbert,8398,Mount Ida,27901,03/07/2009,2,3,Neutral,"Cambridge, MA",2 Sets,59
+2009,Hilbert,8398,MIT,398,03/08/2009,0,3,Away,,-,59
+2009,Hilbert,8398,New Haven,470,03/08/2009,0,3,Neutral,"Cambridge, MA",-,67
+2009,Hilbert,8398,D'Youville,1059,03/12/2009,0,3,Away,,-,111
+2009,Hunter,292,Lancaster Bible,30085,01/01/2009,3,0,Neutral,"Buffalo, NY",-,0
+2009,Hunter,292,Mt. St. Vincent,451,01/15/2009,3,0,Away,,-,65
+2009,Hunter,292,Newbury,21772,01/18/2009,1,3,Neutral,"Mahwah, NJ",1 Sets,0
+2009,Hunter,292,Ramapo,564,01/18/2009,2,3,Away,,2 Sets,60
+2009,Hunter,292,Polytechnic (NY),481,01/20/2009,3,0,Home,,-,50
+2009,Hunter,292,SUNY New Paltz,475,01/22/2009,3,2,Away,,2 Sets,75
+2009,Hunter,292,Stevens,679,01/23/2009,0,3,Away,,-,75
+2009,Hunter,292,Nazareth,461,01/23/2009,2,3,Neutral,"Hoboken, NJ",2 Sets,50
+2009,Hunter,292,New York U.,479,01/24/2009,2,3,Neutral,"Hoboken, NJ",2 Sets,75
+2009,Hunter,292,Medaille,23725,01/31/2009,1,3,Away,,1 Sets,0
+2009,Hunter,292,D'Youville,1059,02/01/2009,3,0,Away,,-,75
+2009,Hunter,292,Hilbert,8398,02/01/2009,3,0,Neutral,"Buffalo, NY",-,55
+2009,Hunter,292,Lehman,279,02/03/2009,3,0,Away,,-,65
+2009,Hunter,292,Sacred Heart,590,02/05/2009,2,3,Home,,2 Sets,75
+2009,Hunter,292,City Tech,8580,02/07/2009,3,0,Neutral,"Jamaica, NY",-,0
+2009,Hunter,292,Medgar Evers,403,02/07/2009,3,0,Neutral,"Jamaica, NY",-,50
+2009,Hunter,292,CCNY,480,02/10/2009,3,0,Away,,-,50
+2009,Hunter,292,York (NY),2730,02/12/2009,3,0,Away,,-,15
+2009,Hunter,292,York (NY),2730,02/12/2009,3,0,Away,,-,10
+2009,Hunter,292,Endicott,8981,02/14/2009,1,3,Away,,1 Sets,47
+2009,Hunter,292,MIT,398,02/14/2009,1,3,Neutral,"Beverly, MA",1 Sets,0
+2009,Hunter,292,Rivier,18422,02/15/2009,0,3,Neutral,"Beverly, MA",-,0
+2009,Hunter,292,Emmanuel (MA),215,02/15/2009,0,3,Neutral,"Beverly, MA",-,0
+2009,Hunter,292,Phila. Biblical,1305,02/17/2009,3,2,Away,,2 Sets,120
+2009,Hunter,292,Brooklyn,79,02/19/2009,3,0,Away,,-,46
+2009,Hunter,292,Lehman,279,02/21/2009,3,0,Home,,-,50
+2009,Hunter,292,Baruch,58,02/21/2009,2,3,Home,,2 Sets,120
+2009,Hunter,292,Johnson & Wales (RI),22626,02/28/2009,3,0,Home,,-,50
+2009,Hunter,292,City Tech,8580,02/28/2009,3,0,Away,,-,25
+2009,Hunter,292,CCNY,480,03/03/2009,3,0,Home,,-,50
+2009,Hunter,292,New Jersey City,319,03/05/2009,2,3,Home,,2 Sets,50
+2009,Hunter,292,Brooklyn,79,03/07/2009,0,3,Neutral,"New York, NY",-,0
+2009,Hunter,292,Baruch,58,03/10/2009,1,3,Away,,1 Sets,327
+2009,Hunter,292,Medgar Evers,403,03/17/2009,3,0,Away,,-,75
+2009,Hunter,292,Lehman,279,03/24/2009,3,0,Home,,-,50
+2009,Hunter,292,City Tech,8580,03/27/2009,3,0,Neutral,"New York, NY",-,200
+2009,Hunter,292,Baruch,58,03/27/2009,1,3,Away,,1 Sets,0
+2009,Hunter,292,New Haven,470,03/28/2009,3,1,Home,,1 Sets,50
+2009,Hunter,292,Rivier,18422,04/03/2009,0,3,Neutral,"Cambridge, MA",-,75
+2009,Hunter,292,Mt. St. Vincent,451,04/11/2009,3,0,Neutral,"Stevenson, MD",-,52
+2009,Hunter,292,Stevenson,21852,04/11/2009,3,0,Home,,-,55
+2009,IPFW,308,P.R.-Mayaguez,24361,01/09/2009,3,2,Home,,2 Sets,340
+2009,IPFW,308,P.R.-Mayaguez,24361,01/10/2009,3,0,Home,,-,300
+2009,IPFW,308,Rutgers-Newark,589,01/23/2009,3,0,Away,,-,105
+2009,IPFW,308,George Mason,248,01/24/2009,0,3,Away,,-,265
+2009,IPFW,308,Loyola Chicago,371,01/30/2009,3,2,Home,,2 Sets,519
+2009,IPFW,308,Ohio St.,518,01/31/2009,0,3,Home,,-,769
+2009,IPFW,308,Lewis,354,02/06/2009,0,3,Home,,-,506
+2009,IPFW,308,Grand Canyon,1104,02/13/2009,3,1,Home,,1 Sets,344
+2009,IPFW,308,Grand Canyon,1104,02/14/2009,3,0,Home,,-,342
+2009,IPFW,308,Saint Francis (PA),600,02/20/2009,3,0,Home,,-,339
+2009,IPFW,308,Penn St.,539,02/21/2009,1,3,Home,,1 Sets,739
+2009,IPFW,308,Ball St.,47,02/27/2009,0,3,Away,,-,"1,266"
+2009,IPFW,308,Pacific,534,03/06/2009,3,1,Home,,1 Sets,386
+2009,IPFW,308,Pacific,534,03/07/2009,3,1,Home,,1 Sets,435
+2009,IPFW,308,Long Beach St.,99,03/13/2009,0,3,Away,,-,683
+2009,IPFW,308,BYU,77,03/14/2009,0,3,Neutral,"Long Beach, CA",-,0
+2009,IPFW,308,Penn St.,539,03/20/2009,0,3,Away,,-,731
+2009,IPFW,308,Saint Francis (PA),600,03/21/2009,2,3,Away,,2 Sets,146
+2009,IPFW,308,Rutgers-Newark,589,03/27/2009,3,2,Home,,2 Sets,354
+2009,IPFW,308,George Mason,248,03/28/2009,1,3,Home,,1 Sets,396
+2009,IPFW,308,Quincy,561,04/03/2009,3,0,Home,,-,433
+2009,IPFW,308,Quincy,561,04/04/2009,3,2,Home,,2 Sets,292
+2009,IPFW,308,Ohio St.,518,04/10/2009,0,3,Away,,-,515
+2009,IPFW,308,Ball St.,47,04/11/2009,2,3,Home,,2 Sets,915
+2009,IPFW,308,Loyola Chicago,371,04/17/2009,0,3,Away,,-,417
+2009,IPFW,308,Lewis,354,04/18/2009,0,3,Away,,-,673
+2009,IPFW,308,Loyola Chicago,371,04/24/2009,0,3,Away,,-,247
+2009,Johnson & Wales (RI),22626,Newbury,21772,01/15/2009,0,3,Home,,-,75
+2009,Johnson & Wales (RI),22626,Rivier,18422,01/21/2009,0,3,Home,,-,75
+2009,Johnson & Wales (RI),22626,Lasell,8486,01/24/2009,0,3,Home,,-,50
+2009,Johnson & Wales (RI),22626,Lesley,24317,01/26/2009,3,0,Away,,-,40
+2009,Johnson & Wales (RI),22626,Emmanuel (MA),215,01/28/2009,0,3,Home,,-,50
+2009,Johnson & Wales (RI),22626,Albertus Magnus,2798,01/31/2009,3,0,Neutral,"Boston, MA",-,50
+2009,Johnson & Wales (RI),22626,Emerson,214,01/31/2009,3,0,Away,,-,50
+2009,Johnson & Wales (RI),22626,Mount Ida,27901,02/11/2009,3,0,Home,,-,50
+2009,Johnson & Wales (RI),22626,Lasell,8486,02/13/2009,0,3,Away,,-,102
+2009,Johnson & Wales (RI),22626,MIT,398,02/18/2009,2,3,Home,,2 Sets,50
+2009,Johnson & Wales (RI),22626,Vassar,737,02/20/2009,0,3,Away,,-,88
+2009,Johnson & Wales (RI),22626,Nazareth,461,02/20/2009,0,3,Neutral,"Poughkeepsie, NY",-,50
+2009,Johnson & Wales (RI),22626,Phila. Biblical,1305,02/21/2009,0,3,Neutral,"Poughkeepsie, NY",-,16
+2009,Johnson & Wales (RI),22626,Elms,532,02/21/2009,0,3,Neutral,"Poughkeepsie, NY",-,50
+2009,Johnson & Wales (RI),22626,Mount Ida,27901,02/23/2009,3,0,Away,,-,50
+2009,Johnson & Wales (RI),22626,Hunter,292,02/28/2009,0,3,Away,,-,50
+2009,Johnson & Wales (RI),22626,MIT,398,03/11/2009,0,3,Away,,-,50
+2009,Johnson & Wales (RI),22626,Albertus Magnus,2798,03/14/2009,3,0,Home,,-,50
+2009,Johnson & Wales (RI),22626,Emerson,214,03/14/2009,3,0,Home,,-,50
+2009,Johnson & Wales (RI),22626,Rivier,18422,03/17/2009,0,3,Away,,-,47
+2009,Johnson & Wales (RI),22626,Emmanuel (MA),215,03/21/2009,0,3,Away,,-,50
+2009,Johnson & Wales (RI),22626,SUNY New Paltz,475,03/21/2009,0,3,Neutral,"Boston, MA",-,50
+2009,Johnson & Wales (RI),22626,Rivier,18422,03/28/2009,0,3,Away,,-,100
+2009,Johnson & Wales (RI),22626,Elms,532,03/31/2009,0,3,Away,,-,60
+2009,Juniata,325,Ohio St.,518,01/18/2009,0,3,Away,,-,224
+2009,Juniata,325,Mount Olive,1245,01/24/2009,3,0,Home,,-,675
+2009,Juniata,325,Penn St.,539,01/28/2009,0,3,Away,,-,338
+2009,Juniata,325,New York U.,479,01/31/2009,3,0,Away,,-,386
+2009,Juniata,325,Princeton,554,02/06/2009,3,0,Home,,-,635
+2009,Juniata,325,NJIT,471,02/07/2009,3,1,Home,,1 Sets,540
+2009,Juniata,325,Saint Francis (PA),600,02/11/2009,1,3,Away,,1 Sets,227
+2009,Juniata,325,Stevens,679,02/12/2009,3,2,Home,,2 Sets,250
+2009,Juniata,325,George Mason,248,02/19/2009,3,1,Away,,1 Sets,307
+2009,Juniata,325,Princeton,554,02/20/2009,3,2,Away,,2 Sets,115
+2009,Juniata,325,Springfield,673,02/27/2009,2,3,Home,,2 Sets,550
+2009,Juniata,325,New York U.,479,02/28/2009,3,0,Home,,-,270
+2009,Juniata,325,Ohio St.,518,03/04/2009,3,2,Home,,2 Sets,745
+2009,Juniata,325,Pacific,534,03/10/2009,1,3,Away,,1 Sets,86
+2009,Juniata,325,UC Santa Cruz,113,03/11/2009,3,0,Away,,-,150
+2009,Juniata,325,Lewis,354,03/21/2009,0,3,Home,,-,300
+2009,Juniata,325,Penn St.,539,03/24/2009,0,3,Home,,-,550
+2009,Juniata,325,Springfield,673,03/27/2009,3,1,Away,,1 Sets,584
+2009,Juniata,325,NJIT,471,03/28/2009,3,0,Away,,-,117
+2009,Juniata,325,Saint Francis (PA),600,04/03/2009,3,0,Home,,-,675
+2009,Juniata,325,George Mason,248,04/04/2009,3,1,Home,,1 Sets,620
+2009,Juniata,325,East Stroudsburg,197,04/08/2009,3,1,Neutral,"Landisville, PA",1 Sets,675
+2009,Juniata,325,Ramapo,564,04/17/2009,3,0,Home,,-,500
+2009,Juniata,325,Stevens,679,04/18/2009,3,0,Home,,-,800
+2009,Juniata,325,Saint Francis (PA),600,04/30/2009,3,1,Neutral,"University Park, PA",1 Sets,0
+2009,Juniata,325,Penn St.,539,05/02/2009,0,3,Away,,-,"2,157"
+2009,Juniata,325,Ohio State,,01/18/2010,0,3,Home,,-,"1,000"
+2009,Juniata,325,Harvard,275,01/23/2010,3,0,Home,,-,300
+2009,Juniata,325,Penn State,,01/26/2010,0,3,Away,,-,472
+2009,Juniata,325,Ohio State,,01/31/2010,0,3,Away,,-,257
+2009,Juniata,325,NYU,,02/06/2010,3,0,Home,,-,630
+2009,Juniata,325,Rutgers-Newark,589,02/12/2010,3,1,Home,,1 Sets,660
+2009,Juniata,325,George Mason,248,02/13/2010,3,0,Home,,-,623
+2009,Juniata,325,Loyola,,02/19/2010,0,3,Home,,-,500
+2009,Juniata,325,Lewis,354,02/20/2010,2,3,Home,,2 Sets,400
+2009,Juniata,325,Saint Francis,,02/23/2010,1,3,Away,,1 Sets,225
+2009,Juniata,325,NYU,,02/27/2010,3,0,Away,,-,430
+2009,Juniata,325,Springfield,673,03/05/2010,1,3,Away,,1 Sets,617
+2009,Juniata,325,Princeton,554,03/06/2010,2,3,Away,,2 Sets,135
+2009,Juniata,325,Lewis,354,03/19/2010,0,3,Away,,-,367
+2009,Juniata,325,Loyola,,03/20/2010,0,3,Away,,-,278
+2009,Juniata,325,Penn State,,03/23/2010,0,3,Home,,-,283
+2009,Juniata,325,Springfield,673,03/27/2010,3,2,Home,,2 Sets,"1,000"
+2009,Juniata,325,Saint Francis,,03/31/2010,1,3,Home,,1 Sets,670
+2009,Juniata,325,Rutgers-Newark,589,04/01/2010,3,2,Away,,2 Sets,95
+2009,Juniata,325,Stevens Tech,,04/02/2010,3,2,Away,,2 Sets,85
+2009,Juniata,325,Princeton,554,04/09/2010,3,2,Home,,2 Sets,720
+2009,Juniata,325,George Mason,248,04/10/2010,1,3,Away,,1 Sets,219
+2009,Lasell,8486,MIT,398,01/23/2009,3,1,Home,,1 Sets,121
+2009,Lasell,8486,Johnson & Wales (RI),22626,01/24/2009,3,0,Away,,-,50
+2009,Lasell,8486,Newbury,21772,01/27/2009,0,3,Home,,-,133
+2009,Lasell,8486,Emmanuel (MA),215,02/03/2009,1,3,Home,,1 Sets,0
+2009,Lasell,8486,New Haven,470,02/05/2009,2,3,Away,,2 Sets,153
+2009,Lasell,8486,Emerson,214,02/06/2009,3,0,Away,,-,50
+2009,Lasell,8486,Lesley,24317,02/08/2009,3,0,Home,,-,72
+2009,Lasell,8486,Lancaster Bible,30085,02/08/2009,3,0,Home,,-,77
+2009,Lasell,8486,Rivier,18422,02/09/2009,0,3,Home,,-,102
+2009,Lasell,8486,Johnson & Wales (RI),22626,02/13/2009,3,0,Home,,-,102
+2009,Lasell,8486,Elms,532,02/14/2009,0,3,Away,,-,49
+2009,Lasell,8486,Wentworth Inst.,762,02/14/2009,2,3,Neutral,"Chicopee, MA",2 Sets,49
+2009,Lasell,8486,Daniel Webster,2691,02/16/2009,3,0,Home,,-,72
+2009,Lasell,8486,Mount Ida,27901,02/17/2009,3,0,Away,,-,62
+2009,Lasell,8486,Emmanuel (MA),215,02/21/2009,3,2,Away,,2 Sets,67
+2009,Lasell,8486,Endicott,8981,02/21/2009,0,3,Neutral,"Boston, MA",-,55
+2009,Lasell,8486,Albertus Magnus,2798,02/25/2009,3,0,Home,,-,61
+2009,Lasell,8486,Purchase St.,30029,02/27/2009,3,1,Neutral,"Annandale-On-Hudson, NY",1 Sets,50
+2009,Lasell,8486,Bard,962,02/28/2009,3,0,Away,,-,60
+2009,Lasell,8486,Medgar Evers,403,02/28/2009,3,0,Neutral,"Annandale-On-Hudson, NY",-,50
+2009,Lasell,8486,Albertus Magnus,2798,03/03/2009,3,0,Away,,-,70
+2009,Lasell,8486,Rivier,18422,03/05/2009,0,3,Away,,-,100
+2009,Lasell,8486,Bard,962,03/07/2009,3,1,Neutral,"Cambridge, MA",1 Sets,40
+2009,Lasell,8486,New Haven,470,03/07/2009,3,2,Neutral,"Cambridge, MA",2 Sets,40
+2009,Lasell,8486,Mt. St. Vincent,451,03/08/2009,3,1,Neutral,"Cambridge, MA",1 Sets,40
+2009,Lasell,8486,MIT,398,03/08/2009,0,3,Away,,-,50
+2009,Lasell,8486,New Haven,470,03/12/2009,3,1,Home,,1 Sets,78
+2009,Lasell,8486,Mount Ida,27901,03/24/2009,3,0,Home,,-,83
+2009,Lasell,8486,Emerson,214,03/26/2009,3,0,Home,,-,73
+2009,Lasell,8486,Emmanuel (MA),215,03/28/2009,0,3,Away,,-,100
+2009,Lees-McRae,13302,Mount Olive,1245,01/17/2009,2,3,Away,,2 Sets,0
+2009,Lees-McRae,13302,Grand Canyon,1104,01/17/2009,3,2,Neutral,"Mount Olive, NC",2 Sets,0
+2009,Lees-McRae,13302,King (TN),30051,02/10/2009,3,0,Away,,-,0
+2009,Lees-McRae,13302,Warner,,02/13/2009,3,0,Home,,-,0
+2009,Lees-McRae,13302,Missouri Valley,,02/14/2009,3,1,Home,,1 Sets,0
+2009,Lees-McRae,13302,Quincy,561,02/15/2009,3,2,Home,,2 Sets,0
+2009,Lees-McRae,13302,Grand Canyon,1104,02/20/2009,3,1,Home,,1 Sets,0
+2009,Lees-McRae,13302,East. Mennonite,203,02/21/2009,3,0,Neutral,"Bristol, TN",-,0
+2009,Lees-McRae,13302,Mount Olive,1245,02/21/2009,3,0,Home,,-,0
+2009,Lees-McRae,13302,York (PA),815,02/28/2009,3,0,Neutral,"Mount Olive, NC",-,0
+2009,Lees-McRae,13302,East. Mennonite,203,02/28/2009,3,1,Neutral,"Mount Olive, NC",1 Sets,0
+2009,Lees-McRae,13302,Stevenson,21852,03/07/2009,3,1,Away,,1 Sets,76
+2009,Lees-McRae,13302,Phila. Biblical,1305,03/07/2009,2,3,Neutral,"Stevenson, MD",2 Sets,50
+2009,Lees-McRae,13302,East. Mennonite,203,03/11/2009,3,2,Away,,2 Sets,217
+2009,Lees-McRae,13302,St. Ambrose,,03/14/2009,3,2,Neutral,"Riverside, CA",2 Sets,68
+2009,Lees-McRae,13302,Cal Baptist,,03/17/2009,0,3,Away,,-,87
+2009,Lees-McRae,13302,Cal St. Northridge,101,03/18/2009,0,3,Away,,-,112
+2009,Lees-McRae,13302,Fontbonne,11538,03/20/2009,3,0,Neutral,"Lake Wales, FL",-,0
+2009,Lees-McRae,13302,Grand Canyon,1104,03/20/2009,3,1,Neutral,"Lake Wales, FL",1 Sets,0
+2009,Lees-McRae,13302,Warner,,03/20/2009,3,1,Neutral,"Lake Wales, FL",1 Sets,0
+2009,Lees-McRae,13302,Mo. Baptist,,03/21/2009,3,2,Neutral,"Lake Wales, FL",2 Sets,0
+2009,Lees-McRae,13302,Cardinal Stritch,,03/21/2009,1,3,Neutral,"Lake Wales, FL",1 Sets,0
+2009,Lees-McRae,13302,King (TN),30051,03/27/2009,3,0,Home,,-,0
+2009,Lees-McRae,13302,Mount Olive,1245,04/04/2009,3,1,Home,,1 Sets,0
+2009,Lehman,279,New Jersey City,319,01/22/2009,0,3,Away,,-,70
+2009,Lehman,279,Yeshiva,814,01/29/2009,3,2,Away,,2 Sets,250
+2009,Lehman,279,Bard,962,01/31/2009,2,3,Home,,2 Sets,75
+2009,Lehman,279,Hunter,292,02/03/2009,0,3,Home,,-,65
+2009,Lehman,279,Baruch,58,02/07/2009,0,3,Neutral,"Jamaica, NY",-,70
+2009,Lehman,279,Brooklyn,79,02/07/2009,0,3,Neutral,"Jamaica, NY",-,75
+2009,Lehman,279,York (NY),2730,02/10/2009,3,1,Home,,1 Sets,75
+2009,Lehman,279,Medgar Evers,403,02/12/2009,3,0,Away,,-,15
+2009,Lehman,279,Polytechnic (NY),481,02/16/2009,3,0,Home,,-,0
+2009,Lehman,279,City Tech,8580,02/19/2009,0,3,Away,,-,20
+2009,Lehman,279,Hunter,292,02/21/2009,0,3,Away,,-,50
+2009,Lehman,279,CCNY,480,02/21/2009,0,3,Neutral,"New York, NY",-,50
+2009,Lehman,279,Mt. St. Vincent,451,02/23/2009,0,3,Away,,-,27
+2009,Lehman,279,Brooklyn,79,02/26/2009,3,1,Home,,1 Sets,60
+2009,Lehman,279,York (NY),2730,03/03/2009,0,3,Away,,-,25
+2009,Lehman,279,Purchase St.,30029,03/05/2009,0,3,Home,,-,50
+2009,Lehman,279,Medgar Evers,403,03/07/2009,3,0,Neutral,"New York, NY",-,50
+2009,Lehman,279,City Tech,8580,03/07/2009,0,3,Neutral,"New York, NY",-,50
+2009,Lehman,279,CCNY,480,03/10/2009,2,3,Home,,2 Sets,50
+2009,Lehman,279,Webb Inst.,,03/14/2009,3,0,Neutral,"Brooklyn, NY",-,15
+2009,Lehman,279,Medgar Evers,403,03/14/2009,3,0,Away,,-,20
+2009,Lehman,279,Baruch,58,03/17/2009,0,3,Away,,-,48
+2009,Lehman,279,St. Joseph's (Brkln),30072,03/17/2009,3,0,Home,,-,50
+2009,Lehman,279,Stevenson,21852,03/21/2009,1,3,Away,,1 Sets,50
+2009,Lehman,279,Bard,962,03/21/2009,1,3,Neutral,"Stevenson, MD",1 Sets,50
+2009,Lehman,279,Hunter,292,03/24/2009,0,3,Away,,-,50
+2009,Lesley ,24317,Elms,532,01/20/2009,0,3,Away,,-,0
+2009,Lesley ,24317,MIT,398,01/21/2009,0,3,Home,,-,45
+2009,Lesley ,24317,Johnson & Wales (RI),22626,01/26/2009,0,3,Home,,-,40
+2009,Lesley ,24317,Endicott,8981,01/29/2009,0,3,Away,,-,82
+2009,Lesley ,24317,Mount Ida,27901,01/30/2009,0,3,Away,,-,0
+2009,Lesley ,24317,Daniel Webster,2691,02/04/2009,0,3,Away,,-,50
+2009,Lesley ,24317,Lasell,8486,02/08/2009,0,3,Away,,-,72
+2009,Lesley ,24317,Lancaster Bible,30085,02/08/2009,0,3,Neutral,"Newton, MA",-,0
+2009,Lesley ,24317,Elms,532,02/10/2009,0,3,Home,,-,35
+2009,Lesley ,24317,Newbury,21772,02/14/2009,0,3,Away,,-,67
+2009,Lesley ,24317,Southern Vt.,1379,02/14/2009,3,0,Away,,-,55
+2009,Lesley ,24317,MIT,398,02/17/2009,0,3,Away,,-,0
+2009,Lesley ,24317,Emerson,214,02/21/2009,0,3,Neutral,"Boston, MA",-,0
+2009,Lesley ,24317,Wentworth Inst.,762,02/21/2009,0,3,Away,,-,0
+2009,Lesley ,24317,Endicott,8981,02/23/2009,0,3,Home,,-,30
+2009,Lesley ,24317,Southern Vt.,1379,02/28/2009,3,1,Home,,1 Sets,30
+2009,Lesley ,24317,Wentworth Inst.,762,03/03/2009,0,3,Home,,-,0
+2009,Lesley ,24317,Emerson,214,03/18/2009,0,3,Away,,-,0
+2009,Lesley ,24317,Newbury,21772,03/21/2009,0,3,Away,,-,0
+2009,Lesley ,24317,Southern Vt.,1379,03/21/2009,3,0,Neutral,"Brookline, MA",-,0
+2009,Lesley ,24317,Daniel Webster,2691,03/24/2009,0,3,Home,,-,50
+2009,Lesley ,24317,Newbury,21772,03/28/2009,0,3,Away,,-,38
+2009,Lewis,354,Cal Baptist,,01/16/2009,3,1,Neutral,"Provo, UT",1 Sets,65
+2009,Lewis,354,BYU,77,01/17/2009,1,3,Away,,1 Sets,"2,729"
+2009,Lewis,354,Carthage,121,01/21/2009,3,0,Home,,-,342
+2009,Lewis,354,Lindenwood (MO),,01/23/2009,3,2,Home,,2 Sets,219
+2009,Lewis,354,Ball St.,47,01/30/2009,0,3,Away,,-,"1,507"
+2009,Lewis,354,IPFW,308,02/06/2009,3,0,Away,,-,506
+2009,Lewis,354,Grand Canyon,1104,02/07/2009,3,0,Home,,-,213
+2009,Lewis,354,Carthage,121,02/10/2009,3,0,Away,,-,100
+2009,Lewis,354,UCLA,110,02/13/2009,3,2,Home,,2 Sets,"1,560"
+2009,Lewis,354,Loyola Chicago,371,02/17/2009,3,1,Home,,1 Sets,712
+2009,Lewis,354,St. Ambrose,,02/20/2009,3,1,Neutral,"Romeoville, IL",1 Sets,542
+2009,Lewis,354,Saint Francis (PA),600,02/22/2009,3,0,Home,,-,221
+2009,Lewis,354,Penn St.,539,02/27/2009,1,3,Away,,1 Sets,459
+2009,Lewis,354,Ohio St.,518,02/28/2009,3,1,Away,,1 Sets,475
+2009,Lewis,354,UC Santa Cruz,113,03/04/2009,3,1,Away,,1 Sets,85
+2009,Lewis,354,Stanford,674,03/06/2009,0,3,Away,,-,500
+2009,Lewis,354,Stanford,674,03/07/2009,1,3,Away,,1 Sets,304
+2009,Lewis,354,Ball St.,47,03/13/2009,3,2,Home,,2 Sets,663
+2009,Lewis,354,New York U.,479,03/15/2009,3,0,Home,,-,287
+2009,Lewis,354,Juniata,325,03/21/2009,3,0,Away,,-,300
+2009,Lewis,354,Saint Francis (PA),600,03/22/2009,3,1,Away,,1 Sets,107
+2009,Lewis,354,George Mason,248,03/26/2009,3,0,Home,,-,479
+2009,Lewis,354,Quincy,561,03/27/2009,3,0,Home,,-,479
+2009,Lewis,354,Rutgers-Newark,589,03/29/2009,3,0,Home,,-,378
+2009,Lewis,354,Ohio St.,518,04/04/2009,1,3,Home,,1 Sets,"1,326"
+2009,Lewis,354,Quincy,561,04/08/2009,3,0,Away,,-,57
+2009,Lewis,354,Loyola Chicago,371,04/15/2009,2,3,Away,,2 Sets,368
+2009,Lewis,354,IPFW,308,04/18/2009,3,0,Home,,-,673
+2009,Lewis,354,Ball St.,47,04/30/2009,2,3,Neutral,"Columbus, OH",2 Sets,0
+2009,Long Beach St.,99,Stanford,674,01/09/2009,1,3,Neutral,"Santa Barbara, CA",1 Sets,0
+2009,Long Beach St.,99,UC Irvine,109,01/09/2009,3,0,Neutral,"Santa Barbara, CA",-,0
+2009,Long Beach St.,99,UC Santa Barbara,104,01/10/2009,0,3,Away,,-,231
+2009,Long Beach St.,99,UC San Diego,112,01/16/2009,3,0,Home,,-,703
+2009,Long Beach St.,99,UCLA,110,01/21/2009,3,2,Home,,2 Sets,816
+2009,Long Beach St.,99,UC Irvine,109,01/23/2009,1,3,Home,,1 Sets,919
+2009,Long Beach St.,99,Stanford,674,01/30/2009,2,3,Away,,2 Sets,0
+2009,Long Beach St.,99,Pacific,534,01/31/2009,3,1,Away,,1 Sets,232
+2009,Long Beach St.,99,Cal St. Northridge,101,02/06/2009,0,3,Away,,-,892
+2009,Long Beach St.,99,UC Santa Barbara,104,02/07/2009,3,0,Away,,-,287
+2009,Long Beach St.,99,Hawaii,277,02/12/2009,3,0,Home,,-,"1,262"
+2009,Long Beach St.,99,Hawaii,277,02/13/2009,3,1,Home,,1 Sets,"1,022"
+2009,Long Beach St.,99,UCLA,110,02/25/2009,3,0,Away,,-,486
+2009,Long Beach St.,99,UC Irvine,109,02/27/2009,1,3,Away,,1 Sets,"1,103"
+2009,Long Beach St.,99,Southern California,657,03/04/2009,2,3,Home,,2 Sets,880
+2009,Long Beach St.,99,Pepperdine,541,03/06/2009,2,3,Home,,2 Sets,925
+2009,Long Beach St.,99,IPFW,308,03/13/2009,3,0,Home,,-,683
+2009,Long Beach St.,99,Penn St.,539,03/14/2009,3,2,Home,,2 Sets,"1,061"
+2009,Long Beach St.,99,BYU,77,03/20/2009,2,3,Away,,2 Sets,"2,273"
+2009,Long Beach St.,99,BYU,77,03/21/2009,2,3,Home,,2 Sets,"2,085"
+2009,Long Beach St.,99,Southern California,657,03/26/2009,1,3,Away,,1 Sets,700
+2009,Long Beach St.,99,Pepperdine,541,03/28/2009,1,3,Away,,1 Sets,"1,105"
+2009,Long Beach St.,99,Stanford,674,04/03/2009,2,3,Home,,2 Sets,863
+2009,Long Beach St.,99,Pacific,534,04/04/2009,3,2,Home,,2 Sets,593
+2009,Long Beach St.,99,UC Santa Barbara,104,04/10/2009,3,1,Home,,1 Sets,764
+2009,Long Beach St.,99,Cal St. Northridge,101,04/11/2009,3,1,Home,,1 Sets,805
+2009,Long Beach St.,99,UC San Diego,112,04/17/2009,3,1,Away,,1 Sets,492
+2009,Long Beach St.,99,Pepperdine,541,04/25/2009,1,3,Away,,1 Sets,"1,615"
+2009,Long Beach St.,99,UC Santa Barbara,104,01/07/2010,3,2,Away,,2 Sets,192
+2009,Long Beach St.,99,CALIFORNIA BAPTIST,,01/07/2010,2,3,Neutral,"Santa Barbara, CA",2 Sets,50
+2009,Long Beach St.,99,UC Irvine,109,01/08/2010,1,3,Neutral,"Santa Barbara, CA",1 Sets,224
+2009,Long Beach St.,99,UC Santa Barbara,104,01/13/2010,3,2,Away,,2 Sets,246
+2009,Long Beach St.,99,CS Northridge,,01/15/2010,0,3,Home,,-,712
+2009,Long Beach St.,99,USC,,01/20/2010,0,3,Away,,-,500
+2009,Long Beach St.,99,Pepperdine,541,01/23/2010,3,0,Away,,-,870
+2009,Long Beach St.,99,UC San Diego,112,01/29/2010,3,0,Home,,-,774
+2009,Long Beach St.,99,UC San Diego,112,02/05/2010,3,1,Away,,1 Sets,449
+2009,Long Beach St.,99,CS Northridge,,02/11/2010,0,3,Away,,-,652
+2009,Long Beach St.,99,UC Santa Barbara,104,02/12/2010,2,3,Home,,2 Sets,777
+2009,Long Beach St.,99,Cal Baptist,,02/18/2010,3,0,Home,,-,613
+2009,Long Beach St.,99,UC Irvine,109,02/24/2010,3,2,Home,,2 Sets,812
+2009,Long Beach St.,99,UCLA,110,02/26/2010,3,0,Away,,-,531
+2009,Long Beach St.,99,Pacific,534,03/05/2010,3,1,Away,,1 Sets,150
+2009,Long Beach St.,99,Stanford,674,03/06/2010,1,3,Away,,1 Sets,690
+2009,Long Beach St.,99,LOYOLA-CHICAGO,,03/09/2010,3,1,Home,,1 Sets,552
+2009,Long Beach St.,99,ST. FRANCIS,,03/12/2010,3,0,Home,,-,689
+2009,Long Beach St.,99,Penn State,,03/13/2010,0,3,Home,,-,879
+2009,Long Beach St.,99,Hawaii,277,03/19/2010,1,3,Away,,1 Sets,"3,213"
+2009,Long Beach St.,99,Hawaii,277,03/20/2010,2,3,Away,,2 Sets,"3,347"
+2009,Long Beach St.,99,Pacific,534,03/26/2010,3,0,Home,,-,489
+2009,Long Beach St.,99,Stanford,674,03/27/2010,0,3,Home,,-,862
+2009,Long Beach St.,99,BYU,77,04/01/2010,1,3,Home,,1 Sets,586
+2009,Long Beach St.,99,BYU,77,04/02/2010,1,3,Home,,1 Sets,797
+2009,Long Beach St.,99,UC Irvine,109,04/07/2010,1,3,Away,,1 Sets,"1,512"
+2009,Long Beach St.,99,UCLA,110,04/09/2010,2,3,Home,,2 Sets,912
+2009,Loyola Chicago,371,Carthage,121,01/14/2009,3,0,Home,,-,755
+2009,Loyola Chicago,371,George Mason,248,01/23/2009,3,2,Away,,2 Sets,396
+2009,Loyola Chicago,371,Rutgers-Newark,589,01/24/2009,3,1,Away,,1 Sets,127
+2009,Loyola Chicago,371,IPFW,308,01/30/2009,2,3,Away,,2 Sets,519
+2009,Loyola Chicago,371,Milwaukee Engr.,20220,02/04/2009,3,0,Home,,-,220
+2009,Loyola Chicago,371,Grand Canyon,1104,02/06/2009,3,0,Home,,-,252
+2009,Loyola Chicago,371,UCLA,110,02/14/2009,2,3,Home,,2 Sets,"2,211"
+2009,Loyola Chicago,371,Lewis,354,02/17/2009,1,3,Away,,1 Sets,712
+2009,Loyola Chicago,371,Penn St.,539,02/20/2009,3,2,Home,,2 Sets,"1,532"
+2009,Loyola Chicago,371,Saint Francis (PA),600,02/21/2009,3,2,Home,,2 Sets,315
+2009,Loyola Chicago,371,Ohio St.,518,02/27/2009,0,3,Away,,-,527
+2009,Loyola Chicago,371,Ball St.,47,02/28/2009,2,3,Away,,2 Sets,"1,377"
+2009,Loyola Chicago,371,Grand Canyon,1104,03/01/2009,3,0,Away,,-,325
+2009,Loyola Chicago,371,UC Irvine,109,03/04/2009,0,3,Away,,-,488
+2009,Loyola Chicago,371,Cal Baptist,,03/06/2009,2,3,Away,,2 Sets,211
+2009,Loyola Chicago,371,Ball St.,47,03/14/2009,3,2,Home,,2 Sets,875
+2009,Loyola Chicago,371,Saint Francis (PA),600,03/20/2009,3,1,Away,,1 Sets,189
+2009,Loyola Chicago,371,Penn St.,539,03/21/2009,0,3,Away,,-,847
+2009,Loyola Chicago,371,George Mason,248,03/27/2009,3,0,Home,,-,279
+2009,Loyola Chicago,371,Rutgers-Newark,589,03/28/2009,3,0,Home,,-,262
+2009,Loyola Chicago,371,Ohio St.,518,04/03/2009,0,3,Home,,-,920
+2009,Loyola Chicago,371,Quincy,561,04/10/2009,3,1,Away,,1 Sets,128
+2009,Loyola Chicago,371,Quincy,561,04/11/2009,3,0,Away,,-,78
+2009,Loyola Chicago,371,Lewis,354,04/15/2009,3,2,Home,,2 Sets,368
+2009,Loyola Chicago,371,IPFW,308,04/17/2009,3,0,Home,,-,417
+2009,Loyola Chicago,371,IPFW,308,04/24/2009,3,0,Home,,-,247
+2009,Loyola Chicago,371,Ohio St.,518,04/30/2009,0,3,Away,,-,511
+2009,Medaille,23725,Baruch,58,01/16/2009,3,1,Neutral,"Milwaukee, WI",1 Sets,123
+2009,Medaille,23725,Carthage,121,01/17/2009,0,3,Away,,-,250
+2009,Medaille,23725,Rivier,18422,01/17/2009,1,3,Neutral,"Milwaukee, WI",1 Sets,36
+2009,Medaille,23725,Milwaukee Engr.,20220,01/18/2009,3,1,Away,,1 Sets,87
+2009,Medaille,23725,Endicott,8981,01/18/2009,3,1,Neutral,"Milwaukee, WI",1 Sets,54
+2009,Medaille,23725,Lancaster Bible,30085,01/31/2009,3,0,Home,,-,52
+2009,Medaille,23725,Hunter,292,01/31/2009,3,1,Home,,1 Sets,60
+2009,Medaille,23725,Nazareth,461,02/03/2009,1,3,Away,,1 Sets,0
+2009,Medaille,23725,Hilbert,8398,02/05/2009,3,0,Home,,-,49
+2009,Medaille,23725,D'Youville,1059,02/12/2009,3,0,Away,,-,135
+2009,Medaille,23725,East. Mennonite,203,02/13/2009,1,3,Neutral,"Rochester, NY",1 Sets,0
+2009,Medaille,23725,Vassar,737,02/13/2009,2,3,Neutral,"Rochester, NY",2 Sets,0
+2009,Medaille,23725,SUNY New Paltz,475,02/14/2009,0,3,Neutral,"Rochester, NY",-,0
+2009,Medaille,23725,Stevens,679,02/14/2009,0,3,Neutral,"Rochester, NY",-,70
+2009,Medaille,23725,Nazareth,461,02/17/2009,1,3,Home,,1 Sets,85
+2009,Medaille,23725,Lancaster Bible,30085,02/21/2009,3,1,Home,,1 Sets,42
+2009,Medaille,23725,SUNYIT,9500,02/21/2009,3,0,Home,,-,61
+2009,Medaille,23725,Hilbert,8398,02/25/2009,3,0,Away,,-,62
+2009,Medaille,23725,SUNYIT,9500,03/01/2009,3,1,Away,,1 Sets,68
+2009,Medaille,23725,Stevenson,21852,03/01/2009,2,3,Neutral,"Utica, NY",2 Sets,50
+2009,Medaille,23725,D'Youville,1059,03/04/2009,3,0,Home,,-,40
+2009,Medaille,23725,Quincy,561,03/07/2009,1,3,Neutral,"Rochester, NY",1 Sets,0
+2009,Medaille,23725,Milwaukee Engr.,20220,03/08/2009,0,3,Neutral,"Rochester, NY",-,58
+2009,Medaille,23725,East. Mennonite,203,03/14/2009,2,3,Away,,2 Sets,117
+2009,Medaille,23725,CCNY,480,03/14/2009,3,0,Neutral,"Harrisonburg, VA",-,50
+2009,Medaille,23725,Stevenson,21852,03/27/2009,3,0,Neutral,"Rochester, NY",-,0
+2009,Medaille,23725,East. Mennonite,203,03/28/2009,3,0,Neutral,"Rochester, NY",-,0
+2009,Medaille,23725,Nazareth,461,03/28/2009,0,3,Away,,-,0
+2009,Medaille,23725,Baruch,58,04/03/2009,0,3,Neutral,"Cambridge, MA",-,25
+2009,Medgar Evers,403,Bard,962,01/24/2009,0,3,Home,,-,50
+2009,Medgar Evers,403,City Tech,8580,01/24/2009,0,3,Home,,-,0
+2009,Medgar Evers,403,Yeshiva,814,01/27/2009,0,3,Home,,-,50
+2009,Medgar Evers,403,New Jersey City,319,02/01/2009,0,3,Away,,-,30
+2009,Medgar Evers,403,York (NY),2730,02/03/2009,0,3,Home,,-,50
+2009,Medgar Evers,403,Baruch,58,02/07/2009,0,3,Neutral,"Jamaica, NY",-,40
+2009,Medgar Evers,403,Hunter,292,02/07/2009,0,3,Neutral,"Jamaica, NY",-,50
+2009,Medgar Evers,403,Mt. St. Vincent,451,02/08/2009,0,3,Home,,-,15
+2009,Medgar Evers,403,Brooklyn,79,02/10/2009,0,3,Home,,-,30
+2009,Medgar Evers,403,Lehman,279,02/12/2009,0,3,Home,,-,15
+2009,Medgar Evers,403,Yeshiva,814,02/15/2009,0,3,Home,,-,15
+2009,Medgar Evers,403,CCNY,480,02/19/2009,0,3,Away,,-,50
+2009,Medgar Evers,403,York (NY),2730,02/21/2009,0,3,Neutral,"New York, NY",-,50
+2009,Medgar Evers,403,City Tech,8580,02/21/2009,0,3,Neutral,"New York, NY",-,10
+2009,Medgar Evers,403,Albertus Magnus,2798,02/24/2009,1,3,Home,,1 Sets,40
+2009,Medgar Evers,403,Baruch,58,02/26/2009,0,3,Away,,-,27
+2009,Medgar Evers,403,Purchase St.,30029,02/27/2009,0,3,Neutral,"Annandale-On-Hudson, NY",-,20
+2009,Medgar Evers,403,Polytechnic (NY),481,02/28/2009,0,3,Neutral,"Annandale-On-Hudson, NY",-,50
+2009,Medgar Evers,403,Lasell,8486,02/28/2009,0,3,Neutral,"Annandale-On-Hudson, NY",-,20
+2009,Medgar Evers,403,Brooklyn,79,03/03/2009,0,3,Away,,-,30
+2009,Medgar Evers,403,St. Joseph's (Brkln),30072,03/05/2009,3,2,Home,,2 Sets,40
+2009,Medgar Evers,403,CCNY,480,03/07/2009,0,3,Home,,-,50
+2009,Medgar Evers,403,Lehman,279,03/07/2009,0,3,Neutral,"New York, NY",-,50
+2009,Medgar Evers,403,City Tech,8580,03/10/2009,0,3,Home,,-,50
+2009,Medgar Evers,403,Webb Inst.,,03/14/2009,0,3,Home,,-,25
+2009,Medgar Evers,403,Lehman,279,03/14/2009,0,3,Home,,-,20
+2009,Medgar Evers,403,Hunter,292,03/17/2009,0,3,Home,,-,75
+2009,Medgar Evers,403,St. Joseph's (Brkln),30072,03/23/2009,2,3,Home,,2 Sets,50
+2009,Medgar Evers,403,Baruch,58,03/24/2009,0,3,Away,,-,34
+2009,Medgar Evers,403,St. Joseph's (Brkln),30072,03/30/2009,3,1,Away,,1 Sets,25
+2009,MIT,398,Sacred Heart,590,01/16/2009,2,3,Neutral,"New Paltz, NY",2 Sets,0
+2009,MIT,398,SUNY New Paltz,475,01/16/2009,2,3,Away,,2 Sets,0
+2009,MIT,398,Elms,532,01/17/2009,3,0,Neutral,"New Paltz, NY",-,0
+2009,MIT,398,Springfield,673,01/20/2009,0,3,Away,,-,0
+2009,MIT,398,Lesley,24317,01/21/2009,3,0,Away,,-,0
+2009,MIT,398,Lasell,8486,01/23/2009,1,3,Away,,1 Sets,0
+2009,MIT,398,Endicott,8981,01/27/2009,1,3,Home,,1 Sets,0
+2009,MIT,398,Wentworth Inst.,762,01/29/2009,3,1,Home,,1 Sets,0
+2009,MIT,398,Southern Vt.,1379,01/30/2009,3,0,Away,,-,0
+2009,MIT,398,Newbury,21772,02/03/2009,1,3,Away,,1 Sets,0
+2009,MIT,398,Elms,532,02/07/2009,0,3,Away,,-,0
+2009,MIT,398,Daniel Webster,2691,02/10/2009,3,0,Home,,-,15
+2009,MIT,398,Rivier,18422,02/12/2009,0,3,Home,,-,0
+2009,MIT,398,Hunter,292,02/14/2009,3,1,Neutral,"Beverly, MA",1 Sets,0
+2009,MIT,398,Ramapo,564,02/14/2009,1,3,Neutral,"Beverly, MA",1 Sets,0
+2009,MIT,398,New Jersey City,319,02/15/2009,3,0,Neutral,"Beverly, MA",-,20
+2009,MIT,398,Baruch,58,02/15/2009,3,2,Neutral,"Beverly, MA",2 Sets,0
+2009,MIT,398,Lesley,24317,02/17/2009,3,0,Home,,-,0
+2009,MIT,398,Johnson & Wales (RI),22626,02/18/2009,3,2,Away,,2 Sets,50
+2009,MIT,398,Southern Vt.,1379,02/21/2009,3,0,Home,,-,0
+2009,MIT,398,Mount Ida,27901,02/21/2009,3,0,Home,,-,0
+2009,MIT,398,Wentworth Inst.,762,02/25/2009,3,0,Away,,-,0
+2009,MIT,398,Daniel Webster,2691,02/26/2009,2,0,Away,,-,25
+2009,MIT,398,Elms,532,02/28/2009,3,1,Home,,1 Sets,0
+2009,MIT,398,Emerson,214,02/28/2009,3,0,Home,,-,0
+2009,MIT,398,Endicott,8981,03/03/2009,0,3,Away,,-,0
+2009,MIT,398,Newbury,21772,03/05/2009,3,1,Home,,1 Sets,0
+2009,MIT,398,Bard,962,03/07/2009,3,0,Home,,-,0
+2009,MIT,398,Mt. St. Vincent,451,03/07/2009,3,0,Home,,-,0
+2009,MIT,398,Lasell,8486,03/08/2009,3,0,Home,,-,0
+2009,MIT,398,Hilbert,8398,03/08/2009,3,0,Home,,-,0
+2009,MIT,398,Johnson & Wales (RI),22626,03/11/2009,3,0,Home,,-,0
+2009,MIT,398,Harvard,275,03/17/2009,0,3,Away,,-,0
+2009,MIT,398,Emmanuel (MA),215,03/19/2009,3,2,Home,,2 Sets,0
+2009,MIT,398,Albertus Magnus,2798,03/21/2009,3,0,Away,,-,0
+2009,MIT,398,Mount Ida,27901,03/21/2009,3,0,Neutral,"New Haven, CT",-,0
+2009,MIT,398,Vassar,737,04/03/2009,0,3,Home,,-,150
+2009,Mount Ida,27901,Elms,532,01/19/2009,0,3,Away,,-,0
+2009,Mount Ida,27901,Newbury,21772,01/24/2009,0,3,Away,,-,0
+2009,Mount Ida,27901,Emmanuel (MA),215,01/24/2009,1,3,Neutral,"Brookline, MA",1 Sets,0
+2009,Mount Ida,27901,Lesley,24317,01/30/2009,3,0,Home,,-,0
+2009,Mount Ida,27901,Emerson,214,02/04/2009,3,2,Home,,2 Sets,0
+2009,Mount Ida,27901,Albertus Magnus,2798,02/08/2009,3,0,Home,,-,0
+2009,Mount Ida,27901,Johnson & Wales (RI),22626,02/11/2009,0,3,Away,,-,50
+2009,Mount Ida,27901,Daniel Webster,2691,02/13/2009,1,3,Home,,1 Sets,0
+2009,Mount Ida,27901,Lasell,8486,02/17/2009,0,3,Home,,-,0
+2009,Mount Ida,27901,MIT,398,02/21/2009,0,3,Away,,-,0
+2009,Mount Ida,27901,Southern Vt.,1379,02/21/2009,3,0,Home,,-,0
+2009,Mount Ida,27901,Johnson & Wales (RI),22626,02/23/2009,3,0,Home,,-,50
+2009,Mount Ida,27901,Emmanuel (MA),215,02/25/2009,0,3,Home,,-,0
+2009,Mount Ida,27901,Polytechnic (NY),481,02/27/2009,3,1,Neutral,"Annandale-On-Hudson, NY",1 Sets,0
+2009,Mount Ida,27901,Bard,962,02/27/2009,1,3,Away,,1 Sets,0
+2009,Mount Ida,27901,Purchase St.,30029,02/28/2009,2,3,Neutral,"Annandale-On-Hudson, NY",2 Sets,0
+2009,Mount Ida,27901,Emerson,214,03/03/2009,3,0,Away,,-,0
+2009,Mount Ida,27901,New Haven,470,03/07/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Mount Ida,27901,Hilbert,8398,03/07/2009,3,2,Neutral,"Cambridge, MA",2 Sets,0
+2009,Mount Ida,27901,Bard,962,03/07/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Mount Ida,27901,Mt. St. Vincent,451,03/08/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Mount Ida,27901,Rivier,18422,03/19/2009,0,3,Home,,-,0
+2009,Mount Ida,27901,Rivier,18422,03/19/2009,0,3,Home,,-,0
+2009,Mount Ida,27901,Albertus Magnus,2798,03/22/2009,3,0,Away,,-,0
+2009,Mount Ida,27901,MIT,398,03/22/2009,0,3,Home,,-,0
+2009,Mount Ida,27901,Lasell,8486,03/24/2009,0,3,Away,,-,83
+2009,Mount Olive,1245,King (TN),30051,01/16/2009,3,0,Home,,-,0
+2009,Mount Olive,1245,Lees-McRae,13302,01/17/2009,3,2,Home,,2 Sets,0
+2009,Mount Olive,1245,Grand Canyon,1104,01/17/2009,3,2,Home,,2 Sets,0
+2009,Mount Olive,1245,East. Mennonite,203,01/23/2009,2,3,Away,,2 Sets,539
+2009,Mount Olive,1245,Juniata,325,01/24/2009,0,3,Away,,-,675
+2009,Mount Olive,1245,NJIT,471,01/30/2009,3,1,Neutral,"Newark, NJ",1 Sets,220
+2009,Mount Olive,1245,Rutgers-Newark,589,01/31/2009,0,3,Away,,-,167
+2009,Mount Olive,1245,East. Mennonite,203,02/05/2009,3,1,Home,,1 Sets,0
+2009,Mount Olive,1245,Grand Canyon,1104,02/20/2009,3,0,Neutral,"Banner Elk, NC",-,0
+2009,Mount Olive,1245,Lees-McRae,13302,02/21/2009,0,3,Away,,-,0
+2009,Mount Olive,1245,King (TN),30051,02/21/2009,3,1,Neutral,"Banner Elk, NC",1 Sets,0
+2009,Mount Olive,1245,East. Mennonite,203,02/27/2009,3,1,Home,,1 Sets,0
+2009,Mount Olive,1245,York (PA),815,02/28/2009,3,0,Home,,-,0
+2009,Mount Olive,1245,Lancaster Bible,30085,03/13/2009,3,0,Away,,-,0
+2009,Mount Olive,1245,Saint Francis (PA),600,03/14/2009,1,3,Away,,1 Sets,251
+2009,Mount Olive,1245,Stevens,679,03/20/2009,3,2,Away,,2 Sets,50
+2009,Mount Olive,1245,East Stroudsburg,197,03/21/2009,2,3,Away,,2 Sets,75
+2009,Mount Olive,1245,Penn St.,539,03/28/2009,0,3,Away,,-,891
+2009,Mount Olive,1245,East Stroudsburg,197,03/29/2009,2,3,Away,,2 Sets,95
+2009,Mount Olive,1245,King (TN),30051,04/03/2009,0,3,Away,,-,0
+2009,Mount Olive,1245,Lees-McRae,13302,04/04/2009,1,3,Away,,1 Sets,0
+2009,MSOE,20220,Baruch,58,01/17/2009,2,3,Home,,2 Sets,108
+2009,MSOE,20220,Rivier,18422,01/17/2009,0,3,Home,,-,88
+2009,MSOE,20220,Medaille,23725,01/18/2009,1,3,Home,,1 Sets,87
+2009,MSOE,20220,Endicott,8981,01/18/2009,3,0,Home,,-,83
+2009,MSOE,20220,Clarke,1020,01/23/2009,0,3,Home,,-,86
+2009,MSOE,20220,Cardinal Stritch,,01/28/2009,0,3,Home,,-,83
+2009,MSOE,20220,Fontbonne,11538,01/31/2009,3,0,Away,,-,78
+2009,MSOE,20220,Carthage,121,02/03/2009,0,3,Away,,-,250
+2009,MSOE,20220,Loyola Chicago,371,02/04/2009,0,3,Away,,-,220
+2009,MSOE,20220,Ball St.,47,02/13/2009,0,3,Away,,-,816
+2009,MSOE,20220,Cardinal Stritch,,02/18/2009,0,3,Away,,-,35
+2009,MSOE,20220,Ball St.,47,02/20/2009,0,3,Home,,-,188
+2009,MSOE,20220,Hilbert,8398,03/03/2009,3,0,Away,,-,52
+2009,MSOE,20220,SUNYIT,9500,03/04/2009,3,0,Away,,-,68
+2009,MSOE,20220,Nazareth,461,03/06/2009,1,3,Away,,1 Sets,250
+2009,MSOE,20220,Ramapo,564,03/07/2009,3,1,Away,,1 Sets,10
+2009,MSOE,20220,D'Youville,1059,03/08/2009,3,0,Away,,-,50
+2009,MSOE,20220,Medaille,23725,03/08/2009,3,0,Away,,-,58
+2009,MSOE,20220,Nazareth,461,03/13/2009,1,3,Neutral,"Kenosha, WI",1 Sets,45
+2009,MSOE,20220,New York U.,479,03/13/2009,1,3,Neutral,"Kenosha, WI",1 Sets,57
+2009,MSOE,20220,UC Santa Cruz,113,03/14/2009,0,3,Neutral,"Kenosha, WI",-,45
+2009,MSOE,20220,Phila. Biblical,1305,03/14/2009,0,3,Neutral,"Kenosha, WI",-,25
+2009,MSOE,20220,Clarke,1020,03/21/2009,2,3,Away,,2 Sets,78
+2009,MSOE,20220,Quincy,561,03/21/2009,2,3,Neutral,"Dubuque, IA",2 Sets,75
+2009,MSOE,20220,Carthage,121,03/25/2009,2,3,Home,,2 Sets,52
+2009,MSOE,20220,Fontbonne,11538,03/27/2009,3,0,Home,,-,68
+2009,MSOE,20220,Quincy,561,03/28/2009,3,2,Home,,2 Sets,0
+2009,MSOE,20220,Fontbonne,11538,04/04/2009,3,0,Neutral,"Kenosha, WI",-,45
+2009,MSOE,20220,Carthage,121,04/04/2009,0,3,Away,,-,250
+2009,Mt. St. Vincent,451,Polytechnic (NY),481,01/14/2009,3,1,Away,,1 Sets,0
+2009,Mt. St. Vincent,451,Hunter,292,01/15/2009,0,3,Home,,-,65
+2009,Mt. St. Vincent,451,Stevens,679,01/21/2009,0,3,Away,,-,100
+2009,Mt. St. Vincent,451,CCNY,480,01/27/2009,3,0,Away,,-,0
+2009,Mt. St. Vincent,451,Bard,962,01/29/2009,3,0,Away,,-,0
+2009,Mt. St. Vincent,451,King (TN),30051,01/31/2009,0,3,Neutral,"Stevenson, MD",-,0
+2009,Mt. St. Vincent,451,Baruch,58,01/31/2009,0,3,Neutral,"Stevenson, MD",-,0
+2009,Mt. St. Vincent,451,Stevenson,21852,01/31/2009,1,3,Away,,1 Sets,0
+2009,Mt. St. Vincent,451,Ramapo,564,02/05/2009,0,3,Away,,-,40
+2009,Mt. St. Vincent,451,Medgar Evers,403,02/08/2009,3,0,Away,,-,0
+2009,Mt. St. Vincent,451,New Jersey City,319,02/09/2009,1,3,Home,,1 Sets,25
+2009,Mt. St. Vincent,451,Yeshiva,814,02/12/2009,3,0,Away,,-,0
+2009,Mt. St. Vincent,451,York (NY),2730,02/14/2009,3,1,Away,,1 Sets,25
+2009,Mt. St. Vincent,451,Vassar,737,02/18/2009,0,3,Away,,-,86
+2009,Mt. St. Vincent,451,Purchase St.,30029,02/20/2009,3,1,Away,,1 Sets,50
+2009,Mt. St. Vincent,451,Lehman,279,02/23/2009,3,0,Home,,-,27
+2009,Mt. St. Vincent,451,Baruch,58,03/01/2009,0,3,Home,,-,25
+2009,Mt. St. Vincent,451,Polytechnic (NY),481,03/03/2009,3,0,Home,,-,25
+2009,Mt. St. Vincent,451,Yeshiva,814,03/05/2009,3,0,Home,,-,27
+2009,Mt. St. Vincent,451,MIT,398,03/07/2009,0,3,Away,,-,0
+2009,Mt. St. Vincent,451,Emmanuel (MA),215,03/07/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Mt. St. Vincent,451,Mount Ida,27901,03/08/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,Mt. St. Vincent,451,Lasell,8486,03/08/2009,1,3,Neutral,"Cambridge, MA",1 Sets,0
+2009,Mt. St. Vincent,451,SUNY New Paltz,475,03/10/2009,0,3,Home,,-,34
+2009,Mt. St. Vincent,451,Bard,962,03/11/2009,3,1,Home,,1 Sets,47
+2009,Mt. St. Vincent,451,Purchase St.,30029,03/12/2009,3,1,Home,,1 Sets,0
+2009,Mt. St. Vincent,451,Yeshiva,814,03/15/2009,3,0,Home,,-,25
+2009,Mt. St. Vincent,451,Bard,962,03/15/2009,3,1,Home,,1 Sets,35
+2009,Mt. St. Vincent,451,Hunter,292,04/11/2009,0,3,Neutral,"Stevenson, MD",-,52
+2009,Nazareth,461,Saint Francis (PA),600,01/10/2009,0,3,Away,,-,253
+2009,Nazareth,461,SUNYIT,9500,01/20/2009,3,0,Home,,-,117
+2009,Nazareth,461,Hunter,292,01/23/2009,3,2,Neutral,"Hoboken, NJ",2 Sets,50
+2009,Nazareth,461,Stevens,679,01/24/2009,0,3,Away,,-,100
+2009,Nazareth,461,New York U.,479,01/24/2009,3,1,Neutral,"Hoboken, NJ",1 Sets,70
+2009,Nazareth,461,D'Youville,1059,01/29/2009,3,0,Home,,-,0
+2009,Nazareth,461,Medaille,23725,02/03/2009,3,1,Home,,1 Sets,0
+2009,Nazareth,461,Hilbert,8398,02/04/2009,3,0,Away,,-,101
+2009,Nazareth,461,SUNYIT,9500,02/10/2009,3,0,Away,,-,75
+2009,Nazareth,461,UC Santa Cruz,113,02/13/2009,2,3,Home,,2 Sets,0
+2009,Nazareth,461,SUNY New Paltz,475,02/13/2009,3,1,Home,,1 Sets,0
+2009,Nazareth,461,Carthage,121,02/14/2009,3,0,Home,,-,0
+2009,Nazareth,461,East. Mennonite,203,02/14/2009,3,0,Home,,-,0
+2009,Nazareth,461,Medaille,23725,02/17/2009,3,1,Away,,1 Sets,85
+2009,Nazareth,461,Johnson & Wales (RI),22626,02/20/2009,3,0,Neutral,"Poughkeepsie, NY",-,0
+2009,Nazareth,461,Elms,532,02/20/2009,3,0,Neutral,"Poughkeepsie, NY",-,88
+2009,Nazareth,461,Vassar,737,02/21/2009,1,3,Away,,1 Sets,206
+2009,Nazareth,461,Phila. Biblical,1305,02/21/2009,3,0,Neutral,"Poughkeepsie, NY",-,30
+2009,Nazareth,461,D'Youville,1059,02/25/2009,3,0,Away,,-,105
+2009,Nazareth,461,Hilbert,8398,03/04/2009,3,0,Home,,-,0
+2009,Nazareth,461,Milwaukee Engr.,20220,03/06/2009,3,1,Home,,1 Sets,0
+2009,Nazareth,461,Quincy,561,03/08/2009,3,1,Home,,1 Sets,0
+2009,Nazareth,461,Ramapo,564,03/08/2009,3,2,Home,,2 Sets,300
+2009,Nazareth,461,Phila. Biblical,1305,03/13/2009,3,1,Neutral,"Kenosha, WI",1 Sets,0
+2009,Nazareth,461,Milwaukee Engr.,20220,03/13/2009,3,1,Neutral,"Kenosha, WI",1 Sets,0
+2009,Nazareth,461,New York U.,479,03/14/2009,3,1,Neutral,"Kenosha, WI",1 Sets,0
+2009,Nazareth,461,Carthage,121,03/14/2009,3,1,Away,,1 Sets,0
+2009,Nazareth,461,Phila. Biblical,1305,03/28/2009,3,0,Home,,-,0
+2009,Nazareth,461,Medaille,23725,03/28/2009,3,0,Home,,-,0
+2009,Nazareth,461,Emmanuel (MA),215,04/03/2009,3,0,Neutral,"Cambridge, MA",-,120
+2009,Nazareth,461,Phila. Biblical,1305,04/04/2009,3,0,Neutral,"Cambridge, MA",-,40
+2009,Nazareth,461,Vassar,737,04/04/2009,3,1,Home,,1 Sets,0
+2009,Nazareth,461,Stevens,679,04/05/2009,1,3,Neutral,"Cambridge, MA",1 Sets,100
+2009,New Haven,470,Ramapo,564,01/31/2009,0,3,Away,,-,75
+2009,New Haven,470,Polytechnic (NY),481,01/31/2009,3,0,Neutral,"Mahwah, NJ",-,50
+2009,New Haven,470,Lasell,8486,02/05/2009,3,2,Home,,2 Sets,153
+2009,New Haven,470,Newbury,21772,02/09/2009,1,3,Away,,1 Sets,63
+2009,New Haven,470,Endicott,8981,02/12/2009,0,3,Home,,-,102
+2009,New Haven,470,Baruch,58,02/24/2009,0,3,Away,,-,25
+2009,New Haven,470,Rivier,18422,02/27/2009,0,3,Home,,-,156
+2009,New Haven,470,Sacred Heart,590,03/01/2009,0,3,Away,,-,195
+2009,New Haven,470,Sacred Heart,590,03/04/2009,0,3,Home,,-,72
+2009,New Haven,470,Mount Ida,27901,03/07/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,New Haven,470,Lasell,8486,03/07/2009,2,3,Neutral,"Cambridge, MA",2 Sets,40
+2009,New Haven,470,Hilbert,8398,03/08/2009,3,0,Neutral,"Cambridge, MA",-,0
+2009,New Haven,470,Emmanuel (MA),215,03/08/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,New Haven,470,Elms,532,03/10/2009,0,3,Home,,-,145
+2009,New Haven,470,Lasell,8486,03/12/2009,1,3,Away,,1 Sets,78
+2009,New Haven,470,SUNY New Paltz,475,03/26/2009,0,3,Home,,-,65
+2009,New Haven,470,Hunter,292,03/28/2009,1,3,Away,,-,50
+2009,New Haven,470,Rivier,18422,03/31/2009,0,3,Away,,-,0
+2009,New Haven,470,Endicott,8981,04/01/2009,0,3,Away,,-,118
+2009,New Jersey City,319,Lehman,279,01/22/2009,3,0,Home,,-,70
+2009,New Jersey City,319,Baruch,58,01/27/2009,0,3,Home,,-,65
+2009,New Jersey City,319,Brooklyn,79,01/29/2009,3,0,Home,,-,30
+2009,New Jersey City,319,CCNY,480,01/30/2009,3,0,Home,,-,40
+2009,New Jersey City,319,Medgar Evers,403,02/01/2009,3,0,Home,,-,30
+2009,New Jersey City,319,York (NY),2730,02/04/2009,3,0,Away,,-,10
+2009,New Jersey City,319,Purchase St.,30029,02/05/2009,3,0,Away,,-,35
+2009,New Jersey City,319,Wentworth Inst.,762,02/07/2009,3,0,Home,,-,80
+2009,New Jersey City,319,Stevenson,21852,02/07/2009,0,3,Home,,-,90
+2009,New Jersey City,319,SUNY New Paltz,475,02/07/2009,1,3,Home,,1 Sets,90
+2009,New Jersey City,319,Mt. St. Vincent,451,02/09/2009,3,1,Away,,1 Sets,25
+2009,New Jersey City,319,Polytechnic (NY),481,02/11/2009,3,0,Away,,-,15
+2009,New Jersey City,319,Emmanuel (MA),215,02/14/2009,3,2,Neutral,"Beverly, MA",2 Sets,28
+2009,New Jersey City,319,Endicott,8981,02/14/2009,0,3,Away,,-,50
+2009,New Jersey City,319,MIT,398,02/15/2009,0,3,Neutral,"Beverly, MA",-,20
+2009,New Jersey City,319,Rivier,18422,02/15/2009,0,3,Neutral,"Beverly, MA",-,30
+2009,New Jersey City,319,Brooklyn,79,02/17/2009,3,1,Away,,1 Sets,22
+2009,New Jersey City,319,Stevenson,21852,02/21/2009,1,3,Away,,1 Sets,29
+2009,New Jersey City,319,Hilbert,8398,02/21/2009,3,2,Neutral,"Stevenson, MD",2 Sets,31
+2009,New Jersey City,319,SUNY New Paltz,475,02/26/2009,0,3,Away,,-,46
+2009,New Jersey City,319,Hunter,292,03/05/2009,3,2,Away,,2 Sets,50
+2009,New Jersey City,319,Lancaster Bible,30085,03/06/2009,3,1,Home,,1 Sets,30
+2009,New Jersey City,319,Vassar,737,03/07/2009,0,3,Away,,-,50
+2009,New Jersey City,319,Yeshiva,814,03/08/2009,3,0,Away,,-,14
+2009,New Jersey City,319,Bard,962,03/10/2009,3,2,Away,,2 Sets,75
+2009,New Jersey City,319,Ramapo,564,03/11/2009,0,3,Home,,-,53
+2009,New Jersey City,319,King (TN),30051,03/13/2009,1,3,Neutral,"Jamaica, NY",1 Sets,50
+2009,New Jersey City,319,Stevenson,21852,03/13/2009,3,2,Neutral,"Jamaica, NY",2 Sets,50
+2009,New Jersey City,319,SUNYIT,9500,03/14/2009,3,1,Neutral,"Jamaica, NY",1 Sets,81
+2009,New Jersey City,319,Quincy,561,03/14/2009,0,3,Neutral,"Jamaica, NY",-,50
+2009,New Jersey City,319,SUNY New Paltz,475,03/19/2009,0,3,Home,,-,21
+2009,New Jersey City,319,Lancaster Bible,30085,03/21/2009,3,1,Away,,1 Sets,48
+2009,New Jersey City,319,SUNYIT,9500,03/21/2009,3,1,Neutral,"Lancaster, PA",1 Sets,35
+2009,New Jersey City,319,Stevens,679,03/23/2009,0,3,Home,,-,53
+2009,New Jersey City,319,Ramapo,564,04/08/2009,0,3,Away,,-,100
+2009,New Jersey City,319,Stevenson,21852,04/11/2009,2,3,Away,,2 Sets,63
+2009,Newbury,21772,Johnson & Wales (RI),22626,01/15/2009,3,0,Away,,-,75
+2009,Newbury,21772,Ramapo,564,01/18/2009,2,3,Away,,2 Sets,80
+2009,Newbury,21772,Hunter,292,01/18/2009,3,1,Neutral,"Mahwah, NJ",1 Sets,40
+2009,Newbury,21772,Vassar,737,01/19/2009,3,2,Home,,2 Sets,107
+2009,Newbury,21772,Emmanuel (MA),215,01/24/2009,3,2,Home,,2 Sets,86
+2009,Newbury,21772,Mount Ida,27901,01/24/2009,3,0,Home,,-,38
+2009,Newbury,21772,Lasell,8486,01/27/2009,3,0,Away,,-,133
+2009,Newbury,21772,Elms,532,01/31/2009,3,1,Away,,1 Sets,222
+2009,Newbury,21772,MIT,398,02/03/2009,3,1,Home,,1 Sets,63
+2009,Newbury,21772,Wentworth Inst.,762,02/05/2009,3,0,Away,,-,55
+2009,Newbury,21772,Stevenson,21852,02/07/2009,3,0,Neutral,"Jersey City, NJ",-,50
+2009,Newbury,21772,SUNY New Paltz,475,02/07/2009,3,0,Neutral,"Jersey City, NJ",-,90
+2009,Newbury,21772,SUNYIT,9500,02/07/2009,3,0,Neutral,"Jersey City, NJ",-,90
+2009,Newbury,21772,New Haven,470,02/09/2009,3,1,Home,,1 Sets,63
+2009,Newbury,21772,Emerson,214,02/12/2009,3,0,Home,,-,37
+2009,Newbury,21772,Lesley,24317,02/14/2009,3,0,Home,,-,67
+2009,Newbury,21772,Southern Vt.,1379,02/14/2009,3,0,Away,,-,61
+2009,Newbury,21772,Harvard,275,02/17/2009,2,3,Away,,2 Sets,104
+2009,Newbury,21772,Endicott,8981,02/19/2009,0,3,Away,,-,89
+2009,Newbury,21772,Rivier,18422,02/21/2009,1,3,Away,,1 Sets,150
+2009,Newbury,21772,Elms,532,02/26/2009,1,3,Home,,1 Sets,29
+2009,Newbury,21772,Daniel Webster,2691,03/03/2009,3,0,Home,,-,98
+2009,Newbury,21772,MIT,398,03/05/2009,1,3,Away,,1 Sets,40
+2009,Newbury,21772,Hope Int'l,,03/09/2009,0,3,Away,,-,100
+2009,Newbury,21772,Cal Baptist,,03/10/2009,1,3,Away,,1 Sets,74
+2009,Newbury,21772,Hope Int'l,,03/11/2009,1,3,Away,,1 Sets,70
+2009,Newbury,21772,Emmanuel (MA),215,03/17/2009,0,3,Away,,-,100
+2009,Newbury,21772,Daniel Webster,2691,03/19/2009,3,1,Away,,1 Sets,50
+2009,Newbury,21772,Lesley,24317,03/21/2009,3,0,Home,,-,0
+2009,Newbury,21772,Southern Vt.,1379,03/21/2009,3,0,Home,,-,100
+2009,Newbury,21772,Endicott,8981,03/24/2009,3,1,Home,,1 Sets,64
+2009,Newbury,21772,Wentworth Inst.,762,03/26/2009,3,1,Home,,1 Sets,72
+2009,Newbury,21772,Lesley,24317,03/28/2009,3,0,Home,,-,38
+2009,Newbury,21772,Elms,532,03/28/2009,1,3,Home,,1 Sets,61
+2009,Newbury,21772,Phila. Biblical,1305,04/03/2009,1,3,Neutral,"Cambridge, MA",1 Sets,100
+2009,Newbury,21772,Elms,532,04/11/2009,2,3,Away,,2 Sets,43
+2009,Newbury,21772,Endicott,8981,04/11/2009,3,0,Neutral,"Chicopee, MA",-,43
+2009,NJIT,471,East Stroudsburg,197,01/23/2009,3,1,Home,,1 Sets,580
+2009,NJIT,471,New York U.,479,01/27/2009,3,1,Away,,1 Sets,182
+2009,NJIT,471,Mount Olive,1245,01/30/2009,1,3,Neutral,"Newark, NJ",1 Sets,220
+2009,NJIT,471,East Stroudsburg,197,01/31/2009,3,1,Neutral,"Newark, NJ",1 Sets,167
+2009,NJIT,471,Saint Francis (PA),600,02/06/2009,0,3,Away,,-,156
+2009,NJIT,471,Juniata,325,02/07/2009,1,3,Away,,1 Sets,540
+2009,NJIT,471,Springfield,673,02/10/2009,2,3,Home,,2 Sets,200
+2009,NJIT,471,Princeton,554,02/17/2009,0,3,Home,,-,300
+2009,NJIT,471,George Mason,248,02/21/2009,0,3,Home,,-,108
+2009,NJIT,471,Rutgers-Newark,589,02/25/2009,0,3,Home,,-,250
+2009,NJIT,471,Penn St.,539,02/28/2009,0,3,Away,,-,571
+2009,NJIT,471,Springfield,673,03/06/2009,0,3,Away,,-,185
+2009,NJIT,471,Harvard,275,03/07/2009,1,3,Away,,1 Sets,93
+2009,NJIT,471,Rutgers-Newark,589,03/09/2009,0,3,Away,,-,150
+2009,NJIT,471,Hope Int'l,,03/13/2009,0,3,Away,,-,50
+2009,NJIT,471,Southern California,657,03/14/2009,0,3,Away,,-,100
+2009,NJIT,471,Cal St. Northridge,101,03/17/2009,0,3,Away,,-,128
+2009,NJIT,471,Hawaii,277,03/20/2009,0,3,Away,,-,"2,296"
+2009,NJIT,471,Hawaii,277,03/21/2009,0,3,Away,,-,"2,351"
+2009,NJIT,471,Saint Francis (PA),600,03/27/2009,0,3,Home,,-,129
+2009,NJIT,471,Juniata,325,03/28/2009,0,3,Home,,-,117
+2009,NJIT,471,East Stroudsburg,197,03/31/2009,0,3,Away,,-,115
+2009,NJIT,471,Penn St.,539,04/04/2009,0,3,Home,,-,200
+2009,NJIT,471,Princeton,554,04/07/2009,0,3,Away,,-,105
+2009,NJIT,471,New York U.,479,04/14/2009,0,3,Home,,-,300
+2009,NJIT,471,George Mason,248,04/18/2009,0,3,Away,,-,0
+2009,NJIT,471,IPFW,308,01/08/2010,0,3,Away,,-,371
+2009,NJIT,471,IPFW,308,01/09/2010,0,3,Away,,-,308
+2009,NJIT,471,Saint Francis,,01/22/2010,0,3,Neutral,"Newark, NJ",-,60
+2009,NJIT,471,Lewis,354,01/23/2010,0,3,Neutral,"Newark, NJ",-,115
+2009,NJIT,471,Sacred Heart,590,02/03/2010,1,3,Away,,1 Sets,187
+2009,NJIT,471,Princeton,554,02/05/2010,0,3,Home,,-,75
+2009,NJIT,471,Springfield,673,02/09/2010,0,3,Away,,-,110
+2009,NJIT,471,NYU,,02/16/2010,3,1,Home,,1 Sets,200
+2009,NJIT,471,Sacred Heart,590,02/19/2010,2,3,Home,,2 Sets,124
+2009,NJIT,471,Rutgers-Newark,589,02/23/2010,0,3,Away,,-,85
+2009,NJIT,471,Rutgers-Newark,589,03/02/2010,0,3,Home,,-,115
+2009,NJIT,471,Harvard,275,03/06/2010,0,3,Home,,-,84
+2009,NJIT,471,King College,,03/11/2010,2,3,Home,,2 Sets,55
+2009,NJIT,471,Nazareth,461,03/12/2010,0,3,Away,,-,0
+2009,NJIT,471,D'Youville College,,03/13/2010,3,2,Away,,2 Sets,50
+2009,NJIT,471,PACIFIC,,03/19/2010,0,3,Away,,-,129
+2009,NJIT,471,PACIFIC,,03/20/2010,0,3,Away,,-,150
+2009,NJIT,471,Stevens Tech,,03/24/2010,1,3,Home,,1 Sets,151
+2009,NYU,479,Stevens,679,01/14/2009,1,3,Home,,1 Sets,120
+2009,NYU,479,George Mason,248,01/15/2009,0,3,Away,,-,137
+2009,NYU,479,Saint Francis (PA),600,01/16/2009,0,3,Away,,-,240
+2009,NYU,479,Stevens,679,01/23/2009,0,3,Away,,-,85
+2009,NYU,479,Hunter,292,01/24/2009,3,2,Neutral,"Hoboken, NJ",2 Sets,185
+2009,NYU,479,Nazareth,461,01/24/2009,1,3,Neutral,"Hoboken, NJ",1 Sets,70
+2009,NYU,479,NJIT,471,01/27/2009,1,3,Home,,1 Sets,182
+2009,NYU,479,Juniata,325,01/31/2009,0,3,Home,,-,386
+2009,NYU,479,Vassar,737,02/03/2009,1,3,Home,,1 Sets,78
+2009,NYU,479,Harvard,275,02/06/2009,3,2,Away,,2 Sets,108
+2009,NYU,479,Princeton,554,02/10/2009,1,3,Away,,1 Sets,95
+2009,NYU,479,Sacred Heart,590,02/14/2009,3,1,Home,,1 Sets,142
+2009,NYU,479,Rutgers-Newark,589,02/18/2009,0,3,Away,,-,0
+2009,NYU,479,Springfield,673,02/21/2009,1,3,Home,,1 Sets,180
+2009,NYU,479,Stevens,679,02/25/2009,1,3,Away,,1 Sets,150
+2009,NYU,479,Juniata,325,02/28/2009,0,3,Away,,-,270
+2009,NYU,479,Rutgers-Newark,589,03/11/2009,0,3,Home,,-,140
+2009,NYU,479,UC Santa Cruz,113,03/13/2009,1,3,Neutral,"Kenosha, WI",1 Sets,54
+2009,NYU,479,Milwaukee Engr.,20220,03/13/2009,3,1,Neutral,"Kenosha, WI",1 Sets,110
+2009,NYU,479,Carthage,121,03/14/2009,3,1,Away,,1 Sets,115
+2009,NYU,479,Nazareth,461,03/14/2009,1,3,Neutral,"Kenosha, WI",1 Sets,80
+2009,NYU,479,Lewis,354,03/15/2009,0,3,Away,,-,380
+2009,NYU,479,Vassar,737,03/24/2009,3,2,Away,,2 Sets,135
+2009,NYU,479,Harvard,275,03/28/2009,2,3,Home,,2 Sets,212
+2009,NYU,479,Princeton,554,03/31/2009,1,3,Home,,1 Sets,120
+2009,NYU,479,East Stroudsburg,197,04/02/2009,3,2,Home,,2 Sets,586
+2009,NYU,479,Springfield,673,04/04/2009,3,2,Away,,2 Sets,312
+2009,NYU,479,Sacred Heart,590,04/05/2009,3,2,Away,,2 Sets,145
+2009,NYU,479,NJIT,471,04/14/2009,3,0,Away,,-,300
+2009,NYU,479,East Stroudsburg,197,04/17/2009,0,3,Away,,-,100
+2009,NYU,479,Saint Francis,,01/12/2010,0,3,Away,,-,425
+2009,NYU,479,Stevens Tech,,01/20/2010,0,3,Home,,-,228
+2009,NYU,479,Rutgers-Newark,589,01/27/2010,0,3,Home,,-,85
+2009,NYU,479,Vassar,737,02/02/2010,3,0,Away,,-,90
+2009,NYU,479,Juniata,325,02/06/2010,0,3,Away,,-,630
+2009,NYU,479,Princeton,554,02/09/2010,2,3,Away,,2 Sets,75
+2009,NYU,479,NJIT,471,02/16/2010,1,3,Away,,1 Sets,200
+2009,NYU,479,Sacred Heart,590,02/17/2010,0,3,Home,,-,55
+2009,NYU,479,Springfield,673,02/20/2010,0,3,Home,,-,200
+2009,NYU,479,Stevens Tech,,02/24/2010,3,1,Away,,1 Sets,45
+2009,NYU,479,Juniata,325,02/27/2010,0,3,Home,,-,430
+2009,NYU,479,Rutgers-Newark,589,03/09/2010,0,3,Away,,-,89
+2009,NYU,479,Carthage College,,03/19/2010,0,3,Away,,-,120
+2009,NYU,479,Mount St. Joseph,,03/19/2010,3,0,Neutral,"Kenosha, WI",-,30
+2009,NYU,479,Nazareth,461,03/20/2010,1,3,Neutral,"Kenosha, WI",1 Sets,50
+2009,NYU,479,MSOE Raiders,,03/20/2010,0,3,Away,,-,85
+2009,NYU,479,Vassar,737,03/23/2010,3,1,Home,,1 Sets,60
+2009,NYU,479,Harvard,275,03/27/2010,1,3,Away,,1 Sets,162
+2009,NYU,479,Sacred Heart,590,03/28/2010,1,3,Away,,1 Sets,219
+2009,NYU,479,Princeton,554,03/30/2010,1,3,Home,,1 Sets,285
+2009,NYU,479,Springfield,673,04/03/2010,0,3,Away,,-,145
+2009,NYU,479,Harvard,275,04/10/2010,3,2,Home,,2 Sets,240
+2009,Ohio St.,518,Hawaii,277,01/08/2009,0,3,Away,,-,"2,490"
+2009,Ohio St.,518,Penn St.,539,01/09/2009,0,3,Neutral,"Honolulu, HI",-,"2,823"
+2009,Ohio St.,518,Southern California,657,01/10/2009,1,3,Neutral,"Honolulu, HI",1 Sets,"2,765"
+2009,Ohio St.,518,Stanford,674,01/16/2009,0,3,Home,,-,913
+2009,Ohio St.,518,Juniata,325,01/18/2009,3,0,Home,,-,224
+2009,Ohio St.,518,Saint Francis (PA),600,01/25/2009,3,2,Away,,2 Sets,955
+2009,Ohio St.,518,IPFW,308,01/31/2009,3,0,Away,,-,769
+2009,Ohio St.,518,Rutgers-Newark,589,02/05/2009,3,0,Home,,-,186
+2009,Ohio St.,518,George Mason,248,02/06/2009,2,3,Home,,2 Sets,697
+2009,Ohio St.,518,Penn St.,539,02/14/2009,0,3,Away,,-,"4,170"
+2009,Ohio St.,518,Quincy,561,02/19/2009,3,0,Home,,-,253
+2009,Ohio St.,518,Quincy,561,02/20/2009,3,0,Home,,-,357
+2009,Ohio St.,518,Loyola Chicago,371,02/27/2009,3,0,Home,,-,527
+2009,Ohio St.,518,Lewis,354,02/28/2009,1,3,Home,,1 Sets,475
+2009,Ohio St.,518,Juniata,325,03/04/2009,2,3,Away,,2 Sets,745
+2009,Ohio St.,518,Ball St.,47,03/11/2009,3,2,Home,,2 Sets,572
+2009,Ohio St.,518,George Mason,248,03/20/2009,1,3,Away,,1 Sets,510
+2009,Ohio St.,518,Rutgers-Newark,589,03/21/2009,3,0,Away,,-,0
+2009,Ohio St.,518,Ball St.,47,03/27/2009,3,2,Away,,2 Sets,"1,217"
+2009,Ohio St.,518,Loyola Chicago,371,04/03/2009,3,0,Away,,-,920
+2009,Ohio St.,518,Lewis,354,04/04/2009,3,1,Away,,1 Sets,"1,326"
+2009,Ohio St.,518,IPFW,308,04/10/2009,3,0,Home,,-,515
+2009,Ohio St.,518,Saint Francis (PA),600,04/17/2009,3,1,Home,,1 Sets,395
+2009,Ohio St.,518,Penn St.,539,04/18/2009,0,3,Home,,-,"1,382"
+2009,Ohio St.,518,Loyola Chicago,371,04/30/2009,3,0,Home,,-,511
+2009,Ohio St.,518,Ball St.,47,05/02/2009,3,0,Home,,-,610
+2009,Ohio St.,518,UC Irvine,109,05/07/2009,0,3,Neutral,"Provo, Utah",-,"2,564"
+2009,Pacific,534,UC Santa Cruz,113,01/07/2009,3,0,Away,,-,350
+2009,Pacific,534,UC Santa Barbara,104,01/09/2009,1,3,Away,,1 Sets,133
+2009,Pacific,534,UCLA,110,01/09/2009,0,3,Neutral,"Santa Barbara, CA",-,135
+2009,Pacific,534,BYU,77,01/10/2009,0,3,Away,"Santa Barbara, CA",-,88
+2009,Pacific,534,Stanford,674,01/14/2009,0,3,Home,,-,164
+2009,Pacific,534,UC Santa Cruz,113,01/16/2009,3,2,Home,,2 Sets,166
+2009,Pacific,534,Pepperdine,541,01/23/2009,0,3,Away,,-,974
+2009,Pacific,534,Southern California,657,01/24/2009,0,3,Away,,-,450
+2009,Pacific,534,UC San Diego,112,01/30/2009,0,3,Home,,-,256
+2009,Pacific,534,Long Beach St.,99,01/31/2009,1,3,Home,,1 Sets,232
+2009,Pacific,534,UCLA,110,02/06/2009,1,3,Away,,1 Sets,586
+2009,Pacific,534,UC Irvine,109,02/07/2009,1,3,Away,,1 Sets,282
+2009,Pacific,534,Pepperdine,541,02/11/2009,0,3,Home,,-,275
+2009,Pacific,534,Southern California,657,02/13/2009,0,3,Home,,-,171
+2009,Pacific,534,Cal St. Northridge,101,02/19/2009,0,3,Away,,-,306
+2009,Pacific,534,UC Santa Barbara,104,02/20/2009,0,3,Away,,-,242
+2009,Pacific,534,BYU,77,02/27/2009,1,3,Home,,1 Sets,330
+2009,Pacific,534,BYU,77,02/28/2009,0,3,Home,,-,302
+2009,Pacific,534,IPFW,308,03/06/2009,1,3,Away,,1 Sets,386
+2009,Pacific,534,IPFW,308,03/07/2009,1,3,Away,,1 Sets,435
+2009,Pacific,534,Juniata,325,03/10/2009,3,1,Home,,1 Sets,86
+2009,Pacific,534,Cal Baptist,,03/20/2009,1,3,Home,,1 Sets,240
+2009,Pacific,534,UC Santa Barbara,104,03/27/2009,0,3,Home,,-,152
+2009,Pacific,534,Cal St. Northridge,101,03/28/2009,0,3,Home,,-,127
+2009,Pacific,534,Stanford,674,03/31/2009,0,3,Away,,-,225
+2009,Pacific,534,UC San Diego,112,04/03/2009,0,3,Away,,-,397
+2009,Pacific,534,Long Beach St.,99,04/04/2009,2,3,Away,,2 Sets,593
+2009,Pacific,534,Hawaii,277,04/10/2009,1,3,Away,,1 Sets,"2,314"
+2009,Pacific,534,Hawaii,277,04/11/2009,0,3,Away,,-,"2,489"
+2009,Pacific,534,UCLA,110,04/17/2009,0,3,Home,,-,167
+2009,Pacific,534,UC Irvine,109,04/18/2009,0,3,Home,,-,186
+2009,Pacific,534,UC Santa Cruz,113,01/08/2010,3,0,Home,,-,128
+2009,Pacific,534,Grand Canyon,1104,01/08/2010,3,0,Home,,-,117
+2009,Pacific,534,Grand Canyon,1104,01/09/2010,3,0,Neutral,"Santa Cruz, CA",-,100
+2009,Pacific,534,UC Santa Cruz,113,01/09/2010,3,0,Away,,-,230
+2009,Pacific,534,BYU,77,01/15/2010,0,3,Away,,-,"4,024"
+2009,Pacific,534,BYU,77,01/16/2010,0,3,Away,,-,"2,742"
+2009,Pacific,534,Hawaii,277,01/19/2010,1,3,Home,,1 Sets,236
+2009,Pacific,534,Hawaii,277,01/20/2010,0,3,Home,,-,217
+2009,Pacific,534,UC Santa Barbara,104,01/29/2010,0,3,Home,,-,263
+2009,Pacific,534,CS Northridge,,01/30/2010,0,3,Home,,-,205
+2009,Pacific,534,Stanford,674,02/03/2010,1,3,Away,,1 Sets,200
+2009,Pacific,534,QUINCY,,02/05/2010,3,0,Home,,-,112
+2009,Pacific,534,QUINCY,,02/06/2010,3,0,Home,,-,107
+2009,Pacific,534,UC Irvine,109,02/12/2010,1,3,Home,,1 Sets,181
+2009,Pacific,534,UCLA,110,02/13/2010,0,3,Home,,-,150
+2009,Pacific,534,Pepperdine,541,02/17/2010,0,3,Away,,-,528
+2009,Pacific,534,USC,,02/19/2010,2,3,Away,,2 Sets,500
+2009,Pacific,534,Stanford,674,02/26/2010,1,3,Home,,1 Sets,300
+2009,Pacific,534,Long Beach State,,03/05/2010,1,3,Home,,1 Sets,150
+2009,Pacific,534,UC San Diego,112,03/06/2010,1,3,Home,,1 Sets,154
+2009,Pacific,534,NJIT,471,03/19/2010,3,0,Home,,-,129
+2009,Pacific,534,NJIT,471,03/20/2010,3,0,Home,,-,150
+2009,Pacific,534,Long Beach State,,03/26/2010,0,3,Away,,-,489
+2009,Pacific,534,UC San Diego,112,03/27/2010,0,3,Away,,-,202
+2009,Pacific,534,UC Santa Barbara,104,04/02/2010,0,3,Away,,-,207
+2009,Pacific,534,CS Northridge,,04/03/2010,0,3,Away,,-,288
+2009,Pacific,534,USC,,04/09/2010,2,3,Home,,2 Sets,152
+2009,Pacific,534,Pepperdine,541,04/10/2010,1,3,Home,,1 Sets,250
+2009,Penn St.,539,Southern California,657,01/08/2009,3,2,Neutral,"Honolulu, HI",2 Sets,0
+2009,Penn St.,539,Ohio St.,518,01/09/2009,3,0,Neutral,"Honolulu, HI",-,0
+2009,Penn St.,539,Hawaii,277,01/10/2009,3,1,Away,,1 Sets,"2,765"
+2009,Penn St.,539,Ball St.,47,01/23/2009,3,1,Home,,1 Sets,"1,013"
+2009,Penn St.,539,Juniata,325,01/28/2009,3,0,Home,,-,338
+2009,Penn St.,539,Saint Francis (PA),600,01/30/2009,3,0,Away,,-,"1,624"
+2009,Penn St.,539,Springfield,673,01/31/2009,3,0,Home,,-,674
+2009,Penn St.,539,Springfield,673,02/07/2009,3,0,Away,,-,"1,300"
+2009,Penn St.,539,Harvard,275,02/13/2009,3,0,Home,,-,"1,726"
+2009,Penn St.,539,Ohio St.,518,02/14/2009,3,0,Home,,-,"4,170"
+2009,Penn St.,539,Loyola Chicago,371,02/20/2009,2,3,Away,,2 Sets,"1,532"
+2009,Penn St.,539,IPFW,308,02/21/2009,3,1,Away,,1 Sets,739
+2009,Penn St.,539,Saint Francis (PA),600,02/25/2009,3,0,Home,,-,527
+2009,Penn St.,539,Lewis,354,02/27/2009,3,1,Home,,1 Sets,459
+2009,Penn St.,539,NJIT,471,02/28/2009,3,0,Home,,-,571
+2009,Penn St.,539,George Mason,248,03/06/2009,3,0,Home,,-,511
+2009,Penn St.,539,BYU,77,03/13/2009,2,3,Neutral,"Long Beach, CA",2 Sets,0
+2009,Penn St.,539,Long Beach St.,99,03/14/2009,2,3,Away,,2 Sets,"1,061"
+2009,Penn St.,539,IPFW,308,03/20/2009,3,0,Home,,-,731
+2009,Penn St.,539,Loyola Chicago,371,03/21/2009,3,0,Home,,-,847
+2009,Penn St.,539,Juniata,325,03/24/2009,3,0,Away,,-,550
+2009,Penn St.,539,Princeton,554,03/27/2009,3,0,Home,,-,771
+2009,Penn St.,539,Mount Olive,1245,03/28/2009,3,0,Home,,-,891
+2009,Penn St.,539,NJIT,471,04/04/2009,3,0,Away,,-,200
+2009,Penn St.,539,Princeton,554,04/10/2009,3,0,Away,,-,550
+2009,Penn St.,539,George Mason,248,04/11/2009,3,0,Away,,-,"1,178"
+2009,Penn St.,539,Ball St.,47,04/17/2009,3,0,Away,,-,"1,061"
+2009,Penn St.,539,Ohio St.,518,04/18/2009,3,0,Away,,-,"1,382"
+2009,Penn St.,539,George Mason,248,04/30/2009,3,0,Home,,-,"1,011"
+2009,Penn St.,539,Juniata,325,05/02/2009,3,0,Home,,-,"2,157"
+2009,Penn St.,539,Southern California,657,05/07/2009,1,3,Neutral,"Provo, Utah",1 Sets,0
+2009,Penn St.,539,USC,,01/07/2010,0,3,Neutral,"Honolulu, O`ahu",-,0
+2009,Penn St.,539,Ohio State,,01/08/2010,3,1,Neutral,"Honolulu, O`ahu",1 Sets,0
+2009,Penn St.,539,Hawai'i,,01/08/2010,3,2,Away,,2 Sets,"3,233"
+2009,Penn St.,539,Saint Francis,,01/15/2010,3,0,Home,,-,873
+2009,Penn St.,539,Springfield,673,01/23/2010,3,0,Away,,-,"1,518"
+2009,Penn St.,539,Juniata,325,01/26/2010,3,0,Home,,-,472
+2009,Penn St.,539,Lewis,354,01/29/2010,3,1,Away,,1 Sets,"1,279"
+2009,Penn St.,539,Loyola,,01/30/2010,2,3,Away,,2 Sets,"2,035"
+2009,Penn St.,539,Rutgers-Newark,589,02/05/2010,3,0,Home,,-,411
+2009,Penn St.,539,Springfield,673,02/06/2010,3,1,Home,,1 Sets,323
+2009,Penn St.,539,Ball State,,02/19/2010,3,0,Home,,-,664
+2009,Penn St.,539,IPFW,308,02/20/2010,3,0,Home,,-,371
+2009,Penn St.,539,Princeton,554,02/26/2010,3,0,Away,,-,450
+2009,Penn St.,539,Ohio State,,03/03/2010,3,0,Away,,-,938
+2009,Penn St.,539,George Mason,248,03/06/2010,3,0,Home,,-,461
+2009,Penn St.,539,UC Irvine,109,03/10/2010,3,2,Away,,2 Sets,813
+2009,Penn St.,539,BYU,77,03/12/2010,1,3,Neutral,"Long Beach, Calif.",1 Sets,0
+2009,Penn St.,539,Long Beach State,,03/13/2010,3,0,Away,,-,879
+2009,Penn St.,539,Saint Francis,,03/19/2010,3,0,Away,,-,675
+2009,Penn St.,539,Ohio State,,03/21/2010,1,3,Home,,1 Sets,881
+2009,Penn St.,539,Juniata,325,03/23/2010,3,0,Away,,-,283
+2009,Penn St.,539,Princeton,554,03/26/2010,3,0,Home,,-,607
+2009,Penn St.,539,Rutgers-Newark,589,03/27/2010,1,3,Away,,1 Sets,300
+2009,Penn St.,539,Ball State,,04/01/2010,3,2,Away,,2 Sets,"1,007"
+2009,Penn St.,539,IPFW,308,04/02/2010,3,1,Away,,1 Sets,416
+2009,Penn St.,539,UC Santa Barbara,104,04/09/2010,0,3,Away,,-,318
+2009,Penn St.,539,Cal State Northridge,,04/10/2010,0,3,Away,,-,"1,042"
+2009,Pepperdine,541,Cal Baptist,,01/09/2009,3,2,Home,,2 Sets,"1,049"
+2009,Pepperdine,541,Hawaii,277,01/15/2009,3,1,Away,,1 Sets,"2,271"
+2009,Pepperdine,541,Hawaii,277,01/16/2009,3,1,Away,,1 Sets,"2,421"
+2009,Pepperdine,541,Pacific,534,01/23/2009,3,0,Home,,-,974
+2009,Pepperdine,541,Stanford,674,01/24/2009,3,0,Home,,-,"1,273"
+2009,Pepperdine,541,Southern California,657,01/30/2009,3,0,Home,,-,"2,411"
+2009,Pepperdine,541,Pacific,534,02/11/2009,3,0,Away,,-,275
+2009,Pepperdine,541,Stanford,674,02/13/2009,1,3,Away,,1 Sets,0
+2009,Pepperdine,541,UCLA,110,02/18/2009,3,0,Home,,-,922
+2009,Pepperdine,541,UC Irvine,109,02/20/2009,3,1,Home,,1 Sets,"1,310"
+2009,Pepperdine,541,Cal St. Northridge,101,02/25/2009,2,3,Home,,2 Sets,724
+2009,Pepperdine,541,UC Santa Barbara,104,02/28/2009,3,0,Home,,-,377
+2009,Pepperdine,541,Long Beach St.,99,03/06/2009,3,2,Away,,2 Sets,925
+2009,Pepperdine,541,UC San Diego,112,03/07/2009,3,2,Away,,2 Sets,566
+2009,Pepperdine,541,George Mason,248,03/14/2009,3,0,Home,,-,676
+2009,Pepperdine,541,Southern California,657,03/19/2009,3,2,Away,,2 Sets,500
+2009,Pepperdine,541,UC San Diego,112,03/26/2009,3,0,Home,,-,520
+2009,Pepperdine,541,Long Beach St.,99,03/28/2009,3,1,Home,,1 Sets,"1,105"
+2009,Pepperdine,541,Cal St. Northridge,101,04/01/2009,3,2,Away,,2 Sets,"1,455"
+2009,Pepperdine,541,UC Santa Barbara,104,04/04/2009,3,0,Away,,-,322
+2009,Pepperdine,541,UCLA,110,04/08/2009,3,0,Away,,-,851
+2009,Pepperdine,541,UC Irvine,109,04/11/2009,0,3,Away,,-,"2,587"
+2009,Pepperdine,541,BYU,77,04/16/2009,3,1,Home,,1 Sets,"1,214"
+2009,Pepperdine,541,BYU,77,04/17/2009,1,3,Home,,1 Sets,"1,310"
+2009,Pepperdine,541,Long Beach St.,99,04/25/2009,3,1,Home,,1 Sets,"1,615"
+2009,Pepperdine,541,Cal St. Northridge,101,04/30/2009,3,1,Neutral,,1 Sets,0
+2009,Pepperdine,541,Southern California,657,05/02/2009,2,3,Neutral,,2 Sets,"1,400"
+2009,Pepperdine,541,Cal Baptist,,01/09/2010,2,3,Away,,2 Sets,359
+2009,Pepperdine,541,UC Irvine,109,01/13/2010,1,3,Away,,1 Sets,775
+2009,Pepperdine,541,UCLA,110,01/15/2010,3,0,Away,,-,937
+2009,Pepperdine,541,UC San Diego,112,01/20/2010,1,3,Home,,1 Sets,485
+2009,Pepperdine,541,Long Beach State,,01/23/2010,0,3,Home,,-,870
+2009,Pepperdine,541,USC,,01/29/2010,3,2,Home,,2 Sets,"1,148"
+2009,Pepperdine,541,UC Santa Barbara,104,02/03/2010,3,2,Away,,2 Sets,329
+2009,Pepperdine,541,CS Northridge,,02/05/2010,3,1,Away,,1 Sets,"1,329"
+2009,Pepperdine,541,USC,,02/12/2010,3,0,Away,,-,"1,000"
+2009,Pepperdine,541,Pacific,534,02/17/2010,3,0,Home,,-,528
+2009,Pepperdine,541,Stanford,674,02/19/2010,3,0,Home,,-,"1,127"
+2009,Pepperdine,541,Grand Canyon,1104,02/24/2010,3,0,Home,,-,426
+2009,Pepperdine,541,CS Northridge,,02/26/2010,3,1,Home,,1 Sets,"1,115"
+2009,Pepperdine,541,BYU,77,03/05/2010,1,3,Away,,1 Sets,"4,168"
+2009,Pepperdine,541,BYU,77,03/06/2010,3,0,Away,,-,"3,235"
+2009,Pepperdine,541,Ball State,,03/11/2010,3,0,Home,,-,315
+2009,Pepperdine,541,UC Santa Barbara,104,03/13/2010,3,2,Home,,2 Sets,"1,015"
+2009,Pepperdine,541,Hawaii,277,03/26/2010,3,0,Home,,-,945
+2009,Pepperdine,541,Hawaii,277,03/27/2010,0,3,Home,,-,874
+2009,Pepperdine,541,UCLA,110,03/31/2010,3,2,Home,,2 Sets,942
+2009,Pepperdine,541,UC Irvine,109,04/03/2010,2,3,Home,,2 Sets,915
+2009,Pepperdine,541,Stanford,674,04/09/2010,2,3,Away,,2 Sets,"1,420"
+2009,Pepperdine,541,Pacific,534,04/10/2010,3,1,Away,,1 Sets,250
+2009,Polytechnic (NY),481,Mt. St. Vincent,451,01/14/2009,1,3,Home,,1 Sets,100
+2009,Polytechnic (NY),481,Hunter,292,01/20/2009,0,3,Away,,-,50
+2009,Polytechnic (NY),481,York (NY),2730,01/29/2009,3,2,Away,,2 Sets,35
+2009,Polytechnic (NY),481,SUNY New Paltz,475,01/30/2009,0,3,Away,,-,45
+2009,Polytechnic (NY),481,New Haven,470,01/31/2009,0,3,Neutral,"Mahwah, NJ",-,50
+2009,Polytechnic (NY),481,Ramapo,564,01/31/2009,0,3,Away,,-,70
+2009,Polytechnic (NY),481,Vassar,737,02/01/2009,0,3,Away,,-,75
+2009,Polytechnic (NY),481,Yeshiva,814,02/03/2009,1,3,Away,,1 Sets,50
+2009,Polytechnic (NY),481,Bard,962,02/07/2009,0,3,Away,,-,50
+2009,Polytechnic (NY),481,Lancaster Bible,30085,02/07/2009,0,3,Neutral,"Annandale, NY",-,0
+2009,Polytechnic (NY),481,New Jersey City,319,02/11/2009,0,3,Home,,-,15
+2009,Polytechnic (NY),481,Purchase St.,30029,02/13/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,D'Youville,1059,02/15/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,Lehman,279,02/16/2009,0,3,Away,,-,0
+2009,Polytechnic (NY),481,Yeshiva,814,02/17/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,Baruch,58,02/19/2009,0,3,Away,,-,37
+2009,Polytechnic (NY),481,Stevens,679,02/20/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,Phila. Biblical,1305,02/24/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,Mount Ida,27901,02/27/2009,1,3,Neutral,"Annandale-On-Hudson, NY",1 Sets,50
+2009,Polytechnic (NY),481,Bard,962,02/28/2009,0,3,Away,,-,50
+2009,Polytechnic (NY),481,Medgar Evers,403,02/28/2009,3,0,Neutral,"Annandale-On-Hudson, NY",-,50
+2009,Polytechnic (NY),481,Mt. St. Vincent,451,03/03/2009,0,3,Away,,-,25
+2009,Polytechnic (NY),481,Brooklyn,79,03/05/2009,0,3,Home,,-,50
+2009,Polytechnic (NY),481,Purchase St.,30029,03/09/2009,0,3,Away,,-,50
+2009,Polytechnic (NY),481,CCNY,480,03/12/2009,0,3,Away,,-,50
+2009,Princeton,554,UC Irvine,109,01/26/2009,0,3,Away,,-,262
+2009,Princeton,554,Cal Baptist,,01/27/2009,0,3,Away,,-,139
+2009,Princeton,554,UC San Diego,112,01/28/2009,0,3,Away,,-,300
+2009,Princeton,554,Hope Int'l,,01/29/2009,3,0,Away,,-,125
+2009,Princeton,554,Juniata,325,02/06/2009,0,3,Away,,-,635
+2009,Princeton,554,Saint Francis (PA),600,02/07/2009,3,2,Away,,2 Sets,134
+2009,Princeton,554,New York U.,479,02/10/2009,3,1,Home,,1 Sets,95
+2009,Princeton,554,Rutgers-Newark,589,02/14/2009,3,1,Home,,1 Sets,105
+2009,Princeton,554,NJIT,471,02/17/2009,3,0,Away,,-,300
+2009,Princeton,554,Juniata,325,02/20/2009,2,3,Home,,2 Sets,115
+2009,Princeton,554,Springfield,673,02/28/2009,1,3,Home,,1 Sets,130
+2009,Princeton,554,Stevens,679,03/06/2009,3,1,Home,,1 Sets,95
+2009,Princeton,554,George Mason,248,03/07/2009,1,3,Home,,1 Sets,105
+2009,Princeton,554,Harvard,275,03/13/2009,3,0,Home,,-,75
+2009,Princeton,554,Penn St.,539,03/27/2009,0,3,Away,,-,771
+2009,Princeton,554,New York U.,479,03/31/2009,3,1,Away,,1 Sets,120
+2009,Princeton,554,Springfield,673,04/03/2009,1,3,Away,,1 Sets,380
+2009,Princeton,554,NJIT,471,04/07/2009,3,0,Home,,-,105
+2009,Princeton,554,Saint Francis (PA),600,04/09/2009,2,3,Home,,2 Sets,85
+2009,Princeton,554,Penn St.,539,04/10/2009,0,3,Home,,-,550
+2009,Princeton,554,George Mason,248,04/17/2009,3,1,Away,,1 Sets,194
+2009,Princeton,554,Rutgers-Newark,589,04/22/2009,3,0,Home,,-,110
+2009,Princeton,554,Saint Francis (PA),600,04/25/2009,2,3,Away,,2 Sets,276
+2009,Princeton,554,Cal Baptist Univ,,01/25/2010,1,3,Away,,1 Sets,89
+2009,Princeton,554,UC Irvine,109,01/26/2010,0,3,Away,,-,257
+2009,Princeton,554,UC San Diego,112,01/27/2010,0,3,Away,,-,109
+2009,Princeton,554,NJIT,471,02/05/2010,3,0,Away,,-,75
+2009,Princeton,554,NYU,,02/09/2010,3,2,Home,,2 Sets,75
+2009,Princeton,554,Springfield,673,02/12/2010,0,3,Away,,-,310
+2009,Princeton,554,Harvard,275,02/13/2010,3,0,Away,,-,147
+2009,Princeton,554,Rutgers-Newark,589,02/19/2010,3,1,Home,,1 Sets,105
+2009,Princeton,554,Penn State,,02/26/2010,0,3,Home,,-,450
+2009,Princeton,554,Saint Francis,,02/27/2010,3,2,Home,,2 Sets,122
+2009,Princeton,554,Juniata,325,03/06/2010,3,2,Home,,2 Sets,135
+2009,Princeton,554,Springfield,673,03/12/2010,3,2,Home,,2 Sets,195
+2009,Princeton,554,Penn State,,03/26/2010,0,3,Away,,-,607
+2009,Princeton,554,Saint Francis,,03/27/2010,2,3,Away,,2 Sets,100
+2009,Princeton,554,NYU,,03/30/2010,3,1,Away,,1 Sets,285
+2009,Princeton,554,George Mason,248,04/02/2010,3,2,Home,,2 Sets,280
+2009,Princeton,554,Ramapo College,,04/03/2010,3,2,Home,,2 Sets,50
+2009,Princeton,554,Ramapo College,,04/03/2010,3,2,Home,,2 Sets,0
+2009,Princeton,554,Stevens Tech,,04/07/2010,2,3,Home,,2 Sets,80
+2009,Princeton,554,Juniata,325,04/09/2010,2,3,Away,,2 Sets,720
+2009,Princeton,554,George Mason,248,04/11/2010,3,0,Away,,-,128
+2009,Purchase,30029,Yeshiva,814,01/22/2009,3,0,Away,,-,40
+2009,Purchase,30029,York (NY),2730,01/26/2009,3,1,Away,,1 Sets,75
+2009,Purchase,30029,Vassar,737,01/31/2009,0,3,Away,,-,100
+2009,Purchase,30029,Brooklyn,79,02/02/2009,3,0,Home,,-,75
+2009,Purchase,30029,New Jersey City,319,02/05/2009,0,3,Home,,-,35
+2009,Purchase,30029,Ramapo,564,02/06/2009,0,3,Away,,-,50
+2009,Purchase,30029,SUNY New Paltz,475,02/09/2009,0,3,Home,,-,30
+2009,Purchase,30029,Bard,962,02/11/2009,3,1,Home,,1 Sets,50
+2009,Purchase,30029,Polytechnic (NY),481,02/13/2009,3,0,Away,,-,50
+2009,Purchase,30029,CCNY,480,02/14/2009,3,1,Home,,1 Sets,30
+2009,Purchase,30029,City Tech,8580,02/17/2009,1,3,Away,,1 Sets,20
+2009,Purchase,30029,Mt. St. Vincent,451,02/20/2009,1,3,Home,,1 Sets,50
+2009,Purchase,30029,Yeshiva,814,02/23/2009,3,0,Home,,-,25
+2009,Purchase,30029,Medgar Evers,403,02/27/2009,3,0,Neutral,"Annandale-On-Hudson, NY",-,20
+2009,Purchase,30029,Lasell,8486,02/27/2009,1,3,Neutral,"Annandale-On-Hudson, NY",1 Sets,35
+2009,Purchase,30029,Mount Ida,27901,02/28/2009,3,2,Neutral,"Annandale-On-Hudson, NY",2 Sets,40
+2009,Purchase,30029,Bard,962,03/03/2009,0,3,Away,,-,32
+2009,Purchase,30029,Lehman,279,03/05/2009,3,0,Away,,-,50
+2009,Purchase,30029,Polytechnic (NY),481,03/09/2009,3,0,Home,,-,50
+2009,Purchase,30029,Mt. St. Vincent,451,03/12/2009,1,3,Away,,1 Sets,0
+2009,Purchase,30029,Bard,962,03/15/2009,1,3,Neutral,"Riverdale, NY",1 Sets,30
+2009,Purchase,30029,Stevens,679,03/25/2009,0,3,Away,,-,80
+2009,Purchase,30029,St. Joseph's (Brkln),,03/27/2009,3,0,Away,,-,9
+2009,Quincy,561,Clarke,1020,01/18/2009,0,3,Home,,-,75
+2009,Quincy,561,St. Ambrose,,01/18/2009,1,3,Home,,1 Sets,74
+2009,Quincy,561,Cardinal Stritch,,01/24/2009,0,3,Home,,-,88
+2009,Quincy,561,Park,,01/24/2009,1,3,Home,,1 Sets,75
+2009,Quincy,561,Carthage,121,01/25/2009,3,0,Home,,-,127
+2009,Quincy,561,Fontbonne,11538,01/25/2009,3,0,Home,,-,103
+2009,Quincy,561,Fontbonne,11538,01/29/2009,3,1,Away,,1 Sets,0
+2009,Quincy,561,Missouri Valley,,01/29/2009,3,1,Home,,1 Sets,89
+2009,Quincy,561,Mo. Baptist,,01/29/2009,3,2,Home,,2 Sets,72
+2009,Quincy,561,Johnson & Wales (CO),,02/06/2009,1,2,Neutral,"St. Charles, MO",-,0
+2009,Quincy,561,Park,,02/06/2009,0,3,Neutral,"St. Charles, MO",-,0
+2009,Quincy,561,Graceland (IA),,02/07/2009,1,3,Neutral,"St. Charles, MO",1 Sets,0
+2009,Quincy,561,Lindenwood (MO),,02/07/2009,0,3,Away,,-,0
+2009,Quincy,561,Moody Bible,,02/10/2009,3,0,Home,,-,55
+2009,Quincy,561,Missouri Valley,,02/14/2009,3,2,Neutral,"Banner Elk, NC",2 Sets,0
+2009,Quincy,561,Warner,,02/14/2009,1,3,Neutral,"Banner Elk, NC",1 Sets,0
+2009,Quincy,561,King (TN),30051,02/14/2009,1,3,Neutral,"Banner Elk, NC",1 Sets,0
+2009,Quincy,561,Lees-McRae,13302,02/15/2009,2,3,Away,,2 Sets,0
+2009,Quincy,561,Ohio St.,518,02/19/2009,0,3,Away,,-,253
+2009,Quincy,561,Hannibal-La Grange,,02/20/2009,1,3,Away,,1 Sets,0
+2009,Quincy,561,Ohio St.,518,02/20/2009,0,3,Away,,-,357
+2009,Quincy,561,Lindenwood (MO),,02/26/2009,1,3,Home,,1 Sets,88
+2009,Quincy,561,Hannibal-La Grange,,02/26/2009,3,0,Home,,-,74
+2009,Quincy,561,Ball St.,47,03/05/2009,1,3,Home,,1 Sets,150
+2009,Quincy,561,Medaille,23725,03/07/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,Quincy,561,D'Youville,1059,03/07/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,Quincy,561,Ramapo,564,03/08/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,Quincy,561,Nazareth,461,03/08/2009,1,3,Away,,1 Sets,0
+2009,Quincy,561,East Stroudsburg,197,03/11/2009,3,1,Away,,1 Sets,110
+2009,Quincy,561,Saint Francis (PA),600,03/11/2009,0,3,Away,,-,135
+2009,Quincy,561,Springfield,673,03/12/2009,1,3,Away,,1 Sets,140
+2009,Quincy,561,Sacred Heart,590,03/12/2009,2,3,Away,,2 Sets,78
+2009,Quincy,561,City Tech,8580,03/13/2009,3,1,Neutral,"Queens, NY",1 Sets,110
+2009,Quincy,561,York (NY),2730,03/14/2009,3,0,Away,,-,30
+2009,Quincy,561,SUNY New Paltz,475,03/14/2009,2,3,Neutral,"Jamaica, NY",2 Sets,0
+2009,Quincy,561,New Jersey City,319,03/14/2009,3,0,Neutral,"Jamaica, NY",-,0
+2009,Quincy,561,St. Ambrose,,03/19/2009,3,1,Away,,1 Sets,200
+2009,Quincy,561,Lindenwood (MO),,03/19/2009,0,3,Away,,-,0
+2009,Quincy,561,Clarke,1020,03/21/2009,1,3,Away,,1 Sets,0
+2009,Quincy,561,Milwaukee Engr.,20220,03/21/2009,3,2,Neutral,"Dubuque, IA",2 Sets,0
+2009,Quincy,561,Lewis,354,03/27/2009,0,3,Away,,-,479
+2009,Quincy,561,Carthage,121,03/27/2009,2,3,Away,,2 Sets,100
+2009,Quincy,561,Ball St.,47,03/28/2009,0,3,Away,,-,531
+2009,Quincy,561,Milwaukee Engr.,20220,03/28/2009,2,3,Away,,2 Sets,0
+2009,Quincy,561,IPFW,308,04/03/2009,0,3,Away,,-,433
+2009,Quincy,561,IPFW,308,04/04/2009,2,3,Away,,2 Sets,292
+2009,Quincy,561,Lewis,354,04/08/2009,0,3,Home,,-,57
+2009,Quincy,561,Loyola Chicago,371,04/10/2009,1,3,Home,,1 Sets,128
+2009,Quincy,561,Loyola Chicago,371,04/11/2009,0,3,Home,,-,78
+2009,Quincy,561,Ball St.,47,04/25/2009,0,3,Away,,-,413
+2009,Ramapo,564,Newbury,21772,01/18/2009,3,2,Home,,2 Sets,80
+2009,Ramapo,564,Hunter,292,01/18/2009,3,2,Home,,2 Sets,60
+2009,Ramapo,564,Rivier,18422,01/23/2009,1,3,Home,,1 Sets,100
+2009,Ramapo,564,Phila. Biblical,1305,01/24/2009,3,0,Home,,-,100
+2009,Ramapo,564,Sacred Heart,590,01/24/2009,3,0,Home,,-,100
+2009,Ramapo,564,Polytechnic (NY),481,01/31/2009,3,0,Home,,-,70
+2009,Ramapo,564,New Haven,470,01/31/2009,3,0,Home,,-,75
+2009,Ramapo,564,CCNY,480,02/04/2009,3,0,Away,,-,55
+2009,Ramapo,564,Mt. St. Vincent,451,02/05/2009,3,0,Home,,-,40
+2009,Ramapo,564,Purchase St.,30029,02/06/2009,3,0,Home,,-,50
+2009,Ramapo,564,Yeshiva,814,02/10/2009,3,0,Home,,-,60
+2009,Ramapo,564,MIT,398,02/14/2009,3,1,Neutral,"Beverly, MA",1 Sets,75
+2009,Ramapo,564,Emmanuel (MA),215,02/14/2009,3,1,Neutral,"Beverly, MA",1 Sets,65
+2009,Ramapo,564,SUNYIT,9500,02/15/2009,3,0,Neutral,"Beverly, MA",-,75
+2009,Ramapo,564,Endicott,8981,02/15/2009,3,2,Away,,2 Sets,75
+2009,Ramapo,564,Baruch,58,02/17/2009,3,2,Away,,2 Sets,138
+2009,Ramapo,564,Bard,962,02/19/2009,3,0,Away,,-,75
+2009,Ramapo,564,Sacred Heart,590,02/21/2009,0,3,Home,,-,125
+2009,Ramapo,564,SUNY New Paltz,475,02/25/2009,3,0,Away,,-,82
+2009,Ramapo,564,Vassar,737,02/28/2009,3,1,Home,,1 Sets,150
+2009,Ramapo,564,Stevens,679,03/04/2009,3,0,Home,,-,200
+2009,Ramapo,564,Medaille,23725,03/06/2009,3,1,Away,,1 Sets,75
+2009,Ramapo,564,Milwaukee Engr.,20220,03/07/2009,1,3,Neutral,"Buffalo, NY",1 Sets,45
+2009,Ramapo,564,D'Youville,1059,03/07/2009,3,0,Away,,-,75
+2009,Ramapo,564,Quincy,561,03/08/2009,1,3,Neutral,"Rochester, NY",1 Sets,0
+2009,Ramapo,564,Nazareth,461,03/08/2009,2,3,Away,,2 Sets,300
+2009,Ramapo,564,New Jersey City,319,03/11/2009,3,0,Away,,-,53
+2009,Ramapo,564,Stevenson,21852,03/19/2009,3,1,Away,,1 Sets,55
+2009,Ramapo,564,Phila. Biblical,1305,03/25/2009,0,3,Away,,-,90
+2009,Ramapo,564,Elms,532,04/03/2009,3,1,Neutral,"Cambridge, MA",1 Sets,150
+2009,Ramapo,564,Vassar,737,04/04/2009,0,3,Neutral,"Cambridge, MA",-,150
+2009,Ramapo,564,New Jersey City,319,04/08/2009,3,0,Home,,-,100
+2009,Ramapo,564,Juniata,325,04/17/2009,0,3,Away,,-,500
+2009,Ramapo,564,UC Santa Cruz,113,04/18/2009,2,3,Away,,2 Sets,600
+2009,Rivier,18422,Medaille,23725,01/17/2009,3,1,Neutral,"Milwaukee, WI",1 Sets,36
+2009,Rivier,18422,Milwaukee Engr.,20220,01/17/2009,3,0,Away,,-,88
+2009,Rivier,18422,Baruch,58,01/18/2009,3,0,Neutral,"Milwaukee, WI",-,0
+2009,Rivier,18422,Carthage,121,01/18/2009,2,3,Away,,2 Sets,0
+2009,Rivier,18422,Johnson & Wales (RI),22626,01/21/2009,3,0,Away,,-,63
+2009,Rivier,18422,Ramapo,564,01/23/2009,3,1,Away,,1 Sets,100
+2009,Rivier,18422,Sacred Heart,590,01/24/2009,3,1,Neutral,"Ramapo, NJ",1 Sets,42
+2009,Rivier,18422,Phila. Biblical,1305,01/24/2009,3,0,Neutral,"Ramapo, NJ",-,42
+2009,Rivier,18422,Albertus Magnus,2798,01/30/2009,3,0,Away,,-,0
+2009,Rivier,18422,Elms,532,02/04/2009,3,0,Home,,-,76
+2009,Rivier,18422,Emmanuel (MA),215,02/06/2009,3,0,Home,,-,82
+2009,Rivier,18422,Lasell,8486,02/09/2009,3,0,Away,,-,83
+2009,Rivier,18422,MIT,398,02/12/2009,3,0,Away,,-,43
+2009,Rivier,18422,SUNYIT,9500,02/14/2009,3,0,Neutral,"Beverly, MA",-,0
+2009,Rivier,18422,Baruch,58,02/14/2009,3,1,Neutral,"Beverly, MA",1 Sets,0
+2009,Rivier,18422,Hunter,292,02/15/2009,3,0,Neutral,"Beverly, MA",-,0
+2009,Rivier,18422,New Jersey City,319,02/15/2009,3,0,Neutral,"Beverly, MA",-,30
+2009,Rivier,18422,Emerson,214,02/17/2009,3,0,Home,,-,63
+2009,Rivier,18422,Newbury,21772,02/21/2009,3,1,Home,,1 Sets,125
+2009,Rivier,18422,Albertus Magnus,2798,02/21/2009,3,0,Home,,-,22
+2009,Rivier,18422,Emerson,214,02/23/2009,3,0,Away,,-,25
+2009,Rivier,18422,Harvard,275,02/25/2009,3,0,Away,,-,114
+2009,Rivier,18422,New Haven,470,02/27/2009,3,0,Away,,-,156
+2009,Rivier,18422,Emmanuel (MA),215,03/03/2009,3,0,Away,,-,86
+2009,Rivier,18422,Lasell,8486,03/05/2009,3,0,Home,,-,84
+2009,Rivier,18422,Johnson & Wales (RI),22626,03/17/2009,3,0,Home,,-,47
+2009,Rivier,18422,Mount Ida,27901,03/19/2009,3,0,Away,,-,65
+2009,Rivier,18422,Wentworth Inst.,762,03/21/2009,3,0,Home,,-,100
+2009,Rivier,18422,Mount Ida,27901,03/23/2009,3,0,Home,,-,65
+2009,Rivier,18422,Endicott,8981,03/26/2009,3,2,Away,,2 Sets,178
+2009,Rivier,18422,Emmanuel (MA),215,03/28/2009,3,0,Home,,-,0
+2009,Rivier,18422,Johnson & Wales (RI),22626,03/28/2009,3,0,Home,,-,130
+2009,Rivier,18422,New Haven,470,03/31/2009,3,0,Home,,-,93
+2009,Rivier,18422,Hunter,292,04/03/2009,3,0,Neutral,"Cambridge, MA",-,75
+2009,Rivier,18422,Baruch,58,04/04/2009,2,3,Neutral,"Cambridge, MA",2 Sets,0
+2009,Rutgers-Newark,589,IPFW,308,01/23/2009,0,3,Home,,-,105
+2009,Rutgers-Newark,589,Loyola Chicago,371,01/24/2009,1,3,Home,,1 Sets,127
+2009,Rutgers-Newark,589,East Stroudsburg,197,01/30/2009,3,0,Home,,-,180
+2009,Rutgers-Newark,589,Mount Olive,1245,01/31/2009,3,0,Home,,-,167
+2009,Rutgers-Newark,589,Ohio St.,518,02/05/2009,0,3,Away,,-,186
+2009,Rutgers-Newark,589,Ball St.,47,02/06/2009,0,3,Away,,-,726
+2009,Rutgers-Newark,589,East Stroudsburg,197,02/11/2009,3,1,Away,,1 Sets,175
+2009,Rutgers-Newark,589,Princeton,554,02/14/2009,1,3,Away,,1 Sets,105
+2009,Rutgers-Newark,589,New York U.,479,02/18/2009,3,0,Home,,-,0
+2009,Rutgers-Newark,589,NJIT,471,02/25/2009,3,0,Away,,-,250
+2009,Rutgers-Newark,589,Sacred Heart,590,02/27/2009,3,2,Away,,2 Sets,186
+2009,Rutgers-Newark,589,George Mason,248,02/28/2009,0,3,Away,,-,315
+2009,Rutgers-Newark,589,Harvard,275,03/06/2009,2,3,Away,,2 Sets,114
+2009,Rutgers-Newark,589,NJIT,471,03/09/2009,3,0,Home,,-,150
+2009,Rutgers-Newark,589,New York U.,479,03/11/2009,3,0,Away,,-,140
+2009,Rutgers-Newark,589,Ball St.,47,03/20/2009,1,3,Home,,1 Sets,213
+2009,Rutgers-Newark,589,Ohio St.,518,03/21/2009,0,3,Home,,-,0
+2009,Rutgers-Newark,589,IPFW,308,03/27/2009,2,3,Away,,2 Sets,354
+2009,Rutgers-Newark,589,Loyola Chicago,371,03/28/2009,0,3,Away,,-,262
+2009,Rutgers-Newark,589,Lewis,354,03/29/2009,0,3,Away,,-,378
+2009,Rutgers-Newark,589,Sacred Heart,590,04/03/2009,1,3,Home,,1 Sets,102
+2009,Rutgers-Newark,589,Harvard,275,04/17/2009,3,0,Home,,-,213
+2009,Rutgers-Newark,589,Princeton,554,04/22/2009,0,3,Away,,-,110
+2009,Rutgers-Newark,589,Lewis,354,01/22/2010,2,3,Home,,2 Sets,165
+2009,Rutgers-Newark,589,Saint Francis,,01/23/2010,2,3,Home,,2 Sets,121
+2009,Rutgers-Newark,589,NYU,,01/27/2010,3,0,Away,,-,85
+2009,Rutgers-Newark,589,IPFW,308,01/29/2010,1,3,Away,,1 Sets,392
+2009,Rutgers-Newark,589,Ball State,,01/30/2010,2,3,Away,,2 Sets,671
+2009,Rutgers-Newark,589,Penn State,,02/05/2010,0,3,Away,,-,411
+2009,Rutgers-Newark,589,Juniata,325,02/12/2010,1,3,Away,,1 Sets,660
+2009,Rutgers-Newark,589,Saint Francis,,02/13/2010,2,3,Away,,2 Sets,200
+2009,Rutgers-Newark,589,Springfield,673,02/16/2010,2,3,Home,,2 Sets,90
+2009,Rutgers-Newark,589,Princeton,554,02/19/2010,1,3,Away,,1 Sets,105
+2009,Rutgers-Newark,589,NJIT,471,02/23/2010,3,0,Home,,-,85
+2009,Rutgers-Newark,589,Harvard,275,02/27/2010,3,0,Away,,-,84
+2009,Rutgers-Newark,589,NJIT,471,03/02/2010,3,0,Away,,-,115
+2009,Rutgers-Newark,589,George Mason,248,03/05/2010,3,2,Away,,2 Sets,0
+2009,Rutgers-Newark,589,NYU,,03/09/2010,3,0,Home,,-,89
+2009,Rutgers-Newark,589,IPFW,308,03/19/2010,3,2,Home,,2 Sets,105
+2009,Rutgers-Newark,589,Ball State,,03/20/2010,0,3,Home,,-,90
+2009,Rutgers-Newark,589,Sacred Heart,590,03/24/2010,3,0,Away,,-,164
+2009,Rutgers-Newark,589,Penn State,,03/27/2010,3,1,Home,,1 Sets,300
+2009,Rutgers-Newark,589,Juniata,325,04/01/2010,2,3,Home,,2 Sets,95
+2009,Rutgers-Newark,589,George Mason,248,04/03/2010,3,0,Home,,-,120
+2009,Rutgers-Newark,589,Harvard,275,04/09/2010,3,0,Home,,-,105
+2009,Rutgers-Newark,589,Springfield,673,04/10/2010,3,1,Away,,1 Sets,315
+2009,Sacred Heart,590,SUNY New Paltz,475,01/16/2009,3,1,Away,,1 Sets,30
+2009,Sacred Heart,590,MIT,398,01/16/2009,3,2,Neutral,"New Paltz, NY",2 Sets,0
+2009,Sacred Heart,590,East. Mennonite,203,01/17/2009,3,0,Neutral,"New Paltz, NY",-,0
+2009,Sacred Heart,590,Phila. Biblical,1305,01/23/2009,3,2,Neutral,"Ramapo, NJ",2 Sets,0
+2009,Sacred Heart,590,Ramapo,564,01/24/2009,0,3,Away,,-,100
+2009,Sacred Heart,590,Rivier,18422,01/24/2009,1,3,Neutral,"Ramapo, NJ",1 Sets,0
+2009,Sacred Heart,590,Endicott,8981,01/31/2009,3,0,Away,,-,0
+2009,Sacred Heart,590,Stevens,679,02/02/2009,0,3,Away,,-,100
+2009,Sacred Heart,590,Hunter,292,02/05/2009,3,2,Away,,2 Sets,75
+2009,Sacred Heart,590,New York U.,479,02/14/2009,1,3,Away,,1 Sets,142
+2009,Sacred Heart,590,Ramapo,564,02/21/2009,3,0,Away,,-,125
+2009,Sacred Heart,590,East Stroudsburg,197,02/22/2009,2,3,Home,,2 Sets,218
+2009,Sacred Heart,590,Rutgers-Newark,589,02/27/2009,2,3,Home,,2 Sets,186
+2009,Sacred Heart,590,New Haven,470,03/01/2009,3,0,Home,,-,195
+2009,Sacred Heart,590,New Haven,470,03/04/2009,3,0,Away,,-,72
+2009,Sacred Heart,590,Quincy,561,03/12/2009,3,2,Home,,2 Sets,78
+2009,Sacred Heart,590,Stevens,679,03/28/2009,0,3,Home,,-,128
+2009,Sacred Heart,590,Harvard,275,03/29/2009,2,3,Home,,2 Sets,206
+2009,Sacred Heart,590,Rutgers-Newark,589,04/03/2009,3,1,Away,,1 Sets,102
+2009,Sacred Heart,590,New York U.,479,04/05/2009,2,3,Home,,2 Sets,145
+2009,Sacred Heart,590,Harvard,275,04/11/2009,1,3,Away,,1 Sets,129
+2009,Sacred Heart,590,East Stroudsburg,197,04/18/2009,0,3,Away,,-,175
+2009,Sacred Heart,590,Saint Francis,,01/16/2010,2,3,Away,,2 Sets,410
+2009,Sacred Heart,590,PBMV,,01/22/2010,0,3,Neutral,"Mahwah, NJ",-,10
+2009,Sacred Heart,590,Ramapo College,,01/23/2010,3,1,Away,,1 Sets,75
+2009,Sacred Heart,590,Rivier,18422,01/23/2010,2,3,Neutral,"Mahwah, NJ",2 Sets,73
+2009,Sacred Heart,590,Springfield,673,01/26/2010,1,3,Home,,1 Sets,219
+2009,Sacred Heart,590,NJIT,471,02/03/2010,3,1,Home,,1 Sets,187
+2009,Sacred Heart,590,New Haven,470,02/05/2010,3,0,Away,,-,102
+2009,Sacred Heart,590,Endicott,8981,02/12/2010,2,3,Home,,2 Sets,113
+2009,Sacred Heart,590,Hunter,292,02/13/2010,3,0,Home,,-,118
+2009,Sacred Heart,590,NYU,,02/17/2010,3,0,Away,,-,55
+2009,Sacred Heart,590,NJIT,471,02/19/2010,3,2,Away,,2 Sets,124
+2009,Sacred Heart,590,Stevens Tech,,02/22/2010,3,0,Away,,-,55
+2009,Sacred Heart,590,Ramapo,564,02/24/2010,3,1,Home,,1 Sets,113
+2009,Sacred Heart,590,Medaille,23725,02/27/2010,3,1,Home,,1 Sets,0
+2009,Sacred Heart,590,Baruch,58,02/27/2010,2,3,Away,,2 Sets,31
+2009,Sacred Heart,590,Springfield,673,03/02/2010,0,3,Away,,-,118
+2009,Sacred Heart,590,Johnson & Wales,,03/03/2010,3,0,Home,,-,146
+2009,Sacred Heart,590,New Paltz,,03/06/2010,3,1,Away,,1 Sets,30
+2009,Sacred Heart,590,PBMV,,03/06/2010,3,0,Neutral,Unknown,-,15
+2009,Sacred Heart,590,Rivier,18422,03/19/2010,3,0,Home,,-,318
+2009,Sacred Heart,590,Harvard,275,03/20/2010,0,3,Home,,-,132
+2009,Sacred Heart,590,Rutgers-Newark,589,03/24/2010,0,3,Home,,-,164
+2009,Sacred Heart,590,New Paltz,,03/26/2010,3,0,Home,,-,169
+2009,Sacred Heart,590,NYU,,03/28/2010,3,1,Home,,1 Sets,219
+2009,Sacred Heart,590,Stevens Tech,,03/31/2010,3,2,Home,,2 Sets,116
+2009,Saint Francis (PA),600,Nazareth,461,01/10/2009,3,0,Home,,-,253
+2009,Saint Francis (PA),600,New York U.,479,01/16/2009,3,0,Home,,-,240
+2009,Saint Francis (PA),600,Ball St.,47,01/24/2009,3,1,Home,,1 Sets,503
+2009,Saint Francis (PA),600,Ohio St.,518,01/25/2009,2,3,Home,,2 Sets,955
+2009,Saint Francis (PA),600,Penn St.,539,01/30/2009,0,3,Home,,-,"1,624"
+2009,Saint Francis (PA),600,Springfield,673,02/01/2009,3,2,Home,,2 Sets,126
+2009,Saint Francis (PA),600,NJIT,471,02/06/2009,3,0,Home,,-,156
+2009,Saint Francis (PA),600,Princeton,554,02/07/2009,2,3,Home,,2 Sets,134
+2009,Saint Francis (PA),600,Juniata,325,02/11/2009,3,1,Home,,1 Sets,227
+2009,Saint Francis (PA),600,UC San Diego,112,02/13/2009,1,3,Neutral,"Springfield, MA",1 Sets,486
+2009,Saint Francis (PA),600,Springfield,673,02/14/2009,3,1,Away,,1 Sets,500
+2009,Saint Francis (PA),600,IPFW,308,02/20/2009,0,3,Away,,-,339
+2009,Saint Francis (PA),600,Loyola Chicago,371,02/21/2009,2,3,Away,,2 Sets,315
+2009,Saint Francis (PA),600,Lewis,354,02/22/2009,0,3,Away,,-,221
+2009,Saint Francis (PA),600,Penn St.,539,02/25/2009,0,3,Away,,-,527
+2009,Saint Francis (PA),600,George Mason,248,02/27/2009,3,1,Away,,1 Sets,323
+2009,Saint Francis (PA),600,Quincy,561,03/11/2009,3,0,Home,,-,135
+2009,Saint Francis (PA),600,Mount Olive,1245,03/14/2009,3,1,Home,,1 Sets,251
+2009,Saint Francis (PA),600,Loyola Chicago,371,03/20/2009,1,3,Home,,1 Sets,189
+2009,Saint Francis (PA),600,IPFW,308,03/21/2009,3,2,Home,,2 Sets,146
+2009,Saint Francis (PA),600,Lewis,354,03/22/2009,1,3,Home,,1 Sets,107
+2009,Saint Francis (PA),600,NJIT,471,03/27/2009,3,0,Away,,-,129
+2009,Saint Francis (PA),600,Springfield,673,03/28/2009,1,3,Away,,1 Sets,140
+2009,Saint Francis (PA),600,Juniata,325,04/03/2009,0,3,Away,,-,675
+2009,Saint Francis (PA),600,George Mason,248,04/05/2009,3,0,Home,,-,200
+2009,Saint Francis (PA),600,Princeton,554,04/09/2009,3,2,Away,,2 Sets,85
+2009,Saint Francis (PA),600,Ohio St.,518,04/17/2009,1,3,Away,,1 Sets,395
+2009,Saint Francis (PA),600,Ball St.,47,04/18/2009,1,3,Away,,1 Sets,563
+2009,Saint Francis (PA),600,Princeton,554,04/25/2009,3,2,Home,,2 Sets,276
+2009,Saint Francis (PA),600,Juniata,325,04/30/2009,1,3,Neutral,"University Park, PA",1 Sets,0
+2009,Saint Francis (PA),600,NYU,,01/12/2010,3,0,Home,,-,425
+2009,Saint Francis (PA),600,Penn State,,01/15/2010,0,3,Away,,-,873
+2009,Saint Francis (PA),600,Sacred Heart,590,01/16/2010,3,2,Home,,2 Sets,410
+2009,Saint Francis (PA),600,Ohio State,,01/17/2010,3,1,Home,,1 Sets,560
+2009,Saint Francis (PA),600,NJIT,471,01/22/2010,3,0,Neutral,"Newark, NJ",-,60
+2009,Saint Francis (PA),600,Rutgers-Newark,589,01/23/2010,3,2,Away,,2 Sets,121
+2009,Saint Francis (PA),600,Harvard,275,01/24/2010,3,1,Home,,1 Sets,500
+2009,Saint Francis (PA),600,Loyola,,01/29/2010,0,3,Away,,-,408
+2009,Saint Francis (PA),600,Lewis,354,01/30/2010,1,3,Away,,1 Sets,313
+2009,Saint Francis (PA),600,George Mason,248,02/12/2010,1,3,Home,,1 Sets,300
+2009,Saint Francis (PA),600,Rutgers-Newark,589,02/13/2010,3,2,Home,,2 Sets,200
+2009,Saint Francis (PA),600,IPFW,308,02/19/2010,2,3,Home,,2 Sets,400
+2009,Saint Francis (PA),600,Ball State,,02/20/2010,1,3,Home,,1 Sets,500
+2009,Saint Francis (PA),600,Juniata,325,02/23/2010,3,1,Home,,1 Sets,225
+2009,Saint Francis (PA),600,Princeton,554,02/27/2010,2,3,Away,,2 Sets,122
+2009,Saint Francis (PA),600,Long Beach State,,03/12/2010,0,3,Away,,-,689
+2009,Saint Francis (PA),600,BYU,77,03/13/2010,1,3,Neutral,"Long Beach, Calif.",1 Sets,0
+2009,Saint Francis (PA),600,Penn State,,03/19/2010,0,3,Home,,-,675
+2009,Saint Francis (PA),600,Princeton,554,03/27/2010,3,2,Home,,2 Sets,100
+2009,Saint Francis (PA),600,Springfield,673,03/28/2010,1,3,Home,,1 Sets,250
+2009,Saint Francis (PA),600,Juniata,325,03/31/2010,3,1,Away,,1 Sets,670
+2009,Saint Francis (PA),600,Springfield,673,04/06/2010,3,0,Away,,-,101
+2009,Saint Francis (PA),600,George Mason,248,04/07/2010,2,3,Away,,2 Sets,0
+2009,Saint Francis (PA),600,IPFW,308,04/09/2010,3,2,Away,,2 Sets,293
+2009,Saint Francis (PA),600,Ball State,,04/10/2010,0,3,Away,,-,438
+2009,Southern California,657,Penn St.,539,01/08/2009,2,3,Neutral,"Honolulu, HI",2 Sets,0
+2009,Southern California,657,Hawaii,277,01/09/2009,3,0,Away,,-,"2,823"
+2009,Southern California,657,Ohio St.,518,01/10/2009,3,1,Neutral,"Honolulu, HI",1 Sets,0
+2009,Southern California,657,Hope Int'l,,01/16/2009,3,0,Home,,-,400
+2009,Southern California,657,Stanford,674,01/23/2009,3,0,Home,,-,500
+2009,Southern California,657,Pacific,534,01/24/2009,3,0,Home,,-,450
+2009,Southern California,657,Pepperdine,541,01/30/2009,0,3,Away,,-,"2,411"
+2009,Southern California,657,BYU,77,02/06/2009,3,1,Home,,1 Sets,400
+2009,Southern California,657,BYU,77,02/07/2009,3,2,Home,,2 Sets,425
+2009,Southern California,657,Pacific,534,02/13/2009,3,0,Away,,-,171
+2009,Southern California,657,Stanford,674,02/14/2009,3,0,Away,,-,572
+2009,Southern California,657,UC Irvine,109,02/18/2009,2,3,Home,,2 Sets,450
+2009,Southern California,657,UCLA,110,02/20/2009,3,1,Home,,1 Sets,"1,200"
+2009,Southern California,657,UC Santa Barbara,104,02/26/2009,3,1,Home,,1 Sets,350
+2009,Southern California,657,Cal St. Northridge,101,02/28/2009,0,3,Home,,-,500
+2009,Southern California,657,Long Beach St.,99,03/04/2009,3,2,Away,,2 Sets,880
+2009,Southern California,657,UC San Diego,112,03/06/2009,1,3,Away,,1 Sets,683
+2009,Southern California,657,NJIT,471,03/14/2009,3,0,Home,,-,100
+2009,Southern California,657,Pepperdine,541,03/19/2009,2,3,Home,,2 Sets,500
+2009,Southern California,657,Long Beach St.,99,03/26/2009,3,1,Home,,1 Sets,700
+2009,Southern California,657,UC San Diego,112,03/28/2009,3,0,Home,,-,400
+2009,Southern California,657,UC Santa Barbara,104,04/01/2009,3,2,Away,,2 Sets,306
+2009,Southern California,657,Cal St. Northridge,101,04/03/2009,1,3,Away,,1 Sets,"1,303"
+2009,Southern California,657,UC Irvine,109,04/08/2009,1,3,Away,,1 Sets,"2,421"
+2009,Southern California,657,UCLA,110,04/10/2009,2,3,Away,,2 Sets,"2,003"
+2009,Southern California,657,Hawaii,277,04/17/2009,3,0,Away,,-,"2,529"
+2009,Southern California,657,Hawaii,277,04/18/2009,1,3,Away,,1 Sets,"3,306"
+2009,Southern California,657,Stanford,674,04/25/2009,3,2,Away,,2 Sets,"1,191"
+2009,Southern California,657,UC Irvine,109,04/30/2009,3,0,Home,,-3 Sets,"1,997"
+2009,Southern California,657,Pepperdine,541,05/02/2009,3,2,Neutral,,-1 Sets,"1,400"
+2009,Southern California,657,Penn St.,539,05/07/2009,3,1,Neutral,"Provo, Utah",1 Sets,0
+2009,Southern California,657,UC Irvine,109,05/09/2009,2,3,Neutral,"Provo, Utah",2 Sets,"3,015"
+2009,Southern California,657,Penn State,,01/07/2010,3,0,Neutral,"Honolulu, O`ahu",-,0
+2009,Southern California,657,Hawaii,277,01/08/2010,1,3,Away,,1 Sets,"4,023"
+2009,Southern California,657,Ohio State,,01/08/2010,3,1,Neutral,"Honolulu, O`ahu",1 Sets,0
+2009,Southern California,657,UCLA,110,01/13/2010,3,1,Away,,1 Sets,"3,016"
+2009,Southern California,657,UC Irvine,109,01/15/2010,3,2,Away,,2 Sets,"2,648"
+2009,Southern California,657,Long Beach State,,01/20/2010,3,0,Home,,-,500
+2009,Southern California,657,UC San Diego,112,01/22/2010,3,0,Home,,-,500
+2009,Southern California,657,Pepperdine,541,01/29/2010,2,3,Away,,2 Sets,"1,148"
+2009,Southern California,657,CS Northridge,,02/03/2010,2,3,Away,,2 Sets,"1,475"
+2009,Southern California,657,UC Santa Barbara,104,02/05/2010,3,2,Away,,2 Sets,598
+2009,Southern California,657,Pepperdine,541,02/12/2010,0,3,Home,,-,"1,000"
+2009,Southern California,657,Pacific,534,02/19/2010,3,2,Home,,2 Sets,500
+2009,Southern California,657,Stanford,674,02/20/2010,1,3,Home,,1 Sets,"1,000"
+2009,Southern California,657,CS Northridge,,02/24/2010,1,3,Home,,1 Sets,500
+2009,Southern California,657,UC Santa Barbara,104,03/05/2010,3,1,Home,,1 Sets,500
+2009,Southern California,657,Hawaii,277,03/08/2010,3,1,Home,,1 Sets,500
+2009,Southern California,657,Hawaii,277,03/09/2010,1,3,Home,,1 Sets,400
+2009,Southern California,657,BYU,77,03/19/2010,1,3,Away,,1 Sets,"2,456"
+2009,Southern California,657,BYU,77,03/20/2010,0,3,Away,,-,"1,104"
+2009,Southern California,657,Grand Canyon,1104,03/25/2010,3,0,Home,,-,400
+2009,Southern California,657,UC Irvine,109,04/01/2010,3,2,Home,,2 Sets,500
+2009,Southern California,657,UCLA,110,04/03/2010,3,0,Home,,-,"1,000"
+2009,Southern California,657,Pacific,534,04/09/2010,3,2,Away,,2 Sets,152
+2009,Southern California,657,Stanford,674,04/10/2010,0,3,Away,,-,"1,290"
+2009,Southern Vt.,1379,MIT,398,01/30/2009,0,3,Home,,-,77
+2009,Southern Vt.,1379,Wentworth Inst.,762,01/31/2009,0,3,Neutral,"Nashua, NH",-,40
+2009,Southern Vt.,1379,Daniel Webster,2691,01/31/2009,0,3,Away,,-,25
+2009,Southern Vt.,1379,Endicott,8981,02/03/2009,0,3,Away,,-,28
+2009,Southern Vt.,1379,Lesley,24317,02/14/2009,0,3,Home,,-,55
+2009,Southern Vt.,1379,Newbury,21772,02/14/2009,0,3,Home,,-,61
+2009,Southern Vt.,1379,Elms,532,02/16/2009,0,3,Away,,-,47
+2009,Southern Vt.,1379,MIT,398,02/21/2009,0,3,Away,,-,0
+2009,Southern Vt.,1379,Mount Ida,27901,02/21/2009,0,3,Neutral,"Cambridge, MA",-,0
+2009,Southern Vt.,1379,Endicott,8981,02/25/2009,0,3,Home,,-,65
+2009,Southern Vt.,1379,Lesley,24317,02/28/2009,1,3,Away,,1 Sets,30
+2009,Southern Vt.,1379,Wentworth Inst.,762,03/01/2009,0,3,Away,,-,15
+2009,Southern Vt.,1379,St. Joseph's (Brkln),30072,03/06/2009,3,0,Home,,-,34
+2009,Southern Vt.,1379,St. Joseph's (Brkln),30072,03/06/2009,3,1,Home,,1 Sets,34
+2009,Southern Vt.,1379,Elms,532,03/18/2009,0,3,Home,,-,44
+2009,Southern Vt.,1379,Newbury,21772,03/21/2009,0,3,Away,,-,100
+2009,Southern Vt.,1379,Lesley,24317,03/21/2009,0,3,Neutral,"Brookline, MA",-,0
+2009,Southern Vt.,1379,Daniel Webster,2691,03/25/2009,0,3,Home,,-,48
+2009,Springfield,673,MIT,398,01/20/2009,3,0,Home,,-,204
+2009,Springfield,673,Vassar,737,01/23/2009,3,2,Away,,2 Sets,350
+2009,Springfield,673,Harvard,275,01/27/2009,3,2,Home,,2 Sets,186
+2009,Springfield,673,Elms,532,01/29/2009,3,0,Home,,-,190
+2009,Springfield,673,Penn St.,539,01/31/2009,0,3,Away,,-,674
+2009,Springfield,673,Saint Francis (PA),600,02/01/2009,2,3,Away,,2 Sets,126
+2009,Springfield,673,East Stroudsburg,197,02/06/2009,0,3,Home,,-,176
+2009,Springfield,673,Penn St.,539,02/07/2009,0,3,Home,,-,"1,300"
+2009,Springfield,673,NJIT,471,02/10/2009,3,2,Away,,2 Sets,200
+2009,Springfield,673,George Mason,248,02/13/2009,0,3,Home,,-,750
+2009,Springfield,673,Saint Francis (PA),600,02/14/2009,1,3,Home,,1 Sets,500
+2009,Springfield,673,Endicott,8981,02/17/2009,3,0,Home,,-,145
+2009,Springfield,673,New York U.,479,02/21/2009,3,1,Away,,1 Sets,180
+2009,Springfield,673,Juniata,325,02/27/2009,3,2,Away,,2 Sets,550
+2009,Springfield,673,Princeton,554,02/28/2009,3,1,Away,,1 Sets,130
+2009,Springfield,673,NJIT,471,03/06/2009,3,0,Home,,-,185
+2009,Springfield,673,Vassar,737,03/10/2009,3,1,Home,,1 Sets,161
+2009,Springfield,673,Quincy,561,03/12/2009,3,1,Home,,1 Sets,140
+2009,Springfield,673,Juniata,325,03/27/2009,1,3,Home,,1 Sets,584
+2009,Springfield,673,Saint Francis (PA),600,03/28/2009,3,1,Home,,1 Sets,140
+2009,Springfield,673,Princeton,554,04/03/2009,3,1,Home,,1 Sets,380
+2009,Springfield,673,New York U.,479,04/04/2009,2,3,Home,,2 Sets,312
+2009,Springfield,673,George Mason,248,04/10/2009,2,3,Away,,2 Sets,187
+2009,Springfield,673,George Mason,248,04/25/2009,1,3,Home,,1 Sets,454
+2009,Springfield,673,UC Santa Cruz,113,01/15/2010,0,3,Away,,-,175
+2009,Springfield,673,Cal Baptist Univ,,01/16/2010,1,3,Home,,1 Sets,100
+2009,Springfield,673,Vassar,737,01/22/2010,3,1,Away,,1 Sets,280
+2009,Springfield,673,Penn State,,01/23/2010,0,3,Home,,-,"1,518"
+2009,Springfield,673,Sacred Heart,590,01/26/2010,3,1,Away,,1 Sets,219
+2009,Springfield,673,Rivier,18422,01/30/2010,3,0,Home,,-,417
+2009,Springfield,673,Penn State,,02/06/2010,1,3,Away,,1 Sets,323
+2009,Springfield,673,NJIT,471,02/09/2010,3,0,Home,,-,110
+2009,Springfield,673,Princeton,554,02/12/2010,3,0,Home,,-,310
+2009,Springfield,673,Rutgers-Newark,589,02/16/2010,3,2,Away,,2 Sets,90
+2009,Springfield,673,NYU,,02/20/2010,3,0,Away,,-,200
+2009,Springfield,673,George Mason,248,02/21/2010,3,1,Away,,1 Sets,84
+2009,Springfield,673,George Mason,248,02/25/2010,2,3,Home,,2 Sets,218
+2009,Springfield,673,UC Santa Barbara,104,02/26/2010,0,3,Home,,-,523
+2009,Springfield,673,George Mason,248,02/27/2010,3,1,Home,,1 Sets,818
+2009,Springfield,673,Sacred Heart,590,03/02/2010,3,0,Home,,-,118
+2009,Springfield,673,Juniata,325,03/05/2010,3,1,Home,,1 Sets,617
+2009,Springfield,673,Harvard,275,03/09/2010,3,0,Away,,-,30
+2009,Springfield,673,Princeton,554,03/12/2010,2,3,Away,,2 Sets,195
+2009,Springfield,673,Harvard,275,03/23/2010,3,1,Home,,1 Sets,318
+2009,Springfield,673,Juniata,325,03/27/2010,2,3,Away,,2 Sets,"1,000"
+2009,Springfield,673,Saint Francis,,03/28/2010,3,1,Away,,1 Sets,250
+2009,Springfield,673,Vassar,737,03/31/2010,3,0,Home,,-,214
+2009,Springfield,673,NYU,,04/03/2010,3,0,Home,,-,145
+2009,Springfield,673,Saint Francis,,04/06/2010,0,3,Home,,-,101
+2009,Springfield,673,Baruch,58,04/07/2010,3,0,Home,,-,314
+2009,Springfield,673,Rutgers-Newark,589,04/10/2010,1,3,Home,,1 Sets,315
+2009,Stanford,674,Long Beach St.,99,01/09/2009,3,1,Neutral,"Santa Barbara, CA",1 Sets,0
+2009,Stanford,674,BYU,77,01/09/2009,3,0,Neutral,"Santa Barbara, CA",-,0
+2009,Stanford,674,Cal St. Northridge,101,01/10/2009,1,3,Neutral,"Santa Barbara, CA",1 Sets,197
+2009,Stanford,674,Pacific,534,01/14/2009,3,0,Away,,-,164
+2009,Stanford,674,Ohio St.,518,01/16/2009,3,0,Away,,-,913
+2009,Stanford,674,Ball St.,47,01/17/2009,3,0,Away,,-,"3,729"
+2009,Stanford,674,Southern California,657,01/23/2009,0,3,Away,,-,500
+2009,Stanford,674,Pepperdine,541,01/24/2009,0,3,Away,,-,"1,273"
+2009,Stanford,674,Long Beach St.,99,01/30/2009,3,2,Home,,2 Sets,0
+2009,Stanford,674,UC San Diego,112,01/31/2009,3,1,Home,,1 Sets,502
+2009,Stanford,674,UCLA,110,02/05/2009,2,3,Away,,2 Sets,471
+2009,Stanford,674,UC Irvine,109,02/06/2009,0,3,Away,,-,753
+2009,Stanford,674,Pepperdine,541,02/13/2009,3,1,Home,,1 Sets,0
+2009,Stanford,674,Southern California,657,02/14/2009,0,3,Home,,-,572
+2009,Stanford,674,Cal St. Northridge,101,02/20/2009,1,3,Away,,1 Sets,824
+2009,Stanford,674,UC Santa Barbara,104,02/21/2009,3,2,Away,,2 Sets,287
+2009,Stanford,674,Hawaii,277,02/26/2009,3,0,Away,,-,"2,585"
+2009,Stanford,674,Hawaii,277,02/28/2009,3,0,Away,,-,"3,565"
+2009,Stanford,674,UC Santa Cruz,113,03/03/2009,3,0,Home,,-,200
+2009,Stanford,674,Lewis,354,03/06/2009,3,0,Home,,-,500
+2009,Stanford,674,Lewis,354,03/07/2009,3,1,Home,,1 Sets,304
+2009,Stanford,674,Cal Baptist,,03/21/2009,0,3,Home,,-,253
+2009,Stanford,674,Cal St. Northridge,101,03/27/2009,3,1,Home,,1 Sets,471
+2009,Stanford,674,UC Santa Barbara,104,03/28/2009,3,1,Home,,1 Sets,464
+2009,Stanford,674,Pacific,534,03/31/2009,3,0,Home,,-,225
+2009,Stanford,674,Long Beach St.,99,04/03/2009,3,2,Away,,2 Sets,863
+2009,Stanford,674,UC San Diego,112,04/04/2009,3,1,Away,,1 Sets,504
+2009,Stanford,674,BYU,77,04/10/2009,2,3,Home,,2 Sets,"1,100"
+2009,Stanford,674,BYU,77,04/11/2009,3,0,Home,,-,860
+2009,Stanford,674,UC Irvine,109,04/17/2009,0,3,Home,,-,815
+2009,Stanford,674,UCLA,110,04/18/2009,3,0,Home,,-,860
+2009,Stanford,674,Southern California,657,04/25/2009,2,3,Home,,2 Sets,"1,191"
+2009,Stanford,674,Hawaii,277,01/15/2010,3,0,Home,,-,"1,108"
+2009,Stanford,674,Hawaii,277,01/16/2010,3,0,Home,,-,960
+2009,Stanford,674,BYU,77,01/22/2010,1,3,Away,,1 Sets,"4,409"
+2009,Stanford,674,BYU,77,01/23/2010,3,1,Away,,1 Sets,"3,829"
+2009,Stanford,674,UC Santa Barbara,104,01/28/2010,1,3,Home,,1 Sets,350
+2009,Stanford,674,CS Northridge,,01/29/2010,2,3,Home,,2 Sets,611
+2009,Stanford,674,Pacific,534,02/03/2010,3,1,Home,,1 Sets,200
+2009,Stanford,674,UC Santa Cruz,113,02/05/2010,3,1,Home,,1 Sets,550
+2009,Stanford,674,UCLA,110,02/12/2010,3,0,Home,,-,795
+2009,Stanford,674,UC Irvine,109,02/13/2010,3,1,Home,,1 Sets,647
+2009,Stanford,674,Pepperdine,541,02/19/2010,0,3,Away,,-,"1,127"
+2009,Stanford,674,USC,,02/20/2010,3,1,Away,,1 Sets,"1,000"
+2009,Stanford,674,UC Santa Cruz,113,02/24/2010,3,0,Home,,-,175
+2009,Stanford,674,Pacific,534,02/26/2010,3,1,Away,,1 Sets,300
+2009,Stanford,674,UC San Diego,112,03/05/2010,3,1,Home,,1 Sets,675
+2009,Stanford,674,Long Beach State,,03/06/2010,3,1,Home,,1 Sets,690
+2009,Stanford,674,Cal Baptist,,03/20/2010,3,0,Home,,-,450
+2009,Stanford,674,UC San Diego,112,03/26/2010,3,0,Away,,-,515
+2009,Stanford,674,Long Beach State,,03/27/2010,3,0,Away,,-,862
+2009,Stanford,674,CS Northridge,,04/02/2010,1,3,Away,,1 Sets,956
+2009,Stanford,674,UC Santa Barbara,104,04/03/2010,3,0,Away,,-,414
+2009,Stanford,674,Pepperdine,541,04/09/2010,3,2,Home,,2 Sets,"1,420"
+2009,Stanford,674,USC,,04/10/2010,3,0,Home,,-,"1,290"
+2009,Stevens,679,New York U.,479,01/14/2009,3,1,Away,,1 Sets,100
+2009,Stevens,679,Mt. St. Vincent,451,01/21/2009,3,0,Home,,-,100
+2009,Stevens,679,New York U.,479,01/23/2009,3,0,Home,,-,75
+2009,Stevens,679,Hunter,292,01/23/2009,3,0,Home,,-,75
+2009,Stevens,679,Nazareth,461,01/24/2009,3,0,Home,,-,100
+2009,Stevens,679,Endicott,8981,01/30/2009,3,0,Away,,-,100
+2009,Stevens,679,Harvard,275,01/31/2009,1,3,Away,,1 Sets,100
+2009,Stevens,679,Sacred Heart,590,02/02/2009,3,0,Home,,-,100
+2009,Stevens,679,Phila. Biblical,1305,02/04/2009,3,0,Away,,-,70
+2009,Stevens,679,Vassar,737,02/07/2009,3,1,Home,,1 Sets,150
+2009,Stevens,679,Juniata,325,02/12/2009,2,3,Away,,2 Sets,150
+2009,Stevens,679,Carthage,121,02/13/2009,3,0,Neutral,"Rochester, NY",-,30
+2009,Stevens,679,East. Mennonite,203,02/13/2009,3,0,Neutral,"Rochester, NY",-,50
+2009,Stevens,679,Medaille,23725,02/14/2009,3,0,Neutral,"Rochester, NY",-,70
+2009,Stevens,679,SUNY New Paltz,475,02/14/2009,2,3,Neutral,"Rochester, NY",2 Sets,100
+2009,Stevens,679,SUNY New Paltz,475,02/17/2009,3,0,Home,,-,45
+2009,Stevens,679,Polytechnic (NY),481,02/20/2009,3,0,Away,,-,15
+2009,Stevens,679,New York U.,479,02/25/2009,3,1,Home,,1 Sets,150
+2009,Stevens,679,Baruch,58,02/27/2009,3,0,Away,,-,47
+2009,Stevens,679,Ramapo,564,03/04/2009,0,3,Away,,-,200
+2009,Stevens,679,Princeton,554,03/06/2009,1,3,Away,,1 Sets,150
+2009,Stevens,679,Bard,962,03/18/2009,3,1,Away,,1 Sets,60
+2009,Stevens,679,Mount Olive,1245,03/20/2009,2,3,Home,,2 Sets,50
+2009,Stevens,679,New Jersey City,319,03/23/2009,3,0,Away,,-,53
+2009,Stevens,679,Yeshiva,814,03/24/2009,3,0,Home,,-,20
+2009,Stevens,679,Purchase St.,30029,03/25/2009,3,0,Home,,-,80
+2009,Stevens,679,Sacred Heart,590,03/28/2009,3,0,Away,,-,50
+2009,Stevens,679,Baruch,58,04/04/2009,3,1,Neutral,"Cambridge, MA",1 Sets,75
+2009,Stevens,679,Endicott,8981,04/04/2009,3,1,Neutral,"Cambridge, MA",1 Sets,100
+2009,Stevens,679,Nazareth,461,04/05/2009,3,1,Neutral,"Cambridge, MA",1 Sets,100
+2009,Stevens,679,East. Mennonite,203,04/13/2009,3,0,Neutral,"Cambridge, MA",-,75
+2009,Stevens,679,UC Santa Cruz,113,04/17/2009,3,0,Neutral,"Mahwah, NJ",-,400
+2009,Stevens,679,Juniata,325,04/18/2009,0,3,Away,,-,800
+2009,Stevenson,21852,Lancaster Bible,30085,01/23/2009,3,0,Home,,-,55
+2009,Stevenson,21852,CCNY,480,01/23/2009,3,0,Home,,-,102
+2009,Stevenson,21852,Baruch,58,01/30/2009,1,3,Home,,1 Sets,76
+2009,Stevenson,21852,King (TN),30051,01/31/2009,1,3,Home,,1 Sets,50
+2009,Stevenson,21852,Mt. St. Vincent,451,01/31/2009,3,1,Home,,1 Sets,50
+2009,Stevenson,21852,East. Mennonite,203,02/03/2009,0,3,Home,,-,56
+2009,Stevenson,21852,New Jersey City,319,02/07/2009,3,0,Away,,-,90
+2009,Stevenson,21852,Newbury,21772,02/07/2009,0,3,Neutral,"Jersey City, NJ",-,50
+2009,Stevenson,21852,Wentworth Inst.,762,02/07/2009,3,2,Neutral,"Jersey City, NJ",2 Sets,90
+2009,Stevenson,21852,Phila. Biblical,1305,02/11/2009,0,3,Away,,-,80
+2009,Stevenson,21852,Hilbert,8398,02/14/2009,3,0,Away,,-,52
+2009,Stevenson,21852,D'Youville,1059,02/14/2009,3,0,Away,,-,85
+2009,Stevenson,21852,East. Mennonite,203,02/16/2009,1,3,Away,,1 Sets,240
+2009,Stevenson,21852,Lancaster Bible,30085,02/18/2009,3,0,Away,,-,0
+2009,Stevenson,21852,York (NY),2730,02/18/2009,3,0,Neutral,"Lancaster, PA",-,0
+2009,Stevenson,21852,New Jersey City,319,02/21/2009,3,1,Home,,1 Sets,29
+2009,Stevenson,21852,Hilbert,8398,02/21/2009,3,0,Home,,-,50
+2009,Stevenson,21852,Medaille,23725,03/01/2009,3,2,Neutral,"Utica, NY",2 Sets,50
+2009,Stevenson,21852,SUNYIT,9500,03/01/2009,3,1,Away,,1 Sets,58
+2009,Stevenson,21852,Phila. Biblical,1305,03/07/2009,0,3,Home,,-,55
+2009,Stevenson,21852,Lees-McRae,13302,03/07/2009,1,3,Home,,1 Sets,76
+2009,Stevenson,21852,SUNYIT,9500,03/08/2009,3,0,Home,,-,48
+2009,Stevenson,21852,SUNY New Paltz,475,03/13/2009,0,3,Neutral,"Jamaica, NY",-,50
+2009,Stevenson,21852,New Jersey City,319,03/13/2009,2,3,Neutral,"Jamaica, NY",2 Sets,50
+2009,Stevenson,21852,York (NY),2730,03/14/2009,3,1,Away,,1 Sets,50
+2009,Stevenson,21852,City Tech,8580,03/14/2009,3,0,Neutral,"Queens, NY",-,50
+2009,Stevenson,21852,Ramapo,564,03/19/2009,1,3,Home,,1 Sets,55
+2009,Stevenson,21852,Lehman,279,03/21/2009,3,1,Home,,1 Sets,50
+2009,Stevenson,21852,Bard,962,03/21/2009,3,0,Home,,-,50
+2009,Stevenson,21852,Medaille,23725,03/27/2009,0,3,Neutral,"Rochester, NY",-,50
+2009,Stevenson,21852,D'Youville,1059,03/28/2009,3,0,Neutral,"Rochester, NY",-,0
+2009,Stevenson,21852,Hunter,292,04/11/2009,0,3,Away,,-,55
+2009,Stevenson,21852,New Jersey City,319,04/11/2009,3,2,Home,,2 Sets,134
+2009,SUNY New Paltz,475,Sacred Heart,590,01/16/2009,1,3,Home,,1 Sets,30
+2009,SUNY New Paltz,475,MIT,398,01/16/2009,3,2,Home,,2 Sets,30
+2009,SUNY New Paltz,475,Emmanuel (MA),215,01/17/2009,3,2,Home,,2 Sets,30
+2009,SUNY New Paltz,475,Hunter,292,01/22/2009,2,3,Home,,2 Sets,75
+2009,SUNY New Paltz,475,Vassar,737,01/28/2009,1,3,Away,,1 Sets,100
+2009,SUNY New Paltz,475,Polytechnic (NY),481,01/30/2009,3,0,Home,,-,45
+2009,SUNY New Paltz,475,Bard,962,02/04/2009,3,0,Home,,-,50
+2009,SUNY New Paltz,475,SUNYIT,9500,02/07/2009,3,0,Neutral,"Jersey City, NJ",-,90
+2009,SUNY New Paltz,475,New Jersey City,319,02/07/2009,3,1,Away,,1 Sets,90
+2009,SUNY New Paltz,475,Newbury,21772,02/07/2009,0,3,Neutral,"Jersey City, NJ",-,90
+2009,SUNY New Paltz,475,Purchase St.,30029,02/09/2009,3,0,Away,,-,30
+2009,SUNY New Paltz,475,York (NY),2730,02/11/2009,3,0,Home,,-,50
+2009,SUNY New Paltz,475,Nazareth,461,02/13/2009,1,3,Away,,1 Sets,0
+2009,SUNY New Paltz,475,UC Santa Cruz,113,02/13/2009,0,3,Neutral,"Rochester, NY",-,0
+2009,SUNY New Paltz,475,Medaille,23725,02/14/2009,3,0,Neutral,"Rochester, NY",-,0
+2009,SUNY New Paltz,475,Stevens,679,02/14/2009,3,2,Neutral,"Rochester, NY",2 Sets,100
+2009,SUNY New Paltz,475,Stevens,679,02/17/2009,0,3,Away,,-,45
+2009,SUNY New Paltz,475,Bard,962,02/22/2009,3,0,Neutral,"New York, NY",-,0
+2009,SUNY New Paltz,475,Yeshiva,814,02/22/2009,3,0,Away,,-,0
+2009,SUNY New Paltz,475,Ramapo,564,02/25/2009,0,3,Home,,-,82
+2009,SUNY New Paltz,475,New Jersey City,319,02/26/2009,3,0,Home,,-,46
+2009,SUNY New Paltz,475,Vassar,737,03/03/2009,1,3,Home,,1 Sets,50
+2009,SUNY New Paltz,475,Phila. Biblical,1305,03/06/2009,1,3,Away,,1 Sets,130
+2009,SUNY New Paltz,475,Mt. St. Vincent,451,03/10/2009,3,0,Away,,-,34
+2009,SUNY New Paltz,475,Baruch,58,03/12/2009,1,3,Home,,1 Sets,235
+2009,SUNY New Paltz,475,Stevenson,21852,03/13/2009,3,0,Neutral,"Jamaica, NY",-,0
+2009,SUNY New Paltz,475,King (TN),30051,03/13/2009,3,2,Neutral,"Jamaica, NY",1 Sets,0
+2009,SUNY New Paltz,475,Quincy,561,03/14/2009,3,2,Neutral,"Jamaica, NY",2 Sets,0
+2009,SUNY New Paltz,475,SUNYIT,9500,03/14/2009,3,0,Neutral,"Jamaica, NY",-,0
+2009,SUNY New Paltz,475,New Jersey City,319,03/19/2009,3,0,Away,,-,21
+2009,SUNY New Paltz,475,Johnson & Wales (RI),22626,03/21/2009,3,0,Neutral,"Boston, MA",-,0
+2009,SUNY New Paltz,475,Emmanuel (MA),215,03/21/2009,3,2,Away,,2 Sets,0
+2009,SUNY New Paltz,475,New Haven,470,03/26/2009,3,0,Away,,-,65
+2009,SUNY New Paltz,475,East Stroudsburg,197,03/27/2009,0,3,Away,,-,85
+2009,SUNY New Paltz,475,Endicott,8981,04/03/2009,0,3,Neutral,"Cambridge, MA",-,80
+2009,SUNY Poly,9500,Nazareth,461,01/20/2009,0,3,Away,,-,117
+2009,SUNY Poly,9500,Bard,962,01/22/2009,1,3,Home,,1 Sets,75
+2009,SUNY Poly,9500,Hilbert,8398,01/24/2009,2,3,Home,,2 Sets,40
+2009,SUNY Poly,9500,Baruch,58,01/24/2009,0,3,Home,,-,55
+2009,SUNY Poly,9500,D'Youville,1059,01/24/2009,1,3,Home,,1 Sets,35
+2009,SUNY Poly,9500,Hilbert,8398,01/31/2009,0,3,Away,,-,59
+2009,SUNY Poly,9500,Newbury,21772,02/07/2009,0,3,Neutral,"Jersey City, NJ",-,90
+2009,SUNY Poly,9500,Wentworth Inst.,762,02/07/2009,1,3,Neutral,"Jersey City, NJ",1 Sets,90
+2009,SUNY Poly,9500,SUNY New Paltz,475,02/07/2009,0,3,Neutral,"Jersey City, NJ",-,90
+2009,SUNY Poly,9500,Nazareth,461,02/10/2009,0,3,Home,,-,75
+2009,SUNY Poly,9500,Baruch,58,02/14/2009,0,3,Neutral,"Beverly, MA",-,0
+2009,SUNY Poly,9500,Rivier,18422,02/14/2009,0,3,Neutral,"Beverly, MA",-,0
+2009,SUNY Poly,9500,Endicott,8981,02/15/2009,0,3,Away,,-,55
+2009,SUNY Poly,9500,Ramapo,564,02/15/2009,0,3,Neutral,"Beverly, MA",-,0
+2009,SUNY Poly,9500,D'Youville,1059,02/20/2009,0,3,Away,,-,125
+2009,SUNY Poly,9500,Lancaster Bible,30085,02/21/2009,1,3,Neutral,"Buffalo, NY",1 Sets,0
+2009,SUNY Poly,9500,Medaille,23725,02/21/2009,0,3,Away,,-,61
+2009,SUNY Poly,9500,Stevenson,21852,03/01/2009,1,3,Home,,1 Sets,58
+2009,SUNY Poly,9500,Medaille,23725,03/01/2009,1,3,Home,,1 Sets,68
+2009,SUNY Poly,9500,Milwaukee Engr.,20220,03/04/2009,0,3,Home,,-,68
+2009,SUNY Poly,9500,Stevenson,21852,03/08/2009,0,3,Away,,-,48
+2009,SUNY Poly,9500,Phila. Biblical,1305,03/09/2009,0,3,Away,,-,40
+2009,SUNY Poly,9500,York (NY),2730,03/13/2009,3,1,Away,,1 Sets,100
+2009,SUNY Poly,9500,SUNY New Paltz,475,03/14/2009,0,3,Neutral,"Jamaica, NY",-,63
+2009,SUNY Poly,9500,New Jersey City,319,03/14/2009,1,3,Neutral,"Jamaica, NY",1 Sets,81
+2009,SUNY Poly,9500,City Tech,8580,03/14/2009,1,3,Neutral,"Queens, NY",1 Sets,50
+2009,SUNY Poly,9500,New Jersey City,319,03/21/2009,1,3,Neutral,"Lancaster, PA",1 Sets,35
+2009,SUNY Poly,9500,Lancaster Bible,30085,03/21/2009,0,3,Away,,-,55
+2009,UC Irvine,109,Cal Baptist,,01/07/2009,3,0,Away,,-,203
+2009,UC Irvine,109,Long Beach St.,99,01/09/2009,0,3,Neutral,"Santa Barbara, CA",-,0
+2009,UC Irvine,109,BYU,77,01/09/2009,3,1,Neutral,"Santa Barbara, CA",1 Sets,0
+2009,UC Irvine,109,UCLA,110,01/10/2009,3,0,Neutral,"Santa Barbara, CA",-,117
+2009,UC Irvine,109,UC Santa Barbara,104,01/14/2009,3,1,Away,,1 Sets,337
+2009,UC Irvine,109,Cal St. Northridge,101,01/16/2009,1,3,Home,,1 Sets,678
+2009,UC Irvine,109,UC San Diego,112,01/21/2009,3,0,Home,,-,386
+2009,UC Irvine,109,Long Beach St.,99,01/23/2009,3,1,Away,,1 Sets,919
+2009,UC Irvine,109,Princeton,554,01/26/2009,3,0,Home,,-,262
+2009,UC Irvine,109,UCLA,110,01/30/2009,3,1,Home,,1 Sets,"1,564"
+2009,UC Irvine,109,Stanford,674,02/06/2009,3,0,Home,,-,753
+2009,UC Irvine,109,Pacific,534,02/07/2009,3,1,Home,,1 Sets,282
+2009,UC Irvine,109,UC Santa Barbara,104,02/11/2009,3,2,Home,,2 Sets,342
+2009,UC Irvine,109,Southern California,657,02/18/2009,3,2,Away,,2 Sets,450
+2009,UC Irvine,109,Pepperdine,541,02/20/2009,1,3,Away,,1 Sets,"1,310"
+2009,UC Irvine,109,UC San Diego,112,02/25/2009,3,0,Away,,-,100
+2009,UC Irvine,109,Long Beach St.,99,02/27/2009,3,1,Home,,1 Sets,"1,103"
+2009,UC Irvine,109,Loyola Chicago,371,03/04/2009,3,0,Home,,-,488
+2009,UC Irvine,109,UCLA,110,03/06/2009,3,2,Away,,2 Sets,"1,298"
+2009,UC Irvine,109,Cal St. Northridge,101,03/13/2009,3,2,Away,,2 Sets,"1,197"
+2009,UC Irvine,109,Hawaii,277,03/26/2009,3,0,Home,,-,825
+2009,UC Irvine,109,Hawaii,277,03/27/2009,3,0,Home,,-,890
+2009,UC Irvine,109,BYU,77,04/02/2009,1,3,Away,,1 Sets,"2,140"
+2009,UC Irvine,109,BYU,77,04/03/2009,3,1,Away,,1 Sets,"3,878"
+2009,UC Irvine,109,Southern California,657,04/08/2009,3,1,Home,,1 Sets,"2,421"
+2009,UC Irvine,109,Pepperdine,541,04/11/2009,3,0,Home,,-,"2,587"
+2009,UC Irvine,109,Stanford,674,04/17/2009,3,0,Away,,-,815
+2009,UC Irvine,109,Pacific,534,04/18/2009,3,0,Away,,-,186
+2009,UC Irvine,109,UCLA,110,04/25/2009,3,1,Home,,1 Sets,"2,005"
+2009,UC Irvine,109,Southern California,657,04/30/2009,0,3,Away,,-3 Sets,"1,997"
+2009,UC Irvine,109,Ohio St.,518,05/07/2009,3,0,Neutral,"Provo, Utah",-,"2,564"
+2009,UC Irvine,109,Southern California,657,05/09/2009,3,2,Neutral,"Provo, Utah",2 Sets,"3,015"
+2009,UC Irvine,109,Cal Baptist,,01/05/2010,3,0,Home,,-,313
+2009,UC Irvine,109,UC San Diego,112,01/07/2010,3,1,Neutral,"Santa Barbara, Calif",1 Sets,0
+2009,UC Irvine,109,BYU,77,01/07/2010,1,3,Neutral,"Santa Barbara, Calif",1 Sets,0
+2009,UC Irvine,109,Long Beach State,,01/08/2010,3,1,Neutral,"Santa Barbara, CA",1 Sets,224
+2009,UC Irvine,109,Pepperdine,541,01/13/2010,3,1,Home,,1 Sets,775
+2009,UC Irvine,109,USC,,01/15/2010,2,3,Home,,2 Sets,"2,648"
+2009,UC Irvine,109,CS Northridge,,01/20/2010,1,3,Away,,1 Sets,468
+2009,UC Irvine,109,UC Santa Barbara,104,01/22/2010,1,3,Home,,1 Sets,715
+2009,UC Irvine,109,Princeton,554,01/26/2010,3,0,Home,,-,257
+2009,UC Irvine,109,Hawaii,277,01/29/2010,2,3,Away,,2 Sets,"3,246"
+2009,UC Irvine,109,Hawaii,277,01/30/2010,2,3,Away,,2 Sets,"3,657"
+2009,UC Irvine,109,BYU,77,02/04/2010,2,3,Home,,2 Sets,"1,003"
+2009,UC Irvine,109,BYU,77,02/05/2010,3,0,Home,,-,"1,458"
+2009,UC Irvine,109,Pacific,534,02/12/2010,3,1,Away,,1 Sets,181
+2009,UC Irvine,109,Stanford,674,02/13/2010,1,3,Away,,1 Sets,647
+2009,UC Irvine,109,CS Northridge,,02/17/2010,3,1,Home,,1 Sets,812
+2009,UC Irvine,109,Long Beach State,,02/24/2010,2,3,Away,,2 Sets,812
+2009,UC Irvine,109,UC San Diego,112,02/26/2010,3,1,Home,,1 Sets,690
+2009,UC Irvine,109,UC Santa Barbara,104,03/03/2010,1,3,Away,,1 Sets,311
+2009,UC Irvine,109,UCLA,110,03/05/2010,3,1,Away,,1 Sets,"1,406"
+2009,UC Irvine,109,LEWIS,,03/08/2010,3,1,Home,,1 Sets,165
+2009,UC Irvine,109,Penn State,,03/10/2010,2,3,Home,,2 Sets,813
+2009,UC Irvine,109,UCLA,110,03/27/2010,2,3,Home,,2 Sets,"1,029"
+2009,UC Irvine,109,USC,,04/01/2010,2,3,Away,,2 Sets,500
+2009,UC Irvine,109,Pepperdine,541,04/03/2010,3,2,Away,,2 Sets,915
+2009,UC Irvine,109,Long Beach State,,04/07/2010,3,1,Home,,1 Sets,"1,512"
+2009,UC Irvine,109,UC San Diego,112,04/09/2010,3,0,Away,,-,232
+2009,UC San Diego,112,Hope Int'l,,01/09/2009,3,0,Home,,-,388
+2009,UC San Diego,112,Cal Baptist,,01/13/2009,2,3,Away,,2 Sets,210
+2009,UC San Diego,112,Long Beach St.,99,01/16/2009,0,3,Away,,-,703
+2009,UC San Diego,112,UC Irvine,109,01/21/2009,0,3,Away,,-,386
+2009,UC San Diego,112,UCLA,110,01/23/2009,0,3,Away,,-,508
+2009,UC San Diego,112,Princeton,554,01/28/2009,3,0,Home,,-,300
+2009,UC San Diego,112,Pacific,534,01/30/2009,3,0,Away,,-,256
+2009,UC San Diego,112,Stanford,674,01/31/2009,1,3,Away,,1 Sets,502
+2009,UC San Diego,112,UC Santa Barbara,104,02/06/2009,3,2,Away,,2 Sets,237
+2009,UC San Diego,112,Cal St. Northridge,101,02/07/2009,0,3,Away,,-,410
+2009,UC San Diego,112,Saint Francis (PA),600,02/13/2009,3,1,Neutral,"Springfield, MA",1 Sets,486
+2009,UC San Diego,112,George Mason,248,02/14/2009,3,0,Neutral,"Springfield, MA",-,500
+2009,UC San Diego,112,BYU,77,02/20/2009,0,3,Away,,-,"2,320"
+2009,UC San Diego,112,BYU,77,02/21/2009,0,3,Away,,-,"2,142"
+2009,UC San Diego,112,UC Irvine,109,02/25/2009,0,3,Home,,-,100
+2009,UC San Diego,112,UCLA,110,02/28/2009,3,0,Home,,-,906
+2009,UC San Diego,112,Southern California,657,03/06/2009,3,1,Home,,1 Sets,683
+2009,UC San Diego,112,Pepperdine,541,03/07/2009,2,3,Home,,2 Sets,566
+2009,UC San Diego,112,Hawaii,277,03/13/2009,3,1,Home,,1 Sets,507
+2009,UC San Diego,112,Hawaii,277,03/14/2009,3,2,Home,,2 Sets,198
+2009,UC San Diego,112,Pepperdine,541,03/26/2009,0,3,Away,,-,520
+2009,UC San Diego,112,Southern California,657,03/28/2009,0,3,Away,,-,400
+2009,UC San Diego,112,Pacific,534,04/03/2009,3,0,Home,,-,397
+2009,UC San Diego,112,Stanford,674,04/04/2009,1,3,Home,,1 Sets,504
+2009,UC San Diego,112,Cal St. Northridge,101,04/10/2009,1,3,Home,,1 Sets,292
+2009,UC San Diego,112,UC Santa Barbara,104,04/11/2009,3,2,Home,,2 Sets,192
+2009,UC San Diego,112,Long Beach St.,99,04/17/2009,1,3,Home,,1 Sets,492
+2009,UC San Diego,112,Grand Canyon,1104,04/18/2009,3,0,Home,,-,67
+2009,UC San Diego,112,UC Irvine,109,01/07/2010,1,3,Neutral,"Santa Barbara, Calif",1 Sets,0
+2009,UC San Diego,112,UCLA,110,01/07/2010,2,3,Neutral,Santa Barbara,2 Sets,150
+2009,UC San Diego,112,UC Santa Barbara,104,01/08/2010,3,2,Away,,2 Sets,128
+2009,UC San Diego,112,CS Northridge,,01/13/2010,0,3,Away,,-,314
+2009,UC San Diego,112,UC Santa Barbara,104,01/16/2010,2,3,Away,,2 Sets,157
+2009,UC San Diego,112,Pepperdine,541,01/20/2010,3,1,Away,,1 Sets,485
+2009,UC San Diego,112,USC,,01/22/2010,0,3,Away,,-,500
+2009,UC San Diego,112,Princeton,554,01/27/2010,3,0,Home,,-,109
+2009,UC San Diego,112,Long Beach State,,01/29/2010,0,3,Away,,-,774
+2009,UC San Diego,112,Long Beach State,,02/05/2010,1,3,Home,,1 Sets,449
+2009,UC San Diego,112,Hope International,,02/06/2010,3,0,Away,,-,150
+2009,UC San Diego,112,CS Northridge,,02/12/2010,0,3,Home,,-,109
+2009,UC San Diego,112,UC Santa Barbara,104,02/13/2010,2,3,Home,,2 Sets,201
+2009,UC San Diego,112,BYU,77,02/19/2010,1,3,Home,,1 Sets,229
+2009,UC San Diego,112,BYU,77,02/20/2010,0,3,Home,,-,469
+2009,UC San Diego,112,UCLA,110,02/24/2010,3,0,Away,,-,998
+2009,UC San Diego,112,UC Irvine,109,02/26/2010,1,3,Away,,1 Sets,690
+2009,UC San Diego,112,Stanford,674,03/05/2010,1,3,Away,,1 Sets,675
+2009,UC San Diego,112,Pacific,534,03/06/2010,3,1,Away,,1 Sets,154
+2009,UC San Diego,112,LEWIS,,03/12/2010,3,0,Away,,-,465
+2009,UC San Diego,112,LEWIS,,03/13/2010,2,3,Away,,2 Sets,332
+2009,UC San Diego,112,Stanford,674,03/26/2010,0,3,Home,,-,515
+2009,UC San Diego,112,Pacific,534,03/27/2010,3,0,Home,,-,202
+2009,UC San Diego,112,Hawaii,277,04/02/2010,1,3,Away,,1 Sets,"3,528"
+2009,UC San Diego,112,Hawaii,277,04/03/2010,0,3,Away,,-,"4,382"
+2009,UC San Diego,112,UC Irvine,109,04/09/2010,0,3,Home,,-,232
+2009,UC San Diego,112,UCLA,110,04/10/2010,3,1,Home,,1 Sets,669
+2009,UC Santa Barbara,104,Cal St. Northridge,101,01/09/2009,1,3,Home,,1 Sets,218
+2009,UC Santa Barbara,104,Pacific,534,01/09/2009,3,1,Home,,1 Sets,133
+2009,UC Santa Barbara,104,Long Beach St.,99,01/10/2009,3,0,Home,,-,231
+2009,UC Santa Barbara,104,UC Irvine,109,01/14/2009,1,3,Home,,1 Sets,337
+2009,UC Santa Barbara,104,UCLA,110,01/16/2009,0,3,Away,,-,701
+2009,UC Santa Barbara,104,Cal St. Northridge,101,01/23/2009,0,3,Away,,-,502
+2009,UC Santa Barbara,104,BYU,77,01/30/2009,3,2,Home,,2 Sets,315
+2009,UC Santa Barbara,104,BYU,77,01/31/2009,2,3,Home,,2 Sets,351
+2009,UC Santa Barbara,104,UC San Diego,112,02/06/2009,2,3,Home,,2 Sets,237
+2009,UC Santa Barbara,104,Long Beach St.,99,02/07/2009,0,3,Home,,-,287
+2009,UC Santa Barbara,104,UC Irvine,109,02/11/2009,2,3,Away,,2 Sets,342
+2009,UC Santa Barbara,104,Pacific,534,02/20/2009,3,0,Home,,-,242
+2009,UC Santa Barbara,104,Stanford,674,02/21/2009,2,3,Home,,2 Sets,287
+2009,UC Santa Barbara,104,Southern California,657,02/26/2009,1,3,Away,,1 Sets,350
+2009,UC Santa Barbara,104,Pepperdine,541,02/28/2009,0,3,Away,,-,377
+2009,UC Santa Barbara,104,Hawaii,277,03/05/2009,3,1,Away,,1 Sets,"2,226"
+2009,UC Santa Barbara,104,Hawaii,277,03/06/2009,0,3,Away,,-,"2,348"
+2009,UC Santa Barbara,104,George Mason,248,03/11/2009,3,2,Home,,2 Sets,128
+2009,UC Santa Barbara,104,UCLA,110,03/13/2009,1,3,Home,,1 Sets,357
+2009,UC Santa Barbara,104,Cal Baptist,,03/24/2009,3,2,Home,,2 Sets,113
+2009,UC Santa Barbara,104,Pacific,534,03/27/2009,3,0,Away,,-,152
+2009,UC Santa Barbara,104,Stanford,674,03/28/2009,1,3,Away,,1 Sets,464
+2009,UC Santa Barbara,104,Southern California,657,04/01/2009,2,3,Home,,2 Sets,306
+2009,UC Santa Barbara,104,Pepperdine,541,04/04/2009,0,3,Home,,-,322
+2009,UC Santa Barbara,104,Long Beach St.,99,04/10/2009,1,3,Away,,1 Sets,764
+2009,UC Santa Barbara,104,UC San Diego,112,04/11/2009,2,3,Away,,2 Sets,192
+2009,UC Santa Barbara,104,Cal St. Northridge,101,04/17/2009,0,3,Home,,-,358
+2009,UC Santa Barbara,104,Long Beach State,,01/07/2010,2,3,Home,,2 Sets,192
+2009,UC Santa Barbara,104,CS Northridge,,01/07/2010,1,3,Home,,1 Sets,136
+2009,UC Santa Barbara,104,UC San Diego,112,01/08/2010,2,3,Home,,2 Sets,128
+2009,UC Santa Barbara,104,Long Beach State,,01/13/2010,2,3,Home,,2 Sets,246
+2009,UC Santa Barbara,104,UC San Diego,112,01/16/2010,3,2,Home,,2 Sets,157
+2009,UC Santa Barbara,104,UCLA,110,01/20/2010,2,3,Away,,2 Sets,318
+2009,UC Santa Barbara,104,UC Irvine,109,01/22/2010,3,1,Away,,1 Sets,715
+2009,UC Santa Barbara,104,Stanford,674,01/28/2010,3,1,Away,,1 Sets,350
+2009,UC Santa Barbara,104,Pacific,534,01/29/2010,3,0,Away,,-,263
+2009,UC Santa Barbara,104,Pepperdine,541,02/03/2010,2,3,Home,,2 Sets,329
+2009,UC Santa Barbara,104,USC,,02/05/2010,2,3,Home,,2 Sets,598
+2009,UC Santa Barbara,104,Long Beach State,,02/12/2010,3,2,Away,,2 Sets,777
+2009,UC Santa Barbara,104,UC San Diego,112,02/13/2010,3,2,Away,,2 Sets,201
+2009,UC Santa Barbara,104,UCLA,110,02/17/2010,1,3,Home,,1 Sets,294
+2009,UC Santa Barbara,104,Harvard,275,02/25/2010,3,0,Away,,-,63
+2009,UC Santa Barbara,104,Springfield College,,02/26/2010,3,0,Away,,-,523
+2009,UC Santa Barbara,104,Ohio State,,02/27/2010,3,0,Neutral,"Springfield, Mass.",-,601
+2009,UC Santa Barbara,104,UC Irvine,109,03/03/2010,3,1,Home,,1 Sets,311
+2009,UC Santa Barbara,104,USC,,03/05/2010,1,3,Away,,1 Sets,500
+2009,UC Santa Barbara,104,CS Northridge,,03/10/2010,0,3,Home,,-,151
+2009,UC Santa Barbara,104,Pepperdine,541,03/13/2010,2,3,Away,,2 Sets,"1,015"
+2009,UC Santa Barbara,104,BYU,77,03/26/2010,1,3,Away,,1 Sets,"1,804"
+2009,UC Santa Barbara,104,BYU,77,03/27/2010,1,3,Away,,1 Sets,"1,394"
+2009,UC Santa Barbara,104,Pacific,534,04/02/2010,3,0,Home,,-,207
+2009,UC Santa Barbara,104,Stanford,674,04/03/2010,0,3,Home,,-,414
+2009,UC Santa Barbara,104,CS Northridge,,04/07/2010,2,3,Away,,2 Sets,377
+2009,UC Santa Barbara,104,Penn State,,04/09/2010,3,0,Home,,-,318
+2009,UC Santa Cruz,113,Pacific,534,01/07/2009,0,3,Home,,-,350
+2009,UC Santa Cruz,113,Grand Canyon,1104,01/09/2009,3,0,Home,,-,175
+2009,UC Santa Cruz,113,Holy Names,,01/10/2009,3,1,Home,,1 Sets,200
+2009,UC Santa Cruz,113,Grand Canyon,1104,01/10/2009,3,0,Home,,-,75
+2009,UC Santa Cruz,113,Pacific,534,01/16/2009,2,3,Away,,2 Sets,166
+2009,UC Santa Cruz,113,Holy Names,,01/24/2009,3,1,Away,,1 Sets,60
+2009,UC Santa Cruz,113,California,107,02/06/2009,3,1,Home,,1 Sets,150
+2009,UC Santa Cruz,113,SUNY New Paltz,475,02/13/2009,3,0,Neutral,"Rochester, NY",-,55
+2009,UC Santa Cruz,113,Nazareth,461,02/13/2009,3,2,Away,,2 Sets,100
+2009,UC Santa Cruz,113,Carthage,121,02/14/2009,3,1,Neutral,"Rochester, NY",1 Sets,45
+2009,UC Santa Cruz,113,Vassar,737,02/14/2009,0,3,Neutral,"Rochester, NY",-,60
+2009,UC Santa Cruz,113,Johnson & Wales (CO),,02/20/2009,3,1,Neutral,"Fullerton, CA",1 Sets,50
+2009,UC Santa Cruz,113,Hope Int'l,,02/20/2009,1,3,Away,,1 Sets,125
+2009,UC Santa Cruz,113,Lindenwood (MO),,02/21/2009,1,3,Neutral,"Riverside, CA",1 Sets,0
+2009,UC Santa Cruz,113,Cal Baptist,,02/21/2009,0,3,Away,,-,123
+2009,UC Santa Cruz,113,Holy Names,,02/27/2009,3,1,Away,,1 Sets,60
+2009,UC Santa Cruz,113,Stanford,674,03/03/2009,0,3,Away,,-,200
+2009,UC Santa Cruz,113,Lewis,354,03/04/2009,1,3,Home,,1 Sets,85
+2009,UC Santa Cruz,113,Juniata,325,03/11/2009,0,3,Home,,-,150
+2009,UC Santa Cruz,113,New York U.,479,03/13/2009,3,1,Neutral,"Kenosha, WI",1 Sets,54
+2009,UC Santa Cruz,113,Carthage,121,03/13/2009,3,1,Away,,1 Sets,250
+2009,UC Santa Cruz,113,Phila. Biblical,1305,03/14/2009,3,0,Neutral,"Kenosha, WI",-,30
+2009,UC Santa Cruz,113,Milwaukee Engr.,20220,03/14/2009,3,0,Neutral,"Kenosha, WI",-,56
+2009,UC Santa Cruz,113,Stevens,679,04/17/2009,0,3,Neutral,"Mahwah, NJ",-,400
+2009,UC Santa Cruz,113,Ramapo,564,04/18/2009,3,2,Home,,2 Sets,600
+2009,UCLA,110,Pacific,534,01/09/2009,3,0,Neutral,"Santa Barbara, CA",-,135
+2009,UCLA,110,Cal St. Northridge,101,01/09/2009,1,3,Neutral,"Santa Barbara, CA",1 Sets,100
+2009,UCLA,110,UC Irvine,109,01/10/2009,0,3,Neutral,"Santa Barbara, CA",-,117
+2009,UCLA,110,Cal St. Northridge,101,01/14/2009,0,3,Home,,-,625
+2009,UCLA,110,UC Santa Barbara,104,01/16/2009,3,0,Home,,-,701
+2009,UCLA,110,Long Beach St.,99,01/21/2009,2,3,Away,,2 Sets,816
+2009,UCLA,110,UC San Diego,112,01/23/2009,3,0,Home,,-,508
+2009,UCLA,110,Cal Baptist,,01/28/2009,3,1,Home,,1 Sets,371
+2009,UCLA,110,UC Irvine,109,01/30/2009,1,3,Away,,1 Sets,"1,564"
+2009,UCLA,110,Stanford,674,02/05/2009,3,2,Home,,2 Sets,471
+2009,UCLA,110,Pacific,534,02/06/2009,3,1,Home,,1 Sets,586
+2009,UCLA,110,Lewis,354,02/13/2009,2,3,Away,,2 Sets,"1,560"
+2009,UCLA,110,Loyola Chicago,371,02/14/2009,3,2,Away,,2 Sets,"2,211"
+2009,UCLA,110,Pepperdine,541,02/18/2009,0,3,Away,,-,922
+2009,UCLA,110,Southern California,657,02/20/2009,1,3,Away,,1 Sets,"1,200"
+2009,UCLA,110,Long Beach St.,99,02/25/2009,0,3,Home,,-,486
+2009,UCLA,110,UC San Diego,112,02/28/2009,0,3,Away,,-,906
+2009,UCLA,110,Grand Canyon,1104,03/04/2009,3,0,Home,,-,436
+2009,UCLA,110,UC Irvine,109,03/06/2009,2,3,Home,,2 Sets,"1,298"
+2009,UCLA,110,Cal St. Northridge,101,03/11/2009,1,3,Away,,1 Sets,"1,032"
+2009,UCLA,110,UC Santa Barbara,104,03/13/2009,3,1,Away,,1 Sets,357
+2009,UCLA,110,BYU,77,03/27/2009,3,1,Away,,1 Sets,"2,278"
+2009,UCLA,110,BYU,77,03/28/2009,1,3,Away,,1 Sets,"1,918"
+2009,UCLA,110,Hawaii,277,04/02/2009,3,2,Home,,2 Sets,629
+2009,UCLA,110,Hawaii,277,04/03/2009,3,1,Home,,1 Sets,892
+2009,UCLA,110,Pepperdine,541,04/08/2009,0,3,Home,,-,851
+2009,UCLA,110,Southern California,657,04/10/2009,3,2,Home,,2 Sets,"2,003"
+2009,UCLA,110,Pacific,534,04/17/2009,3,0,Away,,-,167
+2009,UCLA,110,Stanford,674,04/18/2009,0,3,Away,,-,860
+2009,UCLA,110,UC Irvine,109,04/25/2009,1,3,Away,,1 Sets,"2,005"
+2009,UCLA,110,UC San Diego,112,01/07/2010,3,2,Neutral,Santa Barbara,2 Sets,150
+2009,UCLA,110,BYU,77,01/07/2010,2,3,Neutral,Santa Barbara,2 Sets,150
+2009,UCLA,110,Cal Baptist,,01/08/2010,0,3,Neutral,"Santa Barbara, CA",-,137
+2009,UCLA,110,USC,,01/13/2010,1,3,Home,,1 Sets,"3,016"
+2009,UCLA,110,Pepperdine,541,01/15/2010,0,3,Home,,-,937
+2009,UCLA,110,UC Santa Barbara,104,01/20/2010,3,2,Home,,2 Sets,318
+2009,UCLA,110,CS Northridge,,01/22/2010,3,0,Away,,-,692
+2009,UCLA,110,BYU,77,01/29/2010,3,0,Home,,-,"1,075"
+2009,UCLA,110,BYU,77,01/30/2010,2,3,Home,,2 Sets,"1,003"
+2009,UCLA,110,Hawaii,277,02/04/2010,3,1,Away,,1 Sets,"3,221"
+2009,UCLA,110,Hawaii,277,02/05/2010,3,1,Away,,1 Sets,"3,951"
+2009,UCLA,110,Stanford,674,02/12/2010,0,3,Away,,-,795
+2009,UCLA,110,Pacific,534,02/13/2010,3,0,Away,,-,150
+2009,UCLA,110,UC Santa Barbara,104,02/17/2010,3,1,Away,,1 Sets,294
+2009,UCLA,110,CS Northridge,,02/19/2010,3,2,Home,,2 Sets,923
+2009,UCLA,110,UC San Diego,112,02/24/2010,0,3,Home,,-,998
+2009,UCLA,110,Long Beach State,,02/26/2010,0,3,Home,,-,531
+2009,UCLA,110,LEWIS,,03/03/2010,3,0,Home,,-,291
+2009,UCLA,110,UC Irvine,109,03/05/2010,1,3,Home,,1 Sets,"1,406"
+2009,UCLA,110,Ball State,,03/10/2010,3,0,Home,,-,333
+2009,UCLA,110,LOYOLA-CHICAGO,,03/12/2010,3,0,Home,,-,376
+2009,UCLA,110,Grand Canyon,1104,03/24/2010,3,0,Home,,-,205
+2009,UCLA,110,UC Irvine,109,03/27/2010,3,2,Away,,2 Sets,"1,029"
+2009,UCLA,110,Pepperdine,541,03/31/2010,2,3,Away,,2 Sets,942
+2009,UCLA,110,USC,,04/03/2010,0,3,Away,,-,"1,000"
+2009,UCLA,110,Long Beach State,,04/09/2010,3,2,Away,,2 Sets,912
+2009,UCLA,110,UC San Diego,112,04/10/2010,1,3,Away,,1 Sets,669
+2009,Vassar,737,Newbury,21772,01/19/2009,2,3,Away,,2 Sets,107
+2009,Vassar,737,Springfield,673,01/23/2009,2,3,Home,,2 Sets,350
+2009,Vassar,737,SUNY New Paltz,475,01/28/2009,3,1,Home,,1 Sets,100
+2009,Vassar,737,Purchase St.,30029,01/31/2009,3,0,Home,,-,100
+2009,Vassar,737,Polytechnic (NY),481,02/01/2009,3,0,Home,,-,75
+2009,Vassar,737,New York U.,479,02/03/2009,3,1,Away,,1 Sets,78
+2009,Vassar,737,Stevens,679,02/07/2009,1,3,Away,,1 Sets,150
+2009,Vassar,737,Carthage,121,02/13/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,Vassar,737,Medaille,23725,02/13/2009,3,2,Neutral,"Rochester, NY",2 Sets,0
+2009,Vassar,737,UC Santa Cruz,113,02/14/2009,3,0,Neutral,"Rochester, NY",-,0
+2009,Vassar,737,East. Mennonite,203,02/14/2009,3,1,Neutral,"Rochester, NY",1 Sets,0
+2009,Vassar,737,Mt. St. Vincent,451,02/18/2009,3,0,Home,,-,86
+2009,Vassar,737,Phila. Biblical,1305,02/20/2009,3,1,Home,,1 Sets,150
+2009,Vassar,737,Johnson & Wales (RI),22626,02/20/2009,3,0,Home,,-,88
+2009,Vassar,737,Elms,532,02/21/2009,3,2,Home,,2 Sets,150
+2009,Vassar,737,Nazareth,461,02/21/2009,3,1,Home,,1 Sets,206
+2009,Vassar,737,Bard,962,02/25/2009,3,0,Home,,-,75
+2009,Vassar,737,Ramapo,564,02/28/2009,1,3,Away,,1 Sets,150
+2009,Vassar,737,SUNY New Paltz,475,03/03/2009,3,1,Away,,1 Sets,50
+2009,Vassar,737,New Jersey City,319,03/07/2009,3,0,Home,,-,50
+2009,Vassar,737,Springfield,673,03/10/2009,1,3,Away,,1 Sets,161
+2009,Vassar,737,New York U.,479,03/24/2009,2,3,Home,,2 Sets,100
+2009,Vassar,737,Yeshiva,814,03/25/2009,3,1,Away,,1 Sets,0
+2009,Vassar,737,Endicott,8981,03/28/2009,0,3,Home,,-,125
+2009,Vassar,737,MIT,398,04/03/2009,3,0,Away,,-,150
+2009,Vassar,737,Ramapo,564,04/04/2009,3,0,Neutral,"Cambridge, MA",-,150
+2009,Vassar,737,Nazareth,461,04/04/2009,1,3,Away,,1 Sets,0
+2009,Wentworth,762,Endicott,8981,01/24/2009,0,3,Away,,-,70
+2009,Wentworth,762,MIT,398,01/29/2009,1,3,Away,,1 Sets,65
+2009,Wentworth,762,Southern Vt.,1379,01/31/2009,3,0,Neutral,"Nashua, NH",-,50
+2009,Wentworth,762,Daniel Webster,2691,01/31/2009,3,1,Away,,1 Sets,50
+2009,Wentworth,762,Newbury,21772,02/05/2009,0,3,Home,,-,83
+2009,Wentworth,762,SUNYIT,9500,02/07/2009,3,1,Neutral,"Jersey City, NJ",1 Sets,90
+2009,Wentworth,762,New Jersey City,319,02/07/2009,0,3,Away,,-,80
+2009,Wentworth,762,Stevenson,21852,02/07/2009,2,3,Neutral,"Jersey City, NJ",2 Sets,90
+2009,Wentworth,762,Endicott,8981,02/10/2009,0,3,Home,,-,67
+2009,Wentworth,762,Elms,532,02/14/2009,0,3,Away,,-,59
+2009,Wentworth,762,Lasell,8486,02/14/2009,3,2,Neutral,"Chicopee, MA",2 Sets,45
+2009,Wentworth,762,Daniel Webster,2691,02/19/2009,3,0,Home,,-,75
+2009,Wentworth,762,Emerson,214,02/21/2009,3,0,Home,,-,36
+2009,Wentworth,762,Lesley,24317,02/21/2009,3,0,Home,,-,36
+2009,Wentworth,762,MIT,398,02/25/2009,0,3,Home,,-,61
+2009,Wentworth,762,Southern Vt.,1379,03/01/2009,3,0,Home,,-,44
+2009,Wentworth,762,Lesley,24317,03/03/2009,3,0,Away,,-,0
+2009,Wentworth,762,Rivier,18422,03/21/2009,0,3,Away,,-,100
+2009,Wentworth,762,Elms,532,03/24/2009,0,3,Home,,-,43
+2009,Wentworth,762,Newbury,21772,03/26/2009,1,3,Away,,1 Sets,72
+2009,Wentworth,762,Emmanuel (MA),215,03/31/2009,1,3,Away,,1 Sets,100
+2009,Yeshiva,814,Purchase St.,30029,01/22/2009,0,3,Home,,-,35
+2009,Yeshiva,814,York (NY),2730,01/23/2009,3,1,Away,,1 Sets,25
+2009,Yeshiva,814,Medgar Evers,403,01/27/2009,3,0,Away,,-,30
+2009,Yeshiva,814,Lehman,279,01/29/2009,2,3,Home,,2 Sets,250
+2009,Yeshiva,814,Bard,962,02/01/2009,0,3,Away,,-,20
+2009,Yeshiva,814,CCNY,480,02/01/2009,2,3,Neutral,"Annandale-On-Hudson, NY",2 Sets,50
+2009,Yeshiva,814,Polytechnic (NY),481,02/03/2009,3,1,Home,,1 Sets,50
+2009,Yeshiva,814,Albertus Magnus,2798,02/05/2009,3,0,Home,,-,75
+2009,Yeshiva,814,Ramapo,564,02/10/2009,0,3,Away,,-,60
+2009,Yeshiva,814,Mt. St. Vincent,451,02/12/2009,0,3,Home,,-,50
+2009,Yeshiva,814,Medgar Evers,403,02/15/2009,3,0,Away,,-,15
+2009,Yeshiva,814,Polytechnic (NY),481,02/17/2009,3,0,Away,,-,25
+2009,Yeshiva,814,SUNY New Paltz,475,02/22/2009,0,3,Home,,-,35
+2009,Yeshiva,814,Bard,962,02/22/2009,0,3,Home,,-,35
+2009,Yeshiva,814,Purchase St.,30029,02/23/2009,0,3,Away,,-,55
+2009,Yeshiva,814,St. Joseph's (Brkln),,03/01/2009,3,0,Home,,-,25
+2009,Yeshiva,814,Mt. St. Vincent,451,03/05/2009,0,3,Away,,-,27
+2009,Yeshiva,814,New Jersey City,319,03/08/2009,0,3,Home,,-,25
+2009,Yeshiva,814,Mt. St. Vincent,451,03/15/2009,0,3,Away,,-,25
+2009,Yeshiva,814,St. Joseph's (Brkln),,03/16/2009,3,0,Away,,-,25
+2009,Yeshiva,814,Webb Inst.,,03/19/2009,3,0,Home,,-,125
+2009,Yeshiva,814,Albertus Magnus,2798,03/22/2009,3,0,Away,,-,30
+2009,Yeshiva,814,Stevens,679,03/24/2009,0,3,Away,,-,20
+2009,Yeshiva,814,Vassar,737,03/25/2009,1,3,Home,,1 Sets,50
+2009,Yeshiva,814,Webb Inst.,,03/29/2009,3,0,Away,,-,20
+2009,York (NY),2730,Yeshiva,814,01/23/2009,1,3,Home,,1 Sets,25
+2009,York (NY),2730,Cooper Union,,01/23/2009,3,0,Home,,-,100
+2009,York (NY),2730,Purchase St.,30029,01/26/2009,1,3,Home,,1 Sets,75
+2009,York (NY),2730,Polytechnic (NY),481,01/29/2009,2,3,Home,,2 Sets,35
+2009,York (NY),2730,Medgar Evers,403,02/03/2009,3,0,Away,,-,50
+2009,York (NY),2730,New Jersey City,319,02/04/2009,0,3,Home,,-,10
+2009,York (NY),2730,Baruch,58,02/07/2009,0,3,Home,,-,30
+2009,York (NY),2730,CCNY,480,02/07/2009,3,2,Home,,2 Sets,50
+2009,York (NY),2730,City Tech,8580,02/07/2009,1,3,Home,,1 Sets,100
+2009,York (NY),2730,Lehman,279,02/10/2009,1,3,Away,,1 Sets,75
+2009,York (NY),2730,SUNY New Paltz,475,02/11/2009,0,3,Away,,-,50
+2009,York (NY),2730,Hunter,292,02/12/2009,0,3,Home,,-,15
+2009,York (NY),2730,Hunter,292,02/12/2009,0,3,Home,,-,10
+2009,York (NY),2730,Mt. St. Vincent,451,02/14/2009,1,3,Home,,1 Sets,25
+2009,York (NY),2730,D'Youville,1059,02/16/2009,0,3,Home,,-,50
+2009,York (NY),2730,Lancaster Bible,30085,02/18/2009,0,3,Away,,-,0
+2009,York (NY),2730,Stevenson,21852,02/18/2009,0,3,Neutral,"Lancaster, PA",-,0
+2009,York (NY),2730,Baruch,58,02/19/2009,0,3,Away,,-,41
+2009,York (NY),2730,Medgar Evers,403,02/21/2009,3,0,Neutral,"New York, NY",-,50
+2009,York (NY),2730,Brooklyn,79,02/21/2009,3,0,Neutral,"New York, NY",-,55
+2009,York (NY),2730,St. Joseph's (Brkln),30072,02/23/2009,3,0,Home,,-,20
+2009,York (NY),2730,CCNY,480,02/26/2009,3,2,Away,,2 Sets,35
+2009,York (NY),2730,Lees-McRae,13302,02/28/2009,0,3,Neutral,"Mt. Olive, NC",-,0
+2009,York (NY),2730,Mount Olive,1245,02/28/2009,0,3,Away,,-,0
+2009,York (NY),2730,East. Mennonite,203,03/03/2009,0,3,Neutral,"Mt. Olive, NC",-,50
+2009,York (NY),2730,Lehman,279,03/03/2009,3,0,Home,,-,25
+2009,York (NY),2730,Brooklyn,79,03/10/2009,2,3,Home,,2 Sets,65
+2009,York (NY),2730,SUNYIT,9500,03/13/2009,1,3,Home,,1 Sets,100
+2009,York (NY),2730,Stevenson,21852,03/14/2009,1,3,Home,,1 Sets,50
+2009,York (NY),2730,King (TN),30051,03/14/2009,0,3,Home,,-,65
+2009,York (NY),2730,Quincy,561,03/14/2009,0,3,Home,,-,30
+2009,York (NY),2730,City Tech,8580,03/17/2009,1,3,Away,,1 Sets,20
+2009,York (NY),2730,CCNY,480,03/24/2009,3,0,Home,,-,55
+2009,York (NY),2730,Baruch,58,03/27/2009,0,3,Away,,-,86

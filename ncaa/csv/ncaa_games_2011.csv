@@ -1,0 +1,2592 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2011,Albertus Magnus,2798,Emerson,214,01/22/2011,0,3,Away,,-,0
+2011,Albertus Magnus,2798,Johnson & Wales (SC),,01/22/2011,0,3,Neutral,"Boston, MA",-,0
+2011,Albertus Magnus,2798,York (NY),2730,01/29/2011,0,3,Home,,-,33
+2011,Albertus Magnus,2798,York (NY),2730,01/29/2011,0,3,Home,,-,33
+2011,Albertus Magnus,2798,Mount Ida,27901,02/05/2011,0,3,Away,,-,0
+2011,Albertus Magnus,2798,Lesley,24317,02/06/2011,0,3,Neutral,"Boston, MA",-,0
+2011,Albertus Magnus,2798,Emmanuel (MA),215,02/06/2011,0,3,Away,,-,0
+2011,Albertus Magnus,2798,Emmanuel (MA),215,02/20/2011,0,3,Home,,-,31
+2011,Albertus Magnus,2798,Yeshiva,814,02/20/2011,2,3,Home,,2 Sets,17
+2011,Albertus Magnus,2798,New Haven,470,02/25/2011,0,3,Away,,-,89
+2011,Albertus Magnus,2798,St. Joseph's (Brkln),30072,02/27/2011,3,0,Home,,-,13
+2011,Albertus Magnus,2798,Mt. St. Vincent,451,02/27/2011,0,3,Home,,-,13
+2011,Albertus Magnus,2798,Mount Ida,27901,03/01/2011,0,3,Home,,-,27
+2011,Albertus Magnus,2798,Yeshiva,814,03/13/2011,0,3,Away,,-,0
+2011,Albertus Magnus,2798,Webb Inst.,,03/13/2011,1,3,Neutral,"New York, NY",1 Sets,0
+2011,Albertus Magnus,2798,Rivier,18422,03/19/2011,0,3,Away,,-,0
+2011,Albertus Magnus,2798,Rivier,18422,03/19/2011,0,3,Away,,-,50
+2011,Albertus Magnus,2798,Lasell,8486,03/22/2011,0,3,Away,,-,97
+2011,Albertus Magnus,2798,Lasell,8486,03/22/2011,0,3,Away,,-,78
+2011,Albertus Magnus,2798,Emerson,214,03/24/2011,0,3,Away,,-,30
+2011,Ball St.,47,Lindenwood (MO),30136,01/07/2011,3,0,Home,,-,486
+2011,Ball St.,47,Hawaii,277,01/13/2011,3,0,Away,,-,"3,135"
+2011,Ball St.,47,UCLA,110,01/14/2011,1,3,Neutral,"Honolulu, HI",1 Sets,"3,240"
+2011,Ball St.,47,Penn St.,539,01/15/2011,0,3,Neutral,"Honolulu, HI",-,"3,679"
+2011,Ball St.,47,George Mason,248,01/28/2011,1,3,Away,,1 Sets,200
+2011,Ball St.,47,Sacred Heart,590,01/29/2011,3,2,Away,,2 Sets,199
+2011,Ball St.,47,Pfeiffer,542,02/04/2011,3,0,Home,,-,617
+2011,Ball St.,47,Limestone,1174,02/05/2011,3,0,Home,,-,437
+2011,Ball St.,47,Lewis,354,02/11/2011,2,3,Away,,2 Sets,"1,021"
+2011,Ball St.,47,IPFW,308,02/12/2011,3,0,Away,,-,713
+2011,Ball St.,47,Ohio St.,518,02/18/2011,0,3,Home,,-,"1,243"
+2011,Ball St.,47,Loyola Chicago,371,02/19/2011,1,3,Home,,1 Sets,830
+2011,Ball St.,47,Quincy,561,02/25/2011,3,0,Home,,-,680
+2011,Ball St.,47,Quincy,561,02/26/2011,3,1,Home,,1 Sets,730
+2011,Ball St.,47,George Mason,248,03/05/2011,3,1,Home,,1 Sets,481
+2011,Ball St.,47,Sacred Heart,590,03/06/2011,3,2,Home,,2 Sets,163
+2011,Ball St.,47,Ohio St.,518,03/11/2011,1,3,Away,,1 Sets,667
+2011,Ball St.,47,Princeton,554,03/12/2011,3,0,Away,,-,75
+2011,Ball St.,47,Penn St.,539,03/18/2011,0,3,Away,,-,532
+2011,Ball St.,47,Saint Francis (PA),600,03/19/2011,3,0,Away,,-,221
+2011,Ball St.,47,Lewis,354,03/25/2011,3,1,Home,,1 Sets,659
+2011,Ball St.,47,King (TN),30051,03/26/2011,3,1,Away,,1 Sets,248
+2011,Ball St.,47,Lees-McRae,13302,03/27/2011,2,3,Neutral,"Bristol, TN",2 Sets,121
+2011,Ball St.,47,Grand Canyon,1104,04/01/2011,3,1,Home,,1 Sets,518
+2011,Ball St.,47,Grand Canyon,1104,04/02/2011,3,2,Home,,2 Sets,412
+2011,Ball St.,47,Loyola Chicago,371,04/08/2011,2,3,Away,,2 Sets,784
+2011,Ball St.,47,IPFW,308,04/09/2011,3,1,Home,,1 Sets,528
+2011,Ball St.,47,Penn St.,539,04/15/2011,3,0,Home,,-,"1,277"
+2011,Ball St.,47,Saint Francis (PA),600,04/16/2011,3,1,Home,,1 Sets,913
+2011,Ball St.,47,Quincy,561,04/23/2011,1,3,Home,,1 Sets,396
+2011,Bard,962,SUNYIT,9500,01/20/2011,3,1,Home,,1 Sets,100
+2011,Bard,962,SUNYIT,9500,01/22/2011,1,3,Away,,1 Sets,50
+2011,Bard,962,Stevenson,21852,01/23/2011,0,3,Neutral,"Utica, NY",-,0
+2011,Bard,962,Sage Colleges,11036,01/23/2011,3,0,Neutral,"Utica, NY",-,0
+2011,Bard,962,Hilbert,8398,01/23/2011,3,0,Neutral,"New York, NY",-,50
+2011,Bard,962,Vassar,737,01/25/2011,0,3,Away,,-,100
+2011,Bard,962,Lehman,279,01/29/2011,3,2,Away,,2 Sets,153
+2011,Bard,962,SUNY New Paltz,475,02/03/2011,1,3,Away,,1 Sets,73
+2011,Bard,962,D'Youville,1059,02/05/2011,2,3,Away,,2 Sets,175
+2011,Bard,962,Nazareth,461,02/06/2011,0,3,Neutral,"Buffalo, NY",-,40
+2011,Bard,962,Sage Colleges,11036,02/09/2011,3,2,Away,,2 Sets,150
+2011,Bard,962,Brooklyn,79,02/12/2011,3,0,Home,,-,50
+2011,Bard,962,Stevens,679,02/17/2011,0,3,Home,,1 Sets,0
+2011,Bard,962,Purchase St.,30029,02/25/2011,3,0,Home,,-,50
+2011,Bard,962,Polytechnic (NY),481,02/25/2011,3,0,Home,,-,50
+2011,Bard,962,Mount Ida,27901,02/26/2011,3,0,Home,,-,50
+2011,Bard,962,Polytechnic (NY),481,02/27/2011,3,1,Neutral,"New York, NY",1 Sets,50
+2011,Bard,962,Yeshiva,814,02/27/2011,3,0,Away,,-,50
+2011,Bard,962,Medaille,23725,03/05/2011,0,3,Home,,-,0
+2011,Bard,962,Elmira,213,03/06/2011,0,3,Neutral,"Poughkeepsie, NY",-,0
+2011,Bard,962,Hilbert,8398,03/06/2011,3,1,Neutral,"Poughkeepsie, NY",1 Sets,0
+2011,Bard,962,Mt. St. Vincent,451,03/08/2011,3,2,Home,,2 Sets,40
+2011,Bard,962,Yeshiva,814,03/10/2011,3,0,Home,,-,50
+2011,Bard,962,Mt. St. Vincent,451,03/12/2011,2,3,Neutral,"Purchase, NY",2 Sets,50
+2011,Bard,962,Purchase St.,30029,03/12/2011,3,0,Away,,-,21
+2011,Bard,962,Sage Colleges,11036,03/15/2011,3,2,Home,,2 Sets,50
+2011,Bard,962,Purchase St.,30029,03/18/2011,3,0,Neutral,"Albany, NY",-,5
+2011,Bard,962,Polytechnic (NY),481,03/20/2011,3,2,Home,,2 Sets,25
+2011,Bard,962,Ramapo,564,03/26/2011,0,3,Away,,-,100
+2011,Bard,962,Polytechnic (NY),481,03/27/2011,3,0,Home,,-,50
+2011,Bard,962,Mt. St. Vincent,451,03/27/2011,3,0,Home,,-,80
+2011,Bard,962,Rivier,18422,04/01/2011,0,3,Away,,1 Sets,0
+2011,Bard,962,Ramapo,564,04/09/2011,0,3,Neutral,"Owings Mills, MD",-,76
+2011,Baruch,58,MIT,398,01/22/2011,0,3,Neutral,"New Paltz, NY",-,18
+2011,Baruch,58,SUNY New Paltz,475,01/22/2011,0,3,Away,,-,70
+2011,Baruch,58,Elms,532,01/23/2011,3,0,Neutral,"New Paltz, NY",-,42
+2011,Baruch,58,Emmanuel (MA),215,01/23/2011,0,3,Neutral,"New Paltz, NY",-,13
+2011,Baruch,58,Phila. Biblical,1305,01/27/2011,0,3,Away,,-,100
+2011,Baruch,58,Stevens,679,01/29/2011,2,3,Neutral,"Newark, NJ",2 Sets,64
+2011,Baruch,58,Rivier,18422,01/29/2011,3,2,Away,,2 Sets,58
+2011,Baruch,58,New York U.,479,01/30/2011,0,3,Neutral,"Newark, NJ",-,80
+2011,Baruch,58,Rutgers-Newark,589,01/30/2011,1,3,Away,,1 Sets,52
+2011,Baruch,58,Rutgers-Newark,589,02/01/2011,0,3,Home,,-,101
+2011,Baruch,58,CCNY,480,02/01/2011,3,0,Home,,-,43
+2011,Baruch,58,New York U.,479,02/03/2011,1,3,Home,,1 Sets,735
+2011,Baruch,58,Brooklyn,79,02/05/2011,3,0,Home,,-,37
+2011,Baruch,58,York (NY),2730,02/05/2011,3,1,Home,,1 Sets,24
+2011,Baruch,58,Hunter,292,02/08/2011,3,0,Home,,-,172
+2011,Baruch,58,SUNYIT,9500,02/12/2011,3,1,Neutral,"Beverly, MA",1 Sets,21
+2011,Baruch,58,Vassar,737,02/12/2011,3,1,Neutral,"Beverly, MA",1 Sets,27
+2011,Baruch,58,Emmanuel (MA),215,02/13/2011,3,1,Neutral,"Beverly, MA",1 Sets,33
+2011,Baruch,58,MIT,398,02/13/2011,3,0,Neutral,"Beverly, MA",-,26
+2011,Baruch,58,Ramapo,564,02/15/2011,3,0,Home,,-,74
+2011,Baruch,58,Medgar Evers,403,02/17/2011,3,0,Away,,-,15
+2011,Baruch,58,CCNY,480,02/19/2011,3,0,Neutral,"New York, NY",-,0
+2011,Baruch,58,City Tech,8580,02/19/2011,3,0,Neutral,"New York, NY",-,0
+2011,Baruch,58,Lehman,279,02/22/2011,3,0,Home,,-,52
+2011,Baruch,58,York (NY),2730,02/24/2011,3,0,Away,,-,40
+2011,Baruch,58,Phila. Biblical,1305,02/26/2011,3,0,Home,,-,40
+2011,Baruch,58,Elmira,213,02/26/2011,3,1,Home,,1 Sets,47
+2011,Baruch,58,Carthage,121,02/26/2011,0,3,Home,,-,72
+2011,Baruch,58,UC Santa Cruz,113,02/27/2011,3,2,Home,,2 Sets,63
+2011,Baruch,58,Milwaukee Engr.,20220,02/27/2011,3,0,Home,,-,41
+2011,Baruch,58,Hunter,292,03/01/2011,3,2,Away,,2 Sets,142
+2011,Baruch,58,Brooklyn,79,03/03/2011,3,0,Away,,-,45
+2011,Baruch,58,Lehman,279,03/05/2011,3,0,Neutral,"New York, NY",-,0
+2011,Baruch,58,Medgar Evers,403,03/05/2011,3,0,Neutral,"New York, NY",-,31
+2011,Baruch,58,New York U.,479,03/07/2011,1,3,Away,,1 Sets,105
+2011,Baruch,58,City Tech,8580,03/08/2011,3,0,Home,,-,22
+2011,Baruch,58,Springfield,673,03/10/2011,0,3,Away,,-,115
+2011,Baruch,58,SUNY New Paltz,475,03/17/2011,3,1,Away,,1 Sets,79
+2011,Baruch,58,Endicott,8981,03/19/2011,3,0,Neutral,"Boston, MA",-,31
+2011,Baruch,58,Emmanuel (MA),215,03/19/2011,3,2,Away,,2 Sets,0
+2011,Baruch,58,Hunter,292,03/25/2011,3,0,Home,,-,792
+2011,Baruch,58,York (NY),2730,03/25/2011,3,0,Home,,-,252
+2011,Baruch,58,Stevens,679,03/29/2011,2,3,Home,,2 Sets,153
+2011,Baruch,58,Vassar,737,03/30/2011,3,2,Away,,2 Sets,150
+2011,Baruch,58,Ramapo,564,03/31/2011,3,0,Neutral,"Hoboken, NJ",-,100
+2011,Baruch,58,Emmanuel (MA),215,04/02/2011,3,1,Neutral,"Hoboken, NJ",1 Sets,0
+2011,Baruch,58,Rivier,18422,04/02/2011,3,2,Neutral,"Hoboken, NJ",2 Sets,113
+2011,Baruch,58,Nazareth,461,04/03/2011,2,3,Neutral,"Hoboken, NJ",2 Sets,0
+2011,Baruch,58,Springfield,673,04/15/2011,1,3,Neutral,"Rochester, NY",1 Sets,400
+2011,Baruch,58,Carthage,121,04/16/2011,0,3,Neutral,"Rochester, NY",-,200
+2011,Brooklyn,79,City Tech,8580,02/01/2011,3,0,Home,,-,67
+2011,Brooklyn,79,New Jersey City,319,02/03/2011,0,3,Away,,-,27
+2011,Brooklyn,79,Baruch,58,02/05/2011,0,3,Away,,-,37
+2011,Brooklyn,79,Lehman,279,02/05/2011,3,1,Neutral,"New York, NY",1 Sets,0
+2011,Brooklyn,79,York (NY),2730,02/10/2011,0,3,Away,,-,50
+2011,Brooklyn,79,Bard,962,02/12/2011,0,3,Away,,-,50
+2011,Brooklyn,79,Hunter,292,02/17/2011,0,3,Home,,-,88
+2011,Brooklyn,79,CCNY,480,02/19/2011,0,3,Neutral,"New York, NY",-,0
+2011,Brooklyn,79,Polytechnic (NY),481,02/21/2011,1,3,Away,,1 Sets,32
+2011,Brooklyn,79,City Tech,8580,02/22/2011,3,1,Neutral,"New York, NY",1 Sets,0
+2011,Brooklyn,79,Medgar Evers,403,02/22/2011,3,0,Away,,-,20
+2011,Brooklyn,79,Lehman,279,02/24/2011,0,3,Away,,-,210
+2011,Brooklyn,79,Medgar Evers,403,03/01/2011,3,1,Home,,1 Sets,65
+2011,Brooklyn,79,Baruch,58,03/03/2011,0,3,Home,,-,45
+2011,Brooklyn,79,Hunter,292,03/05/2011,0,3,Neutral,"New York, NY",-,0
+2011,Brooklyn,79,York (NY),2730,03/05/2011,2,3,Neutral,"New York, NY",2 Sets,0
+2011,Brooklyn,79,New Jersey City,319,03/07/2011,0,3,Home,,-,36
+2011,Brooklyn,79,CCNY,480,03/08/2011,0,3,Away,,-,50
+2011,Brooklyn,79,St. Joseph's (Brkln),30072,03/10/2011,3,0,Home,,-,0
+2011,Brooklyn,79,Polytechnic (NY),481,03/12/2011,3,0,Home,,-,30
+2011,Brooklyn,79,Purchase St.,30029,03/19/2011,3,0,Home,,-,58
+2011,Brooklyn,79,Lehman,279,03/22/2011,0,3,Away,,-,183
+2011,BYU,77,Long Beach St.,99,01/07/2011,3,0,Neutral,"Santa Barbara, CA",-,0
+2011,BYU,77,Cal Baptist,30135,01/07/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,BYU,77,UC Santa Barbara,104,01/08/2011,3,1,Away,,1 Sets,320
+2011,BYU,77,Stanford,674,01/14/2011,2,3,Away,,2 Sets,"1,017"
+2011,BYU,77,Stanford,674,01/15/2011,1,3,Away,,1 Sets,"1,033"
+2011,BYU,77,Pacific,534,01/21/2011,3,1,Away,,1 Sets,647
+2011,BYU,77,Pacific,534,01/22/2011,3,0,Away,,-,637
+2011,BYU,77,UC Irvine,109,01/28/2011,3,0,Home,,-,"3,306"
+2011,BYU,77,UC Irvine,109,01/29/2011,3,0,Home,,-,"2,631"
+2011,BYU,77,UCLA,110,02/04/2011,3,1,Home,,1 Sets,"3,006"
+2011,BYU,77,UCLA,110,02/05/2011,3,0,Home,,-,"4,101"
+2011,BYU,77,Loyola Chicago,371,02/11/2011,2,3,Away,,2 Sets,909
+2011,BYU,77,Lewis,354,02/12/2011,3,0,Away,,-,"1,012"
+2011,BYU,77,UC Santa Barbara,104,02/17/2011,3,1,Away,,1 Sets,390
+2011,BYU,77,UC Santa Barbara,104,02/18/2011,0,3,Away,,-,310
+2011,BYU,77,UC San Diego,112,02/24/2011,3,2,Home,,2 Sets,"1,532"
+2011,BYU,77,UC San Diego,112,02/25/2011,3,0,Home,,-,"2,867"
+2011,BYU,77,Southern California,657,03/04/2011,2,3,Away,,2 Sets,"1,250"
+2011,BYU,77,Southern California,657,03/05/2011,2,3,Away,,2 Sets,"3,000"
+2011,BYU,77,Cal St. Northridge,101,03/18/2011,0,3,Away,,-,531
+2011,BYU,77,Cal St. Northridge,101,03/19/2011,3,0,Away,,-,503
+2011,BYU,77,Hawaii,277,03/24/2011,3,0,Home,,-,"1,499"
+2011,BYU,77,Hawaii,277,03/25/2011,3,2,Home,,2 Sets,"2,909"
+2011,BYU,77,Long Beach St.,99,03/31/2011,3,1,Home,,1 Sets,"2,191"
+2011,BYU,77,Long Beach St.,99,04/01/2011,3,0,Home,,-,"3,296"
+2011,BYU,77,Pepperdine,541,04/08/2011,3,1,Away,,1 Sets,671
+2011,BYU,77,Pepperdine,541,04/09/2011,3,0,Away,,-,529
+2011,BYU,77,UC Santa Barbara,104,04/23/2011,1,3,Home,,1 Sets,"2,375"
+2011,Cairn,1305,Newbury,21772,01/10/2000,3,0,Neutral,"Hoboken, NJ",-,90
+2011,Cairn,1305,Ramapo,564,01/21/2011,3,1,Away,,1 Sets,80
+2011,Cairn,1305,Rivier,18422,01/22/2011,2,3,Away,,2 Sets,30
+2011,Cairn,1305,Vassar,737,01/22/2011,3,1,Away,,1 Sets,20
+2011,Cairn,1305,Baruch,58,01/27/2011,3,0,Home,,-,100
+2011,Cairn,1305,Nazareth,461,01/29/2011,2,3,Neutral,"Elmira, NY",2 Sets,30
+2011,Cairn,1305,Elmira,213,01/29/2011,3,0,Away,,-,50
+2011,Cairn,1305,Hunter,292,02/03/2011,3,2,Home,,2 Sets,100
+2011,Cairn,1305,East. Mennonite,203,02/05/2011,3,1,Home,,1 Sets,150
+2011,Cairn,1305,New Jersey City,319,02/08/2011,3,0,Home,,-,70
+2011,Cairn,1305,Lancaster Bible,30085,02/10/2011,3,0,Away,,-,165
+2011,Cairn,1305,Springfield,673,02/12/2011,3,2,Away,,2 Sets,209
+2011,Cairn,1305,Stevenson,21852,02/16/2011,3,0,Home,,-,70
+2011,Cairn,1305,East. Mennonite,203,02/19/2011,3,0,Away,,-,152
+2011,Cairn,1305,Lancaster Bible,30085,02/22/2011,3,0,Home,,-,70
+2011,Cairn,1305,Kean,329,02/24/2011,3,0,Away,,-,99
+2011,Cairn,1305,Newbury,21772,02/26/2011,3,1,Neutral,"New York, NY",1 Sets,30
+2011,Cairn,1305,Baruch,58,02/26/2011,0,3,Away,,-,40
+2011,Cairn,1305,UC Santa Cruz,113,02/26/2011,1,3,Neutral,"New York, NY",1 Sets,25
+2011,Cairn,1305,Stevens,679,03/02/2011,3,0,Home,,-,100
+2011,Cairn,1305,Kean,329,03/04/2011,3,1,Home,,1 Sets,100
+2011,Cairn,1305,Rutgers-Newark,589,03/05/2011,1,3,Away,,1 Sets,50
+2011,Cairn,1305,New Jersey City,319,03/08/2011,3,1,Away,,1 Sets,34
+2011,Cairn,1305,Stevenson,21852,03/11/2011,3,1,Away,,1 Sets,76
+2011,Cairn,1305,Hunter,292,03/12/2011,3,1,Neutral,"Stevenson, MD",1 Sets,30
+2011,Cairn,1305,Lees-McRae,13302,03/14/2011,0,3,Away,,-,213
+2011,Cairn,1305,Limestone,1174,03/14/2011,2,3,Neutral,"Banner Elk, NC",2 Sets,83
+2011,Cairn,1305,King (TN),30051,03/15/2011,0,3,Away,,-,92
+2011,Cairn,1305,Pfeiffer,542,03/21/2011,3,1,Neutral,"Stevenson, MD",1 Sets,35
+2011,Cairn,1305,SUNY New Paltz,475,03/22/2011,0,3,Home,,-,0
+2011,Cairn,1305,Ramapo,564,03/24/2011,3,0,Home,,-,150
+2011,Cairn,1305,Juniata,325,03/25/2011,1,3,Away,,1 Sets,350
+2011,Cairn,1305,Nazareth,461,04/02/2011,2,3,Neutral,"Hoboken, N.J.",2 Sets,50
+2011,Cairn,1305,MIT,398,04/02/2011,3,2,Neutral,"Hoboken, NJ",2 Sets,60
+2011,California Baptist,30135,UC Irvine,109,01/05/2011,3,2,Home,,2 Sets,250
+2011,California Baptist,30135,BYU,77,01/07/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,California Baptist,30135,UC Irvine,109,01/07/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,California Baptist,30135,UC San Diego,112,01/08/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,200
+2011,California Baptist,30135,Grand Canyon,1104,01/14/2011,3,0,Home,,-,303
+2011,California Baptist,30135,Springfield,673,01/14/2011,3,0,Home,,-,85
+2011,California Baptist,30135,Springfield,673,01/15/2011,3,0,Home,,-,123
+2011,California Baptist,30135,UC Santa Cruz,113,01/21/2011,3,1,Neutral,"Fullerton, CA",1 Sets,183
+2011,California Baptist,30135,UC San Diego,112,01/22/2011,3,1,Home,,1 Sets,254
+2011,California Baptist,30135,Princeton,554,01/27/2011,3,0,Home,,-,143
+2011,California Baptist,30135,Harvard,275,02/03/2011,3,0,Away,,-,127
+2011,California Baptist,30135,Grand Canyon,1104,02/04/2011,3,0,Neutral,"Springfield, MA",-,105
+2011,California Baptist,30135,Pacific,534,02/05/2011,3,0,Neutral,"Springfield, MA",-,216
+2011,California Baptist,30135,Hawaii,277,02/11/2011,0,3,Away,,-,"3,076"
+2011,California Baptist,30135,Hawaii,277,02/12/2011,1,3,Neutral,"Wailuku, HI",1 Sets,"2,047"
+2011,California Baptist,30135,Hope Int'l,,02/18/2011,3,0,Away,,-,0
+2011,California Baptist,30135,Lindenwood (MO),30136,02/24/2011,3,2,Home,,2 Sets,0
+2011,California Baptist,30135,Lindenwood (MO),30136,02/25/2011,3,2,Home,,2 Sets,0
+2011,California Baptist,30135,Clarke,1020,03/08/2011,3,0,Home,,-,0
+2011,California Baptist,30135,Clarke,1020,03/09/2011,3,0,Home,,-,0
+2011,California Baptist,30135,Cardinal Stritch,,03/12/2011,3,0,Home,,-,0
+2011,California Baptist,30135,Cardinal Stritch,,03/14/2011,3,0,Home,,-,0
+2011,California Baptist,30135,Rutgers-Newark,589,03/15/2011,3,0,Home,,-,120
+2011,California Baptist,30135,UC Santa Cruz,113,03/18/2011,3,0,Away,,-,100
+2011,California Baptist,30135,Stanford,674,03/19/2011,3,2,Away,,2 Sets,430
+2011,California Baptist,30135,UC Santa Barbara,104,03/24/2011,3,0,Home,,-,289
+2011,California Baptist,30135,Hope Int'l,,03/31/2011,3,0,Home,,-,0
+2011,California Baptist,30135,Johnson & Wales (CO),,04/14/2011,3,0,Neutral,"Davenport, IA",-,0
+2011,California Baptist,30135,St. Ambrose,,04/14/2011,3,1,Away,,1 Sets,0
+2011,California Baptist,30135,Park,,04/15/2011,3,1,Neutral,"Davenport, IA",1 Sets,0
+2011,California Baptist,30135,St. Ambrose,,04/16/2011,3,0,Away,,-,0
+2011,Carthage,121,Loyola Chicago,371,01/12/2011,0,3,Away,,-,129
+2011,Carthage,121,St. Xavier,,01/14/2011,3,1,Home,,2 Sets,175
+2011,Carthage,121,Lewis,354,01/18/2011,0,3,Away,,-,454
+2011,Carthage,121,Juniata,325,01/22/2011,0,3,Neutral,"Greenville, PA",-,60
+2011,Carthage,121,Thiel,707,01/23/2011,3,0,Away,,-,75
+2011,Carthage,121,Nazareth,461,01/23/2011,1,3,Neutral,"Greenville, PA",1 Sets,50
+2011,Carthage,121,Grand Canyon,1104,01/28/2011,2,3,Away,,2 Sets,112
+2011,Carthage,121,Lees-McRae,13302,01/28/2011,0,3,Neutral,"Phoenix, AZ",-,78
+2011,Carthage,121,Lees-McRae,13302,01/30/2011,3,1,Neutral,"Phoenix, AZ",1 Sets,64
+2011,Carthage,121,Grand Canyon,1104,01/30/2011,3,1,Away,,1 Sets,218
+2011,Carthage,121,IPFW,308,02/05/2011,0,3,Home,,-,200
+2011,Carthage,121,Fontbonne,11538,02/12/2011,3,0,Away,,-,50
+2011,Carthage,121,Quincy,561,02/13/2011,1,3,Away,,1 Sets,54
+2011,Carthage,121,Milwaukee Engr.,20220,02/15/2011,3,0,Away,,-,97
+2011,Carthage,121,Mt. St. Joseph,8567,02/18/2011,3,0,Away,,-,100
+2011,Carthage,121,Thiel,707,02/19/2011,3,0,Neutral,"Cincinnati, OH",-,50
+2011,Carthage,121,Fontbonne,11538,02/20/2011,3,0,Neutral,"Cincinnati, OH",-,50
+2011,Carthage,121,UC Santa Cruz,113,02/25/2011,3,1,Neutral,"New York, NY",1 Sets,50
+2011,Carthage,121,New York U.,479,02/25/2011,3,1,Away,,1 Sets,70
+2011,Carthage,121,Baruch,58,02/26/2011,3,0,Away,,-,72
+2011,Carthage,121,Rivier,18422,02/27/2011,3,1,Neutral,"New York, NY",1 Sets,50
+2011,Carthage,121,Newbury,21772,02/27/2011,3,0,Neutral,"New York, NY",-,50
+2011,Carthage,121,Mt. St. Joseph,8567,03/04/2011,3,0,Home,,-,75
+2011,Carthage,121,Thiel,707,03/05/2011,3,0,Home,,-,75
+2011,Carthage,121,Fontbonne,11538,03/05/2011,3,0,Home,,-,100
+2011,Carthage,121,Milwaukee Engr.,20220,03/09/2011,3,1,Home,,1 Sets,125
+2011,Carthage,121,Quincy,561,03/11/2011,1,3,Home,,1 Sets,125
+2011,Carthage,121,St. Xavier,,03/25/2011,3,1,Away,,1 Sets,150
+2011,Carthage,121,IPFW,308,03/26/2011,0,3,Away,,-,302
+2011,Carthage,121,King (TN),30051,03/30/2011,3,0,Neutral,"Kenosha, WI",-,75
+2011,Carthage,121,Fontbonne,11538,04/02/2011,3,0,Neutral,"Greenville, PA",2 Sets,75
+2011,Carthage,121,Thiel,707,04/02/2011,3,0,Neutral,"Greenville, PA",-,100
+2011,Carthage,121,Nazareth,461,04/15/2011,2,3,Away,,2 Sets,800
+2011,Carthage,121,Baruch,58,04/16/2011,3,0,Neutral,"Rochester, NY",-,200
+2011,CCNY,480,Pfeiffer,542,01/21/2011,0,3,Neutral,"Harrisonburg, VA",-,0
+2011,CCNY,480,East. Mennonite,203,01/21/2011,0,3,Away,,-,75
+2011,CCNY,480,Medaille,23725,01/22/2011,1,3,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,CCNY,480,Lees-McRae,13302,01/22/2011,0,3,Neutral,"Harrisonburg, VA",-,50
+2011,CCNY,480,Kean,329,01/25/2011,1,3,Away,,1 Sets,88
+2011,CCNY,480,Johnson & Wales (RI),22626,01/29/2011,1,3,Neutral,"Boston, MA",1 Sets,50
+2011,CCNY,480,Wentworth Inst.,762,01/29/2011,1,3,Away,,1 Sets,75
+2011,CCNY,480,Baruch,58,02/01/2011,0,3,Away,,-,43
+2011,CCNY,480,Mt. St. Vincent,451,02/03/2011,3,1,Home,,1 Sets,0
+2011,CCNY,480,Lehman,279,02/05/2011,0,3,Neutral,"New York, NY",-,0
+2011,CCNY,480,Medgar Evers,403,02/05/2011,3,0,Neutral,"New York, NY",-,50
+2011,CCNY,480,City Tech,8580,02/08/2011,3,0,Home,,-,45
+2011,CCNY,480,Hunter,292,02/10/2011,1,3,Away,,1 Sets,55
+2011,CCNY,480,Stevenson,21852,02/13/2011,0,3,Neutral,"Jersey City, NJ",-,37
+2011,CCNY,480,New Jersey City,319,02/13/2011,0,3,Away,,-,37
+2011,CCNY,480,York (NY),2730,02/17/2011,1,3,Away,,1 Sets,75
+2011,CCNY,480,Brooklyn,79,02/19/2011,3,0,Neutral,"New York, NY",-,0
+2011,CCNY,480,Baruch,58,02/19/2011,0,3,Neutral,"New York, NY",-,0
+2011,CCNY,480,Polytechnic (NY),481,02/23/2011,3,1,Away,,1 Sets,43
+2011,CCNY,480,Medgar Evers,403,02/24/2011,3,0,Away,,-,20
+2011,CCNY,480,City Tech,8580,03/01/2011,3,1,Away,,1 Sets,20
+2011,CCNY,480,Milwaukee Engr.,20220,03/02/2011,0,3,Home,,-,50
+2011,CCNY,480,Hunter,292,03/05/2011,0,3,Home,,-,50
+2011,CCNY,480,York (NY),2730,03/05/2011,3,2,Home,,2 Sets,50
+2011,CCNY,480,Brooklyn,79,03/08/2011,3,0,Home,,-,50
+2011,CCNY,480,Polytechnic (NY),481,03/10/2011,3,0,Home,,-,40
+2011,CCNY,480,Lehman,279,03/15/2011,1,3,Away,,1 Sets,113
+2011,CCNY,480,Stevenson,21852,03/18/2011,1,3,Neutral,"Providence, RI",1 Sets,57
+2011,CCNY,480,New Jersey City,319,03/18/2011,0,3,Neutral,"Providence, RI",-,55
+2011,CCNY,480,Lasell,8486,03/19/2011,0,3,Neutral,"Providence, RI",-,57
+2011,CCNY,480,Johnson & Wales (RI),22626,03/19/2011,0,3,Away,,-,57
+2011,CCNY,480,York (NY),2730,03/22/2011,2,3,Away,,2 Sets,100
+2011,CCNY,480,Ramapo,564,03/28/2011,0,3,Away,,-,75
+2011,City Tech,8580,Brooklyn,79,02/01/2011,0,3,Away,,-,67
+2011,City Tech,8580,Hunter,292,02/05/2011,0,3,Neutral,"New York, NY",-,0
+2011,City Tech,8580,York (NY),2730,02/07/2011,0,3,Neutral,"New York, NY",-,50
+2011,City Tech,8580,CCNY,480,02/08/2011,0,3,Away,,-,45
+2011,City Tech,8580,Medgar Evers,403,02/10/2011,3,0,Away,,-,50
+2011,City Tech,8580,Cooper Union,,02/12/2011,2,3,Away,,2 Sets,0
+2011,City Tech,8580,New Jersey City,319,02/15/2011,0,3,Home,,-,15
+2011,City Tech,8580,Lehman,279,02/17/2011,0,3,Home,,-,25
+2011,City Tech,8580,Baruch,58,02/19/2011,0,3,Neutral,"New York, NY",-,0
+2011,City Tech,8580,Brooklyn,79,02/22/2011,1,3,Neutral,"New York, NY",1 Sets,0
+2011,City Tech,8580,Hunter,292,02/24/2011,0,3,Home,,-,15
+2011,City Tech,8580,Wentworth Inst.,762,02/26/2011,0,3,Neutral,"Jamaica, NY",-,15
+2011,City Tech,8580,CCNY,480,03/01/2011,1,3,Home,,1 Sets,20
+2011,City Tech,8580,Medgar Evers,403,03/05/2011,3,1,Neutral,"New York, NY",1 Sets,0
+2011,City Tech,8580,Lehman,279,03/05/2011,0,3,Neutral,"New York, NY",-,0
+2011,City Tech,8580,Baruch,58,03/08/2011,0,3,Away,,-,22
+2011,City Tech,8580,SUNY New Paltz,475,03/11/2011,0,3,Neutral,"Jamaica, NY",-,50
+2011,City Tech,8580,Elms,532,03/12/2011,1,3,Neutral,"Jamaica, NY",1 Sets,30
+2011,City Tech,8580,New Haven,470,03/12/2011,0,3,Neutral,"Jamaica, NY",-,20
+2011,City Tech,8580,Elmira,213,03/12/2011,0,3,Neutral,"Jamaica, NY",-,30
+2011,City Tech,8580,York (NY),2730,03/15/2011,0,3,Home,,-,15
+2011,City Tech,8580,Polytechnic (NY),481,03/17/2011,1,3,Home,,1 Sets,15
+2011,City Tech,8580,St. Joseph's (Brkln),30072,03/22/2011,3,0,Away,,-,5
+2011,CSUN,101,UC San Diego,112,01/07/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,50
+2011,CSUN,101,UC Santa Barbara,104,01/07/2011,0,3,Away,,-,150
+2011,CSUN,101,UC Irvine,109,01/08/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,250
+2011,CSUN,101,Southern California,657,01/12/2011,0,3,Away,,-,500
+2011,CSUN,101,Pepperdine,541,01/15/2011,3,2,Away,,2 Sets,853
+2011,CSUN,101,UCLA,110,01/19/2011,1,3,Away,,1 Sets,637
+2011,CSUN,101,UC Santa Barbara,104,01/21/2011,0,3,Home,,-,486
+2011,CSUN,101,Stanford,674,01/28/2011,0,3,Home,,-,882
+2011,CSUN,101,Pacific,534,01/29/2011,0,3,Home,,-,477
+2011,CSUN,101,Ohio St.,518,02/04/2011,0,3,Neutral,"University Park, PA",-,"1,602"
+2011,CSUN,101,Penn St.,539,02/05/2011,0,3,Away,,-,"1,423"
+2011,CSUN,101,Long Beach St.,99,02/11/2011,3,2,Home,,2 Sets,459
+2011,CSUN,101,UC Irvine,109,02/18/2011,0,3,Away,,-,586
+2011,CSUN,101,UC San Diego,112,02/19/2011,3,1,Away,,1 Sets,287
+2011,CSUN,101,Southern California,657,02/23/2011,0,3,Home,,-,697
+2011,CSUN,101,Pepperdine,541,02/25/2011,0,3,Home,,-,591
+2011,CSUN,101,UCLA,110,03/02/2011,0,3,Home,,-,512
+2011,CSUN,101,UC Santa Barbara,104,03/04/2011,0,3,Away,,-,265
+2011,CSUN,101,Loyola Chicago,371,03/09/2011,1,3,Home,,1 Sets,335
+2011,CSUN,101,Harvard,275,03/12/2011,3,0,Home,,-,372
+2011,CSUN,101,BYU,77,03/18/2011,3,0,Home,,-,531
+2011,CSUN,101,BYU,77,03/19/2011,0,3,Home,,-,503
+2011,CSUN,101,Stanford,674,03/25/2011,2,3,Away,,2 Sets,505
+2011,CSUN,101,Pacific,534,03/26/2011,1,3,Away,,1 Sets,250
+2011,CSUN,101,Hawaii,277,04/01/2011,1,3,Away,,1 Sets,"3,202"
+2011,CSUN,101,Hawaii,277,04/02/2011,0,3,Away,,-,"3,274"
+2011,CSUN,101,UC San Diego,112,04/07/2011,3,0,Home,,-,152
+2011,CSUN,101,UC Irvine,109,04/09/2011,0,3,Home,,-,609
+2011,CSUN,101,Long Beach St.,99,04/16/2011,0,3,Away,,-,790
+2011,D'Youville,1059,Johnson & Wales (CO),,01/13/2011,1,3,Away,,1 Sets,20
+2011,D'Youville,1059,Holy Names,,01/14/2011,3,2,Neutral,"Denver, CO",2 Sets,15
+2011,D'Youville,1059,Johnson & Wales (CO),,01/15/2011,0,3,Away,,-,25
+2011,D'Youville,1059,Holy Names,,01/15/2011,3,2,Neutral,"Denver, CO",2 Sets,18
+2011,D'Youville,1059,Thiel,707,01/18/2011,3,0,Home,,-,135
+2011,D'Youville,1059,Hilbert,8398,01/26/2011,3,0,Away,,-,75
+2011,D'Youville,1059,New York U.,479,01/29/2011,0,3,Neutral,"Newark, NJ",-,100
+2011,D'Youville,1059,Rutgers-Newark,589,01/29/2011,0,3,Away,,-,100
+2011,D'Youville,1059,Rivier,18422,01/30/2011,0,3,Neutral,"Newark, NJ",-,70
+2011,D'Youville,1059,Stevens,679,01/30/2011,0,3,Neutral,"Newark, NJ",-,62
+2011,D'Youville,1059,Bard,962,02/05/2011,3,2,Home,,2 Sets,175
+2011,D'Youville,1059,SUNY New Paltz,475,02/06/2011,3,1,Home,,1 Sets,110
+2011,D'Youville,1059,Nazareth,461,02/09/2011,1,3,Away,,1 Sets,0
+2011,D'Youville,1059,Elmira,213,02/14/2011,3,1,Away,,1 Sets,175
+2011,D'Youville,1059,Hilbert,8398,02/24/2011,3,0,Home,,-,105
+2011,D'Youville,1059,Medaille,23725,02/28/2011,2,3,Away,,2 Sets,200
+2011,D'Youville,1059,Stevens,679,03/05/2011,0,3,Neutral,"Poughkeepsie, NY",-,55
+2011,D'Youville,1059,Vassar,737,03/06/2011,0,3,Away,,-,50
+2011,D'Youville,1059,SUNYIT,9500,03/06/2011,3,0,Neutral,"Poughkeepsie, NY",-,35
+2011,D'Youville,1059,Nazareth,461,03/09/2011,0,3,Home,,-,80
+2011,D'Youville,1059,Kean,329,03/11/2011,3,0,Home,,-,75
+2011,D'Youville,1059,Kean,329,03/12/2011,3,0,Home,,-,115
+2011,D'Youville,1059,Elmira,213,03/15/2011,3,1,Home,,1 Sets,80
+2011,D'Youville,1059,Medaille,23725,03/17/2011,1,3,Home,,1 Sets,140
+2011,D'Youville,1059,East. Mennonite,203,03/20/2011,3,1,Home,,1 Sets,60
+2011,D'Youville,1059,Thiel,707,03/22/2011,3,0,Away,,-,150
+2011,D'Youville,1059,Vassar,737,03/26/2011,0,3,Neutral,Nazareth College,-,0
+2011,Daniel Webster,2691,Emerson,214,01/29/2011,2,3,Away,,2 Sets,46
+2011,Daniel Webster,2691,Lesley,24317,02/05/2011,3,2,Home,,2 Sets,35
+2011,Daniel Webster,2691,Johnson & Wales (RI),22626,02/07/2011,1,3,Away,,1 Sets,57
+2011,Daniel Webster,2691,Lesley,24317,02/09/2011,3,0,Away,,-,19
+2011,Daniel Webster,2691,Elms,532,02/12/2011,0,3,Away,,-,178
+2011,Daniel Webster,2691,Regis (MA),569,02/12/2011,3,0,Neutral,"Chicopee, MA",-,109
+2011,Daniel Webster,2691,Wentworth Inst.,762,02/15/2011,0,3,Away,,-,38
+2011,Daniel Webster,2691,Southern Vt.,1379,02/16/2011,3,0,Home,,-,52
+2011,Daniel Webster,2691,Endicott,8981,02/18/2011,0,3,Away,,-,70
+2011,Daniel Webster,2691,Lasell,8486,02/21/2011,0,3,Away,,-,89
+2011,Daniel Webster,2691,MIT,398,02/23/2011,0,3,Home,,-,48
+2011,Daniel Webster,2691,Southern Vt.,1379,02/26/2011,3,2,Away,,2 Sets,25
+2011,Daniel Webster,2691,Regis (MA),569,02/26/2011,3,1,Neutral,"Bennington, VT",1 Sets,25
+2011,Daniel Webster,2691,Newbury,21772,03/01/2011,0,3,Away,,-,0
+2011,Daniel Webster,2691,Newbury,21772,03/02/2011,0,3,Home,,-,70
+2011,Daniel Webster,2691,Elms,532,03/04/2011,1,3,Home,,1 Sets,59
+2011,Daniel Webster,2691,Endicott,8981,03/08/2011,0,3,Home,,-,41
+2011,Daniel Webster,2691,MIT,398,03/12/2011,0,3,Away,,-,25
+2011,Daniel Webster,2691,Mount Ida,27901,03/12/2011,2,3,Neutral,"Cambridge, MA",2 Sets,0
+2011,Daniel Webster,2691,Elms,532,03/25/2011,0,3,Neutral,"Brookline, MA",-,24
+2011,East. Mennonite,203,Juniata,325,01/14/2011,0,3,Home,,-,264
+2011,East. Mennonite,203,Limestone,1174,01/21/2011,2,3,Home,,2 Sets,273
+2011,East. Mennonite,203,CCNY,480,01/21/2011,3,0,Home,,-,75
+2011,East. Mennonite,203,Pfeiffer,542,01/22/2011,1,3,Home,,1 Sets,192
+2011,East. Mennonite,203,Kean,329,01/22/2011,3,1,Home,,1 Sets,102
+2011,East. Mennonite,203,Mount Olive,1245,01/25/2011,0,3,Away,,-,321
+2011,East. Mennonite,203,Lancaster Bible,30085,01/27/2011,3,0,Home,,-,144
+2011,East. Mennonite,203,Kean,329,01/29/2011,3,0,Away,,-,47
+2011,East. Mennonite,203,New Jersey City,319,01/30/2011,3,1,Away,,1 Sets,31
+2011,East. Mennonite,203,Stevenson,21852,02/02/2011,3,1,Home,,1 Sets,311
+2011,East. Mennonite,203,Phila. Biblical,1305,02/05/2011,1,3,Away,,1 Sets,150
+2011,East. Mennonite,203,Mount Olive,1245,02/09/2011,0,3,Home,,-,163
+2011,East. Mennonite,203,MIT,398,02/12/2011,0,3,Home,,-,30
+2011,East. Mennonite,203,Hilbert,8398,02/12/2011,3,0,Home,,-,30
+2011,East. Mennonite,203,Vassar,737,02/13/2011,0,3,Home,,-,25
+2011,East. Mennonite,203,Endicott,8981,02/13/2011,3,2,Away,,2 Sets,90
+2011,East. Mennonite,203,Ramapo,564,02/17/2011,0,3,Away,,-,100
+2011,East. Mennonite,203,Phila. Biblical,1305,02/19/2011,0,3,Home,,-,152
+2011,East. Mennonite,203,Stevenson,21852,02/23/2011,1,3,Away,,1 Sets,343
+2011,East. Mennonite,203,Ramapo,564,02/26/2011,1,3,Home,,1 Sets,135
+2011,East. Mennonite,203,Lancaster Bible,30085,03/02/2011,3,1,Away,,1 Sets,65
+2011,East. Mennonite,203,Lees-McRae,13302,03/04/2011,0,3,Away,,-,84
+2011,East. Mennonite,203,King (TN),30051,03/04/2011,0,3,Neutral,"Banner Elk, NC",-,121
+2011,East. Mennonite,203,Hilbert,8398,03/19/2011,3,1,Neutral,"Buffalo, NY",1 Sets,0
+2011,East. Mennonite,203,Medaille,23725,03/19/2011,0,3,Away,,-,0
+2011,East. Mennonite,203,D'Youville,1059,03/20/2011,1,3,Away,,1 Sets,60
+2011,East. Mennonite,203,King (TN),30051,03/24/2011,0,3,Home,,-,152
+2011,East. Mennonite,203,New Jersey City,319,03/26/2011,3,0,Home,,-,116
+2011,Elmira,213,Endicott,8981,01/15/2011,3,1,Neutral,"Nashua, NH",1 Sets,0
+2011,Elmira,213,Rivier,18422,01/15/2011,1,3,Away,,1 Sets,0
+2011,Elmira,213,Lasell,8486,01/16/2011,1,3,Neutral,"Nashua, NH",1 Sets,0
+2011,Elmira,213,Nazareth,461,01/19/2011,0,3,Home,,-,800
+2011,Elmira,213,Thiel,707,01/26/2011,3,2,Home,,2 Sets,250
+2011,Elmira,213,Phila. Biblical,1305,01/29/2011,0,3,Home,,-,50
+2011,Elmira,213,Nazareth,461,01/29/2011,1,3,Home,,1 Sets,240
+2011,Elmira,213,SUNY New Paltz,475,02/05/2011,3,0,Neutral,Medaille College,-,42
+2011,Elmira,213,Vassar,737,02/06/2011,1,3,Neutral,Medaille College,1 Sets,12
+2011,Elmira,213,Sage Colleges,11036,02/12/2011,2,3,Away,,2 Sets,0
+2011,Elmira,213,Kean,329,02/12/2011,3,1,Neutral,"Albany, N.Y.",1 Sets,40
+2011,Elmira,213,D'Youville,1059,02/14/2011,1,3,Home,,1 Sets,175
+2011,Elmira,213,Medaille,23725,02/19/2011,0,3,Away,,-,57
+2011,Elmira,213,Hilbert,8398,02/19/2011,3,0,Away,,-,35
+2011,Elmira,213,Medaille,23725,02/23/2011,0,3,Home,,-,50
+2011,Elmira,213,Newbury,21772,02/26/2011,1,3,Neutral,Baruch College,1 Sets,0
+2011,Elmira,213,Baruch,58,02/26/2011,1,3,Away,,1 Sets,47
+2011,Elmira,213,Kean,329,02/27/2011,1,3,Neutral,"New York, N.Y.",1 Sets,35
+2011,Elmira,213,Rivier,18422,02/27/2011,0,3,Neutral,Baruch College,-,0
+2011,Elmira,213,Nazareth,461,03/02/2011,0,3,Away,,-,0
+2011,Elmira,213,SUNYIT,9500,03/05/2011,1,3,Home,,1 Sets,0
+2011,Elmira,213,Stevens,679,03/06/2011,0,3,Home,,1 Sets,0
+2011,Elmira,213,Bard,962,03/06/2011,3,0,Neutral,Vassar College,-,0
+2011,Elmira,213,York (NY),2730,03/11/2011,3,0,Away,,-,100
+2011,Elmira,213,Mount Olive,1245,03/11/2011,0,3,Neutral,"Jamaica, NY",-,0
+2011,Elmira,213,City Tech,8580,03/12/2011,3,0,Neutral,"Jamaica, NY",-,30
+2011,Elmira,213,New Jersey City,319,03/12/2011,3,1,Neutral,"Jamaica, Queens, NY",1 Sets,42
+2011,Elmira,213,D'Youville,1059,03/15/2011,1,3,Away,,1 Sets,80
+2011,Elmira,213,SUNYIT,9500,03/19/2011,3,0,Away,,-,110
+2011,Elmira,213,Hilbert,8398,03/24/2011,3,0,Home,,-,150
+2011,Elmira,213,Stevens,679,03/26/2011,1,3,Away,,1 Sets,0
+2011,Elmira,213,Thiel,707,03/29/2011,2,3,Away,,2 Sets,0
+2011,Elms,532,MIT,398,01/14/2011,0,3,Home,,-,74
+2011,Elms,532,Lesley,24317,01/19/2011,3,0,Home,,-,78
+2011,Elms,532,Emmanuel (MA),215,01/22/2011,0,3,Neutral,"New Paltz, NY",-,55
+2011,Elms,532,MIT,398,01/22/2011,0,3,Neutral,"New Paltz, NY",-,23
+2011,Elms,532,SUNY New Paltz,475,01/23/2011,0,3,Away,,-,76
+2011,Elms,532,Baruch,58,01/23/2011,0,3,Neutral,"New Paltz, NY",-,42
+2011,Elms,532,Regis (MA),569,01/27/2011,3,0,Away,,-,45
+2011,Elms,532,Mount Ida,27901,01/29/2011,3,2,Home,,2 Sets,78
+2011,Elms,532,Newbury,21772,01/29/2011,1,3,Home,,1 Sets,78
+2011,Elms,532,Endicott,8981,02/03/2011,0,3,Home,,-,104
+2011,Elms,532,Southern Vt.,1379,02/10/2011,3,0,Home,,-,73
+2011,Elms,532,Regis (MA),569,02/12/2011,3,0,Home,,-,121
+2011,Elms,532,Daniel Webster,2691,02/12/2011,3,0,Home,,-,178
+2011,Elms,532,Lesley,24317,02/14/2011,3,0,Away,,-,21
+2011,Elms,532,Southern Vt.,1379,02/19/2011,3,0,Neutral,"Boston, MA",-,75
+2011,Elms,532,Wentworth Inst.,762,02/19/2011,0,3,Away,,-,75
+2011,Elms,532,Endicott,8981,02/21/2011,0,3,Away,,-,80
+2011,Elms,532,Emerson,214,02/27/2011,2,3,Home,,2 Sets,68
+2011,Elms,532,MIT,398,03/01/2011,0,3,Away,,-,50
+2011,Elms,532,Daniel Webster,2691,03/04/2011,3,1,Away,,1 Sets,59
+2011,Elms,532,York (NY),2730,03/11/2011,2,3,Away,,2 Sets,75
+2011,Elms,532,Mount Olive,1245,03/11/2011,0,3,Neutral,"Jamaica, NY",-,60
+2011,Elms,532,City Tech,8580,03/12/2011,3,1,Neutral,"Jamaica, NY",1 Sets,30
+2011,Elms,532,New Jersey City,319,03/12/2011,0,3,Neutral,"Jamaica, NY",-,41
+2011,Elms,532,Newbury,21772,03/17/2011,2,3,Away,,2 Sets,18
+2011,Elms,532,Wentworth Inst.,762,03/19/2011,1,3,Home,,1 Sets,154
+2011,Elms,532,New Haven,470,03/22/2011,3,1,Home,,1 Sets,84
+2011,Elms,532,Daniel Webster,2691,03/25/2011,3,0,Neutral,"Brookline, MA",-,24
+2011,Elms,532,Newbury,21772,03/26/2011,1,3,Away,,1 Sets,0
+2011,Elms,532,Johnson & Wales (RI),22626,03/30/2011,3,1,Home,,1 Sets,98
+2011,Emerson,214,Mount Ida,27901,01/18/2011,3,1,Away,,1 Sets,0
+2011,Emerson,214,Rivier,18422,01/20/2011,1,3,Home,,1 Sets,86
+2011,Emerson,214,Albertus Magnus,2798,01/22/2011,3,0,Home,,-,42
+2011,Emerson,214,Albertus Magnus,2798,01/22/2011,3,0,Home,,-,42
+2011,Emerson,214,Johnson & Wales (SC),,01/22/2011,3,1,Home,,1 Sets,24
+2011,Emerson,214,MIT,398,01/27/2011,0,3,Away,,-,35
+2011,Emerson,214,Daniel Webster,2691,01/29/2011,3,2,Home,,2 Sets,46
+2011,Emerson,214,Lasell,8486,02/04/2011,0,3,Away,,-,98
+2011,Emerson,214,Wentworth Inst.,762,02/08/2011,1,3,Away,,1 Sets,43
+2011,Emerson,214,Newbury,21772,02/09/2011,0,3,Away,,-,21
+2011,Emerson,214,Endicott,8981,02/11/2011,0,3,Away,,-,100
+2011,Emerson,214,Hunter,292,02/12/2011,1,3,Neutral,"Beverly, Mass.",1 Sets,0
+2011,Emerson,214,Hilbert,8398,02/13/2011,1,3,Neutral,"Beverly, Mass.",1 Sets,0
+2011,Emerson,214,SUNYIT,9500,02/13/2011,0,3,Neutral,"Beverly, Mass.",-,0
+2011,Emerson,214,Emmanuel (MA),215,02/15/2011,0,3,Home,,-,72
+2011,Emerson,214,Emmanuel (MA),215,02/15/2011,0,3,Home,,-,72
+2011,Emerson,214,Rivier,18422,02/17/2011,0,3,Away,,-,60
+2011,Emerson,214,Regis (MA),569,02/23/2011,3,0,Away,,-,19
+2011,Emerson,214,Elms,532,02/27/2011,3,2,Away,,2 Sets,68
+2011,Emerson,214,Lesley,24317,03/01/2011,3,0,Away,,-,21
+2011,Emerson,214,Lancaster Bible,30085,03/04/2011,3,0,Neutral,"Cambridge, Mass.",-,0
+2011,Emerson,214,MIT,398,03/04/2011,0,3,Away,,-,0
+2011,Emerson,214,New Haven,470,03/05/2011,2,3,Neutral,"Cambridge, Mass.",2 Sets,0
+2011,Emerson,214,Endicott,8981,03/05/2011,0,3,Neutral,"Cambridge, Mass.",-,0
+2011,Emerson,214,Lesley,24317,03/15/2011,3,0,Home,,-,51
+2011,Emerson,214,Johnson & Wales (RI),22626,03/17/2011,0,3,Away,,-,57
+2011,Emerson,214,Regis (MA),569,03/19/2011,3,0,Home,,-,22
+2011,Emerson,214,Mount Ida,27901,03/22/2011,2,3,Home,,2 Sets,56
+2011,Emerson,214,Lasell,8486,03/24/2011,0,3,Home,,-,168
+2011,Emmanuel (MA),215,Mount Ida,27901,01/18/2011,3,0,Home,,-,150
+2011,Emmanuel (MA),215,Elms,532,01/22/2011,3,0,Neutral,"New Paltz, NY",-,55
+2011,Emmanuel (MA),215,SUNY New Paltz,475,01/22/2011,3,0,Away,,-,112
+2011,Emmanuel (MA),215,Baruch,58,01/23/2011,3,0,Neutral,"New Paltz, NY",-,13
+2011,Emmanuel (MA),215,MIT,398,01/23/2011,1,3,Neutral,"New Paltz, NY",1 Sets,24
+2011,Emmanuel (MA),215,Johnson & Wales (RI),22626,01/25/2011,3,0,Away,,-,77
+2011,Emmanuel (MA),215,Springfield,673,01/28/2011,1,3,Away,,1 Sets,617
+2011,Emmanuel (MA),215,New Haven,470,01/29/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Vassar,737,01/29/2011,3,1,Home,,1 Sets,0
+2011,Emmanuel (MA),215,Rivier,18422,02/04/2011,1,3,Away,,1 Sets,0
+2011,Emmanuel (MA),215,Lesley,24317,02/06/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Albertus Magnus,2798,02/06/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Lasell,8486,02/09/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Hunter,292,02/12/2011,3,0,Neutral,"Beverly, MA",-,0
+2011,Emmanuel (MA),215,Endicott,8981,02/12/2011,3,0,Away,,-,100
+2011,Emmanuel (MA),215,MIT,398,02/13/2011,3,0,Neutral,"Beverly, MA",-,0
+2011,Emmanuel (MA),215,Baruch,58,02/13/2011,1,3,Neutral,"Beverly, MA",1 Sets,0
+2011,Emmanuel (MA),215,Emerson,214,02/15/2011,3,0,Away,,-,0
+2011,Emmanuel (MA),215,Yeshiva,814,02/20/2011,3,0,Away,,-,0
+2011,Emmanuel (MA),215,Albertus Magnus,2798,02/21/2011,3,0,Away,,-,0
+2011,Emmanuel (MA),215,Emerson,214,02/21/2011,3,0,Home,,-,100
+2011,Emmanuel (MA),215,Mount Ida,27901,02/23/2011,3,0,Away,,-,0
+2011,Emmanuel (MA),215,Lasell,8486,02/25/2011,3,0,Away,,-,125
+2011,Emmanuel (MA),215,Rivier,18422,03/01/2011,3,2,Home,,2 Sets,200
+2011,Emmanuel (MA),215,New Haven,470,03/04/2011,3,0,Neutral,"Cambridge, MA",-,0
+2011,Emmanuel (MA),215,Lancaster Bible,30085,03/04/2011,3,0,Neutral,"Cambridge, MA",-,0
+2011,Emmanuel (MA),215,Endicott,8981,03/05/2011,2,3,Neutral,"Cambridge, MA",2 Sets,0
+2011,Emmanuel (MA),215,MIT,398,03/05/2011,0,3,Away,,-,0
+2011,Emmanuel (MA),215,Johnson & Wales (SC),,03/15/2011,3,0,Home,,-,75
+2011,Emmanuel (MA),215,Wentworth Inst.,762,03/17/2011,3,1,Home,,1 Sets,50
+2011,Emmanuel (MA),215,Endicott,8981,03/19/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Baruch,58,03/19/2011,2,3,Home,,2 Sets,0
+2011,Emmanuel (MA),215,Newbury,21772,03/24/2011,3,0,Home,,-,0
+2011,Emmanuel (MA),215,Lasell,8486,03/26/2011,1,3,Home,,1 Sets,100
+2011,Emmanuel (MA),215,Newbury,21772,03/29/2011,3,2,Away,,2 Sets,102
+2011,Emmanuel (MA),215,Endicott,8981,04/01/2011,3,1,Neutral,"Hoboken, NJ",1 Sets,82
+2011,Emmanuel (MA),215,Baruch,58,04/02/2011,1,3,Neutral,"Hoboken, NJ",1 Sets,0
+2011,Endicott,8981,Lasell,8486,01/15/2011,3,2,Neutral,"Nashua, NH",2 Sets,55
+2011,Endicott,8981,Elmira,213,01/15/2011,1,3,Neutral,"Nashua, NH",1 Sets,10
+2011,Endicott,8981,Rivier,18422,01/16/2011,1,3,Away,,1 Sets,0
+2011,Endicott,8981,Lesley,24317,01/19/2011,3,0,Home,,-,50
+2011,Endicott,8981,Wentworth Inst.,762,01/22/2011,3,0,Home,,-,90
+2011,Endicott,8981,Harvard,275,01/28/2011,1,3,Away,,1 Sets,159
+2011,Endicott,8981,Elms,532,02/03/2011,3,0,Away,,-,104
+2011,Endicott,8981,Sage Colleges,11036,02/05/2011,3,0,Home,,-,80
+2011,Endicott,8981,MIT,398,02/08/2011,0,3,Away,,-,125
+2011,Endicott,8981,Emerson,214,02/11/2011,3,0,Home,,-,100
+2011,Endicott,8981,Emmanuel (MA),215,02/12/2011,0,3,Home,,-,100
+2011,Endicott,8981,East. Mennonite,203,02/13/2011,2,3,Home,,2 Sets,90
+2011,Endicott,8981,Vassar,737,02/13/2011,1,3,Home,,1 Sets,90
+2011,Endicott,8981,Newbury,21772,02/15/2011,2,3,Home,,2 Sets,100
+2011,Endicott,8981,Regis (MA),569,02/17/2011,3,0,Home,,-,50
+2011,Endicott,8981,Daniel Webster,2691,02/18/2011,3,0,Home,,-,70
+2011,Endicott,8981,Elms,532,02/21/2011,3,0,Home,,-,80
+2011,Endicott,8981,Lesley,24317,02/23/2011,3,1,Away,,1 Sets,19
+2011,Endicott,8981,SUNY New Paltz,475,02/25/2011,0,3,Home,,-,75
+2011,Endicott,8981,Southern Vt.,1379,03/01/2011,3,0,Home,,-,50
+2011,Endicott,8981,Southern Vt.,1379,03/01/2011,3,0,Home,,-,50
+2011,Endicott,8981,New Haven,470,03/02/2011,3,0,Away,,-,54
+2011,Endicott,8981,Mount Ida,27901,03/04/2011,3,1,Neutral,"Cambridge, MA",1 Sets,44
+2011,Endicott,8981,Lasell,8486,03/04/2011,3,2,Neutral,"Cambridge, MA",2 Sets,65
+2011,Endicott,8981,Emmanuel (MA),215,03/05/2011,3,2,Neutral,"Cambridge, MA",2 Sets,100
+2011,Endicott,8981,Emerson,214,03/05/2011,3,0,Neutral,"Cambridge, MA",-,100
+2011,Endicott,8981,Daniel Webster,2691,03/08/2011,3,0,Away,,-,41
+2011,Endicott,8981,MIT,398,03/10/2011,3,2,Home,,2 Sets,100
+2011,Endicott,8981,Regis (MA),569,03/17/2011,3,0,Away,,-,25
+2011,Endicott,8981,Emmanuel (MA),215,03/19/2011,0,3,Away,,-,75
+2011,Endicott,8981,Baruch,58,03/19/2011,0,3,Neutral,"Boston, MA",-,60
+2011,Endicott,8981,Newbury,21772,03/22/2011,3,1,Away,,1 Sets,32
+2011,Endicott,8981,Rivier,18422,03/24/2011,0,3,Home,,-,100
+2011,Endicott,8981,Wentworth Inst.,762,03/26/2011,3,1,Away,,1 Sets,110
+2011,Endicott,8981,New Haven,470,03/29/2011,3,0,Home,,-,120
+2011,Endicott,8981,Emmanuel (MA),215,04/01/2011,1,3,Neutral,"Hoboken, NJ",1 Sets,82
+2011,Endicott,8981,Newbury,21772,04/09/2011,1,3,Home,,1 Sets,150
+2011,Endicott,8981,Wentworth Inst.,762,04/09/2011,3,0,Home,,-,120
+2011,Fontbonne,11538,Quincy,561,02/13/2011,1,3,Away,,1 Sets,43
+2011,Fontbonne,11538,Quincy,561,02/13/2011,1,3,Away,,1 Sets,62
+2011,Fontbonne,11538,Quincy,561,03/07/2011,0,3,Home,,-,33
+2011,Fontbonne,11538,Quincy,561,03/07/2011,0,3,Home,,-,27
+2011,George Mason,248,NJIT,471,01/14/2011,3,1,Home,,1 Sets,86
+2011,George Mason,248,Juniata,325,01/15/2011,3,2,Home,,2 Sets,248
+2011,George Mason,248,Ohio St.,518,01/18/2011,1,3,Away,,1 Sets,254
+2011,George Mason,248,Springfield,673,01/21/2011,3,0,Home,,-,93
+2011,George Mason,248,Sacred Heart,590,01/22/2011,3,0,Home,,-,231
+2011,George Mason,248,Ball St.,47,01/28/2011,3,1,Home,,1 Sets,200
+2011,George Mason,248,IPFW,308,01/29/2011,2,3,Home,,2 Sets,234
+2011,George Mason,248,Saint Francis (PA),600,02/04/2011,3,0,Away,,-,115
+2011,George Mason,248,Juniata,325,02/05/2011,3,1,Away,,1 Sets,750
+2011,George Mason,248,Springfield,673,02/11/2011,3,2,Away,,2 Sets,607
+2011,George Mason,248,Sacred Heart,590,02/12/2011,0,3,Away,,-,525
+2011,George Mason,248,Princeton,554,02/18/2011,3,1,Away,,1 Sets,135
+2011,George Mason,248,Rutgers-Newark,589,02/19/2011,3,1,Away,,1 Sets,90
+2011,George Mason,248,Rutgers-Newark,589,02/25/2011,3,0,Home,,-,0
+2011,George Mason,248,Penn St.,539,02/26/2011,0,3,Home,,-,"1,600"
+2011,George Mason,248,IPFW,308,03/04/2011,1,3,Away,,1 Sets,279
+2011,George Mason,248,Ball St.,47,03/05/2011,1,3,Away,,1 Sets,481
+2011,George Mason,248,Mount Olive,1245,03/09/2011,3,0,Home,,-,175
+2011,George Mason,248,Loyola Chicago,371,03/18/2011,1,3,Away,,1 Sets,521
+2011,George Mason,248,Lewis,354,03/19/2011,0,3,Away,,-,787
+2011,George Mason,248,Lees-McRae,13302,03/25/2011,3,0,Home,,-,119
+2011,George Mason,248,Lewis,354,03/26/2011,3,1,Home,,1 Sets,134
+2011,George Mason,248,Penn St.,539,04/02/2011,0,3,Away,,-,577
+2011,George Mason,248,Saint Francis (PA),600,04/08/2011,3,0,Home,,-,231
+2011,George Mason,248,Princeton,554,04/15/2011,3,1,Home,,1 Sets,155
+2011,George Mason,248,Ohio St.,518,04/16/2011,0,3,Home,,-,487
+2011,George Mason,248,New York U.,479,04/23/2011,3,1,Home,,1 Sets,190
+2011,George Mason,248,Springfield,673,04/28/2011,1,3,Neutral,"University Park, PA",1 Sets,0
+2011,Grand Canyon,1104,UC Santa Cruz,113,01/07/2011,3,0,Home,,-,321
+2011,Grand Canyon,1104,Juniata,325,01/08/2011,0,3,Home,,-,200
+2011,Grand Canyon,1104,UC Santa Cruz,113,01/08/2011,1,3,Home,,1 Sets,283
+2011,Grand Canyon,1104,Juniata,325,01/09/2011,2,3,Home,,2 Sets,160
+2011,Grand Canyon,1104,Hope Int'l,,01/13/2011,1,3,Away,,1 Sets,178
+2011,Grand Canyon,1104,Cal Baptist,30135,01/14/2011,0,3,Away,,-,303
+2011,Grand Canyon,1104,Johnson & Wales (CO),,01/21/2011,3,2,Away,,2 Sets,0
+2011,Grand Canyon,1104,Johnson & Wales (CO),,01/22/2011,2,3,Neutral,"Colorado Springs, CO",2 Sets,192
+2011,Grand Canyon,1104,Park,,01/22/2011,1,3,Neutral,"Denver, CO",1 Sets,0
+2011,Grand Canyon,1104,Carthage,121,01/28/2011,3,2,Home,,2 Sets,112
+2011,Grand Canyon,1104,Lees-McRae,13302,01/28/2011,3,0,Home,,-,214
+2011,Grand Canyon,1104,Carthage,121,01/30/2011,1,3,Home,,1 Sets,218
+2011,Grand Canyon,1104,Lees-McRae,13302,01/30/2011,3,1,Home,,1 Sets,123
+2011,Grand Canyon,1104,Cal Baptist,30135,02/04/2011,0,3,Neutral,"Springfield, MA",-,105
+2011,Grand Canyon,1104,Springfield,673,02/05/2011,0,3,Away,,-,0
+2011,Grand Canyon,1104,Loyola Chicago,371,02/12/2011,1,3,Away,,1 Sets,391
+2011,Grand Canyon,1104,Loyola Chicago,371,02/14/2011,0,3,Away,,-,112
+2011,Grand Canyon,1104,Lindenwood (MO),30136,02/22/2011,1,3,Home,,1 Sets,129
+2011,Grand Canyon,1104,NJIT,471,02/26/2011,3,1,Away,,1 Sets,74
+2011,Grand Canyon,1104,Stevens,679,02/28/2011,3,0,Away,,-,75
+2011,Grand Canyon,1104,New York U.,479,03/01/2011,3,2,Away,,2 Sets,40
+2011,Grand Canyon,1104,IPFW,308,03/10/2011,0,3,Home,,-,223
+2011,Grand Canyon,1104,IPFW,308,03/12/2011,1,3,Home,,1 Sets,238
+2011,Grand Canyon,1104,Ohio St.,518,03/20/2011,0,3,Home,,-,325
+2011,Grand Canyon,1104,Ohio St.,518,03/21/2011,0,3,Home,,-,513
+2011,Grand Canyon,1104,Ball St.,47,04/01/2011,1,3,Away,,1 Sets,518
+2011,Grand Canyon,1104,Ball St.,47,04/02/2011,2,3,Away,,2 Sets,412
+2011,Grand Canyon,1104,Quincy,561,04/08/2011,2,3,Away,,2 Sets,67
+2011,Grand Canyon,1104,Quincy,561,04/09/2011,0,3,Away,,-,102
+2011,Grand Canyon,1104,Lewis,354,04/15/2011,0,3,Home,,-,112
+2011,Grand Canyon,1104,Lewis,354,04/16/2011,2,3,Home,,2 Sets,175
+2011,Grand Canyon,1104,Loyola Chicago,371,04/23/2011,0,3,Away,,-,111
+2011,Harvard,275,Newbury,21772,01/25/2011,3,1,Home,,1 Sets,287
+2011,Harvard,275,Endicott,8981,01/28/2011,3,1,Home,,1 Sets,159
+2011,Harvard,275,Cal Baptist,30135,02/03/2011,0,3,Home,,-,127
+2011,Harvard,275,MIT,398,02/05/2011,3,1,Home,,1 Sets,500
+2011,Harvard,275,Rivier,18422,02/09/2011,3,1,Home,,1 Sets,105
+2011,Harvard,275,Stevens,679,02/12/2011,3,0,Home,,-,177
+2011,Harvard,275,Springfield,673,02/14/2011,3,1,Home,,1 Sets,72
+2011,Harvard,275,Saint Francis (PA),600,02/18/2011,1,3,Away,,1 Sets,175
+2011,Harvard,275,Juniata,325,02/19/2011,0,3,Away,,-,800
+2011,Harvard,275,Sacred Heart,590,02/26/2011,0,3,Home,,-,225
+2011,Harvard,275,Juniata,325,03/04/2011,1,3,Home,,1 Sets,275
+2011,Harvard,275,Princeton,554,03/05/2011,3,2,Home,,2 Sets,182
+2011,Harvard,275,Cal St. Northridge,101,03/12/2011,0,3,Away,,-,372
+2011,Harvard,275,Pepperdine,541,03/15/2011,0,3,Away,,-,249
+2011,Harvard,275,Southern California,657,03/16/2011,1,3,Away,,1 Sets,350
+2011,Harvard,275,Springfield,673,03/23/2011,0,3,Away,,-,85
+2011,Harvard,275,New York U.,479,03/25/2011,1,3,Home,,1 Sets,175
+2011,Harvard,275,Sacred Heart,590,04/01/2011,1,3,Away,,1 Sets,181
+2011,Harvard,275,Princeton,554,04/02/2011,3,2,Away,,2 Sets,105
+2011,Harvard,275,New York U.,479,04/08/2011,2,3,Away,,2 Sets,531
+2011,Harvard,275,NJIT,471,04/09/2011,1,3,Away,,1 Sets,200
+2011,Harvard,275,NJIT,471,04/16/2011,3,1,Home,,1 Sets,250
+2011,Hawaii,277,Ball St.,47,01/13/2011,0,3,Home,,-,"3,135"
+2011,Hawaii,277,Penn St.,539,01/14/2011,2,3,Home,,2 Sets,"3,240"
+2011,Hawaii,277,UCLA,110,01/15/2011,0,3,Home,,-,"3,679"
+2011,Hawaii,277,Stanford,674,01/21/2011,3,0,Home,,-,"3,531"
+2011,Hawaii,277,Stanford,674,01/23/2011,2,3,Home,,2 Sets,"3,568"
+2011,Hawaii,277,UC San Diego,112,01/28/2011,2,3,Away,,2 Sets,420
+2011,Hawaii,277,UC San Diego,112,01/29/2011,3,1,Away,,1 Sets,378
+2011,Hawaii,277,UC Santa Barbara,104,02/03/2011,3,1,Home,,1 Sets,"2,926"
+2011,Hawaii,277,UC Santa Barbara,104,02/04/2011,0,3,Home,,-,"3,209"
+2011,Hawaii,277,Cal Baptist,30135,02/11/2011,3,0,Home,,-,"3,076"
+2011,Hawaii,277,Cal Baptist,30135,02/12/2011,3,1,Neutral,"Wailuku, HI",1 Sets,"2,047"
+2011,Hawaii,277,UCLA,110,02/17/2011,0,3,Away,,-,663
+2011,Hawaii,277,UCLA,110,02/19/2011,3,0,Away,,-,754
+2011,Hawaii,277,UC Irvine,109,02/21/2011,1,3,Away,,1 Sets,664
+2011,Hawaii,277,UC Irvine,109,02/22/2011,1,3,Away,,1 Sets,557
+2011,Hawaii,277,Pepperdine,541,03/04/2011,3,0,Home,,-,"3,122"
+2011,Hawaii,277,Pepperdine,541,03/05/2011,3,0,Home,,-,"3,606"
+2011,Hawaii,277,Pacific,534,03/11/2011,3,1,Home,,1 Sets,"3,138"
+2011,Hawaii,277,Pacific,534,03/12/2011,3,0,Home,,-,"3,123"
+2011,Hawaii,277,Long Beach St.,99,03/18/2011,3,1,Away,,1 Sets,749
+2011,Hawaii,277,Long Beach St.,99,03/19/2011,3,0,Away,,-,520
+2011,Hawaii,277,BYU,77,03/24/2011,0,3,Away,,-,"1,499"
+2011,Hawaii,277,BYU,77,03/25/2011,2,3,Away,,2 Sets,"2,909"
+2011,Hawaii,277,Cal St. Northridge,101,04/01/2011,3,1,Home,,1 Sets,"3,202"
+2011,Hawaii,277,Cal St. Northridge,101,04/02/2011,3,0,Home,,-,"3,274"
+2011,Hawaii,277,Southern California,657,04/08/2011,3,2,Home,,2 Sets,"3,967"
+2011,Hawaii,277,Southern California,657,04/09/2011,0,3,Home,,-,"5,591"
+2011,Hawaii,277,UC Irvine,109,04/23/2011,0,3,Away,,-,788
+2011,Hilbert,8398,SUNYIT,9500,01/22/2011,1,3,Away,,1 Sets,50
+2011,Hilbert,8398,Bard,962,01/22/2011,1,2,Neutral,SUNYIT,-,50
+2011,Hilbert,8398,Lasell,8486,01/23/2011,0,3,Neutral,SUNYIT,-,50
+2011,Hilbert,8398,Sage Colleges,11036,01/23/2011,1,3,Neutral,SUNYIT,1 Sets,25
+2011,Hilbert,8398,D'Youville,1059,01/26/2011,0,3,Home,,-,75
+2011,Hilbert,8398,SUNYIT,9500,02/05/2011,0,3,Neutral,"Buffalo, NY",-,45
+2011,Hilbert,8398,Stevens,679,02/06/2011,0,3,Neutral,Buffalo,-,50
+2011,Hilbert,8398,Medaille,23725,02/09/2011,0,3,Away,,-,52
+2011,Hilbert,8398,East. Mennonite,203,02/12/2011,0,3,Neutral,"Beverly, Mass.",-,0
+2011,Hilbert,8398,MIT,398,02/12/2011,0,3,Neutral,"Beverly, Mass.",-,0
+2011,Hilbert,8398,Emerson,214,02/13/2011,3,1,Neutral,"Beverly, Mass.",1 Sets,0
+2011,Hilbert,8398,Hunter,292,02/13/2011,1,3,Neutral,"Beverly, Mass.",1 Sets,0
+2011,Hilbert,8398,Elmira,213,02/19/2011,0,3,Home,,-,35
+2011,Hilbert,8398,Nazareth,461,02/22/2011,0,3,Away,,-,0
+2011,Hilbert,8398,D'Youville,1059,02/24/2011,0,3,Away,,-,105
+2011,Hilbert,8398,Thiel,707,02/26/2011,1,3,Home,,1 Sets,30
+2011,Hilbert,8398,Vassar,737,03/05/2011,0,3,Away,,-,50
+2011,Hilbert,8398,SUNY New Paltz,475,03/06/2011,1,3,Neutral,"Poughkeepsie, NY",1 Sets,24
+2011,Hilbert,8398,Bard,962,03/06/2011,1,3,Neutral,"Poughkeepsie, NY",1 Sets,0
+2011,Hilbert,8398,Nazareth,461,03/08/2011,0,3,Home,,-,0
+2011,Hilbert,8398,Kean,329,03/11/2011,0,3,Neutral,"Buffalo, NY",-,35
+2011,Hilbert,8398,Thiel,707,03/16/2011,0,3,Away,,-,0
+2011,Hilbert,8398,Medaille,23725,03/18/2011,0,3,Home,,-,65
+2011,Hilbert,8398,East. Mennonite,203,03/19/2011,1,3,Neutral,"Buffalo, NY",1 Sets,0
+2011,Hilbert,8398,Elmira,213,03/24/2011,0,3,Away,,-,150
+2011,Hunter,292,Newbury,21772,01/15/2011,3,2,Home,,2 Sets,50
+2011,Hunter,292,Ramapo,564,01/15/2011,2,3,Away,,2 Sets,75
+2011,Hunter,292,Stevens,679,01/22/2011,2,3,Away,,2 Sets,0
+2011,Hunter,292,Newbury,21772,01/22/2011,2,3,Away,,2 Sets,0
+2011,Hunter,292,Mount Olive,1245,01/23/2011,0,3,Home,,-,0
+2011,Hunter,292,NJIT,471,01/28/2011,2,3,Away,,2 Sets,84
+2011,Hunter,292,Lehman,279,02/01/2011,3,1,Away,,1 Sets,178
+2011,Hunter,292,Phila. Biblical,1305,02/03/2011,2,3,Away,,2 Sets,100
+2011,Hunter,292,City Tech,8580,02/05/2011,3,0,Neutral,"New York, NY",-,0
+2011,Hunter,292,Medgar Evers,403,02/05/2011,3,0,Neutral,"New York, NY",-,0
+2011,Hunter,292,Baruch,58,02/08/2011,0,3,Away,,-,172
+2011,Hunter,292,CCNY,480,02/10/2011,3,1,Home,,1 Sets,55
+2011,Hunter,292,Emmanuel (MA),215,02/12/2011,0,3,Neutral,"Beverly, MA",-,0
+2011,Hunter,292,Emerson,214,02/12/2011,3,1,Neutral,"Beverly, MA",1 Sets,0
+2011,Hunter,292,SUNYIT,9500,02/13/2011,3,1,Neutral,"Beverly, MA",1 Sets,0
+2011,Hunter,292,Hilbert,8398,02/13/2011,3,1,Neutral,"Beverly, MA",1 Sets,0
+2011,Hunter,292,SUNY New Paltz,475,02/15/2011,0,3,Away,,-,45
+2011,Hunter,292,Brooklyn,79,02/17/2011,3,0,Away,,-,88
+2011,Hunter,292,York (NY),2730,02/19/2011,3,0,Home,,-,0
+2011,Hunter,292,Lehman,279,02/19/2011,3,0,Home,,-,0
+2011,Hunter,292,Vassar,737,02/22/2011,2,3,Away,,2 Sets,50
+2011,Hunter,292,City Tech,8580,02/24/2011,3,0,Away,,-,15
+2011,Hunter,292,Baruch,58,03/01/2011,2,3,Home,,2 Sets,142
+2011,Hunter,292,CCNY,480,03/05/2011,3,0,Away,,-,50
+2011,Hunter,292,Brooklyn,79,03/05/2011,3,0,Neutral,"New York, NY",-,0
+2011,Hunter,292,York (NY),2730,03/08/2011,3,0,Away,,-,50
+2011,Hunter,292,New York U.,479,03/09/2011,0,3,Away,,-,40
+2011,Hunter,292,Pfeiffer,542,03/11/2011,0,3,Neutral,"Stevenson, MD",-,0
+2011,Hunter,292,Phila. Biblical,1305,03/12/2011,1,3,Home,,1 Sets,0
+2011,Hunter,292,Stevenson,21852,03/12/2011,2,3,Away,,2 Sets,56
+2011,Hunter,292,Medgar Evers,403,03/15/2011,3,0,Away,,-,20
+2011,Hunter,292,Medgar Evers,403,03/22/2011,3,0,Home,,-,30
+2011,Hunter,292,Lehman,279,03/25/2011,3,0,Neutral,"New York, NY",-,150
+2011,Hunter,292,Baruch,58,03/25/2011,0,3,Away,,-,792
+2011,Hunter,292,New Haven,470,03/31/2011,3,0,Home,,-,0
+2011,Hunter,292,Stevenson,21852,04/09/2011,1,3,Away,,1 Sets,85
+2011,IPFW,308,NJIT,471,01/07/2011,3,0,Away,,-,109
+2011,IPFW,308,NJIT,471,01/08/2011,3,0,Away,,-,28
+2011,IPFW,308,Pacific,534,01/13/2011,1,3,Home,,1 Sets,302
+2011,IPFW,308,Pacific,534,01/14/2011,3,0,Home,,-,447
+2011,IPFW,308,Ohio St.,518,01/21/2011,0,3,Home,,-,896
+2011,IPFW,308,Cardinal Stritch,,01/22/2011,3,0,Home,,-,266
+2011,IPFW,308,Sacred Heart,590,01/28/2011,1,3,Away,,1 Sets,362
+2011,IPFW,308,George Mason,248,01/29/2011,3,2,Away,,2 Sets,234
+2011,IPFW,308,Loyola Chicago,371,02/04/2011,2,3,Away,,2 Sets,301
+2011,IPFW,308,Carthage,121,02/05/2011,3,0,Away,,-,200
+2011,IPFW,308,Ball St.,47,02/12/2011,0,3,Home,,-,713
+2011,IPFW,308,Lewis,354,02/18/2011,1,3,Home,,1 Sets,478
+2011,IPFW,308,Ohio St.,518,02/25/2011,0,3,Away,,-,617
+2011,IPFW,308,George Mason,248,03/04/2011,3,1,Home,,1 Sets,279
+2011,IPFW,308,Sacred Heart,590,03/05/2011,3,1,Home,,1 Sets,278
+2011,IPFW,308,Grand Canyon,1104,03/10/2011,3,0,Away,,-,223
+2011,IPFW,308,Grand Canyon,1104,03/12/2011,3,1,Away,,1 Sets,238
+2011,IPFW,308,Saint Francis (PA),600,03/18/2011,3,1,Away,,2 Sets,190
+2011,IPFW,308,Penn St.,539,03/19/2011,0,3,Away,,-,491
+2011,IPFW,308,Loyola Chicago,371,03/25/2011,1,3,Home,,1 Sets,508
+2011,IPFW,308,Carthage,121,03/26/2011,3,0,Home,,-,302
+2011,IPFW,308,Quincy,561,04/01/2011,3,0,Home,,-,303
+2011,IPFW,308,Quincy,561,04/02/2011,3,1,Home,,1 Sets,238
+2011,IPFW,308,Lewis,354,04/08/2011,3,1,Away,,1 Sets,426
+2011,IPFW,308,Ball St.,47,04/09/2011,1,3,Away,,1 Sets,528
+2011,IPFW,308,Saint Francis (PA),600,04/15/2011,3,0,Home,,-,327
+2011,IPFW,308,Penn St.,539,04/16/2011,2,3,Home,,2 Sets,716
+2011,IPFW,308,Lewis,354,04/22/2011,2,3,Away,,2 Sets,478
+2011,Johnson & Wales (RI),22626,Emerson,214,01/22/2011,1,3,Away,,1 Sets,24
+2011,Johnson & Wales (RI),22626,Albertus Magnus,2798,01/22/2011,3,0,Neutral,"Boston, Mass.",-,24
+2011,Johnson & Wales (RI),22626,Emmanuel (MA),215,01/25/2011,0,3,Home,,-,77
+2011,Johnson & Wales (RI),22626,Wentworth Inst.,762,01/29/2011,1,3,Away,,1 Sets,55
+2011,Johnson & Wales (RI),22626,CCNY,480,01/29/2011,3,1,Neutral,"Boston, Mass.",1 Sets,50
+2011,Johnson & Wales (RI),22626,Lesley,24317,02/01/2011,3,0,Away,,-,50
+2011,Johnson & Wales (RI),22626,Daniel Webster,2691,02/07/2011,3,1,Home,,1 Sets,57
+2011,Johnson & Wales (RI),22626,Mount Ida,27901,02/09/2011,3,0,Home,,-,57
+2011,Johnson & Wales (RI),22626,Rivier,18422,02/16/2011,0,3,Home,,-,57
+2011,Johnson & Wales (RI),22626,Vassar,737,02/18/2011,0,3,Away,,-,50
+2011,Johnson & Wales (RI),22626,Lasell,8486,02/18/2011,0,3,Neutral,"Poughkeepsie, NY",-,0
+2011,Johnson & Wales (RI),22626,Nazareth,461,02/19/2011,0,3,Neutral,"Poughkeepsie, NY",-,50
+2011,Johnson & Wales (RI),22626,Lasell,8486,02/23/2011,0,3,Away,,-,84
+2011,Johnson & Wales (RI),22626,Mount Ida,27901,03/09/2011,3,0,Away,,-,57
+2011,Johnson & Wales (RI),22626,Emmanuel (MA),215,03/15/2011,0,3,Away,,-,75
+2011,Johnson & Wales (RI),22626,Emerson,214,03/17/2011,3,0,Home,,-,57
+2011,Johnson & Wales (RI),22626,New Jersey City,319,03/18/2011,0,3,Home,,-,57
+2011,Johnson & Wales (RI),22626,Lasell,8486,03/18/2011,1,3,Home,,1 Sets,57
+2011,Johnson & Wales (RI),22626,CCNY,480,03/19/2011,3,0,Home,,-,57
+2011,Johnson & Wales (RI),22626,Stevenson,21852,03/19/2011,0,3,Home,,-,57
+2011,Johnson & Wales (RI),22626,Rivier,18422,03/22/2011,0,3,Away,,-,85
+2011,Johnson & Wales (RI),22626,Rivier,18422,03/26/2011,0,3,Away,,-,75
+2011,Johnson & Wales (RI),22626,Elms,532,03/30/2011,1,3,Away,,1 Sets,98
+2011,Juniata,325,UC Santa Cruz,113,01/08/2011,3,1,Neutral,"Phoenix, AZ",1 Sets,0
+2011,Juniata,325,Grand Canyon,1104,01/08/2011,3,0,Away,,-,200
+2011,Juniata,325,Grand Canyon,1104,01/09/2011,3,2,Away,,2 Sets,160
+2011,Juniata,325,New York U.,479,01/13/2011,3,2,Away,,2 Sets,45
+2011,Juniata,325,East. Mennonite,203,01/14/2011,3,0,Away,,-,264
+2011,Juniata,325,George Mason,248,01/15/2011,2,3,Away,,2 Sets,248
+2011,Juniata,325,Carthage,121,01/22/2011,3,0,Neutral,"Greenville, PA",-,60
+2011,Juniata,325,Thiel,707,01/23/2011,3,1,Away,,1 Sets,214
+2011,Juniata,325,Nazareth,461,01/23/2011,3,1,Neutral,"Greenville, PA",1 Sets,0
+2011,Juniata,325,Saint Francis (PA),600,01/26/2011,1,3,Away,,1 Sets,150
+2011,Juniata,325,Ohio St.,518,01/29/2011,1,3,Home,,1 Sets,"1,000"
+2011,Juniata,325,NJIT,471,02/04/2011,3,0,Home,,-,650
+2011,Juniata,325,George Mason,248,02/05/2011,1,3,Home,,1 Sets,750
+2011,Juniata,325,Stevens,679,02/09/2011,2,3,Home,,2 Sets,270
+2011,Juniata,325,New York U.,479,02/12/2011,3,0,Home,,-,750
+2011,Juniata,325,Springfield,673,02/18/2011,0,3,Home,,-,900
+2011,Juniata,325,Harvard,275,02/19/2011,3,0,Home,,-,800
+2011,Juniata,325,Loyola Chicago,371,02/25/2011,0,3,Away,,-,245
+2011,Juniata,325,Lewis,354,02/26/2011,1,3,Away,,1 Sets,240
+2011,Juniata,325,Ohio St.,518,02/27/2011,0,3,Away,,-,193
+2011,Juniata,325,Harvard,275,03/04/2011,3,1,Away,,1 Sets,275
+2011,Juniata,325,Sacred Heart,590,03/19/2011,3,0,Away,,-,301
+2011,Juniata,325,Princeton,554,03/20/2011,0,3,Away,,-,85
+2011,Juniata,325,Phila. Biblical,1305,03/25/2011,3,1,Home,,1 Sets,350
+2011,Juniata,325,Pfeiffer,542,03/26/2011,3,2,Home,,2 Sets,500
+2011,Juniata,325,Springfield,673,04/01/2011,2,3,Away,,2 Sets,614
+2011,Juniata,325,NJIT,471,04/02/2011,3,1,Away,,1 Sets,107
+2011,Juniata,325,Saint Francis (PA),600,04/05/2011,3,0,Home,,-,300
+2011,Juniata,325,Sacred Heart,590,04/08/2011,3,0,Home,,-,675
+2011,Juniata,325,Springfield,673,04/23/2011,2,3,Away,,2 Sets,215
+2011,Kean,329,Lancaster Bible,30085,01/21/2011,3,0,Neutral,"Harrisonburg, VA",-,34
+2011,Kean,329,Lees-McRae,13302,01/21/2011,0,3,Neutral,"Harrisonburg, VA",-,54
+2011,Kean,329,East. Mennonite,203,01/22/2011,1,3,Away,,1 Sets,102
+2011,Kean,329,Limestone,1174,01/22/2011,0,3,Neutral,"Harrisonburg, VA",-,89
+2011,Kean,329,CCNY,480,01/25/2011,3,1,Home,,1 Sets,88
+2011,Kean,329,Medgar Evers,403,01/29/2011,3,0,Home,,-,50
+2011,Kean,329,East. Mennonite,203,01/29/2011,0,3,Home,,-,47
+2011,Kean,329,Wentworth Inst.,762,02/04/2011,0,3,Home,,-,53
+2011,Kean,329,NJIT,471,02/08/2011,0,3,Away,,-,101
+2011,Kean,329,Ramapo,564,02/09/2011,0,3,Home,,-,89
+2011,Kean,329,Sage Colleges,11036,02/12/2011,1,3,Away,,1 Sets,60
+2011,Kean,329,Elmira,213,02/12/2011,1,3,Neutral,"Albany, NY",1 Sets,40
+2011,Kean,329,Polytechnic (NY),481,02/15/2011,3,0,Away,,-,74
+2011,Kean,329,New Jersey City,319,02/17/2011,3,2,Home,,2 Sets,98
+2011,Kean,329,Stevenson,21852,02/21/2011,1,3,Home,,1 Sets,34
+2011,Kean,329,Phila. Biblical,1305,02/24/2011,0,3,Home,,-,99
+2011,Kean,329,Rivier,18422,02/26/2011,0,3,Neutral,"New York, NY",-,40
+2011,Kean,329,Milwaukee Engr.,20220,02/26/2011,0,3,Neutral,"New York, NY",-,35
+2011,Kean,329,Elmira,213,02/27/2011,3,1,Neutral,"New York, NY",1 Sets,35
+2011,Kean,329,Newbury,21772,02/27/2011,2,3,Neutral,"New York, NY",2 Sets,35
+2011,Kean,329,Lancaster Bible,30085,03/01/2011,3,1,Home,,1 Sets,111
+2011,Kean,329,Phila. Biblical,1305,03/04/2011,1,3,Away,,1 Sets,100
+2011,Kean,329,Rutgers-Newark,589,03/05/2011,0,3,Away,,-,75
+2011,Kean,329,York (NY),2730,03/07/2011,3,1,Away,,1 Sets,35
+2011,Kean,329,NJIT,471,03/09/2011,2,3,Home,,2 Sets,107
+2011,Kean,329,Hilbert,8398,03/11/2011,3,0,Neutral,"Buffalo, NY",-,35
+2011,Kean,329,D'Youville,1059,03/11/2011,0,3,Away,,-,75
+2011,Kean,329,D'Youville,1059,03/12/2011,0,3,Away,,-,115
+2011,Kean,329,Medaille,23725,03/12/2011,1,3,Away,,1 Sets,38
+2011,Kean,329,Lehman,279,03/14/2011,0,3,Away,,-,43
+2011,Kean,329,New Jersey City,319,03/15/2011,3,0,Away,,-,49
+2011,Kean,329,Ramapo,564,03/22/2011,2,3,Away,,2 Sets,60
+2011,Kean,329,Purchase St.,30029,03/24/2011,3,0,Home,,-,43
+2011,Kean,329,Stevenson,21852,03/26/2011,1,3,Away,,1 Sets,132
+2011,King (TN),30051,Lewis,354,01/14/2011,1,3,Home,,1 Sets,323
+2011,King (TN),30051,Mount Olive,1245,01/15/2011,1,3,Home,,1 Sets,206
+2011,King (TN),30051,Mt. St. Joseph,8567,01/22/2011,3,0,Away,,-,0
+2011,King (TN),30051,Rust,586,01/22/2011,3,0,Neutral,"Cincinnati, OH",-,0
+2011,King (TN),30051,Missouri Valley,,01/23/2011,1,3,Neutral,"Cincinnati, OH",1 Sets,0
+2011,King (TN),30051,Siena Heights,,01/23/2011,3,1,Neutral,"Cincinnati, OH",1 Sets,0
+2011,King (TN),30051,Limestone,1174,01/27/2011,3,2,Home,,2 Sets,211
+2011,King (TN),30051,Lees-McRae,13302,02/08/2011,0,3,Away,,-,164
+2011,King (TN),30051,Pfeiffer,542,02/19/2011,3,2,Home,,2 Sets,100
+2011,King (TN),30051,Limestone,1174,02/26/2011,2,3,Away,,2 Sets,76
+2011,King (TN),30051,East. Mennonite,203,03/04/2011,3,0,Neutral,"Banner Elk, NC",-,121
+2011,King (TN),30051,Phila. Biblical,1305,03/15/2011,3,0,Home,,-,92
+2011,King (TN),30051,East. Mennonite,203,03/24/2011,3,0,Away,,-,152
+2011,King (TN),30051,Ball St.,47,03/26/2011,1,3,Home,,1 Sets,248
+2011,King (TN),30051,Quincy,561,03/28/2011,1,3,Away,,1 Sets,74
+2011,King (TN),30051,Carthage,121,03/30/2011,0,3,Neutral,"Kenosha, WI",-,75
+2011,King (TN),30051,Lees-McRae,13302,04/05/2011,3,2,Home,,2 Sets,352
+2011,King (TN),30051,Mount Olive,1245,04/08/2011,3,2,Away,,2 Sets,279
+2011,King (TN),30051,Pfeiffer,542,04/12/2011,3,1,Away,,1 Sets,87
+2011,King (TN),30051,Mount Olive,1245,04/21/2011,0,3,Away,,-,0
+2011,Lancaster Bible,30085,Lees-McRae,13302,01/21/2011,0,3,Neutral,"Harrisonburg, VA",-,0
+2011,Lancaster Bible,30085,Kean,329,01/21/2011,0,3,Neutral,"Harrisonburg, VA",-,34
+2011,Lancaster Bible,30085,Pfeiffer,542,01/22/2011,1,3,Neutral,"Harrisonburg, VA",1 Sets,40
+2011,Lancaster Bible,30085,Limestone,1174,01/22/2011,0,3,Neutral,"Harrisonburg, VA",-,76
+2011,Lancaster Bible,30085,Stevenson,21852,01/25/2011,0,3,Away,,-,234
+2011,Lancaster Bible,30085,East. Mennonite,203,01/27/2011,0,3,Away,,-,144
+2011,Lancaster Bible,30085,Thiel,707,02/05/2011,0,3,Home,,-,118
+2011,Lancaster Bible,30085,Stevenson,21852,02/05/2011,0,3,Home,,-,124
+2011,Lancaster Bible,30085,Wentworth Inst.,762,02/05/2011,0,3,Home,,-,30
+2011,Lancaster Bible,30085,Phila. Biblical,1305,02/10/2011,0,3,Home,,-,165
+2011,Lancaster Bible,30085,New Jersey City,319,02/12/2011,1,3,Neutral,"Mahwah, NJ",1 Sets,50
+2011,Lancaster Bible,30085,Ramapo,564,02/12/2011,0,3,Away,,-,100
+2011,Lancaster Bible,30085,Polytechnic (NY),481,02/18/2011,3,0,Home,,-,67
+2011,Lancaster Bible,30085,SUNY New Paltz,475,02/19/2011,1,3,Away,,1 Sets,66
+2011,Lancaster Bible,30085,Phila. Biblical,1305,02/22/2011,0,3,Away,,-,70
+2011,Lancaster Bible,30085,New Jersey City,319,02/23/2011,1,3,Home,,1 Sets,47
+2011,Lancaster Bible,30085,Ramapo,564,02/25/2011,0,3,Home,,-,75
+2011,Lancaster Bible,30085,Kean,329,03/01/2011,1,3,Away,,1 Sets,111
+2011,Lancaster Bible,30085,East. Mennonite,203,03/02/2011,1,3,Home,,1 Sets,65
+2011,Lancaster Bible,30085,Emmanuel (MA),215,03/04/2011,0,3,Neutral,"Cambridge, Mass.",-,25
+2011,Lancaster Bible,30085,Emerson,214,03/04/2011,0,3,Neutral,"Cambridge, Mass.",-,25
+2011,Lancaster Bible,30085,Mount Ida,27901,03/05/2011,3,1,Neutral,"Cambridge, Mass.",1 Sets,50
+2011,Lancaster Bible,30085,Lasell,8486,03/05/2011,0,3,Neutral,"Cambridge, Mass.",-,50
+2011,Lasell,8486,Endicott,8981,01/15/2011,2,3,Home,,2 Sets,50
+2011,Lasell,8486,Wentworth Inst.,762,01/16/2011,3,0,Home,,-,50
+2011,Lasell,8486,Elmira,213,01/16/2011,3,1,Home,,1 Sets,50
+2011,Lasell,8486,Sage Colleges,11036,01/22/2011,3,1,Neutral,"Utica, NY",1 Sets,0
+2011,Lasell,8486,Stevenson,21852,01/22/2011,1,3,Neutral,"Utica, NY",1 Sets,50
+2011,Lasell,8486,SUNYIT,9500,01/23/2011,2,3,Away,,2 Sets,50
+2011,Lasell,8486,Hilbert,8398,01/23/2011,3,0,Neutral,"Utica, NY",-,50
+2011,Lasell,8486,Lesley,24317,01/25/2011,3,0,Home,,-,100
+2011,Lasell,8486,Emerson,214,02/04/2011,3,0,Home,,-,98
+2011,Lasell,8486,Newbury,21772,02/07/2011,1,3,Away,,1 Sets,54
+2011,Lasell,8486,Emmanuel (MA),215,02/09/2011,0,3,Away,,-,50
+2011,Lasell,8486,New Haven,470,02/11/2011,3,1,Away,,1 Sets,152
+2011,Lasell,8486,Mount Ida,27901,02/14/2011,3,0,Home,,-,125
+2011,Lasell,8486,Johnson & Wales (SC),,02/18/2011,3,0,Neutral,"Poughkeepsie, NY",-,0
+2011,Lasell,8486,Nazareth,461,02/18/2011,0,3,Neutral,"Poughkeepsie, NY",-,0
+2011,Lasell,8486,Vassar,737,02/19/2011,1,3,Away,,1 Sets,0
+2011,Lasell,8486,Daniel Webster,2691,02/21/2011,3,0,Home,,-,89
+2011,Lasell,8486,Rivier,18422,02/21/2011,2,3,Home,,2 Sets,89
+2011,Lasell,8486,Johnson & Wales (RI),22626,02/23/2011,3,0,Home,,-,84
+2011,Lasell,8486,Emmanuel (MA),215,02/25/2011,0,3,Home,,-,125
+2011,Lasell,8486,Rivier,18422,03/02/2011,0,3,Away,,-,0
+2011,Lasell,8486,MIT,398,03/04/2011,1,3,Away,,1 Sets,50
+2011,Lasell,8486,Endicott,8981,03/04/2011,2,3,Home,,2 Sets,50
+2011,Lasell,8486,New Haven,470,03/05/2011,3,0,Home,,-,50
+2011,Lasell,8486,Lancaster Bible,30085,03/05/2011,3,0,Home,,-,50
+2011,Lasell,8486,Mount Ida,27901,03/07/2011,3,1,Away,,1 Sets,100
+2011,Lasell,8486,New Haven,470,03/09/2011,3,0,Home,,-,70
+2011,Lasell,8486,Stevenson,21852,03/18/2011,1,3,Neutral,"Providence, R.I.",1 Sets,57
+2011,Lasell,8486,Johnson & Wales (RI),22626,03/18/2011,3,1,Away,,1 Sets,57
+2011,Lasell,8486,New Jersey City,319,03/19/2011,3,2,Neutral,"Providence, RI",2 Sets,26
+2011,Lasell,8486,CCNY,480,03/19/2011,3,0,Neutral,"Providence, R.I.",-,57
+2011,Lasell,8486,Albertus Magnus,2798,03/22/2011,3,0,Home,,-,78
+2011,Lasell,8486,Albertus Magnus,2798,03/22/2011,3,0,Home,,-,97
+2011,Lasell,8486,Emerson,214,03/24/2011,3,0,Away,,-,50
+2011,Lasell,8486,Rivier,18422,03/26/2011,1,3,Away,,1 Sets,0
+2011,Lasell,8486,Emmanuel (MA),215,03/26/2011,3,1,Away,,1 Sets,100
+2011,Lasell,8486,Nazareth,461,04/01/2011,1,3,Neutral,"Hoboken, N.J.",1 Sets,0
+2011,Lasell,8486,Newbury,21772,04/09/2011,0,3,Neutral,"Beverly, MA",-,100
+2011,Lees-McRae,13302,Lewis,354,01/15/2011,1,3,Home,,1 Sets,213
+2011,Lees-McRae,13302,Lancaster Bible,30085,01/21/2011,3,0,Neutral,"Harrisonburg, VA",-,0
+2011,Lees-McRae,13302,Kean,329,01/21/2011,3,0,Neutral,"Harrisonburg, VA",-,54
+2011,Lees-McRae,13302,Medaille,23725,01/22/2011,1,3,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Lees-McRae,13302,CCNY,480,01/22/2011,3,0,Neutral,"Harrisonburg, VA",-,50
+2011,Lees-McRae,13302,Carthage,121,01/28/2011,3,0,Neutral,"Phoenix, AZ",-,78
+2011,Lees-McRae,13302,Grand Canyon,1104,01/28/2011,0,3,Away,,-,214
+2011,Lees-McRae,13302,Carthage,121,01/30/2011,1,3,Neutral,"Phoenix, AZ",1 Sets,64
+2011,Lees-McRae,13302,Grand Canyon,1104,01/30/2011,1,3,Away,,1 Sets,123
+2011,Lees-McRae,13302,Mount Olive,1245,02/05/2011,0,3,Home,,-,314
+2011,Lees-McRae,13302,King (TN),30051,02/08/2011,3,0,Home,,-,164
+2011,Lees-McRae,13302,Limestone,1174,02/16/2011,3,2,Away,,2 Sets,167
+2011,Lees-McRae,13302,Washington Adventist,1029,02/17/2011,3,0,Away,,-,40
+2011,Lees-McRae,13302,NJIT,471,02/18/2011,3,0,Away,,-,74
+2011,Lees-McRae,13302,Penn St.,539,02/19/2011,2,3,Away,,2 Sets,637
+2011,Lees-McRae,13302,Washington Adventist,1029,02/27/2011,3,0,Neutral,"Gaffney, SC",-,15
+2011,Lees-McRae,13302,NJIT,471,03/04/2011,3,0,Home,,-,351
+2011,Lees-McRae,13302,East. Mennonite,203,03/04/2011,3,0,Home,,-,84
+2011,Lees-McRae,13302,Limestone,1174,03/14/2011,3,2,Home,,2 Sets,382
+2011,Lees-McRae,13302,Phila. Biblical,1305,03/14/2011,3,0,Home,,-,213
+2011,Lees-McRae,13302,Pfeiffer,542,03/19/2011,3,0,Home,,-,183
+2011,Lees-McRae,13302,George Mason,248,03/25/2011,0,3,Away,,-,119
+2011,Lees-McRae,13302,Ball St.,47,03/27/2011,3,2,Neutral,"Bristol, TN",2 Sets,121
+2011,Lees-McRae,13302,Mount Olive,1245,04/02/2011,1,3,Away,,1 Sets,101
+2011,Lees-McRae,13302,King (TN),30051,04/05/2011,2,3,Away,,2 Sets,352
+2011,Lees-McRae,13302,Pfeiffer,542,04/14/2011,3,1,Away,,1 Sets,79
+2011,Lehman,279,Wentworth Inst.,762,01/13/2011,0,3,Home,,-,89
+2011,Lehman,279,Polytechnic (NY),481,01/18/2011,3,0,Home,,-,132
+2011,Lehman,279,New Jersey City,319,01/21/2011,1,3,Away,,1 Sets,23
+2011,Lehman,279,Bard,962,01/29/2011,2,3,Home,,2 Sets,153
+2011,Lehman,279,Hunter,292,02/01/2011,1,3,Home,,1 Sets,178
+2011,Lehman,279,Ramapo,564,02/02/2011,0,3,Away,,-,75
+2011,Lehman,279,CCNY,480,02/05/2011,3,0,Neutral,"New York, NY",-,50
+2011,Lehman,279,Brooklyn,79,02/05/2011,1,3,Neutral,"New York, NY",1 Sets,0
+2011,Lehman,279,York (NY),2730,02/08/2011,3,0,Home,,-,137
+2011,Lehman,279,Purchase St.,30029,02/08/2011,3,0,Home,,-,134
+2011,Lehman,279,Mt. St. Vincent,451,02/11/2011,3,2,Away,,2 Sets,55
+2011,Lehman,279,City Tech,8580,02/17/2011,3,0,Away,,-,25
+2011,Lehman,279,Medgar Evers,403,02/19/2011,3,0,Neutral,"New York, NY",-,5
+2011,Lehman,279,Hunter,292,02/19/2011,0,3,Away,,-,134
+2011,Lehman,279,Baruch,58,02/22/2011,0,3,Away,,-,52
+2011,Lehman,279,Brooklyn,79,02/24/2011,3,0,Home,,-,210
+2011,Lehman,279,York (NY),2730,03/01/2011,3,0,Away,,-,45
+2011,Lehman,279,New Jersey City,319,03/03/2011,2,3,Home,,2 Sets,27
+2011,Lehman,279,Baruch,58,03/05/2011,0,3,Neutral,"New York, NY",-,0
+2011,Lehman,279,City Tech,8580,03/05/2011,3,0,Neutral,"New York, NY",-,0
+2011,Lehman,279,Medgar Evers,403,03/08/2011,3,0,Home,,-,57
+2011,Lehman,279,St. Joseph's (Brkln),30072,03/08/2011,3,0,Home,,-,57
+2011,Lehman,279,Mt. St. Vincent,451,03/10/2011,3,2,Home,,2 Sets,125
+2011,Lehman,279,Kean,329,03/14/2011,3,0,Home,,-,43
+2011,Lehman,279,CCNY,480,03/15/2011,3,1,Home,,1 Sets,113
+2011,Lehman,279,Brooklyn,79,03/22/2011,3,0,Home,,-,183
+2011,Lehman,279,Hunter,292,03/25/2011,0,3,Neutral,"New York, NY",-,150
+2011,Lesley ,24317,MIT,398,01/13/2011,0,3,Home,,-,21
+2011,Lesley ,24317,Endicott,8981,01/19/2011,0,3,Away,,-,50
+2011,Lesley ,24317,Elms,532,01/19/2011,0,3,Away,,-,78
+2011,Lesley ,24317,Lasell,8486,01/25/2011,0,3,Away,,-,100
+2011,Lesley ,24317,Wentworth Inst.,762,01/27/2011,0,3,Away,,-,0
+2011,Lesley ,24317,Southern Vt.,1379,01/28/2011,1,3,Away,,1 Sets,0
+2011,Lesley ,24317,Mt. St. Vincent,451,01/29/2011,0,3,Neutral,"Bennington, VT",-,0
+2011,Lesley ,24317,Johnson & Wales (RI),22626,01/31/2011,0,3,Home,,-,21
+2011,Lesley ,24317,Newbury,21772,02/03/2011,0,3,Away,,-,38
+2011,Lesley ,24317,Daniel Webster,2691,02/05/2011,2,3,Away,,2 Sets,35
+2011,Lesley ,24317,Albertus Magnus,2798,02/06/2011,3,0,Home,,-,49
+2011,Lesley ,24317,Emmanuel (MA),215,02/06/2011,0,3,Away,,-,39
+2011,Lesley ,24317,Daniel Webster,2691,02/09/2011,0,3,Home,,-,19
+2011,Lesley ,24317,Mount Ida,27901,02/11/2011,1,3,Away,,1 Sets,29
+2011,Lesley ,24317,Elms,532,02/14/2011,0,3,Home,,-,21
+2011,Lesley ,24317,Wentworth Inst.,762,02/16/2011,0,3,Home,,-,12
+2011,Lesley ,24317,Rivier,18422,02/19/2011,0,3,Away,,-,0
+2011,Lesley ,24317,Ramapo,564,02/19/2011,0,3,Neutral,"Nashua, NH",-,0
+2011,Lesley ,24317,MIT,398,02/21/2011,0,3,Away,,-,61
+2011,Lesley ,24317,Endicott,8981,02/23/2011,1,3,Home,,1 Sets,19
+2011,Lesley ,24317,Emerson,214,03/01/2011,0,3,Home,,-,21
+2011,Lesley ,24317,Emerson,214,03/15/2011,0,3,Away,,-,0
+2011,Lesley ,24317,Southern Vt.,1379,03/19/2011,1,3,Neutral,"Brookline, MA",1 Sets,14
+2011,Lesley ,24317,Newbury,21772,03/19/2011,0,3,Away,,-,12
+2011,Lesley ,24317,Regis (MA),569,03/22/2011,3,0,Home,,-,44
+2011,Lesley ,24317,Regis (MA),569,03/24/2011,3,0,Away,,-,15
+2011,Lewis,354,King (TN),30051,01/14/2011,3,1,Away,,1 Sets,323
+2011,Lewis,354,Mount Olive,1245,01/14/2011,3,0,Neutral,"Bristol, TN",-,0
+2011,Lewis,354,Lees-McRae,13302,01/15/2011,3,1,Away,,1 Sets,213
+2011,Lewis,354,Carthage,121,01/18/2011,3,0,Home,,-,454
+2011,Lewis,354,Lindenwood (MO),30136,01/21/2011,3,0,Home,,-,539
+2011,Lewis,354,Saint Francis (PA),600,01/28/2011,3,1,Away,,1 Sets,175
+2011,Lewis,354,Penn St.,539,01/29/2011,0,3,Away,,-,552
+2011,Lewis,354,Stanford,674,02/04/2011,1,3,Home,,1 Sets,"1,356"
+2011,Lewis,354,Milwaukee Engr.,20220,02/08/2011,3,0,Home,,-,398
+2011,Lewis,354,Ball St.,47,02/11/2011,3,2,Home,,2 Sets,"1,021"
+2011,Lewis,354,BYU,77,02/12/2011,0,3,Home,,-,"1,012"
+2011,Lewis,354,Quincy,561,02/15/2011,3,0,Away,,-,72
+2011,Lewis,354,IPFW,308,02/18/2011,3,1,Away,,1 Sets,478
+2011,Lewis,354,Loyola Chicago,371,02/22/2011,2,3,Away,,2 Sets,222
+2011,Lewis,354,Saint Francis (PA),600,02/25/2011,3,0,Home,,-,328
+2011,Lewis,354,Juniata,325,02/26/2011,3,1,Home,,1 Sets,240
+2011,Lewis,354,Ohio St.,518,03/04/2011,0,3,Away,,-,609
+2011,Lewis,354,Long Beach St.,99,03/11/2011,3,2,Away,,2 Sets,636
+2011,Lewis,354,UC Santa Barbara,104,03/12/2011,0,3,Neutral,"Long Beach, CA",-,0
+2011,Lewis,354,NJIT,471,03/18/2011,3,1,Home,,1 Sets,378
+2011,Lewis,354,George Mason,248,03/19/2011,3,0,Home,,-,787
+2011,Lewis,354,Loyola Chicago,371,03/22/2011,2,3,Home,,2 Sets,478
+2011,Lewis,354,Ball St.,47,03/25/2011,1,3,Away,,1 Sets,659
+2011,Lewis,354,George Mason,248,03/26/2011,1,3,Away,,1 Sets,134
+2011,Lewis,354,Quincy,561,03/31/2011,3,2,Home,,2 Sets,478
+2011,Lewis,354,Ohio St.,518,04/02/2011,3,1,Home,,1 Sets,"1,058"
+2011,Lewis,354,IPFW,308,04/08/2011,1,3,Home,,1 Sets,426
+2011,Lewis,354,Grand Canyon,1104,04/15/2011,3,0,Away,,-,112
+2011,Lewis,354,Grand Canyon,1104,04/16/2011,3,2,Away,,2 Sets,175
+2011,Lewis,354,IPFW,308,04/22/2011,3,2,Home,,2 Sets,478
+2011,Lewis,354,Ohio St.,518,04/27/2011,1,3,Away,,1 Sets,356
+2011,Limestone,1174,East. Mennonite,203,01/21/2011,3,2,Away,,2 Sets,273
+2011,Limestone,1174,Medaille,23725,01/21/2011,2,3,Neutral,"Harrisonburg, VA",2 Sets,54
+2011,Limestone,1174,Lancaster Bible,30085,01/22/2011,3,0,Neutral,"Harrisonburg, VA",-,76
+2011,Limestone,1174,Kean,329,01/22/2011,3,0,Neutral,"Harrisonburg, VA",-,89
+2011,Limestone,1174,King (TN),30051,01/27/2011,2,3,Away,,2 Sets,211
+2011,Limestone,1174,Mt. St. Joseph,8567,02/04/2011,3,0,Neutral,"Muncie, IN",-,92
+2011,Limestone,1174,Ball St.,47,02/05/2011,0,3,Away,,-,437
+2011,Limestone,1174,York (NY),2730,02/11/2011,3,0,Neutral,"Mount Olive, NC",-,75
+2011,Limestone,1174,Mount Olive,1245,02/11/2011,1,3,Away,,1 Sets,209
+2011,Limestone,1174,Lees-McRae,13302,02/16/2011,2,3,Home,,2 Sets,167
+2011,Limestone,1174,Stevenson,21852,02/19/2011,0,3,Away,,-,56
+2011,Limestone,1174,New Jersey City,319,02/19/2011,3,0,Neutral,"Stevenson, MD",-,42
+2011,Limestone,1174,Washington Adventist,1029,02/20/2011,3,0,Away,,-,20
+2011,Limestone,1174,Washington Adventist,1029,02/26/2011,3,0,Home,,-,53
+2011,Limestone,1174,King (TN),30051,02/26/2011,3,2,Home,,2 Sets,76
+2011,Limestone,1174,Lees-McRae,13302,03/14/2011,2,3,Away,,2 Sets,382
+2011,Limestone,1174,Phila. Biblical,1305,03/14/2011,3,2,Neutral,"Banner Elk, NC",2 Sets,83
+2011,Limestone,1174,Mount Olive,1245,03/19/2011,0,3,Home,,-,83
+2011,Limestone,1174,Pfeiffer,542,03/22/2011,3,1,Away,,1 Sets,61
+2011,Limestone,1174,Johnson & Wales (RI),22626,03/25/2011,3,0,Neutral,"Tampa, FL",-,47
+2011,Limestone,1174,Warner,,03/26/2011,3,2,Neutral,"Tampa, FL",2 Sets,232
+2011,Limestone,1174,Cardinal Stritch,,03/26/2011,3,2,Neutral,"Tampa, FL",2 Sets,127
+2011,Limestone,1174,Pfeiffer,542,04/09/2011,3,0,Home,,-,76
+2011,Lindenwood (MO),30136,Ball St.,47,01/07/2011,0,3,Away,,-,486
+2011,Lindenwood (MO),30136,Quincy,561,01/14/2011,3,1,Home,,1 Sets,300
+2011,Lindenwood (MO),30136,Lewis,354,01/21/2011,0,3,Away,,-,539
+2011,Lindenwood (MO),30136,Loyola Chicago,371,01/22/2011,1,3,Away,,1 Sets,291
+2011,Lindenwood (MO),30136,Missouri Valley,,01/25/2011,3,1,Away,,1 Sets,0
+2011,Lindenwood (MO),30136,Park,,01/28/2011,2,3,Away,,2 Sets,0
+2011,Lindenwood (MO),30136,Graceland (IA),,01/29/2011,1,3,Away,,1 Sets,0
+2011,Lindenwood (MO),30136,Hope Int'l,,02/04/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,St. Xavier,,02/04/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,Clarke,1020,02/05/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,St. Ambrose,,02/05/2011,3,2,Home,,2 Sets,0
+2011,Lindenwood (MO),30136,Hannibal-La Grange,,02/08/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,Siena Heights,,02/12/2011,3,0,Neutral,"Milwaukee, WI",-,0
+2011,Lindenwood (MO),30136,Cardinal Stritch,,02/12/2011,3,0,Away,,-,0
+2011,Lindenwood (MO),30136,Mo. Baptist,,02/15/2011,3,1,Away,,1 Sets,0
+2011,Lindenwood (MO),30136,Graceland (IA),,02/20/2011,3,2,Home,,2 Sets,0
+2011,Lindenwood (MO),30136,Grand Canyon,1104,02/22/2011,3,1,Away,,1 Sets,129
+2011,Lindenwood (MO),30136,Cal Baptist,30135,02/24/2011,2,3,Away,,2 Sets,0
+2011,Lindenwood (MO),30136,Cal Baptist,30135,02/25/2011,2,3,Away,,2 Sets,0
+2011,Lindenwood (MO),30136,Hope Int'l,,02/26/2011,3,1,Away,,1 Sets,0
+2011,Lindenwood (MO),30136,Mo. Baptist,,03/01/2011,3,1,Home,,1 Sets,0
+2011,Lindenwood (MO),30136,Johnson & Wales (CO),,03/05/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,Johnson & Wales (CO),,03/06/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,Park,,03/08/2011,3,1,Home,,1 Sets,0
+2011,Lindenwood (MO),30136,Missouri Valley,,03/09/2011,3,0,Home,,-,0
+2011,Lindenwood (MO),30136,Clark (MA),145,03/18/2011,1,3,Neutral,"Parkville, MO",1 Sets,0
+2011,Lindenwood (MO),30136,Missouri Valley,,03/19/2011,3,0,Neutral,"Parkville, MO",-,0
+2011,Lindenwood (MO),30136,Hannibal-La Grange,,03/22/2011,3,0,Away,,-,0
+2011,Lindenwood (MO),30136,Quincy,561,03/24/2011,3,2,Away,,2 Sets,102
+2011,Lindenwood (MO),30136,Graceland (IA),,04/01/2011,3,1,Neutral,"Hannibal, MO",1 Sets,0
+2011,Lindenwood (MO),30136,Park,,04/02/2011,3,1,Neutral,"Hannibal, MO",1 Sets,0
+2011,Lindenwood (MO),30136,Park,,04/14/2011,3,0,Neutral,"Davenport, IA",-,0
+2011,Lindenwood (MO),30136,Warner,,04/14/2011,2,3,Neutral,"Davenport, IA",2 Sets,0
+2011,Lindenwood (MO),30136,St. Ambrose,,04/15/2011,2,3,Away,,2 Sets,0
+2011,Long Beach St.,99,BYU,77,01/07/2011,0,3,Neutral,"Santa Barbara, CA",-,0
+2011,Long Beach St.,99,UC Irvine,109,01/07/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,Long Beach St.,99,UCLA,110,01/08/2011,2,3,Neutral,"Santa Barbara, CA",2 Sets,310
+2011,Long Beach St.,99,Pepperdine,541,01/12/2011,3,2,Away,,2 Sets,421
+2011,Long Beach St.,99,Southern California,657,01/14/2011,0,3,Away,,-,600
+2011,Long Beach St.,99,UC Santa Barbara,104,01/18/2011,3,0,Home,,-,527
+2011,Long Beach St.,99,UCLA,110,01/21/2011,3,2,Home,,2 Sets,907
+2011,Long Beach St.,99,Pacific,534,01/28/2011,3,0,Home,,-,572
+2011,Long Beach St.,99,Stanford,674,01/29/2011,3,0,Home,,-,734
+2011,Long Beach St.,99,Cal St. Northridge,101,02/11/2011,2,3,Away,,2 Sets,459
+2011,Long Beach St.,99,UC Irvine,109,02/16/2011,1,3,Away,,1 Sets,488
+2011,Long Beach St.,99,UC San Diego,112,02/18/2011,3,1,Away,,1 Sets,267
+2011,Long Beach St.,99,Pepperdine,541,02/23/2011,3,0,Home,,-,740
+2011,Long Beach St.,99,Southern California,657,02/25/2011,2,3,Home,,2 Sets,"1,218"
+2011,Long Beach St.,99,UC Santa Barbara,104,03/02/2011,3,1,Away,,1 Sets,282
+2011,Long Beach St.,99,UCLA,110,03/04/2011,2,3,Away,,2 Sets,"1,176"
+2011,Long Beach St.,99,Lewis,354,03/11/2011,2,3,Home,,2 Sets,636
+2011,Long Beach St.,99,Penn St.,539,03/12/2011,3,1,Home,,1 Sets,873
+2011,Long Beach St.,99,Hawaii,277,03/18/2011,1,3,Home,,1 Sets,749
+2011,Long Beach St.,99,Hawaii,277,03/19/2011,0,3,Home,,-,520
+2011,Long Beach St.,99,Pacific,534,03/25/2011,3,1,Away,,1 Sets,225
+2011,Long Beach St.,99,Stanford,674,03/26/2011,3,2,Away,,2 Sets,767
+2011,Long Beach St.,99,BYU,77,03/31/2011,1,3,Away,,1 Sets,"2,191"
+2011,Long Beach St.,99,BYU,77,04/01/2011,0,3,Away,,-,"3,296"
+2011,Long Beach St.,99,UC Irvine,109,04/06/2011,1,3,Home,,1 Sets,749
+2011,Long Beach St.,99,UC San Diego,112,04/09/2011,3,1,Home,,1 Sets,541
+2011,Long Beach St.,99,Cal St. Northridge,101,04/16/2011,3,0,Home,,-,790
+2011,Long Beach St.,99,Stanford,674,04/23/2011,3,2,Away,,2 Sets,"1,057"
+2011,Long Beach St.,99,UC Santa Barbara,104,04/28/2011,1,3,Neutral,"Los Angeles, CA",1 Sets,0
+2011,Loyola Chicago,371,Carthage,121,01/12/2011,3,0,Home,,-,129
+2011,Loyola Chicago,371,Milwaukee Engr.,20220,01/19/2011,3,0,Home,,-,219
+2011,Loyola Chicago,371,Cardinal Stritch,,01/21/2011,3,0,Home,,-,279
+2011,Loyola Chicago,371,Lindenwood (MO),30136,01/22/2011,3,1,Home,,1 Sets,291
+2011,Loyola Chicago,371,Penn St.,539,01/28/2011,1,3,Away,,1 Sets,0
+2011,Loyola Chicago,371,Saint Francis (PA),600,01/29/2011,2,3,Away,,2 Sets,125
+2011,Loyola Chicago,371,IPFW,308,02/04/2011,3,2,Home,,2 Sets,301
+2011,Loyola Chicago,371,Stanford,674,02/05/2011,1,3,Home,,1 Sets,873
+2011,Loyola Chicago,371,BYU,77,02/11/2011,3,2,Home,,2 Sets,909
+2011,Loyola Chicago,371,Grand Canyon,1104,02/12/2011,3,1,Home,,1 Sets,391
+2011,Loyola Chicago,371,Grand Canyon,1104,02/14/2011,3,0,Home,,-,112
+2011,Loyola Chicago,371,Ball St.,47,02/19/2011,3,1,Away,,1 Sets,830
+2011,Loyola Chicago,371,Lewis,354,02/22/2011,3,2,Home,,2 Sets,222
+2011,Loyola Chicago,371,Juniata,325,02/25/2011,3,0,Home,,-,245
+2011,Loyola Chicago,371,Saint Francis (PA),600,02/26/2011,3,0,Home,,-,461
+2011,Loyola Chicago,371,Ohio St.,518,03/05/2011,1,3,Away,,1 Sets,698
+2011,Loyola Chicago,371,Cal St. Northridge,101,03/09/2011,3,1,Away,,1 Sets,335
+2011,Loyola Chicago,371,UCLA,110,03/11/2011,2,3,Away,,2 Sets,485
+2011,Loyola Chicago,371,George Mason,248,03/18/2011,3,1,Home,,1 Sets,521
+2011,Loyola Chicago,371,NJIT,471,03/19/2011,3,1,Home,,1 Sets,432
+2011,Loyola Chicago,371,Lewis,354,03/22/2011,3,2,Away,,2 Sets,478
+2011,Loyola Chicago,371,IPFW,308,03/25/2011,3,1,Away,,1 Sets,508
+2011,Loyola Chicago,371,Ohio St.,518,04/01/2011,1,3,Home,,1 Sets,"1,129"
+2011,Loyola Chicago,371,Ball St.,47,04/08/2011,3,2,Home,,2 Sets,784
+2011,Loyola Chicago,371,Quincy,561,04/15/2011,2,3,Away,,2 Sets,105
+2011,Loyola Chicago,371,Quincy,561,04/16/2011,3,1,Away,,1 Sets,88
+2011,Loyola Chicago,371,Grand Canyon,1104,04/23/2011,3,0,Home,,-,111
+2011,Loyola Chicago,371,Quincy,561,04/27/2011,3,1,Home,,1 Sets,424
+2011,Loyola Chicago,371,Ohio St.,518,04/30/2011,1,3,Away,,1 Sets,631
+2011,Medaille,23725,Thiel,707,01/20/2011,3,1,Home,,1 Sets,64
+2011,Medaille,23725,Pfeiffer,542,01/21/2011,3,1,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Medaille,23725,Limestone,1174,01/21/2011,3,2,Neutral,"Harrisonburg, VA",2 Sets,54
+2011,Medaille,23725,Lees-McRae,13302,01/22/2011,3,1,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Medaille,23725,CCNY,480,01/22/2011,3,1,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Medaille,23725,Nazareth,461,01/27/2011,3,0,Home,,-,100
+2011,Medaille,23725,Vassar,737,02/05/2011,3,1,Home,,1 Sets,92
+2011,Medaille,23725,SUNYIT,9500,02/06/2011,3,0,Home,,-,88
+2011,Medaille,23725,Hilbert,8398,02/09/2011,3,0,Home,,-,52
+2011,Medaille,23725,SUNY New Paltz,475,02/11/2011,2,3,Neutral,Nazareth College,2 Sets,0
+2011,Medaille,23725,UC Santa Cruz,113,02/11/2011,0,3,Neutral,Nazareth College,-,49
+2011,Medaille,23725,Thiel,707,02/12/2011,3,0,Neutral,Nazareth College,-,0
+2011,Medaille,23725,Rivier,18422,02/12/2011,2,3,Neutral,Nazareth College,2 Sets,0
+2011,Medaille,23725,Nazareth,461,02/16/2011,2,3,Away,,2 Sets,200
+2011,Medaille,23725,Elmira,213,02/19/2011,3,0,Home,,-,57
+2011,Medaille,23725,Elmira,213,02/23/2011,3,0,Away,,-,50
+2011,Medaille,23725,D'Youville,1059,02/28/2011,3,2,Home,,2 Sets,110
+2011,Medaille,23725,Thiel,707,03/02/2011,3,1,Away,,1 Sets,0
+2011,Medaille,23725,Bard,962,03/05/2011,3,0,Away,,-,0
+2011,Medaille,23725,Stevens,679,03/06/2011,3,1,Neutral,Vassar College,2 Sets,0
+2011,Medaille,23725,SUNY New Paltz,475,03/06/2011,3,2,Neutral,"Poughkeepsie, NY",2 Sets,38
+2011,Medaille,23725,Kean,329,03/12/2011,3,1,Home,,1 Sets,38
+2011,Medaille,23725,D'Youville,1059,03/17/2011,3,1,Away,,1 Sets,140
+2011,Medaille,23725,Hilbert,8398,03/18/2011,3,0,Away,,-,65
+2011,Medaille,23725,East. Mennonite,203,03/19/2011,3,0,Home,,-,78
+2011,Medaille,23725,SUNY New Paltz,475,03/26/2011,2,3,Neutral,"Rochester, NY",2 Sets,55
+2011,Medaille,23725,Vassar,737,04/01/2011,3,2,Neutral,"Hoboken, N.J.",2 Sets,89
+2011,Medaille,23725,Rivier,18422,04/02/2011,2,3,Neutral,"Hoboken, N.J.",2 Sets,102
+2011,Medgar Evers,403,Kean,329,01/29/2011,0,3,Away,,-,50
+2011,Medgar Evers,403,York (NY),2730,02/01/2011,0,3,Home,,-,50
+2011,Medgar Evers,403,CCNY,480,02/05/2011,0,3,Neutral,"New York, NY",-,50
+2011,Medgar Evers,403,Hunter,292,02/05/2011,0,3,Neutral,"New York, NY",-,10
+2011,Medgar Evers,403,City Tech,8580,02/10/2011,0,3,Home,,-,50
+2011,Medgar Evers,403,Yeshiva,814,02/13/2011,0,3,Home,,-,30
+2011,Medgar Evers,403,Washington Adventist,1029,02/13/2011,0,3,Home,,-,50
+2011,Medgar Evers,403,Baruch,58,02/17/2011,0,3,Home,,-,15
+2011,Medgar Evers,403,Lehman,279,02/19/2011,0,3,Neutral,"New York, NY",-,5
+2011,Medgar Evers,403,York (NY),2730,02/21/2011,0,3,Neutral,"New York, NY",-,50
+2011,Medgar Evers,403,Brooklyn,79,02/22/2011,0,3,Home,,-,20
+2011,Medgar Evers,403,CCNY,480,02/24/2011,0,3,Home,,-,20
+2011,Medgar Evers,403,Mount Ida,27901,02/25/2011,0,3,Neutral,"Annandale-On-Hudson, NY",-,50
+2011,Medgar Evers,403,Sage Colleges,11036,02/25/2011,0,3,Neutral,"Annandale-On-Hudson, NY",-,50
+2011,Medgar Evers,403,Purchase St.,30029,02/26/2011,3,1,Neutral,"Annandale-On-Hudson, NY",1 Sets,50
+2011,Medgar Evers,403,Brooklyn,79,03/01/2011,1,3,Away,,1 Sets,65
+2011,Medgar Evers,403,St. Joseph's (Brkln),30072,03/02/2011,3,0,Home,,-,30
+2011,Medgar Evers,403,Baruch,58,03/05/2011,0,3,Neutral,"New York, NY",-,31
+2011,Medgar Evers,403,City Tech,8580,03/05/2011,1,3,Neutral,"New York, NY",1 Sets,0
+2011,Medgar Evers,403,Lehman,279,03/08/2011,0,3,Away,,-,57
+2011,Medgar Evers,403,St. Joseph's (Brkln),30072,03/14/2011,3,0,Away,,-,15
+2011,Medgar Evers,403,Hunter,292,03/15/2011,0,3,Home,,-,20
+2011,Medgar Evers,403,Polytechnic (NY),481,03/19/2011,1,3,Neutral,"Glen Cove, NY",1 Sets,25
+2011,Medgar Evers,403,Webb Inst.,,03/19/2011,3,2,Away,,2 Sets,25
+2011,Medgar Evers,403,Mt. St. Vincent,451,03/21/2011,0,3,Away,,-,45
+2011,Medgar Evers,403,Hunter,292,03/22/2011,0,3,Away,,-,30
+2011,MIT,398,Wentworth Inst.,762,01/11/2011,3,0,Away,,-,0
+2011,MIT,398,Lesley,24317,01/13/2011,3,0,Away,,-,0
+2011,MIT,398,Elms,532,01/14/2011,3,0,Away,,-,74
+2011,MIT,398,Newbury,21772,01/18/2011,3,0,Home,,-,0
+2011,MIT,398,Regis (MA),569,01/20/2011,3,0,Away,,-,0
+2011,MIT,398,Baruch,58,01/22/2011,3,0,Neutral,"New Paltz, NY",-,18
+2011,MIT,398,Elms,532,01/22/2011,3,0,Neutral,"New Paltz, NY",-,23
+2011,MIT,398,Emmanuel (MA),215,01/23/2011,3,1,Neutral,"New Paltz, NY",1 Sets,0
+2011,MIT,398,SUNY New Paltz,475,01/23/2011,2,3,Away,,2 Sets,87
+2011,MIT,398,Emerson,214,01/27/2011,3,0,Home,,-,0
+2011,MIT,398,Southern Vt.,1379,01/28/2011,3,0,Away,,-,0
+2011,MIT,398,Harvard,275,02/05/2011,1,3,Away,,1 Sets,500
+2011,MIT,398,Endicott,8981,02/08/2011,3,0,Home,,-,0
+2011,MIT,398,Hilbert,8398,02/12/2011,3,0,Neutral,"Beverly, MA",-,0
+2011,MIT,398,East. Mennonite,203,02/12/2011,3,0,Neutral,"Beverly, MA",-,0
+2011,MIT,398,Emmanuel (MA),215,02/13/2011,0,3,Neutral,"Beverly, MA",-,0
+2011,MIT,398,Baruch,58,02/13/2011,0,3,Neutral,"Beverly, MA",-,0
+2011,MIT,398,Newbury,21772,02/17/2011,3,0,Away,,-,0
+2011,MIT,398,Southern Vt.,1379,02/18/2011,3,0,Home,,-,0
+2011,MIT,398,Lesley,24317,02/21/2011,3,0,Home,,-,0
+2011,MIT,398,Daniel Webster,2691,02/23/2011,3,0,Away,,-,48
+2011,MIT,398,Vassar,737,02/26/2011,0,3,Away,,-,75
+2011,MIT,398,New Jersey City,319,02/26/2011,3,1,Neutral,"Poughkeepsie, NY",1 Sets,50
+2011,MIT,398,Elms,532,03/01/2011,3,0,Home,,-,0
+2011,MIT,398,Emerson,214,03/04/2011,3,0,Home,,-,0
+2011,MIT,398,Lasell,8486,03/04/2011,3,1,Home,,1 Sets,0
+2011,MIT,398,Mount Ida,27901,03/05/2011,3,0,Home,,-,0
+2011,MIT,398,Emmanuel (MA),215,03/05/2011,3,0,Home,,-,0
+2011,MIT,398,Endicott,8981,03/10/2011,2,3,Away,,2 Sets,100
+2011,MIT,398,Mount Ida,27901,03/12/2011,3,0,Home,,-,0
+2011,MIT,398,Daniel Webster,2691,03/12/2011,3,0,Home,,-,0
+2011,MIT,398,Rivier,18422,03/15/2011,3,0,Home,,-,0
+2011,MIT,398,Regis (MA),569,03/16/2011,3,0,Home,,-,0
+2011,MIT,398,Wentworth Inst.,762,03/25/2011,3,0,Home,,-,0
+2011,MIT,398,Stevenson,21852,04/01/2011,3,0,Neutral,"Hoboken, NJ",-,0
+2011,MIT,398,Phila. Biblical,1305,04/02/2011,2,3,Neutral,"Hoboken, NJ",2 Sets,60
+2011,Mount Ida,27901,Emerson,214,01/18/2011,1,3,Home,,1 Sets,50
+2011,Mount Ida,27901,Emmanuel (MA),215,01/20/2011,0,3,Away,,-,0
+2011,Mount Ida,27901,Rivier,18422,01/26/2011,0,3,Home,,-,0
+2011,Mount Ida,27901,Elms,532,01/29/2011,2,3,Away,,2 Sets,78
+2011,Mount Ida,27901,Newbury,21772,01/29/2011,1,3,Neutral,"Chicopee, MA",1 Sets,78
+2011,Mount Ida,27901,Albertus Magnus,2798,02/05/2011,3,0,Home,,-,0
+2011,Mount Ida,27901,Johnson & Wales (RI),22626,02/09/2011,0,3,Away,,-,57
+2011,Mount Ida,27901,Lesley,24317,02/11/2011,3,1,Home,,1 Sets,0
+2011,Mount Ida,27901,Lasell,8486,02/14/2011,0,3,Away,,-,125
+2011,Mount Ida,27901,Rivier,18422,02/17/2011,0,3,Away,,-,0
+2011,Mount Ida,27901,Newbury,21772,02/19/2011,1,3,Neutral,"Weston, MA",1 Sets,30
+2011,Mount Ida,27901,Regis (MA),569,02/19/2011,3,1,Away,,1 Sets,14
+2011,Mount Ida,27901,Emmanuel (MA),215,02/23/2011,0,3,Home,,-,0
+2011,Mount Ida,27901,Sage Colleges,11036,02/25/2011,3,0,Neutral,"Annandale-on-Hudson, NY",-,0
+2011,Mount Ida,27901,Medgar Evers,403,02/25/2011,3,0,Neutral,"Annandale-on-Hudson, NY",-,0
+2011,Mount Ida,27901,Bard,962,02/26/2011,0,3,Away,,-,0
+2011,Mount Ida,27901,Albertus Magnus,2798,03/01/2011,3,0,Home,,-,0
+2011,Mount Ida,27901,New Haven,470,03/04/2011,1,3,Neutral,"Cambridge, MA",1 Sets,0
+2011,Mount Ida,27901,Endicott,8981,03/04/2011,1,3,Neutral,"Cambridge, MA",1 Sets,0
+2011,Mount Ida,27901,MIT,398,03/05/2011,0,3,Away,,-,0
+2011,Mount Ida,27901,Lancaster Bible,30085,03/05/2011,1,3,Neutral,"Boston, MA",1 Sets,0
+2011,Mount Ida,27901,Lasell,8486,03/07/2011,1,3,Home,,1 Sets,0
+2011,Mount Ida,27901,Johnson & Wales (SC),,03/09/2011,0,3,Home,,-,0
+2011,Mount Ida,27901,Daniel Webster,2691,03/12/2011,3,2,Neutral,"Boston, MA",2 Sets,0
+2011,Mount Ida,27901,MIT,398,03/12/2011,0,3,Away,,-,0
+2011,Mount Ida,27901,Emerson,214,03/22/2011,3,2,Away,,2 Sets,0
+2011,Mount Ida,27901,Wentworth Inst.,762,03/23/2011,0,3,Home,,-,0
+2011,Mount Olive,1245,Lewis,354,01/14/2011,0,3,Neutral,"Bristol, TN",-,0
+2011,Mount Olive,1245,King (TN),30051,01/15/2011,3,1,Away,,1 Sets,206
+2011,Mount Olive,1245,York (NY),2730,01/21/2011,3,0,Away,,-,25
+2011,Mount Olive,1245,Newbury,21772,01/22/2011,3,0,Neutral,"New York, NY",-,0
+2011,Mount Olive,1245,Stevenson,21852,01/22/2011,2,3,Away,,2 Sets,0
+2011,Mount Olive,1245,Hunter,292,01/23/2011,3,0,Away,,-,0
+2011,Mount Olive,1245,East. Mennonite,203,01/25/2011,3,0,Home,,-,321
+2011,Mount Olive,1245,Lees-McRae,13302,02/05/2011,3,0,Away,,-,314
+2011,Mount Olive,1245,East. Mennonite,203,02/09/2011,3,0,Away,,-,163
+2011,Mount Olive,1245,Limestone,1174,02/11/2011,3,1,Home,,1 Sets,209
+2011,Mount Olive,1245,York (NY),2730,02/11/2011,3,0,Home,,-,116
+2011,Mount Olive,1245,Pfeiffer,542,02/12/2011,3,1,Home,,1 Sets,189
+2011,Mount Olive,1245,York (NY),2730,02/12/2011,3,0,Home,,-,126
+2011,Mount Olive,1245,Penn St.,539,02/18/2011,0,3,Away,,-,374
+2011,Mount Olive,1245,Saint Francis (PA),600,02/20/2011,1,3,Away,,1 Sets,144
+2011,Mount Olive,1245,Stevenson,21852,03/08/2011,3,0,Away,,-,0
+2011,Mount Olive,1245,SUNYIT,9500,03/08/2011,3,1,Neutral,"Owings Mills, MD",1 Sets,52
+2011,Mount Olive,1245,George Mason,248,03/09/2011,0,3,Away,,-,175
+2011,Mount Olive,1245,Elmira,213,03/11/2011,3,0,Neutral,"Jamaica, NY",-,0
+2011,Mount Olive,1245,Elms,532,03/11/2011,3,0,Neutral,"Jamaica, NY",-,60
+2011,Mount Olive,1245,SUNY New Paltz,475,03/12/2011,2,3,Neutral,"Jamaica, NY",2 Sets,35
+2011,Mount Olive,1245,New Haven,470,03/12/2011,3,0,Neutral,"Jamaica, NY",-,0
+2011,Mount Olive,1245,Limestone,1174,03/19/2011,3,0,Away,,-,83
+2011,Mount Olive,1245,Pfeiffer,542,03/31/2011,3,0,Away,,-,68
+2011,Mount Olive,1245,Lees-McRae,13302,04/02/2011,3,1,Home,,1 Sets,101
+2011,Mount Olive,1245,King (TN),30051,04/08/2011,2,3,Home,,2 Sets,279
+2011,Mount Olive,1245,King (TN),30051,04/21/2011,3,0,Home,,-,0
+2011,MSOE,20220,Clarke,1020,01/14/2011,1,3,Away,,1 Sets,163
+2011,MSOE,20220,Loyola Chicago,371,01/19/2011,0,3,Away,,-,219
+2011,MSOE,20220,Clarke,1020,01/22/2011,1,3,Home,,1 Sets,104
+2011,MSOE,20220,Mo. Baptist,,01/28/2011,2,3,Home,,2 Sets,48
+2011,MSOE,20220,Cardinal Stritch,,01/29/2011,0,3,Away,,-,86
+2011,MSOE,20220,Lewis,354,02/08/2011,0,3,Away,,-,398
+2011,MSOE,20220,Robert Morris-Chi.,,02/11/2011,3,0,Home,,-,68
+2011,MSOE,20220,Carthage,121,02/15/2011,0,3,Home,,-,97
+2011,MSOE,20220,Mt. St. Joseph,8567,02/18/2011,3,0,Away,,-,0
+2011,MSOE,20220,Fontbonne,11538,02/19/2011,3,0,Neutral,"Cincinnati, OH",-,0
+2011,MSOE,20220,Thiel,707,02/19/2011,3,2,Neutral,"Cincinnati, OH",2 Sets,0
+2011,MSOE,20220,Kean,329,02/26/2011,3,0,Away,,-,0
+2011,MSOE,20220,Rivier,18422,02/26/2011,1,2,Neutral,"New York, NY",-,0
+2011,MSOE,20220,UC Santa Cruz,113,02/26/2011,0,3,Neutral,"New York, NY",-,0
+2011,MSOE,20220,Baruch,58,02/27/2011,0,3,Away,,-,0
+2011,MSOE,20220,New Jersey City,319,03/01/2011,3,0,Away,,-,39
+2011,MSOE,20220,CCNY,480,03/02/2011,3,0,Away,,-,50
+2011,MSOE,20220,Thiel,707,03/05/2011,3,0,Neutral,"Kenosha, WI",-,50
+2011,MSOE,20220,Mt. St. Joseph,8567,03/05/2011,3,0,Neutral,"Kenosha, WI",-,0
+2011,MSOE,20220,Fontbonne,11538,03/06/2011,3,1,Neutral,"Kenosha, WI",1 Sets,0
+2011,MSOE,20220,Carthage,121,03/09/2011,1,3,Away,,1 Sets,125
+2011,MSOE,20220,Quincy,561,03/10/2011,0,3,Home,,-,71
+2011,MSOE,20220,St. Xavier,,03/15/2011,3,2,Home,,2 Sets,110
+2011,MSOE,20220,St. Xavier,,03/17/2011,0,3,Away,,-,82
+2011,MSOE,20220,Hannibal-La Grange,,03/26/2011,1,3,Neutral,"Quincy, IL",1 Sets,52
+2011,MSOE,20220,Quincy,561,03/26/2011,0,3,Away,,-,44
+2011,MSOE,20220,Cardinal Stritch,,03/29/2011,1,3,Home,,1 Sets,84
+2011,MSOE,20220,Thiel,707,04/01/2011,1,3,Away,,1 Sets,0
+2011,MSOE,20220,Mt. St. Joseph,8567,04/02/2011,3,0,Neutral,"Greensville, PA",-,0
+2011,Mt. St. Joseph,8567,Missouri Valley,,01/22/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,King (TN),30051,01/22/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,Siena Heights,,01/23/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,Rust,586,01/23/2011,3,0,Home,,-,0
+2011,Mt. St. Joseph,8567,Limestone,1174,02/04/2011,0,3,Neutral,"Muncie, IN",-,92
+2011,Mt. St. Joseph,8567,Pfeiffer,542,02/05/2011,0,3,Neutral,"Muncie, IN",-,0
+2011,Mt. St. Joseph,8567,Milwaukee Engr.,20220,02/18/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,Fontbonne,11538,02/19/2011,1,3,Home,,1 Sets,0
+2011,Mt. St. Joseph,8567,Carthage,121,02/19/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,Thiel,707,02/20/2011,0,3,Home,,-,0
+2011,Mt. St. Joseph,8567,Carthage,121,03/04/2011,0,3,Away,,-,75
+2011,Mt. St. Joseph,8567,Milwaukee Engr.,20220,03/05/2011,0,3,Neutral,"Kenosha, WI",-,50
+2011,Mt. St. Joseph,8567,Fontbonne,11538,03/05/2011,0,3,Neutral,"Kenosha, WI",-,50
+2011,Mt. St. Joseph,8567,Thiel,707,03/06/2011,0,3,Neutral,"Kenosha, WI",-,50
+2011,Mt. St. Joseph,8567,Siena Heights,,03/18/2011,0,3,Away,,-,0
+2011,Mt. St. Joseph,8567,Siena Heights,,03/18/2011,0,3,Away,,-,0
+2011,Mt. St. Joseph,8567,Fontbonne,11538,04/01/2011,0,3,Neutral,"Greenville, PA",-,0
+2011,Mt. St. Joseph,8567,Milwaukee Engr.,20220,04/02/2011,0,3,Neutral,"Greenville, PA",-,0
+2011,Mt. St. Vincent,451,Lehman,279,02/11/2010,2,3,Home,,2 Sets,55
+2011,Mt. St. Vincent,451,York (NY),2730,01/22/2011,3,2,Away,,2 Sets,50
+2011,Mt. St. Vincent,451,Le Moyne,349,01/29/2011,3,0,Neutral,"Bennington, VT",-,0
+2011,Mt. St. Vincent,451,Southern Vt.,1379,01/29/2011,3,0,Away,,-,0
+2011,Mt. St. Vincent,451,CCNY,480,02/03/2011,1,3,Away,,1 Sets,0
+2011,Mt. St. Vincent,451,Polytechnic (NY),481,02/05/2011,3,0,Away,,-,48
+2011,Mt. St. Vincent,451,Yeshiva,814,02/09/2011,3,0,Away,,-,55
+2011,Mt. St. Vincent,451,Purchase St.,30029,02/17/2011,3,0,Away,,-,21
+2011,Mt. St. Vincent,451,St. Joseph's (Brkln),30072,02/27/2011,3,0,Away,,-,13
+2011,Mt. St. Vincent,451,Albertus Magnus,2798,02/27/2011,3,0,Away,,-,13
+2011,Mt. St. Vincent,451,Purchase St.,30029,03/02/2011,3,0,Home,,-,35
+2011,Mt. St. Vincent,451,Southern Vt.,1379,03/03/2011,3,0,Home,,-,35
+2011,Mt. St. Vincent,451,Polytechnic (NY),481,03/06/2011,3,0,Home,,-,0
+2011,Mt. St. Vincent,451,Yeshiva,814,03/06/2011,3,0,Home,,-,0
+2011,Mt. St. Vincent,451,Bard,962,03/08/2011,2,3,Away,,2 Sets,40
+2011,Mt. St. Vincent,451,Lehman,279,03/10/2011,2,3,Away,,2 Sets,125
+2011,Mt. St. Vincent,451,Sage Colleges,11036,03/12/2011,0,3,Neutral,"Purchase, NY",-,50
+2011,Mt. St. Vincent,451,Bard,962,03/12/2011,3,2,Neutral,"Purchase, NY",2 Sets,50
+2011,Mt. St. Vincent,451,Medgar Evers,403,03/21/2011,3,0,Home,,-,45
+2011,Mt. St. Vincent,451,Sage Colleges,11036,03/22/2011,3,1,Away,,1 Sets,125
+2011,Mt. St. Vincent,451,Sage Colleges,11036,03/27/2011,3,1,Neutral,"Annandale-on-Hudson, NY",1 Sets,80
+2011,Mt. St. Vincent,451,Bard,962,03/27/2011,0,3,Away,,-,80
+2011,Mt. St. Vincent,451,St. Joseph's (Brkln),30072,03/29/2011,3,0,Home,,-,75
+2011,Nazareth,461,Elmira,213,01/19/2011,3,0,Away,,-,0
+2011,Nazareth,461,Thiel,707,01/22/2011,3,0,Away,,-,0
+2011,Nazareth,461,Carthage,121,01/23/2011,3,1,Neutral,"Greenville, PA",1 Sets,0
+2011,Nazareth,461,Juniata,325,01/23/2011,1,3,Neutral,"Greenville, PA",1 Sets,0
+2011,Nazareth,461,Medaille,23725,01/27/2011,0,3,Away,,-,0
+2011,Nazareth,461,Phila. Biblical,1305,01/29/2011,3,2,Neutral,"Elmira, N.Y.",2 Sets,0
+2011,Nazareth,461,Elmira,213,01/29/2011,3,1,Away,,1 Sets,0
+2011,Nazareth,461,Stevens,679,02/05/2011,3,2,Neutral,"Buffalo, NY",2 Sets,157
+2011,Nazareth,461,Bard,962,02/06/2011,3,0,Neutral,"Buffalo, N.Y.",-,0
+2011,Nazareth,461,D'Youville,1059,02/09/2011,3,1,Home,,1 Sets,0
+2011,Nazareth,461,Rivier,18422,02/11/2011,0,3,Home,,-,0
+2011,Nazareth,461,Thiel,707,02/11/2011,3,0,Home,,-,0
+2011,Nazareth,461,SUNY New Paltz,475,02/12/2011,3,1,Home,,1 Sets,0
+2011,Nazareth,461,UC Santa Cruz,113,02/12/2011,3,2,Home,,2 Sets,0
+2011,Nazareth,461,Medaille,23725,02/16/2011,3,2,Home,,2 Sets,200
+2011,Nazareth,461,Lasell,8486,02/18/2011,3,0,Neutral,"Poughkeepsie, N.Y.",-,0
+2011,Nazareth,461,Vassar,737,02/19/2011,3,0,Away,,-,90
+2011,Nazareth,461,Johnson & Wales (SC),,02/19/2011,3,0,Neutral,"Poughkeepsie, N.Y.",-,50
+2011,Nazareth,461,Hilbert,8398,02/22/2011,3,0,Home,,-,0
+2011,Nazareth,461,Elmira,213,03/02/2011,3,0,Home,,-,0
+2011,Nazareth,461,SUNY New Paltz,475,03/05/2011,3,1,Neutral,"Poughkeepsie, NY",1 Sets,35
+2011,Nazareth,461,Vassar,737,03/06/2011,3,1,Away,,1 Sets,50
+2011,Nazareth,461,SUNYIT,9500,03/06/2011,3,0,Neutral,"Poughkeepsie, N.Y.",-,0
+2011,Nazareth,461,Hilbert,8398,03/08/2011,3,0,Away,,-,0
+2011,Nazareth,461,D'Youville,1059,03/09/2011,3,0,Away,,-,80
+2011,Nazareth,461,Vassar,737,03/26/2011,3,0,Home,,-,0
+2011,Nazareth,461,SUNYIT,9500,03/26/2011,3,0,Home,,-,0
+2011,Nazareth,461,SUNY New Paltz,475,03/27/2011,3,2,Home,,2 Sets,334
+2011,Nazareth,461,Lasell,8486,04/01/2011,3,1,Neutral,"Hoboken, N.J.",1 Sets,0
+2011,Nazareth,461,Stevens,679,04/02/2011,3,0,Away,,-,78
+2011,Nazareth,461,Phila. Biblical,1305,04/02/2011,3,2,Neutral,"Hoboken, N.J.",2 Sets,50
+2011,Nazareth,461,Baruch,58,04/03/2011,3,2,Neutral,"Hoboken, N.J.",2 Sets,0
+2011,Nazareth,461,Carthage,121,04/15/2011,3,2,Home,,2 Sets,800
+2011,Nazareth,461,Springfield,673,04/16/2011,3,1,Home,,1 Sets,"1,000"
+2011,New Haven,470,Vassar,737,01/29/2011,0,3,Neutral,"Boston, MA",-,0
+2011,New Haven,470,Emmanuel (MA),215,01/29/2011,0,3,Away,,-,0
+2011,New Haven,470,Sacred Heart,590,02/04/2011,0,3,Home,,-,103
+2011,New Haven,470,Lasell,8486,02/11/2011,1,3,Home,,1 Sets,152
+2011,New Haven,470,Albertus Magnus,2798,02/25/2011,3,0,Home,,-,89
+2011,New Haven,470,Endicott,8981,03/02/2011,0,3,Home,,-,0
+2011,New Haven,470,Emmanuel (MA),215,03/04/2011,0,3,Neutral,"Cambridge, MA",-,0
+2011,New Haven,470,Mount Ida,27901,03/04/2011,3,1,Neutral,"Cambridge, MA",1 Sets,0
+2011,New Haven,470,Lasell,8486,03/05/2011,0,3,Neutral,"Cambridge, MA",-,50
+2011,New Haven,470,Emerson,214,03/05/2011,3,2,Neutral,"Cambridge, MA",2 Sets,0
+2011,New Haven,470,Lasell,8486,03/09/2011,0,3,Away,,-,70
+2011,New Haven,470,New Jersey City,319,03/11/2011,1,3,Neutral,"Jamaica, NY",1 Sets,0
+2011,New Haven,470,York (NY),2730,03/12/2011,3,0,Away,,-,0
+2011,New Haven,470,Mount Olive,1245,03/12/2011,0,3,Neutral,"Jamaica, NY",-,0
+2011,New Haven,470,City Tech,8580,03/12/2011,3,0,Neutral,"Jamaica, NY",-,0
+2011,New Haven,470,Elms,532,03/22/2011,1,3,Away,,1 Sets,84
+2011,New Haven,470,SUNY New Paltz,475,03/24/2011,0,3,Home,,-,76
+2011,New Haven,470,Endicott,8981,03/29/2011,0,3,Away,,-,120
+2011,New Haven,470,Hunter,292,03/31/2011,0,3,Away,,-,25
+2011,New Jersey City,319,Ramapo,564,01/19/2011,0,3,Home,,-,67
+2011,New Jersey City,319,Lehman,279,01/21/2011,3,1,Home,,1 Sets,23
+2011,New Jersey City,319,East. Mennonite,203,01/30/2011,1,3,Home,,1 Sets,31
+2011,New Jersey City,319,Brooklyn,79,02/03/2011,3,0,Home,,-,27
+2011,New Jersey City,319,York (NY),2730,02/04/2011,3,0,Away,,-,45
+2011,New Jersey City,319,Phila. Biblical,1305,02/08/2011,0,3,Away,,-,70
+2011,New Jersey City,319,Lancaster Bible,30085,02/12/2011,3,1,Neutral,"Mahwah, NJ",1 Sets,50
+2011,New Jersey City,319,Ramapo,564,02/12/2011,1,3,Away,,1 Sets,100
+2011,New Jersey City,319,Stevenson,21852,02/13/2011,1,3,Home,,1 Sets,43
+2011,New Jersey City,319,CCNY,480,02/13/2011,3,0,Home,,-,37
+2011,New Jersey City,319,City Tech,8580,02/15/2011,3,0,Away,,-,15
+2011,New Jersey City,319,Kean,329,02/17/2011,2,3,Away,,2 Sets,98
+2011,New Jersey City,319,Stevenson,21852,02/19/2011,2,3,Away,,2 Sets,47
+2011,New Jersey City,319,Limestone,1174,02/19/2011,0,3,Neutral,"Stevenson, MD",-,42
+2011,New Jersey City,319,Lancaster Bible,30085,02/23/2011,3,1,Away,,1 Sets,47
+2011,New Jersey City,319,MIT,398,02/26/2011,1,3,Neutral,"Poughkeepsie, NY",1 Sets,50
+2011,New Jersey City,319,Vassar,737,02/26/2011,0,3,Away,,-,75
+2011,New Jersey City,319,Milwaukee Engr.,20220,03/01/2011,0,3,Home,,-,39
+2011,New Jersey City,319,Lehman,279,03/03/2011,3,2,Away,,2 Sets,27
+2011,New Jersey City,319,Brooklyn,79,03/07/2011,3,0,Away,,-,36
+2011,New Jersey City,319,Phila. Biblical,1305,03/08/2011,1,3,Home,,1 Sets,34
+2011,New Jersey City,319,New Haven,470,03/11/2011,3,1,Neutral,"Jamaica, NY",1 Sets,64
+2011,New Jersey City,319,Elms,532,03/12/2011,3,0,Neutral,"Jamaica, NY",-,41
+2011,New Jersey City,319,Elmira,213,03/12/2011,1,3,Neutral,"Jamaica, NY",1 Sets,42
+2011,New Jersey City,319,SUNY New Paltz,475,03/12/2011,1,3,Neutral,"Jamaica, NY",1 Sets,13
+2011,New Jersey City,319,Kean,329,03/15/2011,0,3,Home,,-,49
+2011,New Jersey City,319,Johnson & Wales (RI),22626,03/18/2011,3,0,Away,,-,57
+2011,New Jersey City,319,CCNY,480,03/18/2011,3,0,Neutral,"Providence, RI",-,55
+2011,New Jersey City,319,Lasell,8486,03/19/2011,2,3,Neutral,"Providence, RI",2 Sets,26
+2011,New Jersey City,319,Stevenson,21852,03/19/2011,0,3,Neutral,"Providence, RI",-,24
+2011,New Jersey City,319,East. Mennonite,203,03/26/2011,0,3,Away,,-,116
+2011,Newbury,21772,Ramapo,564,01/15/2011,3,1,Away,,1 Sets,75
+2011,Newbury,21772,Hunter,292,01/15/2011,2,3,Away,,2 Sets,50
+2011,Newbury,21772,MIT,398,01/18/2011,0,3,Away,,-,0
+2011,Newbury,21772,Hunter,292,01/22/2011,3,2,Neutral,"New York, NY",2 Sets,0
+2011,Newbury,21772,Mount Olive,1245,01/22/2011,0,3,Neutral,"New York, NY",-,0
+2011,Newbury,21772,Stevens,679,01/23/2011,0,3,Neutral,"New York, NY",1 Sets,0
+2011,Newbury,21772,Harvard,275,01/25/2011,1,3,Away,,1 Sets,287
+2011,Newbury,21772,Mount Ida,27901,01/29/2011,3,1,Neutral,"Chicopee, MA",1 Sets,78
+2011,Newbury,21772,Elms,532,01/29/2011,3,1,Away,,1 Sets,78
+2011,Newbury,21772,Lesley,24317,02/03/2011,3,0,Home,,-,38
+2011,Newbury,21772,Lasell,8486,02/07/2011,3,1,Home,,1 Sets,54
+2011,Newbury,21772,Emerson,214,02/09/2011,3,0,Home,,-,21
+2011,Newbury,21772,Wentworth Inst.,762,02/12/2011,3,1,Away,,1 Sets,40
+2011,Newbury,21772,Southern Vt.,1379,02/12/2011,3,0,Away,,-,75
+2011,Newbury,21772,Endicott,8981,02/15/2011,3,2,Away,,2 Sets,100
+2011,Newbury,21772,MIT,398,02/17/2011,0,3,Home,,-,0
+2011,Newbury,21772,Regis (MA),569,02/19/2011,3,0,Away,,-,0
+2011,Newbury,21772,Mount Ida,27901,02/19/2011,3,1,Neutral,"Weston, MA",1 Sets,30
+2011,Newbury,21772,Rivier,18422,02/23/2011,0,3,Away,,-,75
+2011,Newbury,21772,Elmira,213,02/26/2011,3,1,Neutral,"New York, NY",1 Sets,39
+2011,Newbury,21772,Phila. Biblical,1305,02/26/2011,1,3,Neutral,"New York, NY",1 Sets,34
+2011,Newbury,21772,Kean,329,02/27/2011,3,2,Neutral,"New York, NY",2 Sets,43
+2011,Newbury,21772,Carthage,121,02/27/2011,0,3,Neutral,"New York, NY",-,34
+2011,Newbury,21772,Daniel Webster,2691,03/01/2011,3,0,Home,,-,0
+2011,Newbury,21772,Daniel Webster,2691,03/02/2011,3,0,Away,,-,70
+2011,Newbury,21772,Regis (MA),569,03/03/2011,3,0,Home,,-,33
+2011,Newbury,21772,Wentworth Inst.,762,03/16/2011,3,2,Home,,2 Sets,22
+2011,Newbury,21772,Elms,532,03/17/2011,3,2,Home,,2 Sets,18
+2011,Newbury,21772,Southern Vt.,1379,03/19/2011,3,0,Home,,-,22
+2011,Newbury,21772,Lesley,24317,03/19/2011,3,0,Home,,-,12
+2011,Newbury,21772,Endicott,8981,03/22/2011,1,3,Home,,1 Sets,32
+2011,Newbury,21772,Emmanuel (MA),215,03/24/2011,0,3,Away,,-,32
+2011,Newbury,21772,Southern Vt.,1379,03/25/2011,3,0,Home,,-,22
+2011,Newbury,21772,Elms,532,03/26/2011,3,1,Home,,1 Sets,0
+2011,Newbury,21772,Emmanuel (MA),215,03/29/2011,2,3,Home,,2 Sets,102
+2011,Newbury,21772,Phila. Biblical,1305,04/01/2011,0,3,Neutral,"Hoboken, NJ",-,90
+2011,Newbury,21772,Endicott,8981,04/09/2011,3,1,Away,,1 Sets,150
+2011,Newbury,21772,Lasell,8486,04/09/2011,3,0,Home,,-,31
+2011,NJIT,471,IPFW,308,01/07/2011,0,3,Home,,-,109
+2011,NJIT,471,IPFW,308,01/08/2011,0,3,Home,,-,28
+2011,NJIT,471,Washington Adventist,1029,01/13/2011,3,0,Away,,-,60
+2011,NJIT,471,George Mason,248,01/14/2011,1,3,Away,,1 Sets,86
+2011,NJIT,471,Rutgers-Newark,589,01/21/2011,0,3,Away,,-,95
+2011,NJIT,471,Saint Francis (PA),600,01/23/2011,1,3,Away,,1 Sets,100
+2011,NJIT,471,Hunter,292,01/28/2011,3,2,Home,,2 Sets,84
+2011,NJIT,471,Juniata,325,02/04/2011,0,3,Away,,-,650
+2011,NJIT,471,Kean,329,02/08/2011,3,0,Home,,-,101
+2011,NJIT,471,New York U.,479,02/16/2011,1,3,Home,,1 Sets,52
+2011,NJIT,471,Lees-McRae,13302,02/18/2011,0,3,Home,,-,74
+2011,NJIT,471,Springfield,673,02/24/2011,0,3,Away,,-,106
+2011,NJIT,471,Grand Canyon,1104,02/26/2011,1,3,Home,,1 Sets,74
+2011,NJIT,471,Sacred Heart,590,03/01/2011,1,3,Away,,1 Sets,292
+2011,NJIT,471,Lees-McRae,13302,03/04/2011,0,3,Away,,-,351
+2011,NJIT,471,Pfeiffer,542,03/05/2011,3,0,Away,,-,0
+2011,NJIT,471,Kean,329,03/09/2011,3,2,Away,,2 Sets,107
+2011,NJIT,471,Saint Francis (PA),600,03/12/2011,1,3,Home,,1 Sets,172
+2011,NJIT,471,Lewis,354,03/18/2011,1,3,Away,,1 Sets,378
+2011,NJIT,471,Loyola Chicago,371,03/19/2011,1,3,Away,,1 Sets,432
+2011,NJIT,471,Stevens,679,03/22/2011,1,3,Away,,1 Sets,75
+2011,NJIT,471,Washington Adventist,1029,03/27/2011,3,0,Home,,-,52
+2011,NJIT,471,New York U.,479,03/30/2011,2,3,Away,,2 Sets,215
+2011,NJIT,471,Juniata,325,04/02/2011,1,3,Home,,1 Sets,107
+2011,NJIT,471,Sacred Heart,590,04/05/2011,0,3,Home,,-,100
+2011,NJIT,471,Harvard,275,04/09/2011,3,1,Home,,1 Sets,200
+2011,NJIT,471,Rutgers-Newark,589,04/15/2011,0,3,Home,,-,109
+2011,NJIT,471,Harvard,275,04/16/2011,1,3,Away,,1 Sets,250
+2011,NYU,479,Juniata,325,01/13/2011,2,3,Home,,2 Sets,45
+2011,NYU,479,SUNY New Paltz,475,01/20/2011,3,1,Away,,1 Sets,40
+2011,NYU,479,D'Youville,1059,01/29/2011,3,0,Neutral,"Newark, NJ",-,100
+2011,NYU,479,Rutgers-Newark,589,01/29/2011,0,3,Away,,-,100
+2011,NYU,479,Baruch,58,01/30/2011,3,0,Neutral,"Newark, NJ",-,80
+2011,NYU,479,Rivier,18422,01/30/2011,3,1,Neutral,"Newark, NJ",1 Sets,80
+2011,NYU,479,Baruch,58,02/03/2011,3,1,Away,,1 Sets,735
+2011,NYU,479,Sacred Heart,590,02/05/2011,2,3,Away,,2 Sets,170
+2011,NYU,479,Princeton,554,02/08/2011,3,1,Away,,1 Sets,65
+2011,NYU,479,Juniata,325,02/12/2011,0,3,Away,,-,750
+2011,NYU,479,NJIT,471,02/16/2011,3,1,Away,,1 Sets,52
+2011,NYU,479,Sacred Heart,590,02/18/2011,3,0,Home,,-,185
+2011,NYU,479,Stevens,679,02/23/2011,3,1,Away,,1 Sets,150
+2011,NYU,479,Carthage,121,02/25/2011,1,3,Home,,1 Sets,70
+2011,NYU,479,Grand Canyon,1104,03/01/2011,2,3,Home,,2 Sets,40
+2011,NYU,479,Baruch,58,03/07/2011,3,1,Home,,1 Sets,105
+2011,NYU,479,Hunter,292,03/09/2011,3,0,Home,,-,40
+2011,NYU,479,Princeton,554,03/13/2011,3,1,Home,,1 Sets,145
+2011,NYU,479,Pacific,534,03/18/2011,0,3,Away,,-,205
+2011,NYU,479,UC Santa Cruz,113,03/19/2011,3,2,Neutral,"Stockton, CA",2 Sets,98
+2011,NYU,479,Vassar,737,03/22/2011,3,1,Away,,1 Sets,125
+2011,NYU,479,Harvard,275,03/25/2011,3,1,Away,,1 Sets,175
+2011,NYU,479,Springfield,673,03/27/2011,3,2,Away,,2 Sets,115
+2011,NYU,479,NJIT,471,03/30/2011,3,2,Home,,2 Sets,215
+2011,NYU,479,Springfield,673,04/06/2011,1,3,Home,,1 Sets,340
+2011,NYU,479,Harvard,275,04/08/2011,3,2,Home,,2 Sets,531
+2011,NYU,479,Rutgers-Newark,589,04/12/2011,3,1,Home,,1 Sets,60
+2011,NYU,479,George Mason,248,04/23/2011,1,3,Away,,1 Sets,190
+2011,Ohio St.,518,Pepperdine,541,01/09/2011,1,3,Away,,1 Sets,"1,385"
+2011,Ohio St.,518,Pepperdine,541,01/10/2011,2,3,Away,,2 Sets,892
+2011,Ohio St.,518,Saint Francis (PA),600,01/15/2011,3,0,Home,,-,698
+2011,Ohio St.,518,George Mason,248,01/18/2011,3,1,Home,,1 Sets,254
+2011,Ohio St.,518,IPFW,308,01/21/2011,3,0,Away,,-,896
+2011,Ohio St.,518,Juniata,325,01/29/2011,3,1,Away,,1 Sets,"1,000"
+2011,Ohio St.,518,Cal St. Northridge,101,02/04/2011,3,0,Neutral,"University Park, PA",-,"1,602"
+2011,Ohio St.,518,UC Irvine,109,02/05/2011,3,2,Neutral,"University Park, PA",2 Sets,"1,423"
+2011,Ohio St.,518,Penn St.,539,02/09/2011,3,0,Home,,-,813
+2011,Ohio St.,518,Quincy,561,02/10/2011,3,0,Home,,-,279
+2011,Ohio St.,518,Quincy,561,02/11/2011,3,0,Home,,-,420
+2011,Ohio St.,518,Ball St.,47,02/18/2011,3,0,Away,,-,"1,243"
+2011,Ohio St.,518,IPFW,308,02/25/2011,3,0,Home,,-,617
+2011,Ohio St.,518,Juniata,325,02/27/2011,3,0,Home,,-,193
+2011,Ohio St.,518,Lewis,354,03/04/2011,3,0,Home,,-,609
+2011,Ohio St.,518,Loyola Chicago,371,03/05/2011,3,1,Home,,1 Sets,698
+2011,Ohio St.,518,Ball St.,47,03/11/2011,3,1,Home,,1 Sets,667
+2011,Ohio St.,518,Grand Canyon,1104,03/20/2011,3,0,Away,,-,325
+2011,Ohio St.,518,Grand Canyon,1104,03/21/2011,3,0,Away,,-,513
+2011,Ohio St.,518,UC San Diego,112,03/24/2011,1,3,Away,,1 Sets,201
+2011,Ohio St.,518,UC Irvine,109,03/26/2011,0,3,Away,,-,448
+2011,Ohio St.,518,Loyola Chicago,371,04/01/2011,3,1,Away,,1 Sets,"1,129"
+2011,Ohio St.,518,Lewis,354,04/02/2011,1,3,Away,,1 Sets,"1,058"
+2011,Ohio St.,518,Princeton,554,04/08/2011,3,2,Home,,2 Sets,453
+2011,Ohio St.,518,Princeton,554,04/09/2011,3,0,Home,,-,463
+2011,Ohio St.,518,Penn St.,539,04/10/2011,1,3,Away,,1 Sets,809
+2011,Ohio St.,518,George Mason,248,04/16/2011,3,0,Away,,-,487
+2011,Ohio St.,518,Saint Francis (PA),600,04/17/2011,3,0,Away,,-,233
+2011,Ohio St.,518,Lewis,354,04/27/2011,3,1,Home,,1 Sets,356
+2011,Ohio St.,518,Loyola Chicago,371,04/30/2011,3,1,Home,,1 Sets,631
+2011,Ohio St.,518,Penn St.,539,05/05/2011,3,1,Away,,1 Sets,"3,761"
+2011,Ohio St.,518,UC Santa Barbara,104,05/07/2011,3,2,Neutral,"University Park, PA",2 Sets,"3,683"
+2011,Pacific,534,Hope Int'l,,01/06/2011,3,0,Home,,-,72
+2011,Pacific,534,Hope Int'l,,01/07/2011,3,1,Home,,1 Sets,93
+2011,Pacific,534,IPFW,308,01/13/2011,3,1,Away,,1 Sets,302
+2011,Pacific,534,IPFW,308,01/14/2011,0,3,Away,,-,447
+2011,Pacific,534,BYU,77,01/21/2011,1,3,Home,,1 Sets,647
+2011,Pacific,534,BYU,77,01/22/2011,0,3,Home,,-,637
+2011,Pacific,534,Long Beach St.,99,01/28/2011,0,3,Away,,-,572
+2011,Pacific,534,Cal St. Northridge,101,01/29/2011,3,0,Away,,-,477
+2011,Pacific,534,Stanford,674,02/02/2011,1,3,Away,,1 Sets,300
+2011,Pacific,534,Springfield,673,02/04/2011,3,0,Away,,-,714
+2011,Pacific,534,Cal Baptist,30135,02/05/2011,0,3,Neutral,"Springfield, MA",-,216
+2011,Pacific,534,UC San Diego,112,02/10/2011,3,1,Home,,1 Sets,201
+2011,Pacific,534,UC Irvine,109,02/11/2011,0,3,Home,,-,208
+2011,Pacific,534,Pepperdine,541,02/18/2011,1,3,Away,,1 Sets,331
+2011,Pacific,534,Southern California,657,02/19/2011,0,3,Away,,-,600
+2011,Pacific,534,UC Santa Barbara,104,02/25/2011,1,3,Home,,1 Sets,320
+2011,Pacific,534,UCLA,110,02/26/2011,0,3,Home,,-,255
+2011,Pacific,534,UC San Diego,112,03/04/2011,3,0,Away,,-,156
+2011,Pacific,534,UC Irvine,109,03/05/2011,0,3,Away,,-,704
+2011,Pacific,534,Hawaii,277,03/11/2011,1,3,Away,,1 Sets,"3,138"
+2011,Pacific,534,Hawaii,277,03/12/2011,0,3,Away,,-,"3,123"
+2011,Pacific,534,New York U.,479,03/18/2011,3,0,Home,,-,205
+2011,Pacific,534,UC Santa Cruz,113,03/19/2011,3,0,Home,,-,163
+2011,Pacific,534,Long Beach St.,99,03/25/2011,1,3,Home,,1 Sets,225
+2011,Pacific,534,Cal St. Northridge,101,03/26/2011,3,1,Home,,1 Sets,250
+2011,Pacific,534,Pepperdine,541,04/01/2011,2,3,Home,,2 Sets,207
+2011,Pacific,534,Southern California,657,04/02/2011,0,3,Home,,-,358
+2011,Pacific,534,UC Santa Barbara,104,04/07/2011,3,2,Away,,2 Sets,212
+2011,Pacific,534,UCLA,110,04/08/2011,0,3,Away,,-,400
+2011,Pacific,534,Stanford,674,04/16/2011,1,3,Home,,1 Sets,324
+2011,Penn St.,539,UCLA,110,01/13/2011,1,3,Home,,1 Sets,0
+2011,Penn St.,539,Hawaii,277,01/14/2011,3,2,Away,,2 Sets,"3,240"
+2011,Penn St.,539,Ball St.,47,01/15/2011,3,0,Neutral,"Honolulu, HI",-,"3,679"
+2011,Penn St.,539,Saint Francis (PA),600,01/21/2011,3,1,Home,,1 Sets,632
+2011,Penn St.,539,Springfield,673,01/22/2011,3,0,Home,,-,609
+2011,Penn St.,539,Loyola Chicago,371,01/28/2011,3,1,Home,,1 Sets,0
+2011,Penn St.,539,Lewis,354,01/29/2011,3,0,Home,,-,552
+2011,Penn St.,539,UC Irvine,109,02/04/2011,1,3,Home,,1 Sets,"1,602"
+2011,Penn St.,539,Cal St. Northridge,101,02/05/2011,3,0,Home,,-,"1,423"
+2011,Penn St.,539,Ohio St.,518,02/09/2011,0,3,Away,,-,813
+2011,Penn St.,539,Rutgers-Newark,589,02/11/2011,3,1,Home,,1 Sets,317
+2011,Penn St.,539,Princeton,554,02/12/2011,3,0,Home,,-,612
+2011,Penn St.,539,Mount Olive,1245,02/18/2011,3,0,Home,,-,374
+2011,Penn St.,539,Lees-McRae,13302,02/19/2011,3,2,Home,,2 Sets,637
+2011,Penn St.,539,Saint Francis (PA),600,02/23/2011,3,1,Away,,1 Sets,550
+2011,Penn St.,539,George Mason,248,02/26/2011,3,0,Away,,-,"1,600"
+2011,Penn St.,539,Springfield,673,03/05/2011,3,1,Away,,1 Sets,"1,029"
+2011,Penn St.,539,UCLA,110,03/09/2011,2,3,Away,,2 Sets,424
+2011,Penn St.,539,UC Santa Barbara,104,03/11/2011,3,1,Neutral,"Long Beach, CA",1 Sets,0
+2011,Penn St.,539,Long Beach St.,99,03/12/2011,1,3,Away,,1 Sets,873
+2011,Penn St.,539,Ball St.,47,03/18/2011,3,0,Home,,-,532
+2011,Penn St.,539,IPFW,308,03/19/2011,3,0,Home,,-,491
+2011,Penn St.,539,Princeton,554,03/25/2011,3,0,Away,,-,450
+2011,Penn St.,539,Rutgers-Newark,589,03/26/2011,3,0,Away,,-,164
+2011,Penn St.,539,George Mason,248,04/02/2011,3,0,Home,,-,577
+2011,Penn St.,539,Ohio St.,518,04/10/2011,3,1,Home,,1 Sets,809
+2011,Penn St.,539,Ball St.,47,04/15/2011,0,3,Away,,-,"1,277"
+2011,Penn St.,539,IPFW,308,04/16/2011,3,2,Away,,2 Sets,716
+2011,Penn St.,539,Rutgers-Newark,589,04/28/2011,3,1,Home,,-2 Sets,727
+2011,Penn St.,539,Springfield,673,04/30/2011,3,0,Home,,-3 Sets,967
+2011,Penn St.,539,Ohio St.,518,05/05/2011,1,3,Home,,1 Sets,"3,761"
+2011,Pepperdine,541,Ohio St.,518,01/09/2011,3,1,Home,,1 Sets,"1,385"
+2011,Pepperdine,541,Ohio St.,518,01/10/2011,3,2,Home,,2 Sets,892
+2011,Pepperdine,541,Long Beach St.,99,01/12/2011,2,3,Home,,2 Sets,421
+2011,Pepperdine,541,Cal St. Northridge,101,01/15/2011,2,3,Home,,2 Sets,853
+2011,Pepperdine,541,UC Irvine,109,01/21/2011,2,3,Away,,2 Sets,932
+2011,Pepperdine,541,UCLA,110,01/26/2011,0,3,Away,,-,420
+2011,Pepperdine,541,UC Santa Barbara,104,01/28/2011,0,3,Away,,-,375
+2011,Pepperdine,541,UC San Diego,112,02/04/2011,3,1,Away,,1 Sets,416
+2011,Pepperdine,541,Southern California,657,02/11/2011,3,2,Home,,2 Sets,"1,029"
+2011,Pepperdine,541,Pacific,534,02/18/2011,3,1,Home,,1 Sets,331
+2011,Pepperdine,541,Stanford,674,02/19/2011,0,3,Home,,-,694
+2011,Pepperdine,541,Long Beach St.,99,02/23/2011,0,3,Away,,-,740
+2011,Pepperdine,541,Cal St. Northridge,101,02/25/2011,3,0,Away,,-,591
+2011,Pepperdine,541,Hawaii,277,03/04/2011,0,3,Away,,-,"3,122"
+2011,Pepperdine,541,Hawaii,277,03/05/2011,0,3,Away,,-,"3,606"
+2011,Pepperdine,541,UC Irvine,109,03/10/2011,0,3,Home,,-,427
+2011,Pepperdine,541,UC San Diego,112,03/12/2011,2,3,Home,,2 Sets,518
+2011,Pepperdine,541,Harvard,275,03/15/2011,3,0,Home,,-,249
+2011,Pepperdine,541,Rutgers-Newark,589,03/19/2011,3,1,Home,,1 Sets,361
+2011,Pepperdine,541,Southern California,657,03/25/2011,0,3,Away,,-,800
+2011,Pepperdine,541,Pacific,534,04/01/2011,3,2,Away,,2 Sets,207
+2011,Pepperdine,541,Stanford,674,04/02/2011,1,3,Away,,1 Sets,"1,268"
+2011,Pepperdine,541,BYU,77,04/08/2011,1,3,Home,,1 Sets,671
+2011,Pepperdine,541,BYU,77,04/09/2011,0,3,Home,,-,529
+2011,Pepperdine,541,UC Santa Barbara,104,04/14/2011,3,0,Home,,-,411
+2011,Pepperdine,541,UCLA,110,04/16/2011,3,1,Home,,1 Sets,673
+2011,Pfeiffer,542,Medaille,23725,01/21/2011,1,3,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Pfeiffer,542,CCNY,480,01/21/2011,3,0,Neutral,"Harrisonburg, VA",-,0
+2011,Pfeiffer,542,East. Mennonite,203,01/22/2011,3,1,Away,,1 Sets,192
+2011,Pfeiffer,542,Lancaster Bible,30085,01/22/2011,3,1,Neutral,"Harrisonburg, VA",1 Sets,0
+2011,Pfeiffer,542,Ball St.,47,02/04/2011,0,3,Away,,-,617
+2011,Pfeiffer,542,Mt. St. Joseph,8567,02/05/2011,3,0,Neutral,"Muncie, IN",-,0
+2011,Pfeiffer,542,Mount Olive,1245,02/12/2011,1,3,Away,,1 Sets,189
+2011,Pfeiffer,542,York (NY),2730,02/14/2011,3,0,Neutral,"Mount Olive, NC",-,0
+2011,Pfeiffer,542,King (TN),30051,02/19/2011,2,3,Away,,2 Sets,100
+2011,Pfeiffer,542,Washington Adventist,1029,02/25/2011,3,0,Home,,-,72
+2011,Pfeiffer,542,NJIT,471,03/05/2011,0,3,Home,,-,0
+2011,Pfeiffer,542,Hunter,292,03/11/2011,3,0,Neutral,"Stevenson, MD",-,0
+2011,Pfeiffer,542,Stevenson,21852,03/12/2011,3,0,Away,,-,0
+2011,Pfeiffer,542,Phila. Biblical,1305,03/12/2011,1,3,Neutral,"Stevenson, MD",1 Sets,0
+2011,Pfeiffer,542,Lees-McRae,13302,03/19/2011,0,3,Away,,-,183
+2011,Pfeiffer,542,Limestone,1174,03/22/2011,1,3,Home,,1 Sets,61
+2011,Pfeiffer,542,Juniata,325,03/26/2011,2,3,Away,,2 Sets,500
+2011,Pfeiffer,542,Saint Francis (PA),600,03/27/2011,1,3,Away,,2 Sets,132
+2011,Pfeiffer,542,Mount Olive,1245,03/31/2011,0,3,Home,,-,68
+2011,Pfeiffer,542,Limestone,1174,04/09/2011,0,3,Away,,-,76
+2011,Pfeiffer,542,King (TN),30051,04/12/2011,1,3,Home,,1 Sets,87
+2011,Pfeiffer,542,Lees-McRae,13302,04/14/2011,1,3,Home,,1 Sets,79
+2011,Polytechnic (NY),481,Lehman,279,01/18/2011,0,3,Away,,-,132
+2011,Polytechnic (NY),481,York (NY),2730,01/24/2011,2,3,Away,,2 Sets,15
+2011,Polytechnic (NY),481,Stevenson,21852,01/29/2011,1,3,Away,,1 Sets,50
+2011,Polytechnic (NY),481,Ramapo,564,01/29/2011,0,3,Away,,-,75
+2011,Polytechnic (NY),481,Mt. St. Vincent,451,02/05/2011,0,3,Home,,-,48
+2011,Polytechnic (NY),481,Kean,329,02/15/2011,0,3,Home,,-,74
+2011,Polytechnic (NY),481,St. Joseph's (Brkln),30072,02/17/2011,3,0,Home,,-,43
+2011,Polytechnic (NY),481,Lancaster Bible,30085,02/18/2011,0,3,Away,,-,67
+2011,Polytechnic (NY),481,Brooklyn,79,02/21/2011,3,1,Home,,1 Sets,32
+2011,Polytechnic (NY),481,CCNY,480,02/23/2011,1,3,Home,,1 Sets,43
+2011,Polytechnic (NY),481,Purchase St.,30029,02/25/2011,3,0,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Polytechnic (NY),481,Bard,962,02/25/2011,0,3,Away,,-,50
+2011,Polytechnic (NY),481,Sage Colleges,11036,02/26/2011,0,3,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Polytechnic (NY),481,Sage Colleges,11036,02/27/2011,0,3,Home,,-,50
+2011,Polytechnic (NY),481,Bard,962,02/27/2011,1,3,Neutral,"New York, NY",1 Sets,50
+2011,Polytechnic (NY),481,Yeshiva,814,03/03/2011,3,0,Away,,-,50
+2011,Polytechnic (NY),481,Mt. St. Vincent,451,03/06/2011,0,3,Away,,-,0
+2011,Polytechnic (NY),481,Purchase St.,30029,03/06/2011,3,0,Neutral,"Bronx, NY",-,0
+2011,Polytechnic (NY),481,CCNY,480,03/10/2011,0,3,Away,,-,40
+2011,Polytechnic (NY),481,Brooklyn,79,03/12/2011,0,3,Away,,-,30
+2011,Polytechnic (NY),481,Purchase St.,30029,03/14/2011,3,0,Home,,-,10
+2011,Polytechnic (NY),481,Yeshiva,814,03/15/2011,3,1,Home,,1 Sets,25
+2011,Polytechnic (NY),481,City Tech,8580,03/17/2011,3,1,Away,,1 Sets,15
+2011,Polytechnic (NY),481,Medgar Evers,403,03/19/2011,3,1,Neutral,"Glen Cove, NY",1 Sets,25
+2011,Polytechnic (NY),481,Sage Colleges,11036,03/20/2011,0,3,Neutral,"Annandale-On-Hudson, NY",-,25
+2011,Polytechnic (NY),481,Webb Inst.,,03/20/2011,3,0,Home,,-,0
+2011,Polytechnic (NY),481,Bard,962,03/20/2011,2,3,Away,,2 Sets,25
+2011,Polytechnic (NY),481,Bard,962,03/27/2011,0,3,Away,,-,50
+2011,Princeton,554,UC San Diego,112,01/26/2011,0,3,Away,,-,137
+2011,Princeton,554,Cal Baptist,30135,01/27/2011,0,3,Away,,-,143
+2011,Princeton,554,Hope Int'l,,01/28/2011,3,1,Away,,1 Sets,143
+2011,Princeton,554,Rutgers-Newark,589,02/04/2011,1,3,Away,,1 Sets,103
+2011,Princeton,554,New York U.,479,02/08/2011,1,3,Home,,1 Sets,65
+2011,Princeton,554,Saint Francis (PA),600,02/11/2011,0,3,Away,,-,100
+2011,Princeton,554,Penn St.,539,02/12/2011,0,3,Away,,-,612
+2011,Princeton,554,George Mason,248,02/18/2011,1,3,Home,,1 Sets,135
+2011,Princeton,554,Rutgers-Newark,589,02/22/2011,0,3,Home,,-,55
+2011,Princeton,554,Springfield,673,02/26/2011,1,3,Home,,1 Sets,95
+2011,Princeton,554,Springfield,673,03/04/2011,1,3,Away,,1 Sets,215
+2011,Princeton,554,Harvard,275,03/05/2011,2,3,Away,,2 Sets,182
+2011,Princeton,554,Ball St.,47,03/12/2011,0,3,Home,,-,75
+2011,Princeton,554,New York U.,479,03/13/2011,1,3,Away,,1 Sets,145
+2011,Princeton,554,Juniata,325,03/20/2011,3,0,Home,,-,85
+2011,Princeton,554,Penn St.,539,03/25/2011,0,3,Home,,-,450
+2011,Princeton,554,Saint Francis (PA),600,03/26/2011,3,1,Home,,1 Sets,85
+2011,Princeton,554,Harvard,275,04/02/2011,2,3,Home,,2 Sets,105
+2011,Princeton,554,Ohio St.,518,04/08/2011,2,3,Away,,2 Sets,453
+2011,Princeton,554,Ohio St.,518,04/09/2011,0,3,Away,,-,463
+2011,Princeton,554,George Mason,248,04/15/2011,1,3,Away,,1 Sets,155
+2011,Princeton,554,Sacred Heart,590,04/16/2011,1,3,Home,,1 Sets,105
+2011,Purchase,30029,Yeshiva,814,02/07/2011,0,3,Away,,-,68
+2011,Purchase,30029,Lehman,279,02/08/2011,0,3,Away,,-,134
+2011,Purchase,30029,St. Joseph's (Brkln),30072,02/10/2011,3,0,Away,,-,25
+2011,Purchase,30029,Mt. St. Vincent,451,02/17/2011,0,3,Home,,-,21
+2011,Purchase,30029,Bard,962,02/25/2011,0,3,Away,,-,50
+2011,Purchase,30029,Polytechnic (NY),481,02/25/2011,0,3,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Purchase,30029,Medgar Evers,403,02/26/2011,1,3,Neutral,"Annandale-on-Hudson, NY",1 Sets,50
+2011,Purchase,30029,Mt. St. Vincent,451,03/02/2011,0,3,Away,,-,35
+2011,Purchase,30029,Polytechnic (NY),481,03/06/2011,0,3,Neutral,"Bronx, NY",-,0
+2011,Purchase,30029,Yeshiva,814,03/06/2011,3,2,Neutral,"Riverdale, NY",2 Sets,20
+2011,Purchase,30029,Bard,962,03/12/2011,0,3,Home,,-,21
+2011,Purchase,30029,Sage Colleges,11036,03/12/2011,0,3,Home,,-,12
+2011,Purchase,30029,Polytechnic (NY),481,03/14/2011,0,3,Away,,-,10
+2011,Purchase,30029,Bard,962,03/18/2011,0,3,Neutral,"Albany, NY",-,5
+2011,Purchase,30029,Sage Colleges,11036,03/18/2011,0,3,Away,,-,55
+2011,Purchase,30029,Brooklyn,79,03/19/2011,0,3,Away,,-,58
+2011,Quincy,561,Mo. Baptist,,01/13/2011,3,0,Away,,-,0
+2011,Quincy,561,Lindenwood (MO),30136,01/14/2011,1,3,Away,,1 Sets,300
+2011,Quincy,561,Park,,01/15/2011,3,2,Away,,2 Sets,286
+2011,Quincy,561,Park,,01/15/2011,1,3,Away,,1 Sets,0
+2011,Quincy,561,Clarke,1020,01/21/2011,3,2,Home,,2 Sets,121
+2011,Quincy,561,Hannibal-La Grange,,01/28/2011,1,3,Away,,1 Sets,0
+2011,Quincy,561,Ohio St.,518,02/10/2011,0,3,Away,,-,279
+2011,Quincy,561,Ohio St.,518,02/11/2011,0,3,Away,,-,420
+2011,Quincy,561,Fontbonne,11538,02/13/2011,3,1,Home,,1 Sets,62
+2011,Quincy,561,Fontbonne,11538,02/13/2011,3,1,Home,,1 Sets,43
+2011,Quincy,561,Carthage,121,02/13/2011,3,1,Home,,1 Sets,54
+2011,Quincy,561,Lewis,354,02/15/2011,0,3,Home,,-,72
+2011,Quincy,561,Rust,586,02/20/2011,3,0,Away,,-,0
+2011,Quincy,561,Rust,586,02/20/2011,3,0,Away,,-,0
+2011,Quincy,561,Ball St.,47,02/25/2011,0,3,Away,,-,680
+2011,Quincy,561,Ball St.,47,02/26/2011,1,3,Away,,1 Sets,730
+2011,Quincy,561,Mo. Baptist,,03/04/2011,3,2,Home,,2 Sets,114
+2011,Quincy,561,Fontbonne,11538,03/07/2011,3,0,Away,,-,27
+2011,Quincy,561,Fontbonne,11538,03/07/2011,3,0,Away,,-,33
+2011,Quincy,561,Rust,586,03/08/2011,3,0,Home,,-,34
+2011,Quincy,561,Rust,586,03/08/2011,3,0,Home,,-,41
+2011,Quincy,561,Milwaukee Engr.,20220,03/10/2011,3,0,Away,,-,71
+2011,Quincy,561,Carthage,121,03/11/2011,3,1,Away,,1 Sets,125
+2011,Quincy,561,Lindenwood (MO),30136,03/24/2011,2,3,Home,,2 Sets,102
+2011,Quincy,561,Hannibal-La Grange,,03/26/2011,3,2,Home,,2 Sets,99
+2011,Quincy,561,Milwaukee Engr.,20220,03/26/2011,3,0,Home,,-,44
+2011,Quincy,561,King (TN),30051,03/28/2011,3,1,Home,,1 Sets,74
+2011,Quincy,561,Lewis,354,03/31/2011,2,3,Away,,2 Sets,478
+2011,Quincy,561,IPFW,308,04/01/2011,0,3,Away,,-,303
+2011,Quincy,561,IPFW,308,04/02/2011,1,3,Away,,1 Sets,238
+2011,Quincy,561,Grand Canyon,1104,04/08/2011,3,2,Home,,2 Sets,67
+2011,Quincy,561,Grand Canyon,1104,04/09/2011,3,0,Home,,-,102
+2011,Quincy,561,Loyola Chicago,371,04/15/2011,3,2,Home,,2 Sets,105
+2011,Quincy,561,Loyola Chicago,371,04/16/2011,1,3,Home,,1 Sets,88
+2011,Quincy,561,Ball St.,47,04/23/2011,3,1,Away,,1 Sets,396
+2011,Quincy,561,Loyola Chicago,371,04/27/2011,1,3,Away,,1 Sets,424
+2011,Ramapo,564,Hunter,292,01/15/2011,3,2,Home,,2 Sets,75
+2011,Ramapo,564,Newbury,21772,01/15/2011,1,3,Home,,1 Sets,75
+2011,Ramapo,564,New Jersey City,319,01/19/2011,3,0,Away,,-,67
+2011,Ramapo,564,Phila. Biblical,1305,01/21/2011,1,3,Home,,1 Sets,80
+2011,Ramapo,564,Vassar,737,01/22/2011,0,3,Home,,-,100
+2011,Ramapo,564,Rivier,18422,01/22/2011,1,3,Home,,1 Sets,100
+2011,Ramapo,564,Polytechnic (NY),481,01/29/2011,3,0,Home,,-,75
+2011,Ramapo,564,Stevenson,21852,01/29/2011,1,3,Home,,1 Sets,100
+2011,Ramapo,564,Lehman,279,02/02/2011,3,0,Home,,-,75
+2011,Ramapo,564,Rutgers-Newark,589,02/08/2011,0,3,Away,,-,87
+2011,Ramapo,564,Kean,329,02/09/2011,3,0,Away,,-,89
+2011,Ramapo,564,New Jersey City,319,02/12/2011,3,1,Home,,1 Sets,100
+2011,Ramapo,564,Lancaster Bible,30085,02/12/2011,3,0,Home,,-,100
+2011,Ramapo,564,Baruch,58,02/15/2011,0,3,Away,,-,74
+2011,Ramapo,564,East. Mennonite,203,02/17/2011,3,0,Home,,-,100
+2011,Ramapo,564,Rivier,18422,02/19/2011,2,3,Away,,2 Sets,75
+2011,Ramapo,564,Lesley,24317,02/19/2011,3,0,Neutral,"Nashua, NH",-,0
+2011,Ramapo,564,Sage Colleges,11036,02/23/2011,3,0,Away,,-,55
+2011,Ramapo,564,Lancaster Bible,30085,02/25/2011,3,0,Away,,-,75
+2011,Ramapo,564,East. Mennonite,203,02/26/2011,3,1,Away,,1 Sets,135
+2011,Ramapo,564,SUNY New Paltz,475,03/02/2011,1,3,Away,,1 Sets,48
+2011,Ramapo,564,Stevenson,21852,03/06/2011,3,1,Away,,1 Sets,117
+2011,Ramapo,564,Stevens,679,03/09/2011,3,1,Home,,1 Sets,126
+2011,Ramapo,564,Kean,329,03/22/2011,3,2,Home,,2 Sets,60
+2011,Ramapo,564,Phila. Biblical,1305,03/24/2011,0,3,Away,,-,150
+2011,Ramapo,564,Bard,962,03/26/2011,3,0,Home,,-,100
+2011,Ramapo,564,CCNY,480,03/28/2011,3,0,Home,,-,75
+2011,Ramapo,564,Rutgers-Newark,589,03/29/2011,0,3,Home,,-,100
+2011,Ramapo,564,Baruch,58,03/31/2011,0,3,Neutral,"Hoboken, NJ",-,100
+2011,Ramapo,564,Bard,962,04/09/2011,3,0,Neutral,"Owings Mills, MD",-,76
+2011,Ramapo,564,Stevenson,21852,04/09/2011,2,3,Away,,2 Sets,123
+2011,Regis (MA),569,MIT,398,01/20/2011,0,3,Home,,-,25
+2011,Regis (MA),569,Southern Vt.,1379,01/22/2011,1,3,Home,,1 Sets,0
+2011,Regis (MA),569,Wentworth Inst.,762,01/25/2011,0,3,Away,,-,0
+2011,Regis (MA),569,Elms,532,01/27/2011,0,3,Home,,-,45
+2011,Regis (MA),569,Daniel Webster,2691,02/12/2011,0,3,Neutral,"Chicopee, MA",-,109
+2011,Regis (MA),569,Elms,532,02/12/2011,0,3,Away,,-,121
+2011,Regis (MA),569,Endicott,8981,02/17/2011,0,3,Away,,-,50
+2011,Regis (MA),569,Mount Ida,27901,02/19/2011,1,3,Home,,1 Sets,14
+2011,Regis (MA),569,Newbury,21772,02/19/2011,0,3,Home,,-,0
+2011,Regis (MA),569,Emerson,214,02/23/2011,0,3,Home,,-,19
+2011,Regis (MA),569,Daniel Webster,2691,02/26/2011,1,3,Neutral,Southern Vermont,1 Sets,0
+2011,Regis (MA),569,Southern Vt.,1379,02/26/2011,0,3,Away,,-,0
+2011,Regis (MA),569,Newbury,21772,03/03/2011,0,3,Away,,-,33
+2011,Regis (MA),569,MIT,398,03/16/2011,0,3,Away,,-2 Sets,45
+2011,Regis (MA),569,Endicott,8981,03/17/2011,0,3,Home,,-,25
+2011,Regis (MA),569,Emerson,214,03/19/2011,0,3,Away,,-,22
+2011,Regis (MA),569,Lesley,24317,03/22/2011,0,3,Away,,-,44
+2011,Regis (MA),569,Lesley,24317,03/24/2011,0,3,Home,,-,15
+2011,Rivier,18422,Elmira,213,01/15/2011,3,1,Home,,1 Sets,0
+2011,Rivier,18422,Endicott,8981,01/16/2011,3,1,Home,,1 Sets,0
+2011,Rivier,18422,Wentworth Inst.,762,01/16/2011,3,0,Home,,-,40
+2011,Rivier,18422,Emerson,214,01/20/2011,3,1,Away,,1 Sets,86
+2011,Rivier,18422,Vassar,737,01/21/2011,3,1,Neutral,"Mahwah, NJ",1 Sets,125
+2011,Rivier,18422,Phila. Biblical,1305,01/22/2011,3,2,Home,,2 Sets,30
+2011,Rivier,18422,Ramapo,564,01/22/2011,3,1,Away,,1 Sets,100
+2011,Rivier,18422,Mount Ida,27901,01/26/2011,3,0,Away,,-,50
+2011,Rivier,18422,Baruch,58,01/29/2011,2,3,Home,,2 Sets,58
+2011,Rivier,18422,Stevens,679,01/29/2011,1,3,Neutral,"Newark, NJ",1 Sets,53
+2011,Rivier,18422,D'Youville,1059,01/30/2011,3,0,Neutral,"Newark, NJ",-,70
+2011,Rivier,18422,New York U.,479,01/30/2011,1,3,Neutral,"Newark, NJ",1 Sets,80
+2011,Rivier,18422,Emmanuel (MA),215,02/04/2011,3,1,Home,,1 Sets,0
+2011,Rivier,18422,Harvard,275,02/09/2011,1,3,Away,,1 Sets,105
+2011,Rivier,18422,Nazareth,461,02/11/2011,3,0,Away,,-,0
+2011,Rivier,18422,Thiel,707,02/11/2011,3,2,Neutral,"Rochester, NY",2 Sets,40
+2011,Rivier,18422,UC Santa Cruz,113,02/12/2011,0,3,Neutral,"Rochester, NY",-,0
+2011,Rivier,18422,Medaille,23725,02/12/2011,3,2,Neutral,"Rochester, NY",2 Sets,0
+2011,Rivier,18422,Johnson & Wales (RI),22626,02/16/2011,3,0,Away,,-,57
+2011,Rivier,18422,Mount Ida,27901,02/17/2011,3,0,Home,,-,0
+2011,Rivier,18422,Emerson,214,02/17/2011,3,0,Home,,-,60
+2011,Rivier,18422,Ramapo,564,02/19/2011,3,2,Home,,2 Sets,75
+2011,Rivier,18422,Lesley,24317,02/19/2011,3,0,Home,,-,0
+2011,Rivier,18422,Lasell,8486,02/21/2011,3,2,Away,,2 Sets,89
+2011,Rivier,18422,Newbury,21772,02/23/2011,3,0,Home,,-,75
+2011,Rivier,18422,Milwaukee Engr.,20220,02/26/2011,3,0,Neutral,"New York, NY",-,40
+2011,Rivier,18422,Kean,329,02/26/2011,3,0,Neutral,"New York, NY",-,40
+2011,Rivier,18422,Carthage,121,02/27/2011,1,3,Neutral,"New York, NY",1 Sets,50
+2011,Rivier,18422,Elmira,213,02/27/2011,3,0,Neutral,"New York, NY",-,40
+2011,Rivier,18422,Emmanuel (MA),215,03/01/2011,2,3,Away,,2 Sets,200
+2011,Rivier,18422,Lasell,8486,03/02/2011,3,0,Home,,-,0
+2011,Rivier,18422,MIT,398,03/15/2011,0,3,Away,,-,0
+2011,Rivier,18422,Sacred Heart,590,03/17/2011,3,2,Home,,2 Sets,85
+2011,Rivier,18422,Albertus Magnus,2798,03/19/2011,3,0,Home,,-,0
+2011,Rivier,18422,Albertus Magnus,2798,03/19/2011,3,0,Home,,-,50
+2011,Rivier,18422,Johnson & Wales (RI),22626,03/22/2011,3,0,Home,,-,85
+2011,Rivier,18422,Endicott,8981,03/24/2011,3,0,Away,,-,100
+2011,Rivier,18422,Lasell,8486,03/26/2011,3,1,Home,,1 Sets,0
+2011,Rivier,18422,Johnson & Wales (RI),22626,03/26/2011,3,0,Home,,-,75
+2011,Rivier,18422,Bard,962,04/01/2011,3,0,Home,,-,0
+2011,Rivier,18422,Baruch,58,04/02/2011,2,3,Neutral,"Hoboken, NJ",2 Sets,113
+2011,Rivier,18422,Medaille,23725,04/02/2011,3,2,Neutral,"Hoboken, NJ",2 Sets,102
+2011,Rust,586,King (TN),30051,01/22/2011,0,3,Neutral,"Cincinnati, OH",-,0
+2011,Rust,586,Quincy,561,02/20/2011,0,3,Home,,-,0
+2011,Rust,586,Quincy,561,02/20/2011,0,3,Home,,-,0
+2011,Rust,586,Quincy,561,03/08/2011,0,3,Away,,-,34
+2011,Rust,586,Quincy,561,03/08/2011,0,3,Away,,-,41
+2011,Rutgers-Newark,589,NJIT,471,01/21/2011,3,0,Home,,-,95
+2011,Rutgers-Newark,589,D'Youville,1059,01/29/2011,3,0,Home,,-,100
+2011,Rutgers-Newark,589,New York U.,479,01/29/2011,3,0,Home,,-,100
+2011,Rutgers-Newark,589,Baruch,58,01/30/2011,3,1,Home,,1 Sets,52
+2011,Rutgers-Newark,589,Stevens,679,01/30/2011,3,1,Home,,1 Sets,53
+2011,Rutgers-Newark,589,Baruch,58,02/01/2011,3,0,Away,,-,101
+2011,Rutgers-Newark,589,Princeton,554,02/04/2011,3,1,Home,,1 Sets,103
+2011,Rutgers-Newark,589,Ramapo,564,02/08/2011,3,0,Home,,-,87
+2011,Rutgers-Newark,589,Penn St.,539,02/11/2011,1,3,Away,,1 Sets,317
+2011,Rutgers-Newark,589,Saint Francis (PA),600,02/12/2011,3,0,Away,,-,125
+2011,Rutgers-Newark,589,George Mason,248,02/19/2011,1,3,Home,,1 Sets,90
+2011,Rutgers-Newark,589,Princeton,554,02/22/2011,3,0,Away,,-,55
+2011,Rutgers-Newark,589,George Mason,248,02/25/2011,0,3,Away,,-,0
+2011,Rutgers-Newark,589,Kean,329,03/05/2011,3,0,Home,,-,75
+2011,Rutgers-Newark,589,Phila. Biblical,1305,03/05/2011,3,1,Home,,1 Sets,50
+2011,Rutgers-Newark,589,Springfield,673,03/08/2011,0,3,Home,,-,60
+2011,Rutgers-Newark,589,Stevens,679,03/11/2011,3,2,Away,,2 Sets,85
+2011,Rutgers-Newark,589,Cardinal Stritch,,03/15/2011,2,3,Neutral,"Riverside, CA",2 Sets,75
+2011,Rutgers-Newark,589,Cal Baptist,30135,03/15/2011,0,3,Away,,-,120
+2011,Rutgers-Newark,589,Pepperdine,541,03/19/2011,1,3,Away,,1 Sets,361
+2011,Rutgers-Newark,589,Saint Francis (PA),600,03/25/2011,3,0,Home,,-,72
+2011,Rutgers-Newark,589,Penn St.,539,03/26/2011,0,3,Home,,-,164
+2011,Rutgers-Newark,589,Ramapo,564,03/29/2011,3,0,Away,,-,100
+2011,Rutgers-Newark,589,Sacred Heart,590,04/02/2011,1,3,Away,,1 Sets,219
+2011,Rutgers-Newark,589,Springfield,673,04/09/2011,1,3,Away,,1 Sets,217
+2011,Rutgers-Newark,589,New York U.,479,04/12/2011,1,3,Away,,1 Sets,60
+2011,Rutgers-Newark,589,NJIT,471,04/15/2011,3,0,Away,,-,109
+2011,Rutgers-Newark,589,Saint Francis (PA),600,04/23/2011,3,0,Home,,-,150
+2011,Rutgers-Newark,589,Penn St.,539,04/28/2011,1,3,Away,,1 Sets,727
+2011,Sacred Heart,590,George Mason,248,01/22/2011,0,3,Away,,-,231
+2011,Sacred Heart,590,IPFW,308,01/28/2011,3,1,Home,,1 Sets,362
+2011,Sacred Heart,590,Ball St.,47,01/29/2011,2,3,Home,,2 Sets,199
+2011,Sacred Heart,590,New Haven,470,02/04/2011,3,0,Away,,-,103
+2011,Sacred Heart,590,New York U.,479,02/05/2011,3,2,Home,,2 Sets,170
+2011,Sacred Heart,590,Springfield,673,02/08/2011,3,0,Home,,-,95
+2011,Sacred Heart,590,George Mason,248,02/12/2011,3,0,Home,,-,525
+2011,Sacred Heart,590,New York U.,479,02/18/2011,0,3,Away,,-,185
+2011,Sacred Heart,590,Harvard,275,02/26/2011,3,0,Away,,-,225
+2011,Sacred Heart,590,NJIT,471,03/01/2011,3,1,Home,,1 Sets,292
+2011,Sacred Heart,590,IPFW,308,03/05/2011,1,3,Away,,1 Sets,278
+2011,Sacred Heart,590,Ball St.,47,03/06/2011,2,3,Away,,2 Sets,163
+2011,Sacred Heart,590,Rivier,18422,03/17/2011,2,3,Away,,2 Sets,85
+2011,Sacred Heart,590,Juniata,325,03/19/2011,0,3,Home,,-,301
+2011,Sacred Heart,590,Springfield,673,03/22/2011,1,3,Away,,1 Sets,103
+2011,Sacred Heart,590,Stevens,679,03/24/2011,3,1,Away,,1 Sets,75
+2011,Sacred Heart,590,Harvard,275,04/01/2011,3,1,Home,,1 Sets,181
+2011,Sacred Heart,590,Rutgers-Newark,589,04/02/2011,3,1,Home,,1 Sets,219
+2011,Sacred Heart,590,NJIT,471,04/05/2011,3,0,Away,,-,100
+2011,Sacred Heart,590,Juniata,325,04/08/2011,0,3,Away,,-,675
+2011,Sacred Heart,590,Saint Francis (PA),600,04/09/2011,3,2,Away,,2 Sets,132
+2011,Sacred Heart,590,Princeton,554,04/16/2011,3,1,Away,,1 Sets,105
+2011,Sage Colleges,11036,Southern Vt.,1379,01/19/2011,3,0,Home,,-,125
+2011,Sage Colleges,11036,Stevenson,21852,01/22/2011,0,3,Neutral,"Utica, NY",-,0
+2011,Sage Colleges,11036,Lasell,8486,01/22/2011,1,3,Neutral,"Utica, NY",1 Sets,0
+2011,Sage Colleges,11036,Bard,962,01/23/2011,0,3,Neutral,"Utica, NY",-,0
+2011,Sage Colleges,11036,Hilbert,8398,01/23/2011,3,1,Neutral,"New York, NY",1 Sets,25
+2011,Sage Colleges,11036,Endicott,8981,02/05/2011,0,3,Away,,-,80
+2011,Sage Colleges,11036,Bard,962,02/09/2011,2,3,Home,,2 Sets,150
+2011,Sage Colleges,11036,Elmira,213,02/12/2011,3,2,Home,,2 Sets,75
+2011,Sage Colleges,11036,Kean,329,02/12/2011,3,1,Home,,1 Sets,60
+2011,Sage Colleges,11036,Ramapo,564,02/23/2011,0,3,Home,,-,55
+2011,Sage Colleges,11036,Medgar Evers,403,02/25/2011,3,0,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Sage Colleges,11036,Mount Ida,27901,02/25/2011,0,3,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Sage Colleges,11036,Polytechnic (NY),481,02/26/2011,3,0,Neutral,"Annandale-on-Hudson, NY",-,50
+2011,Sage Colleges,11036,Polytechnic (NY),481,02/27/2011,3,0,Away,,-,50
+2011,Sage Colleges,11036,Yeshiva,814,02/27/2011,3,0,Away,,-,50
+2011,Sage Colleges,11036,SUNYIT,9500,03/01/2011,0,3,Home,,-,65
+2011,Sage Colleges,11036,SUNYIT,9500,03/03/2011,3,0,Away,,-,30
+2011,Sage Colleges,11036,Mt. St. Vincent,451,03/12/2011,3,0,Neutral,"Purchase, NY",-,50
+2011,Sage Colleges,11036,Purchase St.,30029,03/12/2011,3,0,Away,,-,12
+2011,Sage Colleges,11036,Bard,962,03/15/2011,2,3,Away,,2 Sets,50
+2011,Sage Colleges,11036,Purchase St.,30029,03/18/2011,3,0,Home,,-,55
+2011,Sage Colleges,11036,Polytechnic (NY),481,03/20/2011,3,0,Neutral,"Annandale-On-Hudson, NY",-,25
+2011,Sage Colleges,11036,Mt. St. Vincent,451,03/22/2011,1,3,Home,,1 Sets,125
+2011,Sage Colleges,11036,Southern Vt.,1379,03/23/2011,1,3,Away,,1 Sets,50
+2011,Sage Colleges,11036,Yeshiva,814,03/24/2011,2,0,Home,,-,35
+2011,Sage Colleges,11036,Mt. St. Vincent,451,03/27/2011,1,3,Neutral,"Annandale-on-Hudson, NY",1 Sets,80
+2011,Saint Francis (PA),600,Ohio St.,518,01/15/2011,0,3,Away,,-,698
+2011,Saint Francis (PA),600,Penn St.,539,01/21/2011,1,3,Away,,1 Sets,632
+2011,Saint Francis (PA),600,NJIT,471,01/23/2011,3,1,Home,,1 Sets,100
+2011,Saint Francis (PA),600,Juniata,325,01/26/2011,3,1,Home,,1 Sets,150
+2011,Saint Francis (PA),600,Lewis,354,01/28/2011,1,3,Home,,1 Sets,175
+2011,Saint Francis (PA),600,Loyola Chicago,371,01/29/2011,3,2,Home,,2 Sets,125
+2011,Saint Francis (PA),600,George Mason,248,02/04/2011,0,3,Home,,-,115
+2011,Saint Francis (PA),600,Princeton,554,02/11/2011,3,0,Home,,-,100
+2011,Saint Francis (PA),600,Rutgers-Newark,589,02/12/2011,0,3,Home,,-,125
+2011,Saint Francis (PA),600,Harvard,275,02/18/2011,3,1,Home,,1 Sets,175
+2011,Saint Francis (PA),600,Springfield,673,02/19/2011,3,1,Home,,2 Sets,139
+2011,Saint Francis (PA),600,Mount Olive,1245,02/20/2011,3,1,Home,,1 Sets,144
+2011,Saint Francis (PA),600,Penn St.,539,02/23/2011,1,3,Home,,1 Sets,550
+2011,Saint Francis (PA),600,Lewis,354,02/25/2011,0,3,Away,,-,328
+2011,Saint Francis (PA),600,Loyola Chicago,371,02/26/2011,0,3,Away,,-,461
+2011,Saint Francis (PA),600,NJIT,471,03/12/2011,3,1,Away,,1 Sets,172
+2011,Saint Francis (PA),600,IPFW,308,03/18/2011,1,3,Home,,2 Sets,190
+2011,Saint Francis (PA),600,Ball St.,47,03/19/2011,0,3,Home,,-,221
+2011,Saint Francis (PA),600,Rutgers-Newark,589,03/25/2011,0,3,Away,,-,72
+2011,Saint Francis (PA),600,Princeton,554,03/26/2011,1,3,Away,,1 Sets,85
+2011,Saint Francis (PA),600,Pfeiffer,542,03/27/2011,3,1,Home,,2 Sets,132
+2011,Saint Francis (PA),600,Springfield,673,04/02/2011,3,0,Away,,-,110
+2011,Saint Francis (PA),600,Juniata,325,04/05/2011,0,3,Away,,-,300
+2011,Saint Francis (PA),600,George Mason,248,04/08/2011,0,3,Away,,-,231
+2011,Saint Francis (PA),600,Sacred Heart,590,04/09/2011,2,3,Home,,2 Sets,132
+2011,Saint Francis (PA),600,IPFW,308,04/15/2011,0,3,Away,,-,327
+2011,Saint Francis (PA),600,Ball St.,47,04/16/2011,1,3,Away,,1 Sets,913
+2011,Saint Francis (PA),600,Ohio St.,518,04/17/2011,0,3,Home,,-,233
+2011,Saint Francis (PA),600,Rutgers-Newark,589,04/23/2011,0,3,Away,,-,150
+2011,Southern California,657,Cal St. Northridge,101,01/12/2011,3,0,Home,,-,500
+2011,Southern California,657,Long Beach St.,99,01/14/2011,3,0,Home,,-,600
+2011,Southern California,657,UC Irvine,109,01/19/2011,3,1,Away,,1 Sets,"1,659"
+2011,Southern California,657,UC San Diego,112,01/21/2011,3,0,Away,,-,649
+2011,Southern California,657,UC Santa Barbara,104,01/26/2011,3,0,Away,,-,454
+2011,Southern California,657,UCLA,110,01/28/2011,3,1,Away,,1 Sets,"2,251"
+2011,Southern California,657,Pepperdine,541,02/11/2011,2,3,Away,,2 Sets,"1,029"
+2011,Southern California,657,Stanford,674,02/17/2011,3,0,Home,,-,800
+2011,Southern California,657,Pacific,534,02/19/2011,3,0,Home,,-,600
+2011,Southern California,657,Cal St. Northridge,101,02/23/2011,3,0,Away,,-,697
+2011,Southern California,657,Long Beach St.,99,02/25/2011,3,2,Away,,2 Sets,"1,218"
+2011,Southern California,657,BYU,77,03/04/2011,3,2,Home,,2 Sets,"1,250"
+2011,Southern California,657,BYU,77,03/05/2011,3,2,Home,,2 Sets,"3,000"
+2011,Southern California,657,UC San Diego,112,03/11/2011,3,0,Home,,-,350
+2011,Southern California,657,UC Irvine,109,03/12/2011,3,1,Home,,1 Sets,700
+2011,Southern California,657,Harvard,275,03/16/2011,3,1,Home,,1 Sets,350
+2011,Southern California,657,Pepperdine,541,03/25/2011,3,0,Home,,-,800
+2011,Southern California,657,Stanford,674,04/01/2011,3,1,Away,,1 Sets,"1,645"
+2011,Southern California,657,Pacific,534,04/02/2011,3,0,Away,,-,358
+2011,Southern California,657,Hawaii,277,04/08/2011,2,3,Away,,2 Sets,"3,967"
+2011,Southern California,657,Hawaii,277,04/09/2011,3,0,Away,,-,"5,591"
+2011,Southern California,657,UCLA,110,04/14/2011,3,0,Home,,-,"1,500"
+2011,Southern California,657,UC Santa Barbara,104,04/16/2011,3,0,Home,,-,750
+2011,Southern California,657,UCLA,110,04/23/2011,3,1,Home,,1 Sets,"1,414"
+2011,Southern California,657,UC Irvine,109,04/28/2011,3,1,Home,,1 Sets,0
+2011,Southern California,657,UC Santa Barbara,104,04/30/2011,2,3,Home,,2 Sets,0
+2011,Southern California,657,UC Santa Barbara,104,05/05/2011,1,3,Neutral,"University Park, PA",1 Sets,0
+2011,Southern Vt.,1379,Sage Colleges,11036,01/19/2011,0,3,Away,,-,125
+2011,Southern Vt.,1379,Regis (MA),569,01/22/2011,3,1,Away,,1 Sets,36
+2011,Southern Vt.,1379,SUNYIT,9500,01/25/2011,0,3,Away,,-,40
+2011,Southern Vt.,1379,Lesley,24317,01/28/2011,3,1,Home,,1 Sets,0
+2011,Southern Vt.,1379,MIT,398,01/28/2011,0,3,Home,,-,79
+2011,Southern Vt.,1379,Mt. St. Vincent,451,01/29/2011,0,3,Home,,-,0
+2011,Southern Vt.,1379,SUNYIT,9500,02/03/2011,0,3,Home,,-,0
+2011,Southern Vt.,1379,Elms,532,02/10/2011,0,3,Away,,-,73
+2011,Southern Vt.,1379,Newbury,21772,02/12/2011,0,3,Home,,-,75
+2011,Southern Vt.,1379,Wentworth Inst.,762,02/12/2011,0,3,Home,,-,43
+2011,Southern Vt.,1379,Daniel Webster,2691,02/16/2011,0,3,Away,,-,52
+2011,Southern Vt.,1379,MIT,398,02/18/2011,0,3,Away,,-,50
+2011,Southern Vt.,1379,Elms,532,02/19/2011,0,3,Neutral,"Boston, MA",-,75
+2011,Southern Vt.,1379,Wentworth Inst.,762,02/19/2011,0,3,Neutral,"Boston, MA",-,50
+2011,Southern Vt.,1379,Regis (MA),569,02/26/2011,3,0,Home,,-,25
+2011,Southern Vt.,1379,Daniel Webster,2691,02/26/2011,2,3,Home,,2 Sets,25
+2011,Southern Vt.,1379,Endicott,8981,03/01/2011,0,3,Away,,-,50
+2011,Southern Vt.,1379,Endicott,8981,03/01/2011,0,3,Away,,-,50
+2011,Southern Vt.,1379,Mt. St. Vincent,451,03/03/2011,0,3,Away,,-,35
+2011,Southern Vt.,1379,Newbury,21772,03/19/2011,0,3,Away,,-,22
+2011,Southern Vt.,1379,Lesley,24317,03/19/2011,3,1,Neutral,"Brookline, MA",1 Sets,14
+2011,Southern Vt.,1379,Sage Colleges,11036,03/23/2011,3,1,Home,,1 Sets,50
+2011,Southern Vt.,1379,Newbury,21772,03/25/2011,0,3,Away,,-,22
+2011,Springfield,673,Cal Baptist,30135,01/14/2011,0,3,Away,,-,85
+2011,Springfield,673,Hope Int'l,,01/14/2011,3,0,Away,,-,137
+2011,Springfield,673,Cal Baptist,30135,01/15/2011,0,3,Away,,-,123
+2011,Springfield,673,George Mason,248,01/21/2011,0,3,Away,,-,93
+2011,Springfield,673,Penn St.,539,01/22/2011,0,3,Away,,-,609
+2011,Springfield,673,Emmanuel (MA),215,01/28/2011,3,1,Home,,1 Sets,617
+2011,Springfield,673,Pacific,534,02/04/2011,0,3,Home,,-,714
+2011,Springfield,673,Grand Canyon,1104,02/05/2011,3,0,Home,,-,0
+2011,Springfield,673,Sacred Heart,590,02/08/2011,0,3,Away,,-,95
+2011,Springfield,673,George Mason,248,02/11/2011,2,3,Home,,2 Sets,607
+2011,Springfield,673,Phila. Biblical,1305,02/12/2011,2,3,Home,,2 Sets,209
+2011,Springfield,673,Harvard,275,02/14/2011,1,3,Away,,1 Sets,72
+2011,Springfield,673,Juniata,325,02/18/2011,3,0,Away,,-,900
+2011,Springfield,673,Saint Francis (PA),600,02/19/2011,1,3,Away,,2 Sets,139
+2011,Springfield,673,NJIT,471,02/24/2011,3,0,Home,,-,106
+2011,Springfield,673,Princeton,554,02/26/2011,3,1,Away,,1 Sets,95
+2011,Springfield,673,Vassar,737,03/01/2011,3,0,Home,,-,109
+2011,Springfield,673,Princeton,554,03/04/2011,3,1,Home,,1 Sets,215
+2011,Springfield,673,Penn St.,539,03/05/2011,1,3,Home,,1 Sets,"1,029"
+2011,Springfield,673,Rutgers-Newark,589,03/08/2011,3,0,Away,,-,60
+2011,Springfield,673,Baruch,58,03/10/2011,3,0,Home,,-,115
+2011,Springfield,673,Sacred Heart,590,03/22/2011,3,1,Home,,1 Sets,103
+2011,Springfield,673,Harvard,275,03/23/2011,3,0,Home,,-,85
+2011,Springfield,673,New York U.,479,03/27/2011,2,3,Home,,2 Sets,115
+2011,Springfield,673,Juniata,325,04/01/2011,3,2,Home,,2 Sets,614
+2011,Springfield,673,Saint Francis (PA),600,04/02/2011,0,3,Home,,-,110
+2011,Springfield,673,New York U.,479,04/06/2011,3,1,Away,,1 Sets,340
+2011,Springfield,673,Rutgers-Newark,589,04/09/2011,3,1,Home,,1 Sets,217
+2011,Springfield,673,Baruch,58,04/15/2011,3,1,Neutral,"Rochester, NY",1 Sets,400
+2011,Springfield,673,Nazareth,461,04/16/2011,1,3,Away,,1 Sets,"1,000"
+2011,Springfield,673,Juniata,325,04/23/2011,3,2,Home,,2 Sets,215
+2011,Springfield,673,George Mason,248,04/28/2011,3,1,Neutral,"University Park, PA",1 Sets,0
+2011,Springfield,673,Penn St.,539,04/30/2011,0,3,Away,,-,967
+2011,St. Joseph's (Brkln),30072,Purchase St.,30029,02/10/2011,0,3,Home,,-,25
+2011,St. Joseph's (Brkln),30072,Polytechnic (NY),481,02/17/2011,0,3,Away,,-,43
+2011,St. Joseph's (Brkln),30072,Yeshiva,814,02/21/2011,0,3,Home,,-,9
+2011,St. Joseph's (Brkln),30072,York (NY),2730,02/25/2011,0,3,Home,,-,8
+2011,St. Joseph's (Brkln),30072,Medgar Evers,403,03/02/2011,0,3,Away,,-,30
+2011,St. Joseph's (Brkln),30072,Lehman,279,03/08/2011,0,3,Away,,-,57
+2011,St. Joseph's (Brkln),30072,Brooklyn,79,03/10/2011,0,3,Away,,-,0
+2011,St. Joseph's (Brkln),30072,Medgar Evers,403,03/14/2011,0,3,Home,,-,15
+2011,St. Joseph's (Brkln),30072,Yeshiva,814,03/16/2011,0,3,Away,,-,0
+2011,St. Joseph's (Brkln),30072,Cooper Union,,03/21/2011,0,3,Home,,-,5
+2011,St. Joseph's (Brkln),30072,City Tech,8580,03/22/2011,0,3,Home,,-,5
+2011,St. Joseph's (Brkln),30072,Webb Inst.,,03/27/2011,1,3,Away,,1 Sets,0
+2011,St. Joseph's (Brkln),30072,Mt. St. Vincent,451,03/29/2011,0,3,Away,,-,75
+2011,St. Joseph's (Brkln),30072,Webb Inst.,,04/05/2011,0,3,Home,,-,25
+2011,St. Joseph's (Brkln),30072,Yeshiva,814,04/07/2011,0,3,Away,,-,75
+2011,Stanford,674,UC Santa Cruz,113,01/05/2011,3,0,Home,,-,375
+2011,Stanford,674,BYU,77,01/14/2011,3,2,Home,,2 Sets,"1,017"
+2011,Stanford,674,BYU,77,01/15/2011,3,1,Home,,1 Sets,"1,033"
+2011,Stanford,674,Hawaii,277,01/21/2011,0,3,Away,,-,"3,531"
+2011,Stanford,674,Hawaii,277,01/23/2011,3,2,Away,,2 Sets,"3,568"
+2011,Stanford,674,Cal St. Northridge,101,01/28/2011,3,0,Away,,-,882
+2011,Stanford,674,Long Beach St.,99,01/29/2011,0,3,Away,,-,734
+2011,Stanford,674,Pacific,534,02/02/2011,3,1,Home,,1 Sets,300
+2011,Stanford,674,Lewis,354,02/04/2011,3,1,Away,,1 Sets,"1,356"
+2011,Stanford,674,Loyola Chicago,371,02/05/2011,3,1,Away,,1 Sets,873
+2011,Stanford,674,UC San Diego,112,02/11/2011,0,3,Home,,-,550
+2011,Stanford,674,UC Irvine,109,02/12/2011,3,2,Home,,2 Sets,830
+2011,Stanford,674,Southern California,657,02/17/2011,0,3,Away,,-,800
+2011,Stanford,674,Pepperdine,541,02/19/2011,3,0,Away,,-,694
+2011,Stanford,674,UCLA,110,02/25/2011,3,1,Home,,1 Sets,985
+2011,Stanford,674,UC Santa Barbara,104,02/26/2011,3,2,Home,,2 Sets,989
+2011,Stanford,674,UC Irvine,109,03/04/2011,3,1,Away,,1 Sets,"1,212"
+2011,Stanford,674,UC San Diego,112,03/05/2011,3,1,Away,,1 Sets,"1,012"
+2011,Stanford,674,Cal Baptist,30135,03/19/2011,2,3,Home,,2 Sets,430
+2011,Stanford,674,Cal St. Northridge,101,03/25/2011,3,2,Home,,2 Sets,505
+2011,Stanford,674,Long Beach St.,99,03/26/2011,2,3,Home,,2 Sets,767
+2011,Stanford,674,UC Santa Cruz,113,03/30/2011,3,0,Home,,-,262
+2011,Stanford,674,Southern California,657,04/01/2011,1,3,Home,,1 Sets,"1,645"
+2011,Stanford,674,Pepperdine,541,04/02/2011,3,1,Home,,1 Sets,"1,268"
+2011,Stanford,674,UC Santa Barbara,104,04/08/2011,1,3,Away,,1 Sets,550
+2011,Stanford,674,UCLA,110,04/09/2011,3,0,Away,,-,"1,064"
+2011,Stanford,674,Pacific,534,04/16/2011,3,1,Away,,1 Sets,324
+2011,Stanford,674,Long Beach St.,99,04/23/2011,2,3,Home,,2 Sets,"1,057"
+2011,Stevens,679,Hunter,292,01/22/2011,3,2,Home,,2 Sets,0
+2011,Stevens,679,Mount Olive,1245,01/22/2011,3,2,Home,,2 Sets,0
+2011,Stevens,679,Newbury,21772,01/23/2011,3,0,Home,,1 Sets,0
+2011,Stevens,679,Rivier,18422,01/29/2011,3,1,Neutral,"Newark, NJ",1 Sets,53
+2011,Stevens,679,Baruch,58,01/29/2011,3,2,Neutral,"Newark, NJ",2 Sets,64
+2011,Stevens,679,D'Youville,1059,01/30/2011,3,0,Neutral,"Newark, NJ",-,62
+2011,Stevens,679,Rutgers-Newark,589,01/30/2011,1,3,Away,,1 Sets,53
+2011,Stevens,679,Nazareth,461,02/05/2011,2,3,Neutral,"Buffalo, NY",2 Sets,157
+2011,Stevens,679,Hilbert,8398,02/06/2011,3,0,Neutral,"Buffalo, NY",-,50
+2011,Stevens,679,Juniata,325,02/09/2011,3,2,Away,,2 Sets,270
+2011,Stevens,679,Harvard,275,02/12/2011,0,3,Away,,-,177
+2011,Stevens,679,Bard,962,02/17/2011,3,0,Away,,1 Sets,0
+2011,Stevens,679,Vassar,737,02/17/2011,3,0,Home,,-,55
+2011,Stevens,679,SUNYIT,9500,02/19/2011,3,0,Away,,-,50
+2011,Stevens,679,SUNY New Paltz,475,02/22/2011,3,0,Home,,-,55
+2011,Stevens,679,New York U.,479,02/23/2011,1,3,Home,,1 Sets,70
+2011,Stevens,679,Grand Canyon,1104,02/28/2011,0,3,Home,,-,75
+2011,Stevens,679,Phila. Biblical,1305,03/02/2011,0,3,Away,,-,100
+2011,Stevens,679,D'Youville,1059,03/05/2011,3,0,Away,,-,0
+2011,Stevens,679,Medaille,23725,03/06/2011,1,3,Away,,2 Sets,0
+2011,Stevens,679,Elmira,213,03/06/2011,3,0,Away,,1 Sets,0
+2011,Stevens,679,Ramapo,564,03/09/2011,1,3,Away,,1 Sets,126
+2011,Stevens,679,Rutgers-Newark,589,03/11/2011,2,3,Home,,2 Sets,85
+2011,Stevens,679,NJIT,471,03/22/2011,3,1,Home,,1 Sets,75
+2011,Stevens,679,Sacred Heart,590,03/24/2011,1,3,Home,,1 Sets,75
+2011,Stevens,679,SUNY New Paltz,475,03/26/2011,2,3,Neutral,"Rochester, NY",2 Sets,0
+2011,Stevens,679,Elmira,213,03/26/2011,3,1,Home,,1 Sets,0
+2011,Stevens,679,Baruch,58,03/29/2011,3,2,Away,,2 Sets,153
+2011,Stevens,679,SUNY New Paltz,475,04/01/2011,3,0,Home,,-,145
+2011,Stevens,679,Nazareth,461,04/02/2011,0,3,Home,,-,78
+2011,Stevenson,21852,Lasell,8486,01/22/2011,3,1,Neutral,"Utica, NY",1 Sets,50
+2011,Stevenson,21852,Sage Colleges,11036,01/22/2011,3,0,Neutral,"Utica, NY",-,50
+2011,Stevenson,21852,Bard,962,01/23/2011,3,0,Neutral,"Utica, NY",-,50
+2011,Stevenson,21852,SUNYIT,9500,01/23/2011,3,1,Away,,1 Sets,35
+2011,Stevenson,21852,Lancaster Bible,30085,01/25/2011,3,0,Home,,-,234
+2011,Stevenson,21852,Ramapo,564,01/29/2011,3,1,Away,,1 Sets,100
+2011,Stevenson,21852,Polytechnic (NY),481,01/29/2011,3,1,Home,,1 Sets,50
+2011,Stevenson,21852,East. Mennonite,203,02/02/2011,1,3,Away,,1 Sets,311
+2011,Stevenson,21852,Wentworth Inst.,762,02/05/2011,3,2,Neutral,"Lancaster, PA",2 Sets,50
+2011,Stevenson,21852,Lancaster Bible,30085,02/05/2011,3,0,Away,,-,124
+2011,Stevenson,21852,Thiel,707,02/06/2011,3,0,Home,,-,50
+2011,Stevenson,21852,CCNY,480,02/13/2011,3,0,Neutral,"Jersey City, NJ",-,37
+2011,Stevenson,21852,New Jersey City,319,02/13/2011,3,1,Away,,1 Sets,43
+2011,Stevenson,21852,Phila. Biblical,1305,02/16/2011,0,3,Away,,-,70
+2011,Stevenson,21852,Limestone,1174,02/19/2011,3,0,Home,,-,56
+2011,Stevenson,21852,New Jersey City,319,02/19/2011,3,2,Home,,2 Sets,47
+2011,Stevenson,21852,Kean,329,02/21/2011,3,1,Away,,1 Sets,34
+2011,Stevenson,21852,East. Mennonite,203,02/23/2011,3,1,Home,,1 Sets,343
+2011,Stevenson,21852,Washington Bible,,03/01/2011,3,0,Away,,-,50
+2011,Stevenson,21852,Ramapo,564,03/06/2011,1,3,Home,,1 Sets,117
+2011,Stevenson,21852,SUNYIT,9500,03/08/2011,3,0,Home,,-,76
+2011,Stevenson,21852,Mount Olive,1245,03/08/2011,0,3,Home,,-,55
+2011,Stevenson,21852,Phila. Biblical,1305,03/11/2011,1,3,Home,,1 Sets,76
+2011,Stevenson,21852,Pfeiffer,542,03/12/2011,0,3,Home,,-,55
+2011,Stevenson,21852,Hunter,292,03/12/2011,3,2,Home,,2 Sets,56
+2011,Stevenson,21852,Lasell,8486,03/18/2011,3,1,Neutral,"Providence, R.I.",1 Sets,57
+2011,Stevenson,21852,CCNY,480,03/18/2011,3,1,Neutral,"Providence, R.I.",1 Sets,57
+2011,Stevenson,21852,New Jersey City,319,03/19/2011,3,0,Neutral,"Providence, RI",-,24
+2011,Stevenson,21852,Johnson & Wales (RI),22626,03/19/2011,3,0,Away,,-,57
+2011,Stevenson,21852,Kean,329,03/26/2011,3,1,Home,,1 Sets,132
+2011,Stevenson,21852,MIT,398,04/01/2011,0,3,Neutral,"Hoboken, N.J.",-,0
+2011,Stevenson,21852,Ramapo,564,04/09/2011,3,2,Home,,2 Sets,123
+2011,Stevenson,21852,Hunter,292,04/09/2011,3,1,Home,,1 Sets,85
+2011,SUNY New Paltz,475,New York U.,479,01/20/2011,1,3,Home,,1 Sets,40
+2011,SUNY New Paltz,475,Baruch,58,01/22/2011,3,0,Home,,-,70
+2011,SUNY New Paltz,475,Emmanuel (MA),215,01/22/2011,0,3,Home,,-,112
+2011,SUNY New Paltz,475,Elms,532,01/23/2011,3,0,Home,,-,76
+2011,SUNY New Paltz,475,MIT,398,01/23/2011,3,2,Home,,2 Sets,87
+2011,SUNY New Paltz,475,Bard,962,02/03/2011,3,1,Home,,1 Sets,73
+2011,SUNY New Paltz,475,Elmira,213,02/05/2011,0,3,Neutral,Medaille College,-,42
+2011,SUNY New Paltz,475,D'Youville,1059,02/06/2011,1,3,Away,,1 Sets,110
+2011,SUNY New Paltz,475,Vassar,737,02/09/2011,1,3,Home,,1 Sets,104
+2011,SUNY New Paltz,475,UC Santa Cruz,113,02/11/2011,1,3,Neutral,Nazareth College,1 Sets,0
+2011,SUNY New Paltz,475,Medaille,23725,02/11/2011,3,2,Neutral,Nazareth College,2 Sets,0
+2011,SUNY New Paltz,475,Nazareth,461,02/12/2011,1,3,Away,,1 Sets,0
+2011,SUNY New Paltz,475,Thiel,707,02/12/2011,3,0,Neutral,Nazareth College,-,0
+2011,SUNY New Paltz,475,Hunter,292,02/15/2011,3,0,Home,,-,45
+2011,SUNY New Paltz,475,SUNYIT,9500,02/17/2011,3,0,Away,,-,55
+2011,SUNY New Paltz,475,Lancaster Bible,30085,02/19/2011,3,1,Home,,1 Sets,66
+2011,SUNY New Paltz,475,Stevens,679,02/22/2011,0,3,Away,,-,55
+2011,SUNY New Paltz,475,Endicott,8981,02/25/2011,3,0,Away,,-,75
+2011,SUNY New Paltz,475,Ramapo,564,03/02/2011,3,1,Home,,1 Sets,48
+2011,SUNY New Paltz,475,Nazareth,461,03/05/2011,1,3,Neutral,"Poughkeepsie, NY",1 Sets,35
+2011,SUNY New Paltz,475,Medaille,23725,03/06/2011,2,3,Neutral,"Poughkeepsie, NY",2 Sets,38
+2011,SUNY New Paltz,475,Hilbert,8398,03/06/2011,3,1,Neutral,"Poughkeepsie, NY",1 Sets,24
+2011,SUNY New Paltz,475,City Tech,8580,03/11/2011,3,0,Neutral,"Jamaica, NY",-,50
+2011,SUNY New Paltz,475,York (NY),2730,03/12/2011,3,0,Away,,-,100
+2011,SUNY New Paltz,475,New Jersey City,319,03/12/2011,3,1,Neutral,"Jamaica, Queens, NY",1 Sets,13
+2011,SUNY New Paltz,475,Mount Olive,1245,03/12/2011,3,2,Neutral,"Jamaica, NY",2 Sets,35
+2011,SUNY New Paltz,475,Baruch,58,03/17/2011,1,3,Home,,1 Sets,79
+2011,SUNY New Paltz,475,Phila. Biblical,1305,03/22/2011,3,0,Away,,-,0
+2011,SUNY New Paltz,475,New Haven,470,03/24/2011,3,0,Away,,-,76
+2011,SUNY New Paltz,475,Stevens,679,03/26/2011,3,2,Neutral,"Rochester, NY",2 Sets,0
+2011,SUNY New Paltz,475,Medaille,23725,03/26/2011,3,2,Neutral,"Rochester, NY",2 Sets,55
+2011,SUNY New Paltz,475,Nazareth,461,03/27/2011,2,3,Away,,2 Sets,334
+2011,SUNY New Paltz,475,Stevens,679,04/01/2011,0,3,Away,,-,145
+2011,SUNY Poly,9500,Bard,962,01/20/2011,1,3,Away,,1 Sets,100
+2011,SUNY Poly,9500,Hilbert,8398,01/22/2011,3,1,Home,,1 Sets,50
+2011,SUNY Poly,9500,Bard,962,01/22/2011,3,1,Home,,1 Sets,50
+2011,SUNY Poly,9500,Stevenson,21852,01/23/2011,1,3,Home,,1 Sets,35
+2011,SUNY Poly,9500,Lasell,8486,01/23/2011,3,2,Home,,2 Sets,35
+2011,SUNY Poly,9500,Southern Vt.,1379,01/25/2011,3,0,Home,,-,40
+2011,SUNY Poly,9500,Southern Vt.,1379,02/03/2011,3,0,Away,,-,0
+2011,SUNY Poly,9500,Hilbert,8398,02/05/2011,3,0,Neutral,"Buffalo, NY",-,45
+2011,SUNY Poly,9500,Medaille,23725,02/06/2011,0,3,Away,,-,88
+2011,SUNY Poly,9500,Baruch,58,02/12/2011,1,3,Neutral,Endicott College,1 Sets,0
+2011,SUNY Poly,9500,Vassar,737,02/12/2011,0,3,Neutral,Endicott College,-,0
+2011,SUNY Poly,9500,Hunter,292,02/13/2011,1,3,Neutral,Endicott College,1 Sets,0
+2011,SUNY Poly,9500,Emerson,214,02/13/2011,3,0,Neutral,Endicott College,-,0
+2011,SUNY Poly,9500,SUNY New Paltz,475,02/17/2011,0,3,Home,,-,55
+2011,SUNY Poly,9500,Stevens,679,02/19/2011,0,3,Home,,-,50
+2011,SUNY Poly,9500,Vassar,737,02/23/2011,0,3,Away,,-,52
+2011,SUNY Poly,9500,Sage Colleges,11036,03/01/2011,3,0,Away,,-,65
+2011,SUNY Poly,9500,Sage Colleges,11036,03/03/2011,0,3,Home,,-,30
+2011,SUNY Poly,9500,Elmira,213,03/05/2011,3,1,Away,,1 Sets,0
+2011,SUNY Poly,9500,D'Youville,1059,03/06/2011,0,3,Neutral,"Poughkeepsie, NY",-,35
+2011,SUNY Poly,9500,Nazareth,461,03/06/2011,0,3,Neutral,"Poughkeepsie, NY",-,0
+2011,SUNY Poly,9500,Mount Olive,1245,03/08/2011,1,3,Neutral,"Owings Mills, MD",1 Sets,52
+2011,SUNY Poly,9500,Stevenson,21852,03/08/2011,0,3,Away,,-,76
+2011,SUNY Poly,9500,Elmira,213,03/19/2011,0,3,Home,,-,110
+2011,SUNY Poly,9500,Nazareth,461,03/26/2011,0,3,Away,,-,0
+2011,Thiel,707,Siena Heights,,01/15/2011,3,1,Home,,1 Sets,211
+2011,Thiel,707,D'Youville,1059,01/18/2011,0,3,Away,,-,0
+2011,Thiel,707,Medaille,23725,01/21/2011,1,3,Away,,1 Sets,0
+2011,Thiel,707,Nazareth,461,01/22/2011,0,3,Home,,-,119
+2011,Thiel,707,Carthage,121,01/23/2011,0,3,Home,,-,128
+2011,Thiel,707,Juniata,325,01/23/2011,1,3,Home,,1 Sets,214
+2011,Thiel,707,Elmira,213,01/26/2011,2,3,Away,,2 Sets,150
+2011,Thiel,707,Wentworth Inst.,762,02/05/2011,1,3,Neutral,"Lancaster, PA",1 Sets,0
+2011,Thiel,707,Lancaster Bible,30085,02/05/2011,3,0,Away,,-,0
+2011,Thiel,707,Stevenson,21852,02/06/2011,0,3,Away,,-,0
+2011,Thiel,707,Nazareth,461,02/11/2011,0,3,Away,,-,0
+2011,Thiel,707,Rivier,18422,02/11/2011,2,3,Neutral,"Rochester, NY",2 Sets,0
+2011,Thiel,707,Medaille,23725,02/12/2011,0,3,Neutral,"Rochester, NY",-,0
+2011,Thiel,707,SUNY New Paltz,475,02/12/2011,0,3,Neutral,"Rochester, NY",-,0
+2011,Thiel,707,Milwaukee Engr.,20220,02/19/2011,2,3,Neutral,"Cincinnati, OH",2 Sets,0
+2011,Thiel,707,Carthage,121,02/19/2011,0,3,Neutral,"Cincinnati, OH",-,0
+2011,Thiel,707,Mt. St. Joseph,8567,02/20/2011,3,0,Away,,-,0
+2011,Thiel,707,Fontbonne,11538,02/20/2011,3,0,Neutral,"Cincinnati, OH",-,0
+2011,Thiel,707,Hilbert,8398,02/26/2011,3,1,Away,,1 Sets,0
+2011,Thiel,707,Medaille,23725,03/02/2011,0,4,Home,,1 Sets,117
+2011,Thiel,707,Milwaukee Engr.,20220,03/05/2011,0,3,Neutral,"Kenosha, WI",-,0
+2011,Thiel,707,Carthage,121,03/05/2011,0,3,Away,,-,0
+2011,Thiel,707,Mt. St. Joseph,8567,03/06/2011,3,0,Neutral,"Kenosha, WI",-,0
+2011,Thiel,707,Fontbonne,11538,03/06/2011,3,0,Neutral,"Kenosha, WI",-,0
+2011,Thiel,707,Hilbert,8398,03/16/2011,3,0,Home,,-,51
+2011,Thiel,707,D'Youville,1059,03/22/2011,0,3,Home,,-,150
+2011,Thiel,707,Siena Heights,,03/24/2011,0,3,Away,,-,0
+2011,Thiel,707,Elmira,213,03/29/2011,3,2,Home,,2 Sets,105
+2011,Thiel,707,Milwaukee Engr.,20220,04/01/2011,3,1,Home,,1 Sets,75
+2011,Thiel,707,Carthage,121,04/02/2011,0,3,Home,,-,67
+2011,UC Irvine,109,Cal Baptist,30135,01/05/2011,2,3,Away,,2 Sets,250
+2011,UC Irvine,109,Cal Baptist,30135,01/07/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,UC Irvine,109,Long Beach St.,99,01/07/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,0
+2011,UC Irvine,109,Cal St. Northridge,101,01/08/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,250
+2011,UC Irvine,109,UC San Diego,112,01/12/2011,1,3,Home,,1 Sets,880
+2011,UC Irvine,109,UC Santa Barbara,104,01/15/2011,3,0,Home,,-,"1,457"
+2011,UC Irvine,109,Southern California,657,01/19/2011,1,3,Home,,1 Sets,"1,659"
+2011,UC Irvine,109,Pepperdine,541,01/21/2011,3,2,Home,,2 Sets,932
+2011,UC Irvine,109,BYU,77,01/28/2011,0,3,Away,,-,"3,306"
+2011,UC Irvine,109,BYU,77,01/29/2011,0,3,Away,,-,"2,631"
+2011,UC Irvine,109,Penn St.,539,02/04/2011,3,1,Away,,1 Sets,"1,602"
+2011,UC Irvine,109,Ohio St.,518,02/05/2011,2,3,Neutral,"University Park, PA",2 Sets,"1,423"
+2011,UC Irvine,109,Pacific,534,02/11/2011,3,0,Away,,-,208
+2011,UC Irvine,109,Stanford,674,02/12/2011,2,3,Away,,2 Sets,830
+2011,UC Irvine,109,Long Beach St.,99,02/16/2011,3,1,Home,,1 Sets,488
+2011,UC Irvine,109,Cal St. Northridge,101,02/18/2011,3,0,Home,,-,586
+2011,UC Irvine,109,Hawaii,277,02/21/2011,3,1,Home,,1 Sets,664
+2011,UC Irvine,109,Hawaii,277,02/22/2011,3,1,Home,,1 Sets,557
+2011,UC Irvine,109,Stanford,674,03/04/2011,1,3,Home,,1 Sets,"1,212"
+2011,UC Irvine,109,Pacific,534,03/05/2011,3,0,Home,,-,704
+2011,UC Irvine,109,Pepperdine,541,03/10/2011,3,0,Away,,-,427
+2011,UC Irvine,109,Southern California,657,03/12/2011,1,3,Away,,1 Sets,700
+2011,UC Irvine,109,UCLA,110,03/24/2011,0,3,Away,,-,758
+2011,UC Irvine,109,Ohio St.,518,03/26/2011,3,0,Home,,-,448
+2011,UC Irvine,109,UCLA,110,03/30/2011,3,1,Home,,1 Sets,"1,273"
+2011,UC Irvine,109,UC Santa Barbara,104,04/01/2011,3,1,Away,,1 Sets,475
+2011,UC Irvine,109,Long Beach St.,99,04/06/2011,3,1,Away,,1 Sets,749
+2011,UC Irvine,109,Cal St. Northridge,101,04/09/2011,3,0,Away,,-,609
+2011,UC Irvine,109,UC San Diego,112,04/16/2011,3,0,Away,,-,410
+2011,UC Irvine,109,Hawaii,277,04/23/2011,3,0,Home,,-,788
+2011,UC Irvine,109,Southern California,657,04/28/2011,1,3,Away,,1 Sets,0
+2011,UC San Diego,112,Cal St. Northridge,101,01/07/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,50
+2011,UC San Diego,112,UCLA,110,01/07/2011,1,3,Neutral,"Santa Barbara, CA",1 Sets,50
+2011,UC San Diego,112,Cal Baptist,30135,01/08/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,200
+2011,UC San Diego,112,UC Irvine,109,01/12/2011,3,1,Away,,1 Sets,880
+2011,UC San Diego,112,UC Santa Barbara,104,01/14/2011,0,3,Home,,-,312
+2011,UC San Diego,112,Southern California,657,01/21/2011,0,3,Home,,-,649
+2011,UC San Diego,112,Cal Baptist,30135,01/22/2011,1,3,Away,,1 Sets,254
+2011,UC San Diego,112,Princeton,554,01/26/2011,3,0,Home,,-,137
+2011,UC San Diego,112,Hawaii,277,01/28/2011,3,2,Home,,2 Sets,420
+2011,UC San Diego,112,Hawaii,277,01/29/2011,1,3,Home,,1 Sets,378
+2011,UC San Diego,112,Hope Int'l,,02/01/2011,3,0,Home,,-,127
+2011,UC San Diego,112,Pepperdine,541,02/04/2011,1,3,Home,,1 Sets,416
+2011,UC San Diego,112,Pacific,534,02/10/2011,1,3,Away,,1 Sets,201
+2011,UC San Diego,112,Stanford,674,02/11/2011,3,0,Away,,-,550
+2011,UC San Diego,112,Long Beach St.,99,02/18/2011,1,3,Home,,1 Sets,267
+2011,UC San Diego,112,Cal St. Northridge,101,02/19/2011,1,3,Home,,1 Sets,287
+2011,UC San Diego,112,BYU,77,02/24/2011,2,3,Away,,2 Sets,"1,532"
+2011,UC San Diego,112,BYU,77,02/25/2011,0,3,Away,,-,"2,867"
+2011,UC San Diego,112,Pacific,534,03/04/2011,0,3,Home,,-,156
+2011,UC San Diego,112,Stanford,674,03/05/2011,1,3,Home,,1 Sets,"1,012"
+2011,UC San Diego,112,Southern California,657,03/11/2011,0,3,Away,,-,350
+2011,UC San Diego,112,Pepperdine,541,03/12/2011,3,2,Away,,2 Sets,518
+2011,UC San Diego,112,Ohio St.,518,03/24/2011,3,1,Home,,1 Sets,201
+2011,UC San Diego,112,UCLA,110,03/26/2011,0,3,Home,,-,516
+2011,UC San Diego,112,UC Santa Barbara,104,03/31/2011,0,3,Away,,-,254
+2011,UC San Diego,112,UCLA,110,04/01/2011,3,0,Away,,-,411
+2011,UC San Diego,112,Cal St. Northridge,101,04/07/2011,0,3,Away,,-,152
+2011,UC San Diego,112,Long Beach St.,99,04/09/2011,1,3,Away,,1 Sets,541
+2011,UC San Diego,112,UC Irvine,109,04/16/2011,0,3,Home,,-,410
+2011,UC Santa Barbara,104,Cal St. Northridge,101,01/07/2011,3,0,Home,,-,150
+2011,UC Santa Barbara,104,UCLA,110,01/07/2011,3,1,Home,,1 Sets,615
+2011,UC Santa Barbara,104,BYU,77,01/08/2011,1,3,Home,,1 Sets,320
+2011,UC Santa Barbara,104,UC San Diego,112,01/14/2011,3,0,Away,,-,312
+2011,UC Santa Barbara,104,UC Irvine,109,01/15/2011,0,3,Away,,-,"1,457"
+2011,UC Santa Barbara,104,Long Beach St.,99,01/18/2011,0,3,Away,,-,527
+2011,UC Santa Barbara,104,Cal St. Northridge,101,01/21/2011,3,0,Away,,-,486
+2011,UC Santa Barbara,104,Southern California,657,01/26/2011,0,3,Home,,-,454
+2011,UC Santa Barbara,104,Pepperdine,541,01/28/2011,3,0,Home,,-,375
+2011,UC Santa Barbara,104,Hawaii,277,02/03/2011,1,3,Away,,1 Sets,"2,926"
+2011,UC Santa Barbara,104,Hawaii,277,02/04/2011,3,0,Away,,-,"3,209"
+2011,UC Santa Barbara,104,UCLA,110,02/09/2011,3,1,Away,,1 Sets,422
+2011,UC Santa Barbara,104,UCLA,110,02/11/2011,3,1,Home,,1 Sets,490
+2011,UC Santa Barbara,104,BYU,77,02/17/2011,1,3,Home,,1 Sets,390
+2011,UC Santa Barbara,104,BYU,77,02/18/2011,3,0,Home,,-,310
+2011,UC Santa Barbara,104,Pacific,534,02/25/2011,3,1,Away,,1 Sets,320
+2011,UC Santa Barbara,104,Stanford,674,02/26/2011,2,3,Away,,2 Sets,989
+2011,UC Santa Barbara,104,Long Beach St.,99,03/02/2011,1,3,Home,,1 Sets,282
+2011,UC Santa Barbara,104,Cal St. Northridge,101,03/04/2011,3,0,Home,,-,265
+2011,UC Santa Barbara,104,Penn St.,539,03/11/2011,1,3,Neutral,"Long Beach, CA",1 Sets,0
+2011,UC Santa Barbara,104,Lewis,354,03/12/2011,3,0,Neutral,"Long Beach, CA",-,0
+2011,UC Santa Barbara,104,Cal Baptist,30135,03/24/2011,0,3,Away,,-,289
+2011,UC Santa Barbara,104,UC San Diego,112,03/31/2011,3,0,Home,,-,254
+2011,UC Santa Barbara,104,UC Irvine,109,04/01/2011,1,3,Home,,1 Sets,475
+2011,UC Santa Barbara,104,Pacific,534,04/07/2011,2,3,Home,,2 Sets,212
+2011,UC Santa Barbara,104,Stanford,674,04/08/2011,3,1,Home,,1 Sets,550
+2011,UC Santa Barbara,104,Pepperdine,541,04/14/2011,0,3,Away,,-,411
+2011,UC Santa Barbara,104,Southern California,657,04/16/2011,0,3,Away,,-,750
+2011,UC Santa Barbara,104,BYU,77,04/23/2011,3,1,Away,,1 Sets,"2,375"
+2011,UC Santa Barbara,104,Long Beach St.,99,04/28/2011,3,1,Neutral,"Los Angeles, CA",-2 Sets,0
+2011,UC Santa Barbara,104,Southern California,657,04/30/2011,3,2,Away,,-1 Sets,0
+2011,UC Santa Barbara,104,Southern California,657,05/05/2011,3,1,Neutral,"University Park, PA",1 Sets,0
+2011,UC Santa Barbara,104,Ohio St.,518,05/07/2011,2,3,Neutral,"University Park, PA",2 Sets,"3,683"
+2011,UC Santa Cruz,113,Stanford,674,01/05/2011,0,3,Away,,-,375
+2011,UC Santa Cruz,113,Grand Canyon,1104,01/07/2011,0,3,Away,,-,321
+2011,UC Santa Cruz,113,Grand Canyon,1104,01/08/2011,3,1,Away,,1 Sets,283
+2011,UC Santa Cruz,113,Juniata,325,01/08/2011,1,3,Neutral,"Phoenix, AZ",1 Sets,0
+2011,UC Santa Cruz,113,Cal Baptist,30135,01/21/2011,1,3,Neutral,"Fullerton, CA",1 Sets,183
+2011,UC Santa Cruz,113,Hope Int'l,,01/22/2011,1,3,Away,,1 Sets,138
+2011,UC Santa Cruz,113,Medaille,23725,02/11/2011,3,0,Neutral,"Rochester, NY",-,49
+2011,UC Santa Cruz,113,SUNY New Paltz,475,02/11/2011,3,1,Neutral,"Rochester, NY",1 Sets,0
+2011,UC Santa Cruz,113,Rivier,18422,02/12/2011,3,0,Neutral,"Rochester, NY",-,0
+2011,UC Santa Cruz,113,Nazareth,461,02/12/2011,2,3,Away,,2 Sets,0
+2011,UC Santa Cruz,113,Carthage,121,02/25/2011,1,3,Neutral,"New York, NY",1 Sets,50
+2011,UC Santa Cruz,113,Phila. Biblical,1305,02/26/2011,3,1,Neutral,"New York, NY",1 Sets,25
+2011,UC Santa Cruz,113,Milwaukee Engr.,20220,02/26/2011,3,0,Neutral,"New York, NY",-,0
+2011,UC Santa Cruz,113,Baruch,58,02/27/2011,2,3,Away,,2 Sets,63
+2011,UC Santa Cruz,113,Holy Names,,03/04/2011,3,0,Home,,-,75
+2011,UC Santa Cruz,113,Hope Int'l,,03/05/2011,2,3,Home,,2 Sets,130
+2011,UC Santa Cruz,113,Cal Baptist,30135,03/18/2011,0,3,Home,,-,100
+2011,UC Santa Cruz,113,New York U.,479,03/19/2011,2,3,Neutral,"Stockton, CA",2 Sets,106
+2011,UC Santa Cruz,113,Pacific,534,03/19/2011,0,3,Away,,-,163
+2011,UC Santa Cruz,113,Stanford,674,03/30/2011,0,3,Away,,-,262
+2011,UCLA,110,UC Santa Barbara,104,01/07/2011,1,3,Away,,1 Sets,615
+2011,UCLA,110,UC San Diego,112,01/07/2011,3,1,Neutral,"Santa Barbara, CA",1 Sets,50
+2011,UCLA,110,Long Beach St.,99,01/08/2011,3,2,Neutral,"Santa Barbara, CA",2 Sets,310
+2011,UCLA,110,Penn St.,539,01/13/2011,3,1,Away,,1 Sets,0
+2011,UCLA,110,Ball St.,47,01/14/2011,3,1,Neutral,"Honolulu, HI",1 Sets,"3,240"
+2011,UCLA,110,Hawaii,277,01/15/2011,3,0,Away,,-,"3,679"
+2011,UCLA,110,Cal St. Northridge,101,01/19/2011,3,1,Home,,1 Sets,637
+2011,UCLA,110,Long Beach St.,99,01/21/2011,2,3,Away,,2 Sets,907
+2011,UCLA,110,Pepperdine,541,01/26/2011,3,0,Home,,-,420
+2011,UCLA,110,Southern California,657,01/28/2011,1,3,Home,,1 Sets,"2,251"
+2011,UCLA,110,BYU,77,02/04/2011,1,3,Away,,1 Sets,"3,006"
+2011,UCLA,110,BYU,77,02/05/2011,0,3,Away,,-,"4,101"
+2011,UCLA,110,UC Santa Barbara,104,02/09/2011,1,3,Home,,1 Sets,422
+2011,UCLA,110,UC Santa Barbara,104,02/11/2011,1,3,Away,,1 Sets,490
+2011,UCLA,110,Hawaii,277,02/17/2011,3,0,Home,,-,663
+2011,UCLA,110,Hawaii,277,02/19/2011,0,3,Home,,-,754
+2011,UCLA,110,Stanford,674,02/25/2011,1,3,Away,,1 Sets,985
+2011,UCLA,110,Pacific,534,02/26/2011,3,0,Away,,-,255
+2011,UCLA,110,Cal St. Northridge,101,03/02/2011,3,0,Away,,-,512
+2011,UCLA,110,Long Beach St.,99,03/04/2011,3,2,Home,,2 Sets,"1,176"
+2011,UCLA,110,Penn St.,539,03/09/2011,3,2,Home,,2 Sets,424
+2011,UCLA,110,Loyola Chicago,371,03/11/2011,3,2,Home,,2 Sets,485
+2011,UCLA,110,UC Irvine,109,03/24/2011,3,0,Home,,-,758
+2011,UCLA,110,UC San Diego,112,03/26/2011,3,0,Away,,-,516
+2011,UCLA,110,UC Irvine,109,03/30/2011,1,3,Away,,1 Sets,"1,273"
+2011,UCLA,110,UC San Diego,112,04/01/2011,0,3,Home,,-,411
+2011,UCLA,110,Pacific,534,04/08/2011,3,0,Home,,-,400
+2011,UCLA,110,Stanford,674,04/09/2011,0,3,Home,,-,"1,064"
+2011,UCLA,110,Southern California,657,04/14/2011,0,3,Away,,-,"1,500"
+2011,UCLA,110,Pepperdine,541,04/16/2011,1,3,Away,,1 Sets,673
+2011,UCLA,110,Southern California,657,04/23/2011,1,3,Away,,1 Sets,"1,414"
+2011,Vassar,737,Rivier,18422,01/21/2011,1,3,Neutral,"Mahwah, NJ",1 Sets,125
+2011,Vassar,737,Phila. Biblical,1305,01/22/2011,1,3,Home,,1 Sets,20
+2011,Vassar,737,Ramapo,564,01/22/2011,3,0,Away,,-,100
+2011,Vassar,737,Bard,962,01/25/2011,3,0,Home,,-,100
+2011,Vassar,737,Emmanuel (MA),215,01/29/2011,1,3,Away,,1 Sets,0
+2011,Vassar,737,New Haven,470,01/29/2011,3,0,Neutral,"Boston, MA",-,0
+2011,Vassar,737,Medaille,23725,02/05/2011,1,3,Away,,1 Sets,92
+2011,Vassar,737,Elmira,213,02/06/2011,3,1,Neutral,"Buffalo, NY",1 Sets,12
+2011,Vassar,737,SUNY New Paltz,475,02/09/2011,3,1,Away,,1 Sets,104
+2011,Vassar,737,SUNYIT,9500,02/12/2011,3,0,Neutral,"Boston, MA",-,0
+2011,Vassar,737,Baruch,58,02/12/2011,1,3,Neutral,"Boston, MA",1 Sets,0
+2011,Vassar,737,Endicott,8981,02/13/2011,3,1,Away,,1 Sets,90
+2011,Vassar,737,East. Mennonite,203,02/13/2011,3,0,Neutral,"Boston, MA",-,0
+2011,Vassar,737,Stevens,679,02/17/2011,0,3,Away,,-,55
+2011,Vassar,737,Johnson & Wales (RI),22626,02/18/2011,3,0,Home,,-,50
+2011,Vassar,737,Lasell,8486,02/19/2011,3,1,Home,,1 Sets,0
+2011,Vassar,737,Nazareth,461,02/19/2011,0,3,Home,,-,90
+2011,Vassar,737,Hunter,292,02/22/2011,3,2,Home,,2 Sets,50
+2011,Vassar,737,SUNYIT,9500,02/23/2011,3,0,Home,,-,52
+2011,Vassar,737,New Jersey City,319,02/26/2011,3,0,Home,,-,75
+2011,Vassar,737,MIT,398,02/26/2011,3,0,Home,,-,75
+2011,Vassar,737,Springfield,673,03/01/2011,0,3,Away,,-,109
+2011,Vassar,737,Hilbert,8398,03/05/2011,3,0,Home,,-,50
+2011,Vassar,737,Nazareth,461,03/06/2011,1,3,Home,,1 Sets,50
+2011,Vassar,737,D'Youville,1059,03/06/2011,3,0,Home,,-,50
+2011,Vassar,737,New York U.,479,03/22/2011,1,3,Home,,1 Sets,125
+2011,Vassar,737,D'Youville,1059,03/26/2011,3,0,Neutral,"Rochester, NY",-,0
+2011,Vassar,737,Nazareth,461,03/26/2011,0,3,Away,,-,0
+2011,Vassar,737,Baruch,58,03/30/2011,2,3,Home,,2 Sets,150
+2011,Vassar,737,Medaille,23725,04/01/2011,2,3,Neutral,"Hoboken, NJ",2 Sets,89
+2011,Washington Adventist,1029,NJIT,471,01/13/2011,0,3,Home,,-,60
+2011,Washington Adventist,1029,Medgar Evers,403,02/13/2011,3,0,Away,,-,50
+2011,Washington Adventist,1029,Yeshiva,814,02/13/2011,1,3,Neutral,"Brooklyn, NY",1 Sets,50
+2011,Washington Adventist,1029,Lees-McRae,13302,02/17/2011,0,3,Home,,-,40
+2011,Washington Adventist,1029,Limestone,1174,02/20/2011,0,3,Home,,-,20
+2011,Washington Adventist,1029,Pfeiffer,542,02/25/2011,0,3,Away,,-,72
+2011,Washington Adventist,1029,Limestone,1174,02/26/2011,0,3,Away,,-,53
+2011,Washington Adventist,1029,Lees-McRae,13302,02/27/2011,0,3,Neutral,"Gaffney, SC",-,15
+2011,Washington Adventist,1029,NJIT,471,03/27/2011,0,3,Away,,-,52
+2011,Wentworth,762,MIT,398,01/11/2011,0,3,Home,,-,42
+2011,Wentworth,762,Lehman,279,01/13/2011,3,0,Away,,-,89
+2011,Wentworth,762,Rivier,18422,01/16/2011,0,3,Away,,-,40
+2011,Wentworth,762,Lasell,8486,01/16/2011,0,3,Neutral,"Nashua, N.H.",-,40
+2011,Wentworth,762,Endicott,8981,01/22/2011,0,3,Away,,-,90
+2011,Wentworth,762,Regis (MA),569,01/25/2011,3,0,Home,,-,35
+2011,Wentworth,762,Lesley,24317,01/27/2011,3,0,Home,,-,50
+2011,Wentworth,762,Johnson & Wales (RI),22626,01/29/2011,3,1,Home,,1 Sets,55
+2011,Wentworth,762,CCNY,480,01/29/2011,3,1,Home,,1 Sets,75
+2011,Wentworth,762,Kean,329,02/04/2011,3,0,Away,,-,53
+2011,Wentworth,762,Stevenson,21852,02/05/2011,2,3,Neutral,"Lancaster, PA",2 Sets,50
+2011,Wentworth,762,Lancaster Bible,30085,02/05/2011,3,0,Away,,-,30
+2011,Wentworth,762,Thiel,707,02/05/2011,3,1,Neutral,"Lancaster, PA",1 Sets,85
+2011,Wentworth,762,Emerson,214,02/08/2011,3,1,Home,,1 Sets,43
+2011,Wentworth,762,Regis (MA),569,02/09/2011,3,0,Away,,-,27
+2011,Wentworth,762,Newbury,21772,02/12/2011,1,3,Neutral,"Bennington, VT",1 Sets,40
+2011,Wentworth,762,Southern Vt.,1379,02/12/2011,3,0,Away,,-,43
+2011,Wentworth,762,Daniel Webster,2691,02/15/2011,3,0,Home,,-,38
+2011,Wentworth,762,Lesley,24317,02/16/2011,3,0,Away,,-,12
+2011,Wentworth,762,Southern Vt.,1379,02/19/2011,3,0,Home,,-,100
+2011,Wentworth,762,Elms,532,02/19/2011,3,0,Home,,-,100
+2011,Wentworth,762,City Tech,8580,02/26/2011,3,0,Neutral,"Jamaica, NY",-,15
+2011,Wentworth,762,York (NY),2730,02/26/2011,3,0,Away,,-,25
+2011,Wentworth,762,Newbury,21772,03/16/2011,2,3,Away,,2 Sets,22
+2011,Wentworth,762,Emmanuel (MA),215,03/17/2011,1,3,Away,,1 Sets,50
+2011,Wentworth,762,Elms,532,03/19/2011,3,1,Away,,1 Sets,154
+2011,Wentworth,762,Daniel Webster,2691,03/22/2011,3,2,Away,,2 Sets,48
+2011,Wentworth,762,Mount Ida,27901,03/23/2011,3,0,Away,,-,40
+2011,Wentworth,762,MIT,398,03/25/2011,0,3,Away,,-,40
+2011,Wentworth,762,Endicott,8981,03/26/2011,1,3,Home,,1 Sets,110
+2011,Wentworth,762,Endicott,8981,04/09/2011,0,3,Away,,-,120
+2011,Yeshiva,814,Purchase St.,30029,02/07/2011,3,0,Home,,-,68
+2011,Yeshiva,814,Mt. St. Vincent,451,02/09/2011,0,3,Home,,-,55
+2011,Yeshiva,814,Washington Adventist,1029,02/13/2011,3,1,Neutral,"Brooklyn, NY",1 Sets,50
+2011,Yeshiva,814,Medgar Evers,403,02/13/2011,3,0,Away,,-,30
+2011,Yeshiva,814,York (NY),2730,02/16/2011,0,3,Away,,-,40
+2011,Yeshiva,814,Emmanuel (MA),215,02/20/2011,0,3,Neutral,"New Haven, CT",-,0
+2011,Yeshiva,814,Albertus Magnus,2798,02/20/2011,3,2,Away,,2 Sets,0
+2011,Yeshiva,814,St. Joseph's (Brkln),30072,02/21/2011,3,0,Away,,-,9
+2011,Yeshiva,814,Cooper Union,,02/24/2011,3,0,Home,,-,30
+2011,Yeshiva,814,Bard,962,02/27/2011,0,3,Home,,-,50
+2011,Yeshiva,814,Sage Colleges,11036,02/27/2011,0,3,Home,,-,50
+2011,Yeshiva,814,Polytechnic (NY),481,03/03/2011,0,3,Home,,-,50
+2011,Yeshiva,814,Mt. St. Vincent,451,03/06/2011,0,3,Away,,-,0
+2011,Yeshiva,814,Purchase St.,30029,03/06/2011,2,3,Neutral,"Bronx, NY",2 Sets,0
+2011,Yeshiva,814,Bard,962,03/10/2011,0,3,Away,,-,50
+2011,Yeshiva,814,Albertus Magnus,2798,03/13/2011,3,0,Home,,-,0
+2011,Yeshiva,814,Webb Inst.,,03/13/2011,3,1,Home,,1 Sets,0
+2011,Yeshiva,814,Polytechnic (NY),481,03/15/2011,1,3,Away,,1 Sets,25
+2011,Yeshiva,814,St. Joseph's (Brkln),30072,03/16/2011,3,0,Home,,-,0
+2011,Yeshiva,814,Cooper Union,,03/22/2011,3,2,Home,,2 Sets,0
+2011,Yeshiva,814,Sage Colleges,11036,03/24/2011,0,2,Away,,-,35
+2011,Yeshiva,814,Webb Inst.,,04/04/2011,3,0,Away,,-,0
+2011,Yeshiva,814,St. Joseph's (Brkln),30072,04/07/2011,3,0,Home,,-,75
+2011,Yeshiva,814,Cooper Union,,04/07/2011,0,3,Home,,-,100
+2011,York (NY),2730,Mount Olive,1245,01/21/2011,0,3,Home,,-,25
+2011,York (NY),2730,Cooper Union,,01/22/2011,3,0,Home,,-,25
+2011,York (NY),2730,Mt. St. Vincent,451,01/22/2011,2,3,Home,,2 Sets,50
+2011,York (NY),2730,Polytechnic (NY),481,01/24/2011,3,2,Home,,2 Sets,15
+2011,York (NY),2730,Albertus Magnus,2798,01/29/2011,3,0,Away,,-,30
+2011,York (NY),2730,Albertus Magnus,2798,01/29/2011,3,0,Away,,-,50
+2011,York (NY),2730,Medgar Evers,403,02/01/2011,3,0,Away,,-,50
+2011,York (NY),2730,New Jersey City,319,02/04/2011,0,3,Home,,-,45
+2011,York (NY),2730,Baruch,58,02/05/2011,1,3,Away,,1 Sets,24
+2011,York (NY),2730,City Tech,8580,02/07/2011,3,0,Neutral,"New York, NY",-,50
+2011,York (NY),2730,Lehman,279,02/08/2011,0,3,Away,,-,137
+2011,York (NY),2730,Brooklyn,79,02/10/2011,3,0,Home,,-,50
+2011,York (NY),2730,Limestone,1174,02/11/2011,0,3,Neutral,"Mount Olive, NC",-,75
+2011,York (NY),2730,Mount Olive,1245,02/11/2011,0,3,Away,,-,116
+2011,York (NY),2730,Mount Olive,1245,02/12/2011,0,3,Away,,-,126
+2011,York (NY),2730,Pfeiffer,542,02/14/2011,0,3,Neutral,"Mount Olive, NC",-,75
+2011,York (NY),2730,Yeshiva,814,02/16/2011,3,0,Home,,-,40
+2011,York (NY),2730,CCNY,480,02/17/2011,3,1,Home,,1 Sets,75
+2011,York (NY),2730,Hunter,292,02/19/2011,0,3,Away,,-,0
+2011,York (NY),2730,Medgar Evers,403,02/21/2011,3,0,Neutral,"New York, NY",-,50
+2011,York (NY),2730,Baruch,58,02/24/2011,0,3,Home,,-,40
+2011,York (NY),2730,St. Joseph's (Brkln),30072,02/25/2011,3,0,Away,,-,8
+2011,York (NY),2730,Wentworth Inst.,762,02/26/2011,0,3,Home,,-,25
+2011,York (NY),2730,Lehman,279,03/01/2011,0,3,Home,,-,45
+2011,York (NY),2730,Brooklyn,79,03/05/2011,3,2,Neutral,"New York, NY",2 Sets,0
+2011,York (NY),2730,CCNY,480,03/05/2011,2,3,Away,,2 Sets,50
+2011,York (NY),2730,Kean,329,03/07/2011,1,3,Home,,1 Sets,35
+2011,York (NY),2730,Hunter,292,03/08/2011,0,3,Home,,-,50
+2011,York (NY),2730,Elms,532,03/11/2011,3,2,Home,,2 Sets,75
+2011,York (NY),2730,Elmira,213,03/11/2011,0,3,Home,,-,100
+2011,York (NY),2730,New Haven,470,03/12/2011,0,3,Home,,-,80
+2011,York (NY),2730,SUNY New Paltz,475,03/12/2011,0,3,Home,,-,100
+2011,York (NY),2730,City Tech,8580,03/15/2011,3,0,Away,,-,15
+2011,York (NY),2730,CCNY,480,03/22/2011,3,2,Home,,2 Sets,100
+2011,York (NY),2730,Baruch,58,03/25/2011,0,3,Away,,-,252

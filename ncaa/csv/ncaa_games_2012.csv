@@ -1,0 +1,2753 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2012,Albertus Magnus,2798,Brooklyn,79,02/11/2012,3,0,Neutral,"Brooklyn, NY",-,27
+2012,Albertus Magnus,2798,St. Joseph's (Brkln),30072,02/11/2012,3,0,Away,,-,23
+2012,Albertus Magnus,2798,Purchase St.,30029,02/17/2012,3,0,Away,,-,37
+2012,Albertus Magnus,2798,Yeshiva,814,02/19/2012,3,0,Home,,-,72
+2012,Albertus Magnus,2798,Brooklyn,79,02/19/2012,3,0,Home,,-,52
+2012,Albertus Magnus,2798,Sarah Lawrence,30163,02/26/2012,3,0,Home,,-,57
+2012,Albertus Magnus,2798,Regis (MA),569,02/26/2012,3,0,Home,,-,46
+2012,Albertus Magnus,2798,Lasell,8486,03/08/2012,1,3,Away,,-,93
+2012,Albertus Magnus,2798,Webb Inst.,,03/11/2012,3,0,Neutral,"New York, NY",-,33
+2012,Albertus Magnus,2798,Yeshiva,814,03/11/2012,3,0,Away,,-,33
+2012,Albertus Magnus,2798,Sarah Lawrence,30163,03/12/2012,3,0,Away,,-,0
+2012,Albertus Magnus,2798,Wentworth Inst.,762,03/13/2012,2,3,Away,,-,52
+2012,Albertus Magnus,2798,Rivier,18422,03/16/2012,0,3,Home,,-,67
+2012,Albertus Magnus,2798,Regis (MA),569,03/19/2012,3,0,Away,,-,42
+2012,Albertus Magnus,2798,Emerson,214,03/20/2012,3,0,Away,,-,63
+2012,Albertus Magnus,2798,Emmanuel (MA),215,03/22/2012,0,3,Home,,-,113
+2012,Albertus Magnus,2798,Emerson,214,03/24/2012,3,1,Home,,1 Sets,47
+2012,Albertus Magnus,2798,Purchase St.,30029,03/24/2012,3,0,Home,,-,47
+2012,Albertus Magnus,2798,Mount Ida,27901,03/27/2012,3,0,Home,,-,86
+2012,Albertus Magnus,2798,Johnson & Wales (RI),22626,03/29/2012,1,3,Away,,1 Sets,57
+2012,Albertus Magnus,2798,Mount Ida,27901,03/31/2012,3,0,Neutral,"Nashua, NH",-,70
+2012,Albertus Magnus,2798,Rivier,18422,03/31/2012,0,3,Away,,-,0
+2012,Albertus Magnus,2798,Lasell,8486,04/03/2012,3,1,Home,,1 Sets,71
+2012,Albertus Magnus,2798,Emmanuel (MA),215,04/04/2012,0,3,Away,,-,125
+2012,Albertus Magnus,2798,Johnson & Wales (RI),22626,04/07/2012,3,2,Home,,2 Sets,55
+2012,Albertus Magnus,2798,Wentworth Inst.,762,04/07/2012,1,3,Home,,1 Sets,57
+2012,Albertus Magnus,2798,Wentworth Inst.,762,04/10/2012,3,1,Away,,-,75
+2012,Albertus Magnus,2798,Rivier,18422,04/12/2012,0,3,Away,,-,100
+2012,Albertus Magnus,2798,Endicott,8981,04/21/2012,0,3,Away,,-,75
+2012,Ball St.,47,Saint Francis (PA),600,01/13/2012,2,3,Away,,-,225
+2012,Ball St.,47,George Mason,248,01/14/2012,3,2,Away,,2 Sets,225
+2012,Ball St.,47,Sacred Heart,590,01/18/2012,3,0,Home,,-,451
+2012,Ball St.,47,George Mason,248,01/20/2012,2,3,Home,,2 Sets,688
+2012,Ball St.,47,Saint Francis (PA),600,01/21/2012,3,0,Home,,-,501
+2012,Ball St.,47,Limestone,1174,01/27/2012,3,1,Away,,1 Sets,348
+2012,Ball St.,47,Pfeiffer,542,01/28/2012,3,0,Away,,-,219
+2012,Ball St.,47,Loyola Chicago,371,02/02/2012,1,3,Home,,1 Sets,401
+2012,Ball St.,47,Lewis,354,02/05/2012,0,3,Home,,-,244
+2012,Ball St.,47,Lindenwood (MO),30136,02/09/2012,3,1,Home,,1 Sets,313
+2012,Ball St.,47,Quincy,561,02/11/2012,3,0,Home,,-,361
+2012,Ball St.,47,Ohio St.,518,02/17/2012,0,3,Away,,-,633
+2012,Ball St.,47,IPFW,308,02/18/2012,3,0,Home,,-,503
+2012,Ball St.,47,Mount Olive,1245,02/24/2012,3,0,Home,,-,369
+2012,Ball St.,47,Park,,02/25/2012,3,0,Home,,-,340
+2012,Ball St.,47,Cal St. Northridge,101,03/07/2012,0,3,Away,,-,304
+2012,Ball St.,47,Grand Canyon,1104,03/09/2012,0,3,Away,,-,173
+2012,Ball St.,47,Grand Canyon,1104,03/10/2012,3,2,Away,,-,141
+2012,Ball St.,47,Ohio St.,518,03/18/2012,3,2,Home,,2 Sets,510
+2012,Ball St.,47,Loyola Chicago,371,03/20/2012,1,3,Away,,1 Sets,323
+2012,Ball St.,47,Lewis,354,04/06/2012,1,3,Away,,1 Sets,867
+2012,Ball St.,47,IPFW,308,04/07/2012,1,3,Away,,1 Sets,718
+2012,Ball St.,47,Quincy,561,04/13/2012,3,0,Away,,-,154
+2012,Ball St.,47,Lindenwood (MO),30136,04/14/2012,0,3,Away,,-,234
+2012,Ball St.,47,Grand Canyon,1104,04/21/2012,3,1,Away,,-,386
+2012,Ball St.,47,Ohio St.,518,04/25/2012,0,3,Away,,-,496
+2012,Bard,962,Sage Colleges,11036,01/26/2012,3,0,Home,,-,90
+2012,Bard,962,Elms,532,01/28/2012,3,2,Neutral,"Utica, NY",-,35
+2012,Bard,962,Lancaster Bible,30085,01/29/2012,3,2,Neutral,"Utica, NY",-,0
+2012,Bard,962,SUNYIT,9500,01/29/2012,3,0,Away,,-,0
+2012,Bard,962,SUNY New Paltz,475,02/01/2012,0,3,Home,,-,90
+2012,Bard,962,Elmira,213,02/11/2012,1,3,Neutral,"Hoboken, NJ",-,47
+2012,Bard,962,D'Youville,1059,02/12/2012,0,3,Neutral,"Hoboken, NJ",-,38
+2012,Bard,962,Penn St.-Behrend,538,02/12/2012,1,3,Neutral,"Hoboken, NJ",-,38
+2012,Bard,962,New York U.,479,02/15/2012,0,3,Home,,-,0
+2012,Bard,962,New Jersey City,319,02/19/2012,1,3,Away,,-,79
+2012,Bard,962,Lehman,279,02/19/2012,2,3,Neutral,"Jersey City, NJ",-,75
+2012,Bard,962,Stevens,679,02/22/2012,0,3,Away,,-,30
+2012,Bard,962,Polytechnic (NY),481,02/24/2012,3,0,Home,,-,50
+2012,Bard,962,Mount Ida,27901,02/24/2012,3,0,Home,,-,50
+2012,Bard,962,Sage Colleges,11036,02/25/2012,1,3,Home,,-,50
+2012,Bard,962,Elms,532,03/03/2012,0,3,Away,,-,75
+2012,Bard,962,Ramapo,564,03/07/2012,1,3,Home,,1 Sets,70
+2012,Bard,962,Nazareth,461,03/10/2012,0,3,Away,,-,103
+2012,Bard,962,Medaille,23725,03/11/2012,0,3,Neutral,"Rochester, NY",-,0
+2012,Bard,962,Hilbert,8398,03/11/2012,2,3,Neutral,"Rochester, NY",-,0
+2012,Bard,962,Yeshiva,814,03/18/2012,3,1,Away,,-,55
+2012,Bard,962,SUNYIT,9500,03/21/2012,3,1,Away,,-,39
+2012,Bard,962,Mt. St. Vincent,451,03/24/2012,2,3,Away,,2 Sets,0
+2012,Bard,962,Lehman,279,03/24/2012,3,0,Neutral,"Riverdale, NY",-,0
+2012,Bard,962,Vassar,737,03/28/2012,0,3,Home,,-,125
+2012,Bard,962,MIT,398,04/06/2012,0,3,Away,,-,0
+2012,Bard,962,Springfield,673,04/06/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Bard,962,Emmanuel (MA),215,04/07/2012,0,3,Neutral,"Cambridge, MA",-,50
+2012,Bard,962,Southern Vt.,1379,04/07/2012,1,3,Neutral,"Cambridge, MA",1 Sets,0
+2012,Barton,15646,King (TN),30051,01/13/2012,1,3,Neutral,"Mount Olive, N.C.",1 Sets,129
+2012,Barton,15646,Mount Olive,1245,01/13/2012,0,3,Away,,-,129
+2012,Barton,15646,East. Mennonite,203,01/14/2012,0,3,Neutral,"Mount Olive, N.C.",-,162
+2012,Barton,15646,Mount Olive,1245,01/24/2012,0,3,Away,,-,417
+2012,Barton,15646,Pfeiffer,542,02/01/2012,0,3,Home,,-,465
+2012,Barton,15646,Limestone,1174,02/04/2012,0,3,Home,,-,45
+2012,Barton,15646,Lees-McRae,13302,02/05/2012,0,3,Home,,-,88
+2012,Barton,15646,Mount Olive,1245,02/16/2012,0,3,Home,,-,190
+2012,Barton,15646,King (TN),30051,02/18/2012,0,3,Home,,-,110
+2012,Barton,15646,Rust,586,02/25/2012,1,3,Neutral,"Cincinnati, OH",-,0
+2012,Barton,15646,Mt. St. Joseph,8567,02/25/2012,1,3,Away,,-,0
+2012,Barton,15646,Lourdes,,02/26/2012,1,3,Neutral,"Cincinnati, OH",-,0
+2012,Barton,15646,Milwaukee Engr.,20220,02/26/2012,0,3,Neutral,"Cincinnati, OH",-,28
+2012,Barton,15646,Limestone,1174,03/24/2012,0,3,Away,,-,56
+2012,Barton,15646,Lees-McRae,13302,03/25/2012,0,3,Away,,-,87
+2012,Barton,15646,King (TN),30051,03/31/2012,1,3,Away,,1 Sets,176
+2012,Barton,15646,Pfeiffer,542,04/11/2012,0,3,Away,,-,142
+2012,Baruch,58,Sacred Heart,590,01/28/2012,0,3,Home,,-,43
+2012,Baruch,58,Hunter,292,01/28/2012,3,2,Home,,-,64
+2012,Baruch,58,Medaille,23725,01/29/2012,0,3,Home,,-,38
+2012,Baruch,58,Stevenson,21852,01/29/2012,3,1,Home,,-,41
+2012,Baruch,58,Phila. Biblical,1305,01/31/2012,3,1,Away,,-,75
+2012,Baruch,58,Brooklyn,79,02/04/2012,3,0,Neutral,"New York, NY",-,36
+2012,Baruch,58,John Jay,321,02/04/2012,3,0,Neutral,"New York, NY",-,36
+2012,Baruch,58,Lehman,279,02/08/2012,3,0,Away,,-,35
+2012,Baruch,58,Rivier,18422,02/25/2012,1,3,Home,,-,64
+2012,Baruch,58,MIT,398,02/25/2012,1,3,Home,,-,83
+2012,Baruch,58,Elmira,213,02/26/2012,1,3,Home,,-,38
+2012,Baruch,58,Emmanuel (MA),215,02/26/2012,3,0,Home,,-,42
+2012,Baruch,58,Hunter,292,02/28/2012,0,3,Away,,-,211
+2012,Baruch,58,Lehman,279,03/03/2012,3,0,Neutral,"New York, NY",-,33
+2012,Baruch,58,Springfield,673,03/03/2012,2,3,Home,,-,83
+2012,Baruch,58,CCNY,480,03/03/2012,3,0,Away,,-,75
+2012,Baruch,58,Medgar Evers,403,03/08/2012,3,0,Home,,-,23
+2012,Baruch,58,Medgar Evers,403,03/08/2012,3,0,Home,,-,29
+2012,Baruch,58,Brooklyn,79,03/14/2012,3,0,Home,,-,31
+2012,Baruch,58,SUNY New Paltz,475,03/14/2012,3,0,Home,,-,74
+2012,Baruch,58,CCNY,480,03/20/2012,3,0,Neutral,"New York, NY",-,27
+2012,Baruch,58,Hunter,292,03/22/2012,1,3,Home,,1 Sets,107
+2012,Baruch,58,John Jay,321,03/22/2012,3,0,Home,,-,32
+2012,Baruch,58,Kean,329,03/23/2012,2,3,Neutral,"Springfield, MA",2 Sets,0
+2012,Baruch,58,Wentworth Inst.,762,03/23/2012,3,1,Neutral,"Springfield, MA",-,100
+2012,Baruch,58,Juniata,325,03/24/2012,1,3,Neutral,"Springfield, MA",1 Sets,38
+2012,Baruch,58,Springfield,673,03/24/2012,0,3,Away,,-,100
+2012,Baruch,58,Lancaster Bible,30085,03/30/2012,3,0,Neutral,"Poughkeepsie, NY",-,100
+2012,Baruch,58,Vassar,737,03/30/2012,1,3,Away,,-,100
+2012,Baruch,58,SUNY New Paltz,475,03/31/2012,1,3,Neutral,"Poughkeepsie, NY",-,150
+2012,Baruch,58,Nazareth,461,03/31/2012,0,3,Neutral,"Poughkeepsie, NY",-,75
+2012,Baruch,58,New York U.,479,04/03/2012,3,1,Home,,1 Sets,122
+2012,Baruch,58,York (NY),2730,04/04/2012,3,1,Away,,1 Sets,60
+2012,Baruch,58,York (NY),2730,04/04/2012,3,1,Away,,1 Sets,50
+2012,Baruch,58,John Jay,321,04/10/2012,3,0,Home,,-,47
+2012,Baruch,58,York (NY),2730,04/12/2012,3,1,Neutral,"New York, NY",-,156
+2012,Baruch,58,Hunter,292,04/12/2012,3,2,Away,,-,305
+2012,Baruch,58,Princeton,554,04/14/2012,1,3,Away,,1 Sets,95
+2012,Baruch,58,Stevens,679,04/18/2012,0,3,Away,,-,95
+2012,Baruch,58,Elms,532,04/21/2012,3,0,Home,,-,223
+2012,Baruch,58,Springfield,673,04/27/2012,0,3,Away,,-,"1,200"
+2012,Brooklyn,79,Purchase St.,30029,01/31/2012,2,3,Away,,-,37
+2012,Brooklyn,79,Baruch,58,02/04/2012,0,3,Neutral,"New York, NY",-,36
+2012,Brooklyn,79,Lehman,279,02/04/2012,0,3,Neutral,"New York, NY",-,12
+2012,Brooklyn,79,York (NY),2730,02/09/2012,0,3,Home,,-,235
+2012,Brooklyn,79,St. Joseph's (Brkln),30072,02/11/2012,3,0,Away,,-,26
+2012,Brooklyn,79,Albertus Magnus,2798,02/11/2012,0,3,Neutral,"Brooklyn, NY",-,27
+2012,Brooklyn,79,Hunter,292,02/16/2012,0,3,Away,,-,32
+2012,Brooklyn,79,Albertus Magnus,2798,02/19/2012,0,3,Away,,-,52
+2012,Brooklyn,79,Yeshiva,814,02/19/2012,3,1,Neutral,"New Haven, CT",-,30
+2012,Brooklyn,79,Polytechnic (NY),481,02/20/2012,0,3,Away,,-,33
+2012,Brooklyn,79,St. Joseph's (Brkln),30072,02/24/2012,3,0,Home,,-,45
+2012,Brooklyn,79,Medgar Evers,403,02/28/2012,3,0,Away,,-,0
+2012,Brooklyn,79,Hunter,292,03/03/2012,0,3,Neutral,"New York, NY",-,50
+2012,Brooklyn,79,York (NY),2730,03/03/2012,1,3,Neutral,"New York, NY",-,50
+2012,Brooklyn,79,John Jay,321,03/06/2012,3,0,Home,,-,56
+2012,Brooklyn,79,Sarah Lawrence,30163,03/10/2012,3,0,Home,,-,47
+2012,Brooklyn,79,Lehman,279,03/13/2012,0,3,Home,,-,58
+2012,Brooklyn,79,Baruch,58,03/14/2012,0,3,Away,,-,31
+2012,Brooklyn,79,Medgar Evers,403,03/22/2012,3,0,Home,,-,89
+2012,Brooklyn,79,CCNY,480,03/27/2012,3,1,Home,,-,98
+2012,Brooklyn,79,CCNY,480,04/02/2012,1,3,Away,,1 Sets,50
+2012,Brooklyn,79,John Jay,321,04/04/2012,3,0,Away,,-,62
+2012,Brooklyn,79,Lehman,279,04/10/2012,3,0,Away,,-,37
+2012,Brooklyn,79,Hunter,292,04/12/2012,0,3,Away,,-,256
+2012,BYU,77,Loyola Chicago,371,01/06/2012,3,2,Neutral,"Santa Barbara, CA",-,320
+2012,BYU,77,UC Irvine,109,01/06/2012,1,3,Neutral,"Santa Barbara, CA",-,275
+2012,BYU,77,UC Santa Barbara,104,01/07/2012,3,0,Away,,-,320
+2012,BYU,77,UC Irvine,109,01/13/2012,3,0,Away,,-,"2,741"
+2012,BYU,77,UC Irvine,109,01/14/2012,3,2,Away,,-,"2,889"
+2012,BYU,77,Southern California,657,01/20/2012,3,1,Home,,-,"5,124"
+2012,BYU,77,Southern California,657,01/21/2012,3,2,Home,,-,"4,261"
+2012,BYU,77,Stanford,674,02/03/2012,1,3,Home,,1 Sets,"4,471"
+2012,BYU,77,Stanford,674,02/04/2012,0,3,Home,,-,"4,524"
+2012,BYU,77,UC San Diego,112,02/09/2012,3,0,Away,,-,512
+2012,BYU,77,UC San Diego,112,02/11/2012,3,2,Away,,2 Sets,305
+2012,BYU,77,Cal Baptist,30135,02/17/2012,3,2,Home,,2 Sets,"2,437"
+2012,BYU,77,Cal Baptist,30135,02/18/2012,3,1,Home,,1 Sets,"2,658"
+2012,BYU,77,UC Santa Barbara,104,02/24/2012,3,1,Home,,1 Sets,"2,254"
+2012,BYU,77,UC Santa Barbara,104,02/25/2012,2,3,Home,,2 Sets,"2,605"
+2012,BYU,77,Pepperdine,541,03/02/2012,3,1,Home,,1 Sets,"2,838"
+2012,BYU,77,Pepperdine,541,03/03/2012,3,0,Home,,-,"2,599"
+2012,BYU,77,Pacific,534,03/09/2012,3,0,Home,,-,"3,702"
+2012,BYU,77,Pacific,534,03/10/2012,3,0,Home,,-,"2,472"
+2012,BYU,77,Hawaii,277,03/16/2012,3,2,Away,,2 Sets,"2,972"
+2012,BYU,77,Hawaii,277,03/17/2012,3,0,Away,,-,"3,135"
+2012,BYU,77,Long Beach St.,99,03/23/2012,3,0,Away,,-,"1,061"
+2012,BYU,77,Long Beach St.,99,03/24/2012,2,3,Away,,2 Sets,"1,285"
+2012,BYU,77,Cal St. Northridge,101,03/29/2012,3,0,Home,,-,"2,227"
+2012,BYU,77,Cal St. Northridge,101,03/30/2012,3,1,Home,,1 Sets,"2,778"
+2012,BYU,77,UCLA,110,04/06/2012,3,2,Away,,2 Sets,"1,357"
+2012,BYU,77,UCLA,110,04/07/2012,0,3,Away,,-,"1,802"
+2012,BYU,77,Penn St.,539,04/13/2012,3,1,Home,,1 Sets,"3,242"
+2012,BYU,77,Penn St.,539,04/14/2012,3,0,Home,,-,"3,845"
+2012,BYU,77,Long Beach St.,99,04/21/2012,3,2,Home,,2 Sets,"2,221"
+2012,BYU,77,Stanford,674,04/26/2012,1,3,Neutral,"Los Angeles, CA",-,"1,000"
+2012,Cairn,1305,Vassar,737,01/21/2012,0,3,Neutral,"Mahwah, NJ",-,50
+2012,Cairn,1305,Ramapo,564,01/21/2012,1,3,Away,,-,75
+2012,Cairn,1305,Nazareth,461,01/27/2012,0,3,Away,,-,100
+2012,Cairn,1305,Southern Vt.,1379,01/27/2012,3,0,Neutral,"Rochester, NY",-,60
+2012,Cairn,1305,Elmira,213,01/28/2012,0,3,Neutral,"Rochester, NY",-,0
+2012,Cairn,1305,Carthage,121,01/28/2012,0,3,Neutral,"Rochester, NY",-,50
+2012,Cairn,1305,Baruch,58,01/31/2012,1,3,Home,,-,75
+2012,Cairn,1305,Sage Colleges,11036,02/04/2012,1,3,Neutral,"New Paltz, NY",-,78
+2012,Cairn,1305,SUNY New Paltz,475,02/04/2012,0,3,Away,,-,78
+2012,Cairn,1305,Hunter,292,02/07/2012,3,2,Away,,-,34
+2012,Cairn,1305,East. Mennonite,203,02/11/2012,1,3,Away,,-,163
+2012,Cairn,1305,Pfeiffer,542,02/11/2012,1,3,Neutral,"Harrisonburg, VA",1 Sets,64
+2012,Cairn,1305,Lancaster Bible,30085,02/14/2012,3,0,Away,,-,162
+2012,Cairn,1305,Wells,761,02/18/2012,3,0,Home,,-,70
+2012,Cairn,1305,Juniata,325,03/02/2012,0,3,Neutral,"Stevenson, MD",-,57
+2012,Cairn,1305,Thiel,707,03/03/2012,3,1,Home,,-,53
+2012,Cairn,1305,East. Mennonite,203,03/03/2012,0,3,Home,,-,51
+2012,Cairn,1305,Stevenson,21852,03/07/2012,0,3,Home,,-,75
+2012,Cairn,1305,Ramapo,564,03/10/2012,3,0,Home,,-,25
+2012,Cairn,1305,East. Mennonite,203,03/10/2012,3,1,Home,,-,30
+2012,Cairn,1305,Wells,761,03/17/2012,3,0,Away,,-,20
+2012,Cairn,1305,D'Youville,1059,03/17/2012,3,2,Neutral,"Aurora, NY",-,55
+2012,Cairn,1305,Kean,329,03/20/2012,3,1,Home,,-,90
+2012,Cairn,1305,Elmira,213,03/24/2012,3,2,Home,,2 Sets,140
+2012,Cairn,1305,Lancaster Bible,30085,03/24/2012,3,1,Home,,-,75
+2012,Cairn,1305,Stevenson,21852,03/27/2012,0,3,Away,,-,123
+2012,Cairn,1305,Juniata,325,03/30/2012,0,3,Away,,-,240
+2012,Cairn,1305,East. Mennonite,203,03/31/2012,2,3,Neutral,"Huntingdon, PA",-,78
+2012,Cairn,1305,Thiel,707,03/31/2012,1,3,Neutral,"Huntingdon, PA",-,49
+2012,Cairn,1305,Stevens,679,04/04/2012,0,3,Away,,-,35
+2012,Cairn,1305,Elmira,213,04/06/2012,1,3,Neutral,"Cambridge, MA",-,0
+2012,Cairn,1305,Springfield,673,04/06/2012,0,3,Neutral,"Cambridge, Mass.",-,0
+2012,Cairn,1305,Medaille,23725,04/07/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Cairn,1305,MIT,398,04/07/2012,2,3,Away,,2 Sets,0
+2012,California Baptist,30135,UC Irvine,109,01/04/2012,0,3,Away,,-,334
+2012,California Baptist,30135,Southern California,657,01/05/2012,0,3,Home,,-,275
+2012,California Baptist,30135,UC Santa Barbara,104,01/11/2012,0,3,Away,,-,150
+2012,California Baptist,30135,Grand Canyon,1104,01/20/2012,3,1,Home,,-,322
+2012,California Baptist,30135,Long Beach St.,99,01/24/2012,0,3,Away,,-,686
+2012,California Baptist,30135,Cal St. Northridge,101,01/27/2012,2,3,Away,,2 Sets,324
+2012,California Baptist,30135,Princeton,554,01/30/2012,3,1,Home,,1 Sets,224
+2012,California Baptist,30135,Ohio St.,518,02/03/2012,1,3,Neutral,"University Park, Pa.",1 Sets,"1,331"
+2012,California Baptist,30135,Penn St.,539,02/04/2012,0,3,Away,,-,"1,402"
+2012,California Baptist,30135,Harvard,275,02/08/2012,1,3,Away,,1 Sets,104
+2012,California Baptist,30135,Lees-McRae,13302,02/10/2012,1,3,Neutral,"Springfield, Mass.",1 Sets,300
+2012,California Baptist,30135,UC Santa Cruz,113,02/11/2012,3,0,Neutral,"Springfield, Mass.",-,200
+2012,California Baptist,30135,Pepperdine,541,02/15/2012,2,3,Away,,2 Sets,239
+2012,California Baptist,30135,BYU,77,02/17/2012,2,3,Away,,2 Sets,"2,437"
+2012,California Baptist,30135,BYU,77,02/18/2012,1,3,Away,,1 Sets,"2,658"
+2012,California Baptist,30135,UCLA,110,02/24/2012,0,3,Away,,-,716
+2012,California Baptist,30135,Limestone,1174,03/02/2012,3,0,Neutral,"St. Charles, Mo.",-,46
+2012,California Baptist,30135,Lindenwood (MO),30136,03/02/2012,3,1,Away,,1 Sets,200
+2012,California Baptist,30135,Pfeiffer,542,03/03/2012,3,0,Neutral,"St. Charles, Mo.",-,200
+2012,California Baptist,30135,King (TN),30051,03/03/2012,3,2,Neutral,Lindenwood Univ,2 Sets,100
+2012,California Baptist,30135,Loyola Chicago,371,03/07/2012,3,2,Home,,2 Sets,182
+2012,California Baptist,30135,Lewis,354,03/09/2012,3,2,Neutral,"Long Beach, Calif.",2 Sets,654
+2012,California Baptist,30135,IPFW,308,03/10/2012,3,2,Neutral,"Long Beach, Calif.",2 Sets,0
+2012,California Baptist,30135,Harvard,275,03/13/2012,2,3,Home,,2 Sets,224
+2012,California Baptist,30135,Lindenwood (MO),30136,03/27/2012,3,1,Home,,1 Sets,194
+2012,California Baptist,30135,Lindenwood (MO),30136,03/28/2012,0,3,Home,,-,209
+2012,California Baptist,30135,Hope Int'l,,04/03/2012,3,0,Home,,-,404
+2012,California Baptist,30135,UC San Diego,112,04/12/2012,2,3,Away,,2 Sets,111
+2012,Carthage,121,Loyola Chicago,371,01/17/2012,1,3,Away,,-,312
+2012,Carthage,121,Nazareth,461,01/27/2012,3,1,Away,,-,200
+2012,Carthage,121,Southern Vt.,1379,01/27/2012,3,0,Neutral,"Rochester, NY",-,60
+2012,Carthage,121,Juniata,325,01/28/2012,3,2,Neutral,"Rochester, NY",-,60
+2012,Carthage,121,Phila. Biblical,1305,01/28/2012,3,0,Neutral,"Rochester, NY",-,50
+2012,Carthage,121,Quincy,561,02/03/2012,3,1,Neutral,"Kenosha, Wis.",-,250
+2012,Carthage,121,St. Xavier,,02/11/2012,3,0,Home,,-,200
+2012,Carthage,121,Lindenwood (MO),30136,02/12/2012,3,0,Home,,-,110
+2012,Carthage,121,IPFW,308,02/17/2012,3,1,Away,,1 Sets,407
+2012,Carthage,121,Ohio St.,518,02/19/2012,1,3,Away,,1 Sets,425
+2012,Carthage,121,Milwaukee Engr.,20220,02/28/2012,3,0,Home,,-,110
+2012,Carthage,121,UC Santa Cruz,113,03/03/2012,1,3,Neutral,"St. Louis, MO",-,50
+2012,Carthage,121,Mt. St. Joseph,8567,03/04/2012,3,0,Neutral,"St. Louis, MO",-,50
+2012,Carthage,121,Fontbonne,11538,03/04/2012,3,0,Away,,-,50
+2012,Carthage,121,Quincy,561,03/09/2012,1,3,Away,,1 Sets,100
+2012,Carthage,121,MIT,398,03/10/2012,3,1,Neutral,"St. Louis, MO",-,50
+2012,Carthage,121,Thiel,707,03/10/2012,3,0,Neutral,"St. Louis, MO",-,50
+2012,Carthage,121,Lindenwood (MO),30136,03/11/2012,3,0,Neutral,"St. Louis, Mo.",-,75
+2012,Carthage,121,Fontbonne,11538,03/11/2012,3,0,Away,,-,50
+2012,Carthage,121,New York U.,479,03/16/2012,3,0,Home,,-,60
+2012,Carthage,121,East. Mennonite,203,03/16/2012,3,0,Home,,-,70
+2012,Carthage,121,Nazareth,461,03/17/2012,3,0,Home,,-,100
+2012,Carthage,121,Juniata,325,03/18/2012,3,1,Home,,-,125
+2012,Carthage,121,Elmira,213,03/18/2012,3,0,Home,,-,50
+2012,Carthage,121,IPFW,308,03/24/2012,3,1,Neutral,"Kenosha, WI",-,150
+2012,Carthage,121,St. Xavier,,03/28/2012,3,0,Away,,-,100
+2012,Carthage,121,Fontbonne,11538,03/31/2012,3,0,Neutral,"Milwaukee, WI",-,37
+2012,Carthage,121,UC Santa Cruz,113,03/31/2012,3,1,Neutral,"Milwaukee, WI",-,89
+2012,Carthage,121,Mt. St. Joseph,8567,04/01/2012,3,0,Neutral,"Milwaukee, WI",-,45
+2012,Carthage,121,Milwaukee Engr.,20220,04/04/2012,3,1,Away,,-,121
+2012,Carthage,121,Stevenson,21852,04/14/2012,3,0,Home,,-,47
+2012,Carthage,121,UC Santa Cruz,113,04/14/2012,0,3,Home,,-,43
+2012,Carthage,121,Nazareth,461,04/27/2012,3,2,Neutral,"Springfield, MA",2 Sets,300
+2012,Carthage,121,UC Santa Cruz,113,04/28/2012,3,1,Neutral,"Springfield, MA",-,400
+2012,Carthage,121,Springfield,673,04/29/2012,0,3,Away,,-,"1,210"
+2012,CCNY,480,Hilbert,8398,01/21/2012,0,3,Neutral,"Elmira, NY",-,25
+2012,CCNY,480,Elmira,213,01/21/2012,0,3,Away,,-,45
+2012,CCNY,480,Thiel,707,01/22/2012,0,3,Neutral,"Elmira, NY",-,20
+2012,CCNY,480,SUNY New Paltz,475,01/22/2012,0,3,Neutral,"Elmira, NY",-,30
+2012,CCNY,480,Wentworth Inst.,762,01/28/2012,0,3,Home,,-,50
+2012,CCNY,480,Mt. St. Vincent,451,02/02/2012,0,3,Away,,-,57
+2012,CCNY,480,Medgar Evers,403,02/04/2012,3,0,Neutral,"New York, NY",-,50
+2012,CCNY,480,Lehman,279,02/04/2012,0,3,Neutral,"New York, NY",-,16
+2012,CCNY,480,Hunter,292,02/09/2012,0,3,Home,,-,50
+2012,CCNY,480,Washington Adventist,1029,02/12/2012,3,0,Home,,-,50
+2012,CCNY,480,John Jay,321,02/14/2012,3,0,Home,,-,50
+2012,CCNY,480,York (NY),2730,02/16/2012,0,3,Away,,-,55
+2012,CCNY,480,Vassar,737,02/25/2012,0,3,Away,,-,80
+2012,CCNY,480,Wentworth Inst.,762,02/25/2012,0,3,Neutral,"Poughkeepsie, NY",-,60
+2012,CCNY,480,Baruch,58,03/03/2012,0,3,Home,,-,75
+2012,CCNY,480,York (NY),2730,03/03/2012,2,3,Home,,-,75
+2012,CCNY,480,Hunter,292,03/08/2012,0,3,Away,,-,36
+2012,CCNY,480,John Jay,321,03/13/2012,3,0,Away,,-,39
+2012,CCNY,480,Lehman,279,03/15/2012,2,3,Home,,-,50
+2012,CCNY,480,Johnson & Wales (RI),22626,03/16/2012,0,3,Away,,-,77
+2012,CCNY,480,Daniel Webster,2691,03/16/2012,0,3,Neutral,"Providence, RI",-,77
+2012,CCNY,480,Lasell,8486,03/17/2012,3,1,Neutral,"Providence, RI",-,77
+2012,CCNY,480,Southern Vt.,1379,03/17/2012,0,3,Neutral,"Providence, RI",-,77
+2012,CCNY,480,Baruch,58,03/20/2012,0,3,Neutral,"New York, NY",-,27
+2012,CCNY,480,Brooklyn,79,03/27/2012,1,3,Away,,-,98
+2012,CCNY,480,Wells,761,03/31/2012,3,0,Neutral,"Union, NJ",-,23
+2012,CCNY,480,Kean,329,03/31/2012,0,3,Away,,-,45
+2012,CCNY,480,Brooklyn,79,04/02/2012,3,1,Home,,1 Sets,50
+2012,CCNY,480,Medgar Evers,403,04/04/2012,3,0,Away,,-,25
+2012,CCNY,480,Wells,761,04/07/2012,3,0,Neutral,"Brooklyn, NY",-,30
+2012,CCNY,480,Polytechnic (NY),481,04/07/2012,1,3,Away,,-,30
+2012,CCNY,480,York (NY),2730,04/10/2012,2,3,Away,,-,50
+2012,CSUN,101,UCLA,110,01/06/2012,1,3,Neutral,"Santa Barbara, Calif",-,50
+2012,CSUN,101,UC Santa Barbara,104,01/06/2012,1,3,Away,,-,320
+2012,CSUN,101,Loyola Chicago,371,01/07/2012,3,0,Neutral,"Santa Barbara, Calif",-,175
+2012,CSUN,101,Pepperdine,541,01/11/2012,1,3,Away,,-,509
+2012,CSUN,101,Southern California,657,01/13/2012,0,3,Away,,-,800
+2012,CSUN,101,Long Beach St.,99,01/20/2012,3,2,Home,,-,563
+2012,CSUN,101,UCLA,110,01/25/2012,0,3,Away,,-,403
+2012,CSUN,101,Cal Baptist,30135,01/27/2012,3,2,Home,,2 Sets,324
+2012,CSUN,101,Long Beach St.,99,02/03/2012,0,3,Away,,-,790
+2012,CSUN,101,Pacific,534,02/10/2012,3,2,Home,,2 Sets,512
+2012,CSUN,101,Stanford,674,02/11/2012,1,3,Home,,1 Sets,646
+2012,CSUN,101,UC Santa Barbara,104,02/15/2012,0,3,Away,,-,150
+2012,CSUN,101,UC Irvine,109,02/22/2012,0,3,Away,,-,439
+2012,CSUN,101,UC San Diego,112,02/24/2012,3,0,Away,,-,255
+2012,CSUN,101,UC Santa Barbara,104,02/29/2012,3,2,Home,,2 Sets,489
+2012,CSUN,101,UCLA,110,03/02/2012,0,3,Home,,-,721
+2012,CSUN,101,Ball St.,47,03/07/2012,3,0,Home,,-,304
+2012,CSUN,101,Loyola Chicago,371,03/09/2012,3,0,Home,,-,496
+2012,CSUN,101,Harvard,275,03/10/2012,1,3,Home,,1 Sets,455
+2012,CSUN,101,UC Irvine,109,03/14/2012,0,3,Home,,-,338
+2012,CSUN,101,UC San Diego,112,03/16/2012,1,3,Home,,1 Sets,422
+2012,CSUN,101,Hawaii,277,03/23/2012,3,1,Home,,1 Sets,568
+2012,CSUN,101,Hawaii,277,03/24/2012,3,1,Home,,1 Sets,842
+2012,CSUN,101,BYU,77,03/29/2012,0,3,Away,,-,"2,227"
+2012,CSUN,101,BYU,77,03/30/2012,1,3,Away,,1 Sets,"2,778"
+2012,CSUN,101,Pacific,534,04/06/2012,3,2,Away,,2 Sets,151
+2012,CSUN,101,Stanford,674,04/07/2012,2,3,Away,,2 Sets,660
+2012,CSUN,101,Pepperdine,541,04/12/2012,3,1,Home,,1 Sets,912
+2012,CSUN,101,Southern California,657,04/14/2012,0,3,Home,,-,985
+2012,CSUN,101,Southern California,657,04/21/2012,0,3,Away,,-,800
+2012,D'Youville,1059,Juniata,325,01/27/2012,1,3,Neutral,"Rochester, NY",-,100
+2012,D'Youville,1059,MIT,398,01/27/2012,0,3,Neutral,"Rochester, NY",-,100
+2012,D'Youville,1059,Elmira,213,01/28/2012,1,3,Neutral,"Rochester, NY",-,0
+2012,D'Youville,1059,Southern Vt.,1379,01/28/2012,3,2,Neutral,"Rochester, NY",-,31
+2012,D'Youville,1059,Hilbert,8398,02/01/2012,3,1,Away,,-,0
+2012,D'Youville,1059,Penn St.-Behrend,538,02/08/2012,3,2,Home,,-,145
+2012,D'Youville,1059,Stevens,679,02/11/2012,2,3,Away,,-,75
+2012,D'Youville,1059,SUNY New Paltz,475,02/12/2012,1,3,Neutral,"Hoboken, NJ",-,47
+2012,D'Youville,1059,Bard,962,02/12/2012,3,0,Neutral,"Hoboken, NJ",-,38
+2012,D'Youville,1059,Penn St.-Behrend,538,02/15/2012,0,3,Away,,-,108
+2012,D'Youville,1059,Thiel,707,02/17/2012,0,3,Home,,-,25
+2012,D'Youville,1059,Elmira,213,02/22/2012,3,2,Home,,-,0
+2012,D'Youville,1059,Wells,761,02/25/2012,3,0,Neutral,"Hamburg, NY",-,15
+2012,D'Youville,1059,Medaille,23725,02/28/2012,0,3,Home,,-,145
+2012,D'Youville,1059,Medaille,23725,03/03/2012,1,3,Away,,-,68
+2012,D'Youville,1059,Rivier,18422,03/03/2012,1,3,Neutral,"Buffalo, NY",-,62
+2012,D'Youville,1059,Hilbert,8398,03/07/2012,3,0,Home,,-,145
+2012,D'Youville,1059,SUNYIT,9500,03/10/2012,3,0,Neutral,"Rochester, NY",-,50
+2012,D'Youville,1059,New York U.,479,03/10/2012,0,3,Neutral,"Rochester, NY",-,85
+2012,D'Youville,1059,Vassar,737,03/11/2012,0,3,Neutral,"Rochester, NY",-,65
+2012,D'Youville,1059,Wells,761,03/17/2012,3,0,Away,,-,40
+2012,D'Youville,1059,Phila. Biblical,1305,03/17/2012,2,3,Neutral,"Aurora, NY",-,55
+2012,D'Youville,1059,Nazareth,461,03/28/2012,1,3,Away,,-,210
+2012,D'Youville,1059,Penn St.-Behrend,538,03/31/2012,3,2,Neutral,"Buffalo, NY",2 Sets,100
+2012,D'Youville,1059,Medaille,23725,03/31/2012,0,3,Away,,-,96
+2012,D'Youville,1059,Stevenson,21852,04/02/2012,0,3,Away,,-,112
+2012,D'Youville,1059,Washington Adventist,1029,04/02/2012,3,0,Neutral,"Owings Mills, Md.",-,94
+2012,D'Youville,1059,Lancaster Bible,30085,04/03/2012,3,1,Away,,1 Sets,105
+2012,D'Youville,1059,Stevenson,21852,04/05/2012,3,2,Away,,2 Sets,94
+2012,Daniel Webster,2691,Newbury,21772,02/02/2012,2,3,Home,,-,85
+2012,Daniel Webster,2691,Southern Vt.,1379,02/04/2012,2,3,Away,,-,182
+2012,Daniel Webster,2691,Elms,532,02/09/2012,1,3,Home,,-,88
+2012,Daniel Webster,2691,Regis (MA),569,02/11/2012,3,0,Home,,-,62
+2012,Daniel Webster,2691,Lasell,8486,02/14/2012,3,0,Home,,-,40
+2012,Daniel Webster,2691,Lesley,24317,02/18/2012,3,0,Away,,-,29
+2012,Daniel Webster,2691,Mount Ida,27901,03/01/2012,3,0,Away,,-,50
+2012,Daniel Webster,2691,Endicott,8981,03/06/2012,0,3,Away,,-,75
+2012,Daniel Webster,2691,Mount Ida,27901,03/08/2012,3,0,Home,,-,38
+2012,Daniel Webster,2691,Southern Vt.,1379,03/16/2012,3,1,Neutral,"Providence, RI",-,77
+2012,Daniel Webster,2691,CCNY,480,03/16/2012,3,0,Neutral,"Providence, RI",-,77
+2012,Daniel Webster,2691,Lasell,8486,03/17/2012,3,1,Away,,-,77
+2012,Daniel Webster,2691,SUNYIT,9500,03/17/2012,3,1,Neutral,"Providence, RI",-,77
+2012,Daniel Webster,2691,Southern Vt.,1379,03/22/2012,3,0,Home,,-,89
+2012,Daniel Webster,2691,Newbury,21772,03/24/2012,3,0,Away,,-,0
+2012,Daniel Webster,2691,Regis (MA),569,03/28/2012,3,0,Away,,-,42
+2012,Daniel Webster,2691,Endicott,8981,03/31/2012,0,3,Home,,-,39
+2012,Daniel Webster,2691,Emerson,214,04/02/2012,3,2,Home,,2 Sets,101
+2012,Daniel Webster,2691,Lesley,24317,04/04/2012,3,0,Home,,-,78
+2012,Daniel Webster,2691,Elms,532,04/07/2012,1,3,Away,,-,135
+2012,Daniel Webster,2691,Endicott,8981,04/13/2012,0,3,Away,,-,95
+2012,Daniel Webster,2691,Ramapo,564,04/21/2012,1,3,Neutral,,-,115
+2012,East. Mennonite,203,Quincy,561,01/13/2012,1,3,Neutral,"Mount Olive, N.C.",-,302
+2012,East. Mennonite,203,Limestone,1174,01/14/2012,0,3,Neutral,"Mount Olive, N.C.",-,15
+2012,East. Mennonite,203,Barton,15646,01/14/2012,3,0,Neutral,"Mount Olive, N.C.",-,162
+2012,East. Mennonite,203,Medaille,23725,02/04/2012,3,0,Neutral,"Greenville, PA",-,59
+2012,East. Mennonite,203,Fontbonne,11538,02/04/2012,3,0,Neutral,"Greenville, PA",-,27
+2012,East. Mennonite,203,Elmira,213,02/05/2012,2,3,Neutral,"Greenville, PA",-,19
+2012,East. Mennonite,203,Nazareth,461,02/05/2012,0,3,Neutral,"Greenville, PA",-,19
+2012,East. Mennonite,203,Pfeiffer,542,02/11/2012,1,3,Home,,1 Sets,143
+2012,East. Mennonite,203,Phila. Biblical,1305,02/11/2012,3,1,Home,,-,163
+2012,East. Mennonite,203,Rust,586,02/18/2012,3,0,Home,,-,283
+2012,East. Mennonite,203,Rust,586,02/18/2012,3,1,Home,,-,87
+2012,East. Mennonite,203,Stevenson,21852,02/29/2012,0,3,Home,,-,211
+2012,East. Mennonite,203,Thiel,707,03/02/2012,0,3,Neutral,"Stevenson, MD",-,49
+2012,East. Mennonite,203,Phila. Biblical,1305,03/03/2012,3,0,Away,,-,51
+2012,East. Mennonite,203,Juniata,325,03/03/2012,0,3,Neutral,"Stevenson, MD",-,71
+2012,East. Mennonite,203,Phila. Biblical,1305,03/10/2012,1,3,Away,,-,30
+2012,East. Mennonite,203,Ramapo,564,03/10/2012,3,0,Neutral,"Langhorne, PA",-,25
+2012,East. Mennonite,203,New York U.,479,03/16/2012,0,3,Neutral,"Kenosha, WI",-,50
+2012,East. Mennonite,203,Carthage,121,03/16/2012,0,3,Away,,-,70
+2012,East. Mennonite,203,Fontbonne,11538,03/17/2012,3,0,Neutral,"Milwaukee, WI",-,38
+2012,East. Mennonite,203,Nazareth,461,03/17/2012,0,3,Neutral,"Milwaukee, WI",-,38
+2012,East. Mennonite,203,Thiel,707,03/30/2012,3,1,Away,,-,180
+2012,East. Mennonite,203,Juniata,325,03/31/2012,0,3,Away,,-,207
+2012,East. Mennonite,203,Phila. Biblical,1305,03/31/2012,3,2,Neutral,"Huntingdon, PA",-,78
+2012,East. Mennonite,203,Stevenson,21852,04/04/2012,0,3,Away,,-,145
+2012,Elmira,213,Thiel,707,01/21/2012,3,1,Home,,-,100
+2012,Elmira,213,CCNY,480,01/21/2012,3,0,Home,,-,45
+2012,Elmira,213,Juniata,325,01/21/2012,0,3,Home,,-,100
+2012,Elmira,213,Hilbert,8398,01/22/2012,3,0,Home,,-,60
+2012,Elmira,213,SUNY New Paltz,475,01/22/2012,0,3,Home,,-,55
+2012,Elmira,213,MIT,398,01/27/2012,2,3,Neutral,"Rochester, NY",-,100
+2012,Elmira,213,Juniata,325,01/27/2012,2,3,Neutral,"Rochester, NY",-,100
+2012,Elmira,213,Phila. Biblical,1305,01/28/2012,3,0,Neutral,"Rochester, NY",-,0
+2012,Elmira,213,D'Youville,1059,01/28/2012,3,1,Neutral,"Rochester, NY",-,0
+2012,Elmira,213,Penn St.-Behrend,538,01/31/2012,3,1,Away,,-,102
+2012,Elmira,213,Mt. St. Joseph,8567,02/04/2012,3,0,Neutral,"Greenville, PA",-,0
+2012,Elmira,213,Thiel,707,02/04/2012,3,2,Away,,-,0
+2012,Elmira,213,East. Mennonite,203,02/05/2012,3,2,Neutral,"Greenville, PA",-,19
+2012,Elmira,213,Stevenson,21852,02/05/2012,1,3,Neutral,"Greenville, PA",-,24
+2012,Elmira,213,SUNYIT,9500,02/11/2012,3,0,Neutral,"Hoboken, NJ",-,43
+2012,Elmira,213,Bard,962,02/11/2012,3,1,Neutral,"Hoboken, NJ",-,47
+2012,Elmira,213,Vassar,737,02/12/2012,3,2,Neutral,"Hoboken, NJ",-,37
+2012,Elmira,213,Nazareth,461,02/15/2012,0,3,Away,,-,0
+2012,Elmira,213,D'Youville,1059,02/22/2012,2,3,Away,,-,0
+2012,Elmira,213,Emmanuel (MA),215,02/25/2012,3,0,Neutral,"New York, NY",-,0
+2012,Elmira,213,Kean,329,02/25/2012,1,3,Neutral,"New York, NY",-,37
+2012,Elmira,213,Baruch,58,02/26/2012,3,1,Away,,-,38
+2012,Elmira,213,Rivier,18422,02/26/2012,1,3,Neutral,"New York, NY",-,100
+2012,Elmira,213,Hilbert,8398,02/29/2012,3,0,Home,,-,55
+2012,Elmira,213,New York U.,479,03/10/2012,0,3,Neutral,"Rochester, NY",-,100
+2012,Elmira,213,Stevens,679,03/10/2012,1,3,Neutral,"Rochester, NY",-,100
+2012,Elmira,213,SUNY New Paltz,475,03/11/2012,3,0,Neutral,"Rochester, NY",-,0
+2012,Elmira,213,Thiel,707,03/17/2012,3,2,Neutral,"Kenosha, WI",2 Sets,40
+2012,Elmira,213,Rust,586,03/17/2012,3,0,Neutral,"Kenosha, WI",-,40
+2012,Elmira,213,Carthage,121,03/18/2012,0,3,Away,,-,50
+2012,Elmira,213,Milwaukee Engr.,20220,03/18/2012,0,3,Away,,-,50
+2012,Elmira,213,Medaille,23725,03/21/2012,1,3,Home,,1 Sets,250
+2012,Elmira,213,Phila. Biblical,1305,03/24/2012,2,3,Away,,2 Sets,140
+2012,Elmira,213,Lancaster Bible,30085,03/24/2012,3,1,Neutral,"Langhorne, PA",-,75
+2012,Elmira,213,Phila. Biblical,1305,04/06/2012,3,1,Neutral,"Cambridge, MA",-,0
+2012,Elmira,213,Southern Vt.,1379,04/06/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,Elmira,213,Springfield,673,04/07/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Elmira,213,Emmanuel (MA),215,04/07/2012,3,2,Neutral,"Cambridge, Mass.",2 Sets,50
+2012,Elmira,213,Medaille,23725,04/14/2012,2,3,Neutral,"New York, NY",2 Sets,74
+2012,Elmira,213,Juniata,325,04/21/2012,0,3,Away,,-,56
+2012,Elms,532,SUNYIT,9500,01/28/2012,3,1,Away,,-,35
+2012,Elms,532,Bard,962,01/28/2012,2,3,Neutral,"Utica, NY",-,35
+2012,Elms,532,Lancaster Bible,30085,01/29/2012,3,1,Neutral,"Utica, NY",-,35
+2012,Elms,532,Lesley,24317,02/02/2012,3,0,Away,,-,44
+2012,Elms,532,Mount Ida,27901,02/04/2012,3,0,Home,,-,102
+2012,Elms,532,Newbury,21772,02/04/2012,3,0,Home,,-,102
+2012,Elms,532,Daniel Webster,2691,02/09/2012,3,1,Away,,-,88
+2012,Elms,532,York (NY),2730,02/11/2012,3,0,Neutral,"Cambridge, MA",-,100
+2012,Elms,532,Rivier,18422,02/11/2012,0,3,Neutral,"Cambridge, MA",-,100
+2012,Elms,532,Johnson & Wales (RI),22626,02/12/2012,2,3,Neutral,"Cambridge, MA",-,100
+2012,Elms,532,Emerson,214,02/12/2012,3,0,Neutral,"Cambridge, MA",-,100
+2012,Elms,532,MIT,398,02/15/2012,1,3,Home,,-,134
+2012,Elms,532,Regis (MA),569,02/18/2012,3,0,Away,,-,26
+2012,Elms,532,Endicott,8981,02/25/2012,1,3,Away,,-,100
+2012,Elms,532,Bard,962,03/03/2012,3,0,Home,,-,75
+2012,Elms,532,Johnson & Wales (RI),22626,03/06/2012,3,1,Away,,-,57
+2012,Elms,532,Lasell,8486,03/09/2012,3,1,Away,,-,46
+2012,Elms,532,Endicott,8981,03/21/2012,0,3,Home,,-,150
+2012,Elms,532,Lesley,24317,03/24/2012,3,0,Home,,-,102
+2012,Elms,532,Newbury,21772,03/25/2012,3,0,Away,,-,25
+2012,Elms,532,Southern Vt.,1379,03/29/2012,3,2,Home,,-,96
+2012,Elms,532,Wentworth Inst.,762,03/31/2012,3,2,Home,,2 Sets,124
+2012,Elms,532,Regis (MA),569,03/31/2012,3,0,Home,,-,105
+2012,Elms,532,Southern Vt.,1379,04/05/2012,2,3,Away,,-,61
+2012,Elms,532,Daniel Webster,2691,04/07/2012,3,1,Home,,-,135
+2012,Elms,532,Southern Vt.,1379,04/13/2012,3,1,Home,,-,95
+2012,Elms,532,Endicott,8981,04/14/2012,3,1,Away,,-,150
+2012,Elms,532,Baruch,58,04/21/2012,0,3,Away,,-,223
+2012,Emerson,214,Regis (MA),569,02/04/2012,3,0,Away,,-,56
+2012,Emerson,214,Lesley,24317,02/06/2012,3,0,Away,,-,29
+2012,Emerson,214,Rivier,18422,02/09/2012,0,3,Home,,-,75
+2012,Emerson,214,MIT,398,02/11/2012,0,3,Away,,-,71
+2012,Emerson,214,Endicott,8981,02/11/2012,1,3,Neutral,"Cambridge, MA",-,71
+2012,Emerson,214,Elms,532,02/12/2012,0,3,Neutral,"Cambridge, MA",-,100
+2012,Emerson,214,York (NY),2730,02/12/2012,3,2,Neutral,"Cambridge, MA",-,100
+2012,Emerson,214,Emmanuel (MA),215,02/14/2012,0,3,Home,,-,123
+2012,Emerson,214,Newbury,21772,02/16/2012,1,3,Home,,-,65
+2012,Emerson,214,Lasell,8486,02/20/2012,3,2,Home,,-,75
+2012,Emerson,214,Johnson & Wales (RI),22626,02/20/2012,3,2,Home,,-,80
+2012,Emerson,214,Lesley,24317,02/27/2012,3,0,Home,,-,54
+2012,Emerson,214,Regis (MA),569,03/13/2012,3,0,Home,,-,65
+2012,Emerson,214,Wentworth Inst.,762,03/15/2012,1,3,Home,,-,75
+2012,Emerson,214,Albertus Magnus,2798,03/20/2012,0,3,Home,,-,63
+2012,Emerson,214,Lasell,8486,03/22/2012,2,3,Away,,2 Sets,49
+2012,Emerson,214,Albertus Magnus,2798,03/24/2012,1,3,Away,,1 Sets,47
+2012,Emerson,214,Emmanuel (MA),215,03/27/2012,0,3,Away,,-,125
+2012,Emerson,214,Wentworth Inst.,762,03/29/2012,3,1,Away,,1 Sets,65
+2012,Emerson,214,Daniel Webster,2691,04/02/2012,2,3,Away,,2 Sets,101
+2012,Emerson,214,Mount Ida,27901,04/03/2012,3,0,Home,,-,67
+2012,Emerson,214,Johnson & Wales (RI),22626,04/05/2012,1,3,Away,,1 Sets,57
+2012,Emerson,214,Rivier,18422,04/07/2012,0,3,Neutral,"Newton, MA",-,50
+2012,Emerson,214,Mount Ida,27901,04/07/2012,3,1,Away,,-,0
+2012,Emerson,214,Johnson & Wales (RI),22626,04/10/2012,0,3,Away,,-,77
+2012,Emmanuel (MA),215,Springfield,673,02/01/2012,0,3,Home,,-,150
+2012,Emmanuel (MA),215,Johnson & Wales (RI),22626,02/04/2012,3,1,Neutral,"Springfield, MA",-,300
+2012,Emmanuel (MA),215,Springfield,673,02/04/2012,0,3,Away,,-,300
+2012,Emmanuel (MA),215,Wentworth Inst.,762,02/07/2012,3,0,Away,,-,80
+2012,Emmanuel (MA),215,Johnson & Wales (RI),22626,02/09/2012,3,2,Home,,-,175
+2012,Emmanuel (MA),215,Emerson,214,02/14/2012,3,0,Away,,-,123
+2012,Emmanuel (MA),215,Rivier,18422,02/17/2012,1,3,Away,,-,100
+2012,Emmanuel (MA),215,Harvard,275,02/22/2012,0,3,Away,,-,127
+2012,Emmanuel (MA),215,Elmira,213,02/25/2012,0,3,Neutral,"New York, NY",-,0
+2012,Emmanuel (MA),215,Stevens,679,02/25/2012,3,1,Neutral,"New York, NY",-,0
+2012,Emmanuel (MA),215,MIT,398,02/26/2012,1,3,Neutral,"New York, NY",-,42
+2012,Emmanuel (MA),215,Baruch,58,02/26/2012,0,3,Away,,-,42
+2012,Emmanuel (MA),215,Rivier,18422,02/28/2012,0,3,Home,,-,250
+2012,Emmanuel (MA),215,Lasell,8486,03/01/2012,3,0,Away,,-,74
+2012,Emmanuel (MA),215,MIT,398,03/17/2012,1,3,Neutral,"Brookline, MA",1 Sets,33
+2012,Emmanuel (MA),215,Newbury,21772,03/17/2012,3,0,Neutral,"Brookline, MA",-,21
+2012,Emmanuel (MA),215,Mount Ida,27901,03/20/2012,3,0,Home,,-,100
+2012,Emmanuel (MA),215,Albertus Magnus,2798,03/22/2012,3,0,Away,,-,113
+2012,Emmanuel (MA),215,Lasell,8486,03/24/2012,3,0,Home,,-,100
+2012,Emmanuel (MA),215,Emerson,214,03/27/2012,3,0,Home,,-,125
+2012,Emmanuel (MA),215,Mount Ida,27901,03/29/2012,3,0,Away,,-,50
+2012,Emmanuel (MA),215,Wentworth Inst.,762,04/03/2012,3,0,Home,,-,75
+2012,Emmanuel (MA),215,Albertus Magnus,2798,04/04/2012,3,0,Home,,-,125
+2012,Emmanuel (MA),215,Southern Vt.,1379,04/06/2012,3,0,Neutral,"Cambridge, MA",-,50
+2012,Emmanuel (MA),215,Medaille,23725,04/06/2012,1,3,Neutral,"Cambridge, MA",1 Sets,50
+2012,Emmanuel (MA),215,Bard,962,04/07/2012,3,0,Neutral,"Cambridge, MA",-,50
+2012,Emmanuel (MA),215,Elmira,213,04/07/2012,2,3,Neutral,"Cambridge, Mass.",2 Sets,50
+2012,Emmanuel (MA),215,Johnson & Wales (RI),22626,04/12/2012,3,0,Home,,-,150
+2012,Emmanuel (MA),215,Rivier,18422,04/14/2012,0,3,Away,,-,100
+2012,Endicott,8981,Harvard,275,01/24/2012,1,3,Home,,-,225
+2012,Endicott,8981,Springfield,673,01/27/2012,0,3,Away,,-,400
+2012,Endicott,8981,MIT,398,01/31/2012,0,3,Away,,-,140
+2012,Endicott,8981,Newbury,21772,02/09/2012,3,0,Home,,-,100
+2012,Endicott,8981,Emerson,214,02/11/2012,3,1,Neutral,"Cambridge, MA",-,71
+2012,Endicott,8981,Johnson & Wales (RI),22626,02/11/2012,3,0,Neutral,"Cambridge, MA",-,66
+2012,Endicott,8981,Stevenson,21852,02/12/2012,2,3,Neutral,"Cambridge, MA",-,100
+2012,Endicott,8981,Rivier,18422,02/12/2012,0,3,Neutral,"Cambridge, MA",-,65
+2012,Endicott,8981,Regis (MA),569,02/15/2012,3,0,Away,,-,39
+2012,Endicott,8981,Southern Vt.,1379,02/18/2012,3,0,Away,,-,83
+2012,Endicott,8981,Regis (MA),569,02/22/2012,3,0,Home,,-,75
+2012,Endicott,8981,Elms,532,02/25/2012,3,1,Home,,-,100
+2012,Endicott,8981,Lesley,24317,02/29/2012,3,0,Away,,-,54
+2012,Endicott,8981,New York U.,479,03/02/2012,1,3,Home,,-,90
+2012,Endicott,8981,Daniel Webster,2691,03/06/2012,3,0,Home,,-,75
+2012,Endicott,8981,Springfield,673,03/08/2012,0,3,Home,,-,75
+2012,Endicott,8981,Ramapo,564,03/16/2012,1,3,Neutral,"Lake Wales, FL",-,50
+2012,Endicott,8981,Warner,,03/16/2012,0,3,Away,,-,75
+2012,Endicott,8981,Johnson & Wales (CO),,03/17/2012,1,3,Neutral,"Tampa, FL",-,60
+2012,Endicott,8981,Stevens,679,03/17/2012,0,3,Neutral,"Tampa, FL",-,60
+2012,Endicott,8981,Elms,532,03/21/2012,3,0,Away,,-,150
+2012,Endicott,8981,Southern Vt.,1379,03/24/2012,3,0,Home,,-,85
+2012,Endicott,8981,Stevenson,21852,03/24/2012,2,3,Home,,-,150
+2012,Endicott,8981,SUNYIT,9500,03/25/2012,3,0,Home,,-,95
+2012,Endicott,8981,Vassar,737,03/25/2012,1,3,Home,,-,100
+2012,Endicott,8981,Lesley,24317,03/27/2012,3,0,Home,,-,75
+2012,Endicott,8981,Daniel Webster,2691,03/31/2012,3,0,Away,,-,39
+2012,Endicott,8981,Newbury,21772,04/05/2012,3,0,Away,,-,54
+2012,Endicott,8981,Daniel Webster,2691,04/13/2012,3,0,Home,,-,95
+2012,Endicott,8981,Elms,532,04/14/2012,1,3,Home,,-,150
+2012,Endicott,8981,Albertus Magnus,2798,04/21/2012,3,0,Home,,-,75
+2012,Endicott,8981,Ramapo,564,04/21/2012,0,3,Home,,-,115
+2012,Fontbonne,11538,Quincy,561,01/28/2012,1,3,Home,,1 Sets,68
+2012,Fontbonne,11538,Quincy,561,01/28/2012,0,3,Home,,-,75
+2012,Fontbonne,11538,Medaille,23725,02/03/2012,0,3,Neutral,"Greenville, PA",-,37
+2012,Fontbonne,11538,Thiel,707,02/03/2012,0,3,Neutral,"Greenville, PA",-,0
+2012,Fontbonne,11538,Stevenson,21852,02/04/2012,1,3,Neutral,"Greenville, PA",-,0
+2012,Fontbonne,11538,East. Mennonite,203,02/04/2012,0,3,Neutral,"Greenville, PA",-,27
+2012,Fontbonne,11538,Rust,586,02/11/2012,3,2,Away,,-,0
+2012,Fontbonne,11538,Rust,586,02/11/2012,2,3,Away,,-,0
+2012,Fontbonne,11538,Quincy,561,02/13/2012,0,3,Away,,-,164
+2012,Fontbonne,11538,Quincy,561,02/13/2012,0,3,Away,,-,102
+2012,Fontbonne,11538,Lindenwood (MO),30136,02/15/2012,0,3,Away,,-,100
+2012,Fontbonne,11538,UC Santa Cruz,113,03/01/2012,0,3,Home,,-,0
+2012,Fontbonne,11538,Mt. St. Joseph,8567,03/02/2012,0,3,Home,,-,0
+2012,Fontbonne,11538,Milwaukee Engr.,20220,03/03/2012,0,3,Home,,-,0
+2012,Fontbonne,11538,Carthage,121,03/04/2012,0,3,Home,,-,50
+2012,Fontbonne,11538,Thiel,707,03/09/2012,0,3,Home,,-,0
+2012,Fontbonne,11538,MIT,398,03/10/2012,1,3,Home,,-,0
+2012,Fontbonne,11538,Milwaukee Engr.,20220,03/10/2012,0,3,Home,,-,0
+2012,Fontbonne,11538,Carthage,121,03/11/2012,0,3,Home,,-,50
+2012,Fontbonne,11538,Lindenwood (MO),30136,03/13/2012,0,3,Home,,-,60
+2012,Fontbonne,11538,Rust,586,03/17/2012,3,0,Neutral,"Kenosha, WI",-,40
+2012,Fontbonne,11538,Juniata,325,03/17/2012,0,3,Neutral,"Milwaukee, WI",-,21
+2012,Fontbonne,11538,East. Mennonite,203,03/17/2012,0,3,Neutral,"Milwaukee, WI",-,38
+2012,Fontbonne,11538,Thiel,707,03/18/2012,0,3,Neutral,"Milwaukee, WI",-,6
+2012,Fontbonne,11538,Warner,,03/21/2012,0,3,Away,,-,65
+2012,Fontbonne,11538,Warner,,03/21/2012,0,3,Away,,-,100
+2012,Fontbonne,11538,Rust,586,03/28/2012,3,1,Home,,-,0
+2012,Fontbonne,11538,Rust,586,03/28/2012,3,1,Home,,-,0
+2012,Fontbonne,11538,UC Santa Cruz,113,03/30/2012,0,3,Neutral,"Milwaukee, WI",-,30
+2012,Fontbonne,11538,Milwaukee Engr.,20220,03/31/2012,0,3,Away,,-,36
+2012,Fontbonne,11538,Carthage,121,03/31/2012,0,3,Neutral,"Milwaukee, WI",-,37
+2012,Fontbonne,11538,Mt. St. Joseph,8567,04/01/2012,3,2,Neutral,"Milwaukee, WI",-,33
+2012,George Mason,248,IPFW,308,01/13/2012,3,2,Home,,2 Sets,112
+2012,George Mason,248,Ball St.,47,01/14/2012,2,3,Home,,2 Sets,225
+2012,George Mason,248,Ohio St.,518,01/19/2012,2,3,Away,,-,241
+2012,George Mason,248,Ball St.,47,01/20/2012,3,2,Away,,2 Sets,688
+2012,George Mason,248,IPFW,308,01/21/2012,3,2,Away,,2 Sets,438
+2012,George Mason,248,Loyola Chicago,371,01/27/2012,1,3,Away,,1 Sets,405
+2012,George Mason,248,Lewis,354,01/28/2012,1,3,Away,,1 Sets,861
+2012,George Mason,248,Juniata,325,02/04/2012,2,3,Away,,2 Sets,"1,312"
+2012,George Mason,248,Harvard,275,02/10/2012,3,0,Away,,-,145
+2012,George Mason,248,Sacred Heart,590,02/11/2012,2,3,Away,,2 Sets,141
+2012,George Mason,248,Loyola Chicago,371,02/17/2012,0,3,Neutral,"Fairfax, VA",-,251
+2012,George Mason,248,Lewis,354,02/18/2012,2,3,Home,,2 Sets,220
+2012,George Mason,248,Saint Francis (PA),600,02/24/2012,2,3,Away,,2 Sets,148
+2012,George Mason,248,Penn St.,539,02/25/2012,0,3,Away,,-,513
+2012,George Mason,248,Grand Canyon,1104,02/27/2012,3,1,Home,,-,120
+2012,George Mason,248,Harvard,275,03/02/2012,2,3,Home,,2 Sets,307
+2012,George Mason,248,Sacred Heart,590,03/03/2012,3,0,Home,,-,255
+2012,George Mason,248,Princeton,554,03/10/2012,3,0,Away,,-,130
+2012,George Mason,248,Southern California,657,03/23/2012,0,3,Away,,-,400
+2012,George Mason,248,Pepperdine,541,03/24/2012,0,3,Away,,-,264
+2012,George Mason,248,Saint Francis (PA),600,03/30/2012,3,1,Home,,1 Sets,187
+2012,George Mason,248,Penn St.,539,03/31/2012,1,3,Home,,1 Sets,982
+2012,George Mason,248,NJIT,471,04/06/2012,3,0,Away,,-,109
+2012,George Mason,248,Rutgers-Newark,589,04/07/2012,3,0,Away,,-,83
+2012,George Mason,248,NJIT,471,04/14/2012,3,2,Home,,2 Sets,151
+2012,George Mason,248,Ohio St.,518,04/15/2012,0,3,Home,,-,127
+2012,George Mason,248,Rutgers-Newark,589,04/20/2012,3,0,Home,,-,253
+2012,George Mason,248,Princeton,554,04/21/2012,2,3,Home,,2 Sets,483
+2012,George Mason,248,Harvard,275,04/26/2012,3,0,Neutral,"University Park, PA",-,723
+2012,George Mason,248,Penn St.,539,04/28/2012,1,3,Away,,1 Sets,"1,221"
+2012,Grand Canyon,1104,Pacific,534,01/07/2012,0,3,Away,,-,107
+2012,Grand Canyon,1104,Pacific,534,01/08/2012,0,3,Away,,-,109
+2012,Grand Canyon,1104,UC Santa Cruz,113,01/09/2012,3,1,Away,,-,100
+2012,Grand Canyon,1104,NJIT,471,01/13/2012,3,2,Home,,-,257
+2012,Grand Canyon,1104,NJIT,471,01/14/2012,3,1,Home,,-,153
+2012,Grand Canyon,1104,UC San Diego,112,01/15/2012,3,0,Home,,-,135
+2012,Grand Canyon,1104,Hope Int'l,,01/19/2012,3,0,Away,,-,193
+2012,Grand Canyon,1104,Cal Baptist,30135,01/20/2012,1,3,Away,,-,322
+2012,Grand Canyon,1104,Hawaii,277,01/27/2012,2,3,Away,,2 Sets,"2,714"
+2012,Grand Canyon,1104,Hawaii,277,01/28/2012,1,3,Away,,1 Sets,"2,733"
+2012,Grand Canyon,1104,Johnson & Wales (CO),,02/10/2012,3,0,Home,,-,213
+2012,Grand Canyon,1104,King (TN),30051,02/10/2012,3,0,Home,,-,97
+2012,Grand Canyon,1104,Johnson & Wales (CO),,02/11/2012,3,0,Home,,-,79
+2012,Grand Canyon,1104,King (TN),30051,02/11/2012,3,0,Home,,-,102
+2012,Grand Canyon,1104,Quincy,561,02/18/2012,3,0,Home,,-,92
+2012,Grand Canyon,1104,Quincy,561,02/19/2012,3,0,Home,,-,74
+2012,Grand Canyon,1104,Juniata,325,02/25/2012,1,3,Away,,1 Sets,479
+2012,Grand Canyon,1104,Saint Francis (PA),600,02/26/2012,2,3,Away,,2 Sets,206
+2012,Grand Canyon,1104,George Mason,248,02/27/2012,1,3,Away,,-,120
+2012,Grand Canyon,1104,Ball St.,47,03/09/2012,3,0,Home,,-,173
+2012,Grand Canyon,1104,Ball St.,47,03/10/2012,2,3,Home,,-,141
+2012,Grand Canyon,1104,IPFW,308,03/16/2012,3,0,Away,,-,387
+2012,Grand Canyon,1104,IPFW,308,03/17/2012,3,1,Away,,1 Sets,273
+2012,Grand Canyon,1104,Loyola Chicago,371,03/23/2012,1,3,Home,,1 Sets,197
+2012,Grand Canyon,1104,Loyola Chicago,371,03/24/2012,0,3,Home,,-,131
+2012,Grand Canyon,1104,Lindenwood (MO),30136,03/30/2012,3,0,Home,,-,96
+2012,Grand Canyon,1104,Lindenwood (MO),30136,03/31/2012,1,3,Home,,1 Sets,104
+2012,Grand Canyon,1104,Ohio St.,518,04/05/2012,2,3,Away,,2 Sets,264
+2012,Grand Canyon,1104,Ohio St.,518,04/06/2012,1,3,Away,,1 Sets,429
+2012,Grand Canyon,1104,Lewis,354,04/13/2012,0,3,Away,,-,769
+2012,Grand Canyon,1104,Lewis,354,04/14/2012,0,3,Away,,-,512
+2012,Grand Canyon,1104,Ball St.,47,04/21/2012,1,3,Home,,-,386
+2012,Harvard,275,Endicott,8981,01/24/2012,3,1,Away,,-,225
+2012,Harvard,275,Rivier,18422,01/27/2012,3,0,Away,,-,150
+2012,Harvard,275,Springfield,673,01/28/2012,3,0,Home,,-,205
+2012,Harvard,275,MIT,398,02/04/2012,3,1,Away,,1 Sets,307
+2012,Harvard,275,Cal Baptist,30135,02/08/2012,3,1,Home,,1 Sets,104
+2012,Harvard,275,George Mason,248,02/10/2012,0,3,Home,,-,145
+2012,Harvard,275,Princeton,554,02/11/2012,3,0,Home,,-,164
+2012,Harvard,275,Penn St.,539,02/17/2012,0,3,Home,,-,323
+2012,Harvard,275,Saint Francis (PA),600,02/18/2012,3,0,Home,,-,134
+2012,Harvard,275,Emmanuel (MA),215,02/22/2012,3,0,Home,,-,127
+2012,Harvard,275,Sacred Heart,590,02/25/2012,3,0,Home,,-,113
+2012,Harvard,275,George Mason,248,03/02/2012,3,2,Away,,2 Sets,307
+2012,Harvard,275,Princeton,554,03/03/2012,3,2,Away,,2 Sets,95
+2012,Harvard,275,Cal St. Northridge,101,03/10/2012,3,1,Away,,1 Sets,455
+2012,Harvard,275,Pepperdine,541,03/12/2012,1,3,Away,,-,447
+2012,Harvard,275,Cal Baptist,30135,03/13/2012,3,2,Away,,2 Sets,224
+2012,Harvard,275,Sacred Heart,590,03/24/2012,3,1,Away,,1 Sets,107
+2012,Harvard,275,Rutgers-Newark,589,03/30/2012,3,1,Home,,1 Sets,148
+2012,Harvard,275,NJIT,471,03/31/2012,3,0,Home,,-,136
+2012,Harvard,275,Saint Francis (PA),600,04/06/2012,3,1,Away,,1 Sets,100
+2012,Harvard,275,Penn St.,539,04/07/2012,2,3,Away,,2 Sets,328
+2012,Harvard,275,NJIT,471,04/13/2012,1,3,Away,,1 Sets,203
+2012,Harvard,275,Rutgers-Newark,589,04/14/2012,3,1,Away,,1 Sets,54
+2012,Harvard,275,George Mason,248,04/26/2012,0,3,Neutral,"University Park, PA",-,723
+2012,Hawaii,277,UC San Diego,112,01/05/2012,3,0,Home,,-,"2,796"
+2012,Hawaii,277,UC San Diego,112,01/06/2012,0,3,Home,,-,"2,832"
+2012,Hawaii,277,Springfield,673,01/12/2012,3,0,Home,,-,"2,782"
+2012,Hawaii,277,Lewis,354,01/13/2012,2,3,Home,,2 Sets,"2,873"
+2012,Hawaii,277,UCLA,110,01/14/2012,0,3,Home,,-,"3,481"
+2012,Hawaii,277,Pepperdine,541,01/20/2012,1,3,Away,,-,583
+2012,Hawaii,277,Pepperdine,541,01/21/2012,1,3,Away,,-,485
+2012,Hawaii,277,Grand Canyon,1104,01/27/2012,3,2,Home,,2 Sets,"2,714"
+2012,Hawaii,277,Grand Canyon,1104,01/28/2012,3,1,Home,,1 Sets,"2,733"
+2012,Hawaii,277,Pacific,534,02/03/2012,3,2,Away,,2 Sets,347
+2012,Hawaii,277,Pacific,534,02/04/2012,3,0,Away,,-,296
+2012,Hawaii,277,UC Irvine,109,02/10/2012,1,3,Home,,1 Sets,"2,974"
+2012,Hawaii,277,UC Irvine,109,02/12/2012,0,3,Home,,-,"2,636"
+2012,Hawaii,277,UCLA,110,02/17/2012,0,3,Home,,-,"2,856"
+2012,Hawaii,277,UCLA,110,02/18/2012,0,3,Home,,-,"2,922"
+2012,Hawaii,277,Southern California,657,03/02/2012,0,3,Away,,-,"1,500"
+2012,Hawaii,277,Southern California,657,03/04/2012,2,3,Away,,2 Sets,750
+2012,Hawaii,277,Stanford,674,03/06/2012,1,3,Away,,1 Sets,401
+2012,Hawaii,277,Stanford,674,03/07/2012,3,1,Away,,1 Sets,397
+2012,Hawaii,277,BYU,77,03/16/2012,2,3,Home,,2 Sets,"2,972"
+2012,Hawaii,277,BYU,77,03/17/2012,0,3,Home,,-,"3,135"
+2012,Hawaii,277,Cal St. Northridge,101,03/23/2012,1,3,Away,,1 Sets,568
+2012,Hawaii,277,Cal St. Northridge,101,03/24/2012,1,3,Away,,1 Sets,842
+2012,Hawaii,277,Long Beach St.,99,03/30/2012,0,3,Home,,-,"2,704"
+2012,Hawaii,277,Long Beach St.,99,03/31/2012,1,3,Home,,1 Sets,"3,125"
+2012,Hawaii,277,UC Santa Barbara,104,04/06/2012,0,3,Away,,-,346
+2012,Hawaii,277,UC Santa Barbara,104,04/07/2012,1,3,Away,,1 Sets,350
+2012,Hilbert,8398,CCNY,480,01/21/2012,3,0,Neutral,"Elmira, NY",-,25
+2012,Hilbert,8398,Juniata,325,01/21/2012,0,3,Neutral,"Elmira, NY",-,30
+2012,Hilbert,8398,Thiel,707,01/22/2012,0,3,Neutral,"Elmira, NY",-,20
+2012,Hilbert,8398,Elmira,213,01/22/2012,0,3,Away,,-,60
+2012,Hilbert,8398,Thiel,707,01/28/2012,0,3,Home,,-,50
+2012,Hilbert,8398,D'Youville,1059,02/01/2012,1,3,Home,,-,0
+2012,Hilbert,8398,Medaille,23725,02/07/2012,0,3,Home,,-,106
+2012,Hilbert,8398,Stevens,679,02/11/2012,0,3,Away,,-,54
+2012,Hilbert,8398,SUNYIT,9500,02/11/2012,3,2,Neutral,"Hoboken, NJ",-,54
+2012,Hilbert,8398,New York U.,479,02/12/2012,0,3,Neutral,"Hoboken, NJ",-,41
+2012,Hilbert,8398,Medaille,23725,02/16/2012,0,3,Away,,-,70
+2012,Hilbert,8398,Nazareth,461,02/22/2012,1,3,Home,,-,75
+2012,Hilbert,8398,Wells,761,02/25/2012,3,0,Home,,-,100
+2012,Hilbert,8398,Elmira,213,02/29/2012,0,3,Away,,-,55
+2012,Hilbert,8398,Wells,761,03/03/2012,3,0,Away,,-,45
+2012,Hilbert,8398,Lancaster Bible,30085,03/03/2012,3,2,Neutral,"Aurora, NY",-,32
+2012,Hilbert,8398,D'Youville,1059,03/07/2012,0,3,Away,,-,145
+2012,Hilbert,8398,Vassar,737,03/10/2012,0,3,Neutral,"Rochester, NY",-,89
+2012,Hilbert,8398,SUNY New Paltz,475,03/10/2012,0,3,Neutral,"Rochester, NY",-,89
+2012,Hilbert,8398,Bard,962,03/11/2012,3,2,Neutral,"Rochester, NY",-,0
+2012,Hilbert,8398,Penn St.-Behrend,538,03/14/2012,0,3,Away,,-,115
+2012,Hilbert,8398,Penn St.-Behrend,538,03/21/2012,0,3,Home,,-,64
+2012,Hilbert,8398,Johnson & Wales (RI),22626,03/24/2012,0,3,Neutral,"Beverly, MA",-,57
+2012,Hilbert,8398,Hunter,292,03/24/2012,0,3,Neutral,"Beverly, MA",-,100
+2012,Hilbert,8398,Sage Colleges,11036,03/25/2012,1,3,Neutral,"Beverly, MA",1 Sets,25
+2012,Hilbert,8398,MIT,398,03/25/2012,0,3,Neutral,"Beverly, MA",-,0
+2012,Hilbert,8398,Medaille,23725,03/31/2012,0,3,Away,,-,82
+2012,Hunter,292,SUNY New Paltz,475,01/17/2012,0,3,Home,,-,72
+2012,Hunter,292,NJIT,471,01/20/2012,0,3,Neutral,"Newark, NJ",-,80
+2012,Hunter,292,New York U.,479,01/21/2012,1,3,Neutral,"Newark, NJ",-,60
+2012,Hunter,292,Medaille,23725,01/28/2012,2,3,Neutral,"New York, NY",-,62
+2012,Hunter,292,Baruch,58,01/28/2012,2,3,Away,,-,64
+2012,Hunter,292,Medgar Evers,403,02/04/2012,3,0,Home,,-,36
+2012,Hunter,292,Phila. Biblical,1305,02/07/2012,2,3,Home,,-,34
+2012,Hunter,292,CCNY,480,02/09/2012,3,0,Away,,-,50
+2012,Hunter,292,New Jersey City,319,02/10/2012,3,0,Home,,-,34
+2012,Hunter,292,Brooklyn,79,02/16/2012,3,0,Home,,-,32
+2012,Hunter,292,Newbury,21772,02/18/2012,3,0,Neutral,"Springfield, MA",-,35
+2012,Hunter,292,Springfield,673,02/18/2012,0,3,Away,,-,200
+2012,Hunter,292,Baruch,58,02/28/2012,3,0,Home,,-,211
+2012,Hunter,292,John Jay,321,03/03/2012,3,0,Neutral,"New York, NY",-,50
+2012,Hunter,292,Brooklyn,79,03/03/2012,3,0,Neutral,"New York, NY",-,50
+2012,Hunter,292,Vassar,737,03/06/2012,3,1,Home,,-,66
+2012,Hunter,292,York (NY),2730,03/06/2012,3,0,Home,,-,65
+2012,Hunter,292,CCNY,480,03/08/2012,3,0,Home,,-,36
+2012,Hunter,292,Medgar Evers,403,03/13/2012,3,0,Away,,-,0
+2012,Hunter,292,York (NY),2730,03/17/2012,3,0,Away,,-,40
+2012,Hunter,292,Lehman,279,03/17/2012,3,0,Neutral,"Jamaica, NY",-,30
+2012,Hunter,292,Lehman,279,03/20/2012,3,0,Home,,-,32
+2012,Hunter,292,Baruch,58,03/22/2012,3,1,Away,,1 Sets,107
+2012,Hunter,292,Hilbert,8398,03/24/2012,3,0,Neutral,"Beverly, MA",-,100
+2012,Hunter,292,Rivier,18422,03/24/2012,3,0,Neutral,"Beverly, MA",-,100
+2012,Hunter,292,Southern Vt.,1379,03/25/2012,3,0,Neutral,"Beverly, MA",-,53
+2012,Hunter,292,SUNYIT,9500,03/25/2012,3,0,Away,,-,53
+2012,Hunter,292,John Jay,321,03/27/2012,3,0,Home,,-,32
+2012,Hunter,292,SUNYIT,9500,03/31/2012,3,1,Home,,-,45
+2012,Hunter,292,Stevens,679,03/31/2012,3,2,Home,,-,56
+2012,Hunter,292,Medgar Evers,403,04/10/2012,3,0,Home,,-,68
+2012,Hunter,292,Baruch,58,04/12/2012,2,3,Home,,-,305
+2012,Hunter,292,Brooklyn,79,04/12/2012,3,0,Home,,-,256
+2012,Hunter,292,Kean,329,04/27/2012,3,1,Neutral,"Springfield, MA",1 Sets,300
+2012,Hunter,292,Springfield,673,04/28/2012,0,3,Away,,-,"1,095"
+2012,IPFW,308,P.R.-Rio Piedras,2716,01/04/2012,3,2,Away,,2 Sets,200
+2012,IPFW,308,P.R.-Rio Piedras,2716,01/07/2012,1,3,Away,,1 Sets,200
+2012,IPFW,308,George Mason,248,01/13/2012,2,3,Away,,2 Sets,112
+2012,IPFW,308,Saint Francis (PA),600,01/14/2012,3,2,Away,,-,150
+2012,IPFW,308,Saint Francis (PA),600,01/20/2012,3,1,Home,,-,328
+2012,IPFW,308,George Mason,248,01/21/2012,2,3,Home,,2 Sets,438
+2012,IPFW,308,Mount Olive,1245,01/27/2012,3,1,Away,,1 Sets,381
+2012,IPFW,308,Mount Olive,1245,01/28/2012,3,0,Away,,-,179
+2012,IPFW,308,Lewis,354,02/03/2012,3,2,Home,,2 Sets,580
+2012,IPFW,308,Ohio St.,518,02/10/2012,1,3,Home,,1 Sets,"1,144"
+2012,IPFW,308,Cardinal Stritch,,02/11/2012,3,0,Home,,-,318
+2012,IPFW,308,Carthage,121,02/17/2012,1,3,Home,,1 Sets,407
+2012,IPFW,308,Ball St.,47,02/18/2012,0,3,Away,,-,503
+2012,IPFW,308,Loyola Chicago,371,02/24/2012,3,2,Away,,2 Sets,314
+2012,IPFW,308,NJIT,471,03/02/2012,3,0,Home,,-,320
+2012,IPFW,308,NJIT,471,03/03/2012,3,1,Home,,1 Sets,319
+2012,IPFW,308,Long Beach St.,99,03/09/2012,0,3,Away,,-,654
+2012,IPFW,308,Cal Baptist,30135,03/10/2012,2,3,Neutral,"Long Beach, Calif.",2 Sets,0
+2012,IPFW,308,Grand Canyon,1104,03/16/2012,0,3,Home,,-,387
+2012,IPFW,308,Grand Canyon,1104,03/17/2012,1,3,Home,,1 Sets,273
+2012,IPFW,308,Lewis,354,03/23/2012,0,3,Away,,-,861
+2012,IPFW,308,Carthage,121,03/24/2012,1,3,Neutral,"Kenosha, WI",-,150
+2012,IPFW,308,Quincy,561,03/30/2012,3,2,Away,,2 Sets,127
+2012,IPFW,308,Quincy,561,03/31/2012,3,0,Away,,-,138
+2012,IPFW,308,Ball St.,47,04/07/2012,3,1,Home,,1 Sets,718
+2012,IPFW,308,Ohio St.,518,04/13/2012,1,3,Away,,1 Sets,638
+2012,IPFW,308,Loyola Chicago,371,04/14/2012,1,3,Home,,1 Sets,551
+2012,IPFW,308,Loyola Chicago,371,04/20/2012,1,3,Away,,1 Sets,456
+2012,John Jay,321,Baruch,58,02/04/2012,0,3,Neutral,"New York, NY",-,36
+2012,John Jay,321,York (NY),2730,02/04/2012,0,3,Neutral,"New York, NY",-,36
+2012,John Jay,321,Kean,329,02/09/2012,0,3,Away,,-,44
+2012,John Jay,321,CCNY,480,02/14/2012,0,3,Away,,-,50
+2012,John Jay,321,Lehman,279,02/16/2012,0,3,Away,,-,0
+2012,John Jay,321,Medgar Evers,403,02/22/2012,3,1,Home,,-,0
+2012,John Jay,321,Penn St.-Behrend,538,02/26/2012,0,3,Home,,-,7
+2012,John Jay,321,Lehman,279,03/01/2012,0,3,Home,,-,37
+2012,John Jay,321,Hunter,292,03/03/2012,0,3,Neutral,"New York, NY",-,50
+2012,John Jay,321,Medgar Evers,403,03/03/2012,3,0,Neutral,"New York, NY",-,25
+2012,John Jay,321,Brooklyn,79,03/06/2012,0,3,Away,,-,56
+2012,John Jay,321,CCNY,480,03/13/2012,0,3,Home,,-,39
+2012,John Jay,321,Medgar Evers,403,03/20/2012,3,2,Home,,2 Sets,34
+2012,John Jay,321,Baruch,58,03/22/2012,0,3,Away,,-,32
+2012,John Jay,321,Mt. St. Vincent,451,03/26/2012,0,3,Away,,-,45
+2012,John Jay,321,Hunter,292,03/27/2012,0,3,Away,,-,32
+2012,John Jay,321,Purchase St.,30029,03/29/2012,3,0,Away,,-,53
+2012,John Jay,321,York (NY),2730,04/02/2012,0,3,Away,,-,25
+2012,John Jay,321,Brooklyn,79,04/04/2012,0,3,Home,,-,62
+2012,John Jay,321,Polytechnic (NY),481,04/05/2012,0,3,Away,,-,33
+2012,John Jay,321,Baruch,58,04/10/2012,0,3,Away,,-,47
+2012,Johnson & Wales (RI),22626,Rivier,18422,01/25/2012,0,3,Home,,-,107
+2012,Johnson & Wales (RI),22626,Lesley,24317,01/31/2012,3,0,Home,,-,77
+2012,Johnson & Wales (RI),22626,Springfield,673,02/04/2012,0,3,Away,,-,85
+2012,Johnson & Wales (RI),22626,Emmanuel (MA),215,02/04/2012,1,3,Neutral,"Springfield, MA",-,300
+2012,Johnson & Wales (RI),22626,Emmanuel (MA),215,02/09/2012,2,3,Away,,-,175
+2012,Johnson & Wales (RI),22626,York (NY),2730,02/11/2012,3,2,Neutral,"Cambridge, MA",-,57
+2012,Johnson & Wales (RI),22626,Endicott,8981,02/11/2012,0,3,Neutral,"Cambridge, MA",-,66
+2012,Johnson & Wales (RI),22626,Elms,532,02/12/2012,3,2,Neutral,"Cambridge, MA",-,100
+2012,Johnson & Wales (RI),22626,Stevenson,21852,02/12/2012,0,3,Neutral,"Cambridge, MA",-,75
+2012,Johnson & Wales (RI),22626,Mount Ida,27901,02/18/2012,3,0,Home,,-,57
+2012,Johnson & Wales (RI),22626,Lasell,8486,02/20/2012,3,0,Neutral,"Boston, MA",-,67
+2012,Johnson & Wales (RI),22626,Emerson,214,02/20/2012,2,3,Away,,-,80
+2012,Johnson & Wales (RI),22626,Elms,532,03/06/2012,1,3,Home,,-,57
+2012,Johnson & Wales (RI),22626,CCNY,480,03/16/2012,3,0,Home,,-,77
+2012,Johnson & Wales (RI),22626,Lasell,8486,03/16/2012,3,1,Home,,-,77
+2012,Johnson & Wales (RI),22626,SUNYIT,9500,03/17/2012,3,0,Home,,-,77
+2012,Johnson & Wales (RI),22626,Southern Vt.,1379,03/17/2012,3,1,Home,,-,77
+2012,Johnson & Wales (RI),22626,Wentworth Inst.,762,03/20/2012,3,2,Away,,2 Sets,46
+2012,Johnson & Wales (RI),22626,Mount Ida,27901,03/22/2012,3,0,Away,,-,57
+2012,Johnson & Wales (RI),22626,Sage Colleges,11036,03/24/2012,2,3,Neutral,"Beverly, MA",2 Sets,57
+2012,Johnson & Wales (RI),22626,Hilbert,8398,03/24/2012,3,0,Neutral,"Beverly, MA",-,57
+2012,Johnson & Wales (RI),22626,Stevens,679,03/25/2012,0,3,Neutral,"Beverly, MA",-,57
+2012,Johnson & Wales (RI),22626,New Jersey City,319,03/25/2012,2,3,Neutral,"Beverly, MA",2 Sets,57
+2012,Johnson & Wales (RI),22626,Albertus Magnus,2798,03/29/2012,3,1,Home,,1 Sets,57
+2012,Johnson & Wales (RI),22626,Nazareth,461,03/30/2012,2,3,Neutral,"Poughkeepsie, NY",2 Sets,75
+2012,Johnson & Wales (RI),22626,Vassar,737,03/30/2012,0,3,Away,,-,150
+2012,Johnson & Wales (RI),22626,Lancaster Bible,30085,03/31/2012,3,1,Neutral,"Poughkeepsie, NY",-,100
+2012,Johnson & Wales (RI),22626,Springfield,673,03/31/2012,0,3,Neutral,"Poughkeepsie, NY",-,75
+2012,Johnson & Wales (RI),22626,Rivier,18422,04/03/2012,1,3,Away,,1 Sets,100
+2012,Johnson & Wales (RI),22626,Emerson,214,04/05/2012,3,1,Home,,1 Sets,57
+2012,Johnson & Wales (RI),22626,Wentworth Inst.,762,04/07/2012,3,0,Neutral,"New Haven, Conn.",-,50
+2012,Johnson & Wales (RI),22626,Albertus Magnus,2798,04/07/2012,2,3,Away,,2 Sets,55
+2012,Johnson & Wales (RI),22626,Emerson,214,04/10/2012,3,0,Home,,-,77
+2012,Johnson & Wales (RI),22626,Emmanuel (MA),215,04/12/2012,0,3,Away,,-,150
+2012,Juniata,325,Hope Int'l,,01/11/2012,3,2,Away,,-,72
+2012,Juniata,325,Stanford,674,01/13/2012,1,3,Away,,1 Sets,365
+2012,Juniata,325,UC Santa Cruz,113,01/14/2012,0,3,Away,,-,150
+2012,Juniata,325,Hilbert,8398,01/21/2012,3,0,Neutral,"Elmira, NY",-,30
+2012,Juniata,325,SUNY New Paltz,475,01/21/2012,3,0,Neutral,"Elmira, NY",-,35
+2012,Juniata,325,Elmira,213,01/21/2012,3,0,Away,,-,100
+2012,Juniata,325,D'Youville,1059,01/27/2012,3,1,Neutral,"Rochester, NY",-,100
+2012,Juniata,325,Elmira,213,01/27/2012,3,2,Neutral,"Rochester, NY",-,100
+2012,Juniata,325,MIT,398,01/28/2012,3,1,Neutral,"Rochester, NY",-,60
+2012,Juniata,325,Carthage,121,01/28/2012,2,3,Neutral,"Rochester, NY",-,60
+2012,Juniata,325,Saint Francis (PA),600,02/03/2012,0,3,Away,,1 Sets,175
+2012,Juniata,325,George Mason,248,02/04/2012,3,2,Home,,2 Sets,"1,312"
+2012,Juniata,325,New Jersey City,319,02/18/2012,3,0,Neutral,"Hoboken, NJ",-,79
+2012,Juniata,325,Stevens,679,02/18/2012,2,3,Away,,-,150
+2012,Juniata,325,Lancaster Bible,30085,02/24/2012,3,0,Home,,-,147
+2012,Juniata,325,Springfield,673,02/24/2012,3,0,Home,,-,689
+2012,Juniata,325,Grand Canyon,1104,02/25/2012,3,1,Home,,1 Sets,479
+2012,Juniata,325,Nazareth,461,02/25/2012,1,3,Home,,-,117
+2012,Juniata,325,Thiel,707,02/29/2012,3,0,Home,,-,176
+2012,Juniata,325,Phila. Biblical,1305,03/02/2012,3,0,Neutral,"Stevenson, MD",-,57
+2012,Juniata,325,Stevenson,21852,03/03/2012,3,0,Away,,-,209
+2012,Juniata,325,East. Mennonite,203,03/03/2012,3,0,Neutral,"Stevenson, MD",-,71
+2012,Juniata,325,New York U.,479,03/17/2012,3,1,Neutral,"Milwaukee, WI",-,30
+2012,Juniata,325,Milwaukee Engr.,20220,03/17/2012,3,0,Away,,-,69
+2012,Juniata,325,Fontbonne,11538,03/17/2012,3,0,Neutral,"Milwaukee, WI",-,21
+2012,Juniata,325,Carthage,121,03/18/2012,1,3,Away,,-,125
+2012,Juniata,325,Springfield,673,03/23/2012,2,3,Away,,-,700
+2012,Juniata,325,Wentworth Inst.,762,03/23/2012,3,0,Neutral,"Springfield, MA",-,150
+2012,Juniata,325,Princeton,554,03/24/2012,2,3,Away,,2 Sets,125
+2012,Juniata,325,Kean,329,03/24/2012,3,0,Neutral,"Springfield, MA",-,0
+2012,Juniata,325,Baruch,58,03/24/2012,3,1,Neutral,"Springfield, MA",1 Sets,38
+2012,Juniata,325,Thiel,707,03/28/2012,3,0,Away,,-,197
+2012,Juniata,325,Stevenson,21852,03/30/2012,3,0,Home,,-,307
+2012,Juniata,325,Phila. Biblical,1305,03/30/2012,3,0,Home,,-,240
+2012,Juniata,325,East. Mennonite,203,03/31/2012,3,0,Home,,-,207
+2012,Juniata,325,Sacred Heart,590,04/07/2012,3,0,Home,,-,103
+2012,Juniata,325,UC Santa Cruz,113,04/14/2012,2,3,Home,,-,107
+2012,Juniata,325,Medaille,23725,04/21/2012,2,3,Home,,-,55
+2012,Juniata,325,Elmira,213,04/21/2012,3,0,Home,,-,56
+2012,Kean,329,Rutgers-Newark,589,01/27/2012,2,3,Away,,2 Sets,157
+2012,Kean,329,New Jersey City,319,01/28/2012,3,2,Away,,2 Sets,143
+2012,Kean,329,Polytechnic (NY),481,01/28/2012,3,0,Neutral,"Jersey City, NJ",-,143
+2012,Kean,329,Sage Colleges,11036,01/31/2012,3,0,Away,,-,100
+2012,Kean,329,SUNYIT,9500,02/04/2012,3,0,Neutral,"New York, NY",-,55
+2012,Kean,329,New York U.,479,02/04/2012,0,3,Away,,-,70
+2012,Kean,329,Mt. St. Vincent,451,02/08/2012,3,1,Home,,-,55
+2012,Kean,329,John Jay,321,02/09/2012,3,0,Home,,-,44
+2012,Kean,329,Mt. St. Vincent,451,02/11/2012,3,0,Neutral,"Brooklyn, NY",-,40
+2012,Kean,329,Sage Colleges,11036,02/11/2012,3,2,Neutral,"Brooklyn, NY",-,40
+2012,Kean,329,Purchase St.,30029,02/23/2012,3,0,Away,,-,31
+2012,Kean,329,MIT,398,02/25/2012,3,1,Neutral,"New York, NY",1 Sets,57
+2012,Kean,329,Elmira,213,02/25/2012,3,1,Neutral,"New York, NY",-,37
+2012,Kean,329,Stevens,679,02/26/2012,0,3,Neutral,"New York, NY",-,100
+2012,Kean,329,Pfeiffer,542,02/26/2012,0,3,Neutral,"New York, NY",-,100
+2012,Kean,329,Polytechnic (NY),481,02/28/2012,3,0,Home,,-,67
+2012,Kean,329,Ramapo,564,03/04/2012,3,0,Home,,-,102
+2012,Kean,329,Purchase St.,30029,03/04/2012,3,0,Home,,-,122
+2012,Kean,329,Yeshiva,814,03/06/2012,3,0,Home,,-,66
+2012,Kean,329,Stevenson,21852,03/10/2012,3,2,Away,,2 Sets,94
+2012,Kean,329,Lancaster Bible,30085,03/10/2012,3,0,Neutral,"Stevenson, MD",-,52
+2012,Kean,329,Phila. Biblical,1305,03/20/2012,1,3,Away,,-,90
+2012,Kean,329,Baruch,58,03/23/2012,3,2,Neutral,"Springfield, MA",2 Sets,0
+2012,Kean,329,Springfield,673,03/23/2012,0,3,Away,,-,100
+2012,Kean,329,Wentworth Inst.,762,03/24/2012,3,1,Neutral,"Springfield, MA",-,150
+2012,Kean,329,Juniata,325,03/24/2012,0,3,Neutral,"Springfield, MA",-,0
+2012,Kean,329,Ramapo,564,03/29/2012,1,3,Away,,1 Sets,200
+2012,Kean,329,Wells,761,03/31/2012,3,0,Home,,-,34
+2012,Kean,329,CCNY,480,03/31/2012,3,0,Home,,-,45
+2012,Kean,329,Yeshiva,814,04/01/2012,3,0,Away,,-,100
+2012,Kean,329,New Jersey City,319,04/01/2012,3,0,Neutral,"New York, NY",-,49
+2012,Kean,329,Rutgers-Newark,589,04/03/2012,1,3,Home,,1 Sets,88
+2012,Kean,329,Princeton,554,04/11/2012,2,3,Away,,2 Sets,105
+2012,Kean,329,Ramapo,564,04/14/2012,3,0,Home,,-,95
+2012,Kean,329,Sage Colleges,11036,04/14/2012,3,1,Home,,1 Sets,97
+2012,Kean,329,Hunter,292,04/27/2012,1,3,Neutral,"Springfield, MA",1 Sets,300
+2012,King (TN),30051,Barton,15646,01/13/2012,3,1,Neutral,"Mount Olive, N.C.",1 Sets,129
+2012,King (TN),30051,Limestone,1174,01/13/2012,0,3,Neutral,"Mount Olive, N.C.",-,32
+2012,King (TN),30051,Quincy,561,01/14/2012,0,3,Neutral,"Mount Olive, N.C.",-,162
+2012,King (TN),30051,Missouri Valley,,01/21/2012,2,3,Neutral,"Cincinnati, Ohio",-,0
+2012,King (TN),30051,Siena Heights,,01/21/2012,3,0,Neutral,"Cincinnati, Ohio",-,0
+2012,King (TN),30051,Mt. St. Joseph,8567,01/22/2012,3,1,Away,,-,0
+2012,King (TN),30051,Penn St.-Behrend,538,01/22/2012,3,0,Neutral,"Cincinnati, Ohio",-,0
+2012,King (TN),30051,Pfeiffer,542,02/04/2012,0,3,Away,,-,109
+2012,King (TN),30051,Johnson & Wales (CO),,02/10/2012,3,1,Neutral,"Phoenix, AZ",1 Sets,14
+2012,King (TN),30051,Grand Canyon,1104,02/10/2012,0,3,Away,,-,97
+2012,King (TN),30051,Grand Canyon,1104,02/11/2012,0,3,Away,,-,102
+2012,King (TN),30051,Johnson & Wales (CO),,02/11/2012,2,3,Neutral,"Phoenix, AZ",2 Sets,37
+2012,King (TN),30051,Mount Olive,1245,02/17/2012,1,3,Away,,1 Sets,168
+2012,King (TN),30051,Barton,15646,02/18/2012,3,0,Away,,-,110
+2012,King (TN),30051,Lees-McRae,13302,02/23/2012,1,3,Home,,1 Sets,121
+2012,King (TN),30051,Limestone,1174,02/25/2012,0,3,Away,,-,121
+2012,King (TN),30051,Lindenwood (MO),30136,03/02/2012,0,3,Away,,-,200
+2012,King (TN),30051,Mo. Baptist,,03/03/2012,0,3,Neutral,"St. Charles, Mo.",-,200
+2012,King (TN),30051,Cal Baptist,30135,03/03/2012,2,3,Neutral,Lindenwood Univ,2 Sets,100
+2012,King (TN),30051,Quincy,561,03/05/2012,3,1,Away,,1 Sets,90
+2012,King (TN),30051,Limestone,1174,03/10/2012,2,3,Home,,-,32
+2012,King (TN),30051,Lewis,354,03/13/2012,0,3,Away,,-,278
+2012,King (TN),30051,Loyola Chicago,371,03/15/2012,0,3,Away,,-,197
+2012,King (TN),30051,NJIT,471,03/17/2012,2,3,Home,,2 Sets,31
+2012,King (TN),30051,Pfeiffer,542,03/23/2012,2,3,Home,,2 Sets,121
+2012,King (TN),30051,Mt. St. Joseph,8567,03/24/2012,3,0,Home,,-,89
+2012,King (TN),30051,Mount Olive,1245,03/24/2012,0,3,Home,,-,87
+2012,King (TN),30051,Washington Adventist,1029,03/29/2012,3,0,Home,,-,53
+2012,King (TN),30051,Barton,15646,03/31/2012,3,1,Home,,1 Sets,176
+2012,King (TN),30051,Lees-McRae,13302,04/04/2012,0,3,Away,,-,183
+2012,Lancaster Bible,30085,SUNYIT,9500,01/28/2012,3,1,Away,,-,35
+2012,Lancaster Bible,30085,Elms,532,01/29/2012,1,3,Neutral,"Utica, NY",-,35
+2012,Lancaster Bible,30085,Bard,962,01/29/2012,2,3,Neutral,"Utica, NY",-,0
+2012,Lancaster Bible,30085,York (NY),2730,02/03/2012,3,0,Neutral,"Brooklyn, NY",-,35
+2012,Lancaster Bible,30085,Polytechnic (NY),481,02/03/2012,3,0,Away,,-,35
+2012,Lancaster Bible,30085,Washington Adventist,1029,02/06/2012,3,0,Home,,-,162
+2012,Lancaster Bible,30085,Phila. Biblical,1305,02/14/2012,0,3,Home,,-,162
+2012,Lancaster Bible,30085,Stevenson,21852,02/21/2012,0,3,Home,,-,119
+2012,Lancaster Bible,30085,Juniata,325,02/24/2012,0,3,Away,,-,147
+2012,Lancaster Bible,30085,Springfield,673,02/24/2012,0,3,Neutral,"Huntingdon, PA",-,107
+2012,Lancaster Bible,30085,Thiel,707,02/25/2012,0,3,Neutral,"Huntingdon, PA",-,90
+2012,Lancaster Bible,30085,Hilbert,8398,03/03/2012,2,3,Neutral,"Aurora, NY",2 Sets,32
+2012,Lancaster Bible,30085,Wells,761,03/03/2012,3,0,Away,,-,123
+2012,Lancaster Bible,30085,Stevenson,21852,03/10/2012,0,3,Away,,-,76
+2012,Lancaster Bible,30085,Kean,329,03/10/2012,0,3,Neutral,"Stevenson, MD",-,52
+2012,Lancaster Bible,30085,Northland Int'l,,03/19/2012,3,1,Home,,1 Sets,185
+2012,Lancaster Bible,30085,Phila. Biblical,1305,03/24/2012,1,3,Away,,-,75
+2012,Lancaster Bible,30085,Elmira,213,03/24/2012,1,3,Neutral,"Langhorne, PA",-,75
+2012,Lancaster Bible,30085,Newbury,21772,03/30/2012,2,3,Neutral,"Poughkeepsie, NY",2 Sets,75
+2012,Lancaster Bible,30085,Baruch,58,03/30/2012,0,3,Neutral,"Poughkeepsie, NY",-,100
+2012,Lancaster Bible,30085,SUNY New Paltz,475,03/31/2012,0,3,Neutral,"Poughkeepsie, NY",-,75
+2012,Lancaster Bible,30085,Johnson & Wales (RI),22626,03/31/2012,1,3,Neutral,"Poughkeepsie, NY",1 Sets,100
+2012,Lancaster Bible,30085,D'Youville,1059,04/03/2012,1,3,Home,,1 Sets,105
+2012,Lasell,8486,Newbury,21772,02/07/2012,3,1,Home,,-,74
+2012,Lasell,8486,Daniel Webster,2691,02/14/2012,0,3,Away,,-,40
+2012,Lasell,8486,Lesley,24317,02/16/2012,3,0,Home,,-,57
+2012,Lasell,8486,Johnson & Wales (RI),22626,02/20/2012,0,3,Neutral,"Boston, MA",-,67
+2012,Lasell,8486,Emerson,214,02/20/2012,2,3,Away,,-,75
+2012,Lasell,8486,Wentworth Inst.,762,02/22/2012,1,3,Home,,-,96
+2012,Lasell,8486,SUNYIT,9500,02/24/2012,3,0,Neutral,"Annandale, NY",-,40
+2012,Lasell,8486,Sage Colleges,11036,02/24/2012,1,3,Neutral,"Annandale, NY",-,40
+2012,Lasell,8486,Polytechnic (NY),481,02/25/2012,3,1,Neutral,"Annandale, NY",-,40
+2012,Lasell,8486,Mount Ida,27901,02/28/2012,3,0,Away,,-,0
+2012,Lasell,8486,Regis (MA),569,02/29/2012,3,0,Home,,-,89
+2012,Lasell,8486,Emmanuel (MA),215,03/01/2012,0,3,Home,,-,74
+2012,Lasell,8486,Albertus Magnus,2798,03/08/2012,3,1,Home,,-,93
+2012,Lasell,8486,Elms,532,03/09/2012,1,3,Home,,1 Sets,46
+2012,Lasell,8486,SUNYIT,9500,03/16/2012,3,0,Neutral,"Providence, RI",-,77
+2012,Lasell,8486,Johnson & Wales (RI),22626,03/16/2012,1,3,Away,,-,77
+2012,Lasell,8486,CCNY,480,03/17/2012,1,3,Neutral,"Providence, RI",-,77
+2012,Lasell,8486,Daniel Webster,2691,03/17/2012,1,3,Home,,-,77
+2012,Lasell,8486,Rivier,18422,03/20/2012,0,3,Away,,-,100
+2012,Lasell,8486,Emerson,214,03/22/2012,3,2,Home,,2 Sets,49
+2012,Lasell,8486,Emmanuel (MA),215,03/24/2012,0,3,Away,,-,100
+2012,Lasell,8486,Wentworth Inst.,762,03/27/2012,1,3,Away,,1 Sets,40
+2012,Lasell,8486,Rivier,18422,03/29/2012,0,3,Home,,-,48
+2012,Lasell,8486,Albertus Magnus,2798,04/03/2012,1,3,Away,,1 Sets,71
+2012,Lasell,8486,Mount Ida,27901,04/05/2012,3,0,Home,,-,54
+2012,Lees-McRae,13302,Ohio St.,518,01/13/2012,0,3,Away,,-,386
+2012,Lees-McRae,13302,Mt. St. Joseph,8567,01/14/2012,3,1,Away,,-,0
+2012,Lees-McRae,13302,Lindenwood (MO),30136,01/21/2012,2,3,Home,,-,548
+2012,Lees-McRae,13302,NJIT,471,01/28/2012,1,3,Away,,1 Sets,175
+2012,Lees-McRae,13302,Sacred Heart,590,01/29/2012,3,1,Away,,1 Sets,156
+2012,Lees-McRae,13302,Barton,15646,02/05/2012,3,0,Away,,-,88
+2012,Lees-McRae,13302,Cal Baptist,30135,02/10/2012,3,1,Neutral,"Springfield, Mass.",1 Sets,300
+2012,Lees-McRae,13302,Springfield,673,02/11/2012,0,3,Away,,-,800
+2012,Lees-McRae,13302,Limestone,1174,02/17/2012,3,1,Home,,1 Sets,356
+2012,Lees-McRae,13302,Pfeiffer,542,02/18/2012,1,3,Home,,1 Sets,281
+2012,Lees-McRae,13302,King (TN),30051,02/23/2012,3,1,Away,,1 Sets,121
+2012,Lees-McRae,13302,Mount Olive,1245,03/03/2012,2,3,Away,,2 Sets,179
+2012,Lees-McRae,13302,Sacred Heart,590,03/06/2012,3,0,Home,,-,47
+2012,Lees-McRae,13302,NJIT,471,03/16/2012,3,2,Home,,2 Sets,281
+2012,Lees-McRae,13302,Mount Olive,1245,03/23/2012,1,3,Home,,1 Sets,146
+2012,Lees-McRae,13302,Barton,15646,03/25/2012,3,0,Home,,-,87
+2012,Lees-McRae,13302,Washington Adventist,1029,03/30/2012,3,0,Home,,-,103
+2012,Lees-McRae,13302,Pfeiffer,542,03/31/2012,1,3,Away,,1 Sets,254
+2012,Lees-McRae,13302,Limestone,1174,04/03/2012,1,3,Away,,1 Sets,102
+2012,Lees-McRae,13302,King (TN),30051,04/04/2012,3,0,Home,,-,183
+2012,Lees-McRae,13302,Pfeiffer,542,04/15/2012,1,3,Away,,1 Sets,349
+2012,Lehman,279,Mt. St. Vincent,451,01/26/2012,3,2,Away,,-,78
+2012,Lehman,279,Stevenson,21852,01/28/2012,1,3,Home,,-,37
+2012,Lehman,279,Wentworth Inst.,762,01/28/2012,1,3,Home,,-,47
+2012,Lehman,279,Polytechnic (NY),481,02/01/2012,3,0,Home,,-,43
+2012,Lehman,279,CCNY,480,02/04/2012,3,0,Neutral,"New York, NY",-,16
+2012,Lehman,279,Brooklyn,79,02/04/2012,3,0,Neutral,"New York, NY",-,12
+2012,Lehman,279,Baruch,58,02/08/2012,0,3,Home,,-,35
+2012,Lehman,279,Cooper Union,,02/11/2012,3,0,Away,,-,0
+2012,Lehman,279,John Jay,321,02/16/2012,3,0,Home,,-,0
+2012,Lehman,279,New Jersey City,319,02/19/2012,2,3,Away,,-,76
+2012,Lehman,279,Bard,962,02/19/2012,3,2,Neutral,"Jersey City, NJ",-,75
+2012,Lehman,279,York (NY),2730,02/28/2012,0,3,Away,,-,35
+2012,Lehman,279,John Jay,321,03/01/2012,3,0,Away,,-,37
+2012,Lehman,279,Baruch,58,03/03/2012,0,3,Neutral,"New York, NY",-,33
+2012,Lehman,279,Medgar Evers,403,03/06/2012,3,1,Away,,-,50
+2012,Lehman,279,Purchase St.,30029,03/09/2012,3,0,Home,,-,38
+2012,Lehman,279,St. Joseph's (Brkln),30072,03/10/2012,3,1,Home,,1 Sets,13
+2012,Lehman,279,Brooklyn,79,03/13/2012,3,0,Away,,-,58
+2012,Lehman,279,CCNY,480,03/15/2012,3,2,Away,,2 Sets,50
+2012,Lehman,279,Hunter,292,03/17/2012,0,3,Neutral,"Jamaica, NY",-,30
+2012,Lehman,279,Medgar Evers,403,03/17/2012,3,0,Neutral,"Jamaica, NY",-,15
+2012,Lehman,279,Hunter,292,03/20/2012,0,3,Away,,-,32
+2012,Lehman,279,York (NY),2730,03/22/2012,1,3,Home,,-,67
+2012,Lehman,279,Mt. St. Vincent,451,03/24/2012,1,3,Away,,-,0
+2012,Lehman,279,Bard,962,03/24/2012,0,3,Neutral,"Riverdale, NY",-,0
+2012,Lehman,279,Ramapo,564,04/04/2012,1,3,Away,,1 Sets,60
+2012,Lehman,279,Brooklyn,79,04/10/2012,0,3,Home,,-,37
+2012,Lesley ,24317,Wentworth Inst.,762,01/26/2012,0,3,Away,,-,55
+2012,Lesley ,24317,Johnson & Wales (RI),22626,01/31/2012,0,3,Away,,-,77
+2012,Lesley ,24317,Elms,532,02/02/2012,0,3,Home,,-,44
+2012,Lesley ,24317,Emerson,214,02/06/2012,0,3,Home,,-,29
+2012,Lesley ,24317,Regis (MA),569,02/09/2012,3,0,Away,,-,42
+2012,Lesley ,24317,Lasell,8486,02/16/2012,0,3,Away,,-,57
+2012,Lesley ,24317,Daniel Webster,2691,02/18/2012,0,3,Home,,-,29
+2012,Lesley ,24317,Mount Ida,27901,02/22/2012,1,3,Away,,-,0
+2012,Lesley ,24317,Southern Vt.,1379,02/25/2012,0,3,Away,,-,63
+2012,Lesley ,24317,Emerson,214,02/27/2012,0,3,Away,,-,54
+2012,Lesley ,24317,Endicott,8981,02/29/2012,0,3,Home,,-,54
+2012,Lesley ,24317,Newbury,21772,03/02/2012,0,3,Home,,-,44
+2012,Lesley ,24317,Newbury,21772,03/19/2012,0,3,Neutral,"Brookline, MA",-,14
+2012,Lesley ,24317,Regis (MA),569,03/22/2012,3,2,Home,,-,12
+2012,Lesley ,24317,Elms,532,03/24/2012,0,3,Away,,-,102
+2012,Lesley ,24317,Endicott,8981,03/27/2012,0,3,Away,,-,75
+2012,Lesley ,24317,Southern Vt.,1379,03/31/2012,0,3,Home,,-,44
+2012,Lesley ,24317,Daniel Webster,2691,04/04/2012,0,3,Away,,-,78
+2012,Lewis,354,Pepperdine,541,01/07/2012,3,1,Away,,-,613
+2012,Lewis,354,Pepperdine,541,01/08/2012,2,3,Away,,-,404
+2012,Lewis,354,UCLA,110,01/12/2012,1,3,Neutral,"Honolulu, HI",-,"2,782"
+2012,Lewis,354,Hawaii,277,01/13/2012,3,2,Away,,2 Sets,"2,873"
+2012,Lewis,354,Springfield,673,01/14/2012,3,0,Neutral,"Honolulu, HI",-,"3,481"
+2012,Lewis,354,Penn St.,539,01/21/2012,3,1,Home,,1 Sets,"1,310"
+2012,Lewis,354,Saint Francis (PA),600,01/27/2012,3,0,Home,,-,367
+2012,Lewis,354,George Mason,248,01/28/2012,3,1,Home,,1 Sets,861
+2012,Lewis,354,IPFW,308,02/03/2012,2,3,Away,,2 Sets,580
+2012,Lewis,354,Ball St.,47,02/05/2012,3,0,Away,,-,244
+2012,Lewis,354,Loyola Chicago,371,02/11/2012,3,0,Home,,-,"1,081"
+2012,Lewis,354,NJIT,471,02/17/2012,3,0,Away,,-,109
+2012,Lewis,354,George Mason,248,02/18/2012,3,2,Away,,2 Sets,220
+2012,Lewis,354,Ohio St.,518,02/23/2012,3,1,Home,,1 Sets,"1,189"
+2012,Lewis,354,Lindenwood (MO),30136,02/25/2012,3,0,Away,,-,261
+2012,Lewis,354,Mount Olive,1245,02/28/2012,3,1,Home,,1 Sets,378
+2012,Lewis,354,Quincy,561,03/01/2012,3,0,Home,,-,310
+2012,Lewis,354,Cal Baptist,30135,03/09/2012,2,3,Neutral,"Long Beach, Calif.",2 Sets,654
+2012,Lewis,354,Long Beach St.,99,03/10/2012,3,1,Away,,1 Sets,669
+2012,Lewis,354,King (TN),30051,03/13/2012,3,0,Home,,-,278
+2012,Lewis,354,Limestone,1174,03/16/2012,3,0,Home,,-,410
+2012,Lewis,354,Lindenwood (MO),30136,03/17/2012,3,0,Home,,-,492
+2012,Lewis,354,IPFW,308,03/23/2012,3,0,Home,,-,861
+2012,Lewis,354,Loyola Chicago,371,03/27/2012,2,3,Away,,2 Sets,756
+2012,Lewis,354,Ohio St.,518,03/31/2012,0,3,Away,,-,375
+2012,Lewis,354,Quincy,561,04/03/2012,3,0,Away,,-,204
+2012,Lewis,354,Ball St.,47,04/06/2012,3,1,Home,,1 Sets,867
+2012,Lewis,354,Grand Canyon,1104,04/13/2012,3,0,Home,,-,769
+2012,Lewis,354,Grand Canyon,1104,04/14/2012,3,0,Home,,-,512
+2012,Lewis,354,Quincy,561,04/20/2012,3,0,Home,,-,512
+2012,Lewis,354,Loyola Chicago,371,04/25/2012,3,0,Home,,-,"1,107"
+2012,Lewis,354,Ohio St.,518,04/28/2012,3,2,Away,,-,866
+2012,Lewis,354,Southern California,657,05/03/2012,1,3,Away,,1 Sets,"4,375"
+2012,Limestone,1174,King (TN),30051,01/13/2012,3,0,Neutral,"Mount Olive, N.C.",-,32
+2012,Limestone,1174,East. Mennonite,203,01/14/2012,3,0,Neutral,"Mount Olive, N.C.",-,15
+2012,Limestone,1174,Mount Olive,1245,01/14/2012,3,0,Away,,-,162
+2012,Limestone,1174,Lindenwood (MO),30136,01/20/2012,1,3,Home,,1 Sets,234
+2012,Limestone,1174,Ball St.,47,01/27/2012,1,3,Home,,1 Sets,348
+2012,Limestone,1174,Barton,15646,02/04/2012,3,0,Away,,-,45
+2012,Limestone,1174,Mount Olive,1245,02/11/2012,3,2,Home,,2 Sets,156
+2012,Limestone,1174,Pfeiffer,542,02/15/2012,1,3,Away,,1 Sets,143
+2012,Limestone,1174,Lees-McRae,13302,02/17/2012,1,3,Away,,1 Sets,356
+2012,Limestone,1174,King (TN),30051,02/25/2012,3,0,Home,,-,121
+2012,Limestone,1174,Cal Baptist,30135,03/02/2012,0,3,Neutral,"St. Charles, Mo.",-,46
+2012,Limestone,1174,Mo. Baptist,,03/03/2012,3,1,Neutral,"St. Charles, Mo.",-,200
+2012,Limestone,1174,Lindenwood (MO),30136,03/03/2012,1,3,Away,,1 Sets,150
+2012,Limestone,1174,Sacred Heart,590,03/07/2012,3,0,Home,,-,75
+2012,Limestone,1174,King (TN),30051,03/10/2012,3,2,Away,,-,32
+2012,Limestone,1174,St. Xavier,,03/15/2012,3,1,Away,,1 Sets,102
+2012,Limestone,1174,Lewis,354,03/16/2012,0,3,Away,,-,410
+2012,Limestone,1174,Loyola Chicago,371,03/17/2012,0,3,Away,,-,225
+2012,Limestone,1174,Pfeiffer,542,03/21/2012,3,0,Home,,-,72
+2012,Limestone,1174,Barton,15646,03/24/2012,3,0,Home,,-,56
+2012,Limestone,1174,NJIT,471,03/29/2012,2,3,Away,,2 Sets,177
+2012,Limestone,1174,Sacred Heart,590,03/30/2012,3,1,Away,,1 Sets,89
+2012,Limestone,1174,Lees-McRae,13302,04/03/2012,3,1,Home,,1 Sets,102
+2012,Limestone,1174,Mount Olive,1245,04/07/2012,1,3,Away,,1 Sets,209
+2012,Limestone,1174,Mount Olive,1245,04/15/2012,1,3,Home,,1 Sets,102
+2012,Lindenwood (MO),30136,Limestone,1174,01/20/2012,3,1,Away,,1 Sets,234
+2012,Lindenwood (MO),30136,Lees-McRae,13302,01/21/2012,3,2,Away,,-,548
+2012,Lindenwood (MO),30136,Mo. Baptist,,01/25/2012,3,0,Home,,-,209
+2012,Lindenwood (MO),30136,Quincy,561,01/27/2012,2,3,Home,,2 Sets,419
+2012,Lindenwood (MO),30136,Park,,01/29/2012,2,3,Home,,2 Sets,105
+2012,Lindenwood (MO),30136,Graceland (IA),,02/03/2012,3,2,Home,,2 Sets,250
+2012,Lindenwood (MO),30136,Rust,586,02/03/2012,3,0,Home,,-,200
+2012,Lindenwood (MO),30136,Park,,02/04/2012,3,1,Home,,1 Sets,175
+2012,Lindenwood (MO),30136,Grand View,,02/04/2012,1,3,Home,,1 Sets,175
+2012,Lindenwood (MO),30136,Ball St.,47,02/09/2012,1,3,Away,,1 Sets,313
+2012,Lindenwood (MO),30136,Milwaukee Engr.,20220,02/11/2012,3,0,Away,,-,59
+2012,Lindenwood (MO),30136,Carthage,121,02/12/2012,0,3,Away,,-,110
+2012,Lindenwood (MO),30136,Fontbonne,11538,02/15/2012,3,0,Home,,-,100
+2012,Lindenwood (MO),30136,Mo. Baptist,,02/22/2012,3,2,Away,,-,150
+2012,Lindenwood (MO),30136,Lewis,354,02/25/2012,0,3,Home,,-,261
+2012,Lindenwood (MO),30136,Cal Baptist,30135,03/02/2012,1,3,Home,,1 Sets,200
+2012,Lindenwood (MO),30136,King (TN),30051,03/02/2012,3,0,Home,,-,200
+2012,Lindenwood (MO),30136,Pfeiffer,542,03/03/2012,3,0,Home,,-,150
+2012,Lindenwood (MO),30136,Limestone,1174,03/03/2012,3,1,Home,,1 Sets,150
+2012,Lindenwood (MO),30136,Hannibal-La Grange,,03/08/2012,3,0,Away,,-,100
+2012,Lindenwood (MO),30136,Carthage,121,03/11/2012,0,3,Neutral,"St. Louis, Mo.",-,75
+2012,Lindenwood (MO),30136,Fontbonne,11538,03/13/2012,3,0,Away,,-,60
+2012,Lindenwood (MO),30136,St. Xavier,,03/16/2012,3,1,Away,,1 Sets,100
+2012,Lindenwood (MO),30136,Lewis,354,03/17/2012,0,3,Away,,-,492
+2012,Lindenwood (MO),30136,Hope Int'l,,03/26/2012,0,3,Away,,-,181
+2012,Lindenwood (MO),30136,Cal Baptist,30135,03/27/2012,1,3,Away,,1 Sets,194
+2012,Lindenwood (MO),30136,Cal Baptist,30135,03/28/2012,3,0,Away,,-,209
+2012,Lindenwood (MO),30136,Grand Canyon,1104,03/30/2012,0,3,Away,,-,96
+2012,Lindenwood (MO),30136,Grand Canyon,1104,03/31/2012,3,1,Away,,1 Sets,104
+2012,Lindenwood (MO),30136,Loyola Chicago,371,04/04/2012,0,3,Away,,-,178
+2012,Lindenwood (MO),30136,Ball St.,47,04/14/2012,3,0,Home,,-,234
+2012,Lindenwood (MO),30136,Quincy,561,04/15/2012,3,0,Away,,-,177
+2012,Long Beach St.,99,UC Irvine,109,01/06/2012,2,3,Neutral,"Santa Barbara, Calif",-,320
+2012,Long Beach St.,99,Loyola Chicago,371,01/06/2012,3,0,Neutral,"Santa Barbara, Calif",-,275
+2012,Long Beach St.,99,Ohio St.,518,01/07/2012,3,2,Neutral,"Santa Barbara, Calif",-,320
+2012,Long Beach St.,99,Southern California,657,01/12/2012,0,3,Away,,-,600
+2012,Long Beach St.,99,Pepperdine,541,01/14/2012,1,3,Away,,-,688
+2012,Long Beach St.,99,Cal St. Northridge,101,01/20/2012,2,3,Away,,-,563
+2012,Long Beach St.,99,Cal Baptist,30135,01/24/2012,3,0,Home,,-,686
+2012,Long Beach St.,99,Princeton,554,01/31/2012,3,0,Home,,-,622
+2012,Long Beach St.,99,Cal St. Northridge,101,02/03/2012,3,0,Home,,-,790
+2012,Long Beach St.,99,Stanford,674,02/10/2012,2,3,Home,,2 Sets,"1,012"
+2012,Long Beach St.,99,Pacific,534,02/11/2012,1,3,Home,,1 Sets,650
+2012,Long Beach St.,99,UCLA,110,02/14/2012,3,2,Home,,2 Sets,782
+2012,Long Beach St.,99,UC Santa Barbara,104,02/17/2012,3,1,Home,,1 Sets,"1,007"
+2012,Long Beach St.,99,UC Irvine,109,02/24/2012,0,3,Away,,-,"1,617"
+2012,Long Beach St.,99,UC San Diego,112,02/25/2012,3,1,Away,,1 Sets,419
+2012,Long Beach St.,99,UCLA,110,02/29/2012,0,3,Away,,-,850
+2012,Long Beach St.,99,UC Santa Barbara,104,03/02/2012,3,2,Away,,2 Sets,225
+2012,Long Beach St.,99,IPFW,308,03/09/2012,3,0,Home,,-,654
+2012,Long Beach St.,99,Lewis,354,03/10/2012,1,3,Home,,1 Sets,669
+2012,Long Beach St.,99,UC San Diego,112,03/15/2012,2,3,Home,,2 Sets,556
+2012,Long Beach St.,99,UC Irvine,109,03/17/2012,0,3,Home,,-,"1,084"
+2012,Long Beach St.,99,BYU,77,03/23/2012,0,3,Home,,-,"1,061"
+2012,Long Beach St.,99,BYU,77,03/24/2012,3,2,Home,,2 Sets,"1,285"
+2012,Long Beach St.,99,Hawaii,277,03/30/2012,3,0,Away,,-,"2,704"
+2012,Long Beach St.,99,Hawaii,277,03/31/2012,3,1,Away,,1 Sets,"3,125"
+2012,Long Beach St.,99,Stanford,674,04/06/2012,0,3,Away,,-,680
+2012,Long Beach St.,99,Pacific,534,04/07/2012,3,1,Away,,1 Sets,153
+2012,Long Beach St.,99,Southern California,657,04/12/2012,0,3,Home,,-,"1,267"
+2012,Long Beach St.,99,Pepperdine,541,04/14/2012,3,1,Home,,1 Sets,"1,080"
+2012,Long Beach St.,99,BYU,77,04/21/2012,2,3,Away,,2 Sets,"2,221"
+2012,Loyola Chicago,371,Long Beach St.,99,01/06/2012,0,3,Neutral,"Santa Barbara, Calif",-,275
+2012,Loyola Chicago,371,BYU,77,01/06/2012,2,3,Neutral,"Santa Barbara, CA",-,320
+2012,Loyola Chicago,371,Cal St. Northridge,101,01/07/2012,0,3,Neutral,"Santa Barbara, Calif",-,175
+2012,Loyola Chicago,371,UC San Diego,112,01/11/2012,3,0,Away,,-,157
+2012,Loyola Chicago,371,Pacific,534,01/13/2012,3,0,Away,,-,270
+2012,Loyola Chicago,371,Stanford,674,01/14/2012,0,3,Away,,-,417
+2012,Loyola Chicago,371,Carthage,121,01/17/2012,3,1,Home,,-,312
+2012,Loyola Chicago,371,Penn St.,539,01/20/2012,0,3,Home,,-,"1,827"
+2012,Loyola Chicago,371,George Mason,248,01/27/2012,3,1,Home,,1 Sets,405
+2012,Loyola Chicago,371,Saint Francis (PA),600,01/28/2012,3,0,Home,,-,278
+2012,Loyola Chicago,371,Ball St.,47,02/02/2012,3,1,Away,,1 Sets,401
+2012,Loyola Chicago,371,Lewis,354,02/11/2012,0,3,Away,,-,"1,081"
+2012,Loyola Chicago,371,George Mason,248,02/17/2012,3,0,Neutral,"Fairfax, VA",-,251
+2012,Loyola Chicago,371,NJIT,471,02/18/2012,3,1,Away,,1 Sets,207
+2012,Loyola Chicago,371,IPFW,308,02/24/2012,2,3,Home,,2 Sets,314
+2012,Loyola Chicago,371,Ohio St.,518,02/25/2012,0,3,Home,,-,"1,212"
+2012,Loyola Chicago,371,Quincy,561,03/02/2012,3,0,Home,,-,201
+2012,Loyola Chicago,371,Quincy,561,03/03/2012,3,0,Home,,-,212
+2012,Loyola Chicago,371,Cal Baptist,30135,03/07/2012,2,3,Away,,2 Sets,182
+2012,Loyola Chicago,371,Cal St. Northridge,101,03/09/2012,0,3,Away,,-,496
+2012,Loyola Chicago,371,King (TN),30051,03/15/2012,3,0,Home,,-,197
+2012,Loyola Chicago,371,Limestone,1174,03/17/2012,3,0,Home,,-,225
+2012,Loyola Chicago,371,Ball St.,47,03/20/2012,3,1,Home,,1 Sets,323
+2012,Loyola Chicago,371,Grand Canyon,1104,03/23/2012,3,1,Away,,1 Sets,197
+2012,Loyola Chicago,371,Grand Canyon,1104,03/24/2012,3,0,Away,,-,131
+2012,Loyola Chicago,371,Lewis,354,03/27/2012,3,2,Home,,2 Sets,756
+2012,Loyola Chicago,371,Ohio St.,518,03/30/2012,0,3,Away,,-,679
+2012,Loyola Chicago,371,Lindenwood (MO),30136,04/04/2012,3,0,Home,,-,178
+2012,Loyola Chicago,371,IPFW,308,04/14/2012,3,1,Away,,1 Sets,551
+2012,Loyola Chicago,371,IPFW,308,04/20/2012,3,1,Home,,1 Sets,456
+2012,Loyola Chicago,371,Lewis,354,04/25/2012,0,3,Away,,-,"1,107"
+2012,Medaille,23725,Sacred Heart,590,01/28/2012,1,3,Neutral,"New York, NY",-,55
+2012,Medaille,23725,Hunter,292,01/28/2012,3,2,Neutral,"New York, NY",-,62
+2012,Medaille,23725,Baruch,58,01/29/2012,3,0,Away,,-,38
+2012,Medaille,23725,Stevenson,21852,01/29/2012,3,0,Neutral,"New York, NY",-,33
+2012,Medaille,23725,Nazareth,461,01/31/2012,3,2,Home,,-,140
+2012,Medaille,23725,Fontbonne,11538,02/03/2012,3,0,Neutral,"Greenville, PA",-,37
+2012,Medaille,23725,Mt. St. Joseph,8567,02/03/2012,3,0,Neutral,"Greenville, PA",-,37
+2012,Medaille,23725,East. Mennonite,203,02/04/2012,0,3,Neutral,"Greenville, PA",-,59
+2012,Medaille,23725,Stevenson,21852,02/04/2012,3,2,Neutral,"Greenville, PA",-,31
+2012,Medaille,23725,Hilbert,8398,02/07/2012,3,0,Away,,-,106
+2012,Medaille,23725,Vassar,737,02/11/2012,0,3,Neutral,"Hoboken, NJ",-,58
+2012,Medaille,23725,New York U.,479,02/11/2012,0,3,Neutral,"Hoboken, NJ",-,45
+2012,Medaille,23725,SUNYIT,9500,02/12/2012,3,0,Neutral,"Hoboken, NJ",-,0
+2012,Medaille,23725,Hilbert,8398,02/16/2012,3,0,Home,,-,70
+2012,Medaille,23725,Nazareth,461,02/17/2012,1,3,Neutral,"Phelps, NY",-,0
+2012,Medaille,23725,Penn St.-Behrend,538,02/22/2012,3,0,Away,,-,112
+2012,Medaille,23725,D'Youville,1059,02/28/2012,3,0,Away,,-,145
+2012,Medaille,23725,Rivier,18422,03/03/2012,3,0,Home,,-,62
+2012,Medaille,23725,D'Youville,1059,03/03/2012,3,1,Home,,-,68
+2012,Medaille,23725,SUNY New Paltz,475,03/10/2012,3,0,Neutral,"Rochester, NY",-,89
+2012,Medaille,23725,Stevens,679,03/10/2012,1,3,Neutral,"Rochester, NY",-,130
+2012,Medaille,23725,Bard,962,03/11/2012,3,0,Neutral,"Rochester, NY",-,0
+2012,Medaille,23725,Penn St.-Behrend,538,03/15/2012,3,0,Home,,-,92
+2012,Medaille,23725,Elmira,213,03/21/2012,3,1,Away,,1 Sets,250
+2012,Medaille,23725,D'Youville,1059,03/31/2012,3,0,Home,,-,96
+2012,Medaille,23725,Hilbert,8398,03/31/2012,3,0,Home,,-,82
+2012,Medaille,23725,MIT,398,04/06/2012,2,3,Away,,2 Sets,0
+2012,Medaille,23725,Emmanuel (MA),215,04/06/2012,3,1,Neutral,"Cambridge, MA",1 Sets,50
+2012,Medaille,23725,Phila. Biblical,1305,04/07/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,Medaille,23725,Springfield,673,04/07/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Medaille,23725,Elmira,213,04/14/2012,3,2,Neutral,"New York, NY",2 Sets,74
+2012,Medaille,23725,Stevens,679,04/14/2012,1,3,Away,,1 Sets,91
+2012,Medaille,23725,Juniata,325,04/21/2012,3,2,Away,,-,55
+2012,Medaille,23725,Stevenson,21852,04/21/2012,3,1,Away,,-,76
+2012,Medgar Evers,403,CCNY,480,02/04/2012,0,3,Neutral,"New York, NY",-,50
+2012,Medgar Evers,403,Hunter,292,02/04/2012,0,3,Away,,-,36
+2012,Medgar Evers,403,Yeshiva,814,02/07/2012,0,3,Away,,-,55
+2012,Medgar Evers,403,St. Joseph's (Brkln),30072,02/09/2012,1,3,Home,,-,50
+2012,Medgar Evers,403,Sarah Lawrence,30163,02/19/2012,2,3,Home,,-,50
+2012,Medgar Evers,403,Washington Adventist,1029,02/19/2012,0,3,Home,,-,50
+2012,Medgar Evers,403,John Jay,321,02/22/2012,1,3,Away,,-,0
+2012,Medgar Evers,403,Sarah Lawrence,30163,02/25/2012,0,3,Away,,-,0
+2012,Medgar Evers,403,St. Joseph's (Brkln),30072,02/27/2012,1,3,Away,,-,50
+2012,Medgar Evers,403,Brooklyn,79,02/28/2012,0,3,Home,,-,0
+2012,Medgar Evers,403,John Jay,321,03/03/2012,0,3,Neutral,"New York, NY",-,25
+2012,Medgar Evers,403,Lehman,279,03/06/2012,1,3,Home,,-,50
+2012,Medgar Evers,403,Baruch,58,03/08/2012,0,3,Away,,-,23
+2012,Medgar Evers,403,Baruch,58,03/08/2012,0,3,Away,,-,29
+2012,Medgar Evers,403,Mount Olive,1245,03/09/2012,0,3,Neutral,"Jamaica, NY",-,20
+2012,Medgar Evers,403,Wells,761,03/09/2012,1,3,Neutral,"Jamaica, NY",-,0
+2012,Medgar Evers,403,Mt. St. Vincent,451,03/10/2012,0,3,Neutral,"Jamaica, NY",-,20
+2012,Medgar Evers,403,Hunter,292,03/13/2012,0,3,Home,,-,0
+2012,Medgar Evers,403,York (NY),2730,03/17/2012,0,3,Away,,-,35
+2012,Medgar Evers,403,Lehman,279,03/17/2012,0,3,Neutral,"Jamaica, NY",-,15
+2012,Medgar Evers,403,York (NY),2730,03/17/2012,0,3,Away,,-,35
+2012,Medgar Evers,403,John Jay,321,03/20/2012,2,3,Away,,2 Sets,34
+2012,Medgar Evers,403,Brooklyn,79,03/22/2012,0,3,Away,,-,89
+2012,Medgar Evers,403,Polytechnic (NY),481,03/29/2012,0,3,Away,,-,25
+2012,Medgar Evers,403,CCNY,480,04/04/2012,0,3,Home,,-,25
+2012,Medgar Evers,403,Hunter,292,04/10/2012,0,3,Away,,-,68
+2012,MIT,398,Wentworth Inst.,762,01/24/2012,3,1,Away,,-,70
+2012,MIT,398,D'Youville,1059,01/27/2012,3,0,Neutral,"Rochester, NY",-,100
+2012,MIT,398,Elmira,213,01/27/2012,3,2,Neutral,"Rochester, NY",-,100
+2012,MIT,398,Nazareth,461,01/28/2012,3,1,Away,,-,60
+2012,MIT,398,Juniata,325,01/28/2012,1,3,Neutral,"Rochester, NY",-,60
+2012,MIT,398,Endicott,8981,01/31/2012,3,0,Home,,-,140
+2012,MIT,398,Harvard,275,02/04/2012,1,3,Home,,1 Sets,307
+2012,MIT,398,Springfield,673,02/08/2012,0,3,Away,,-,300
+2012,MIT,398,Stevenson,21852,02/11/2012,3,0,Home,,-,71
+2012,MIT,398,Emerson,214,02/11/2012,3,0,Home,,-,71
+2012,MIT,398,York (NY),2730,02/12/2012,3,0,Home,,-,100
+2012,MIT,398,Rivier,18422,02/12/2012,3,0,Home,,-,100
+2012,MIT,398,Elms,532,02/15/2012,3,1,Away,,-,134
+2012,MIT,398,Kean,329,02/25/2012,1,3,Neutral,"New York, NY",-,57
+2012,MIT,398,Baruch,58,02/25/2012,3,1,Away,,-,83
+2012,MIT,398,Stevens,679,02/26/2012,3,2,Neutral,"New York, NY",-,42
+2012,MIT,398,Emmanuel (MA),215,02/26/2012,3,1,Neutral,"New York, NY",-,42
+2012,MIT,398,Mount Ida,27901,03/03/2012,3,0,Home,,-,0
+2012,MIT,398,New York U.,479,03/03/2012,3,2,Home,,-,0
+2012,MIT,398,Thiel,707,03/09/2012,3,0,Neutral,"St. Louis, MO",-,0
+2012,MIT,398,Milwaukee Engr.,20220,03/09/2012,1,3,Neutral,"St. Louis, MO",-,0
+2012,MIT,398,Carthage,121,03/10/2012,1,3,Neutral,"St. Louis, MO",-,50
+2012,MIT,398,Fontbonne,11538,03/10/2012,3,1,Away,,-,0
+2012,MIT,398,Emmanuel (MA),215,03/17/2012,3,1,Neutral,"Brookline, MA",1 Sets,33
+2012,MIT,398,Newbury,21772,03/17/2012,3,1,Away,,-,31
+2012,MIT,398,New Jersey City,319,03/24/2012,3,0,Neutral,"Beverly, MA",-,62
+2012,MIT,398,Stevens,679,03/24/2012,0,3,Neutral,"Beverly, MA",-,80
+2012,MIT,398,Hilbert,8398,03/25/2012,3,0,Neutral,"Beverly, MA",-,0
+2012,MIT,398,Vassar,737,03/25/2012,0,3,Neutral,"Beverly, MA",-,0
+2012,MIT,398,Medaille,23725,04/06/2012,3,2,Home,,2 Sets,0
+2012,MIT,398,Bard,962,04/06/2012,3,0,Home,,-,0
+2012,MIT,398,Phila. Biblical,1305,04/07/2012,3,2,Home,,2 Sets,0
+2012,MIT,398,Southern Vt.,1379,04/07/2012,3,0,Home,,-,0
+2012,MIT,398,Newbury,21772,04/10/2012,3,0,Home,,-,0
+2012,MIT,398,Springfield,673,04/14/2012,1,3,Home,,1 Sets,0
+2012,Mount Ida,27901,Newbury,21772,02/04/2012,0,3,Neutral,"Chicopee, MA",-,102
+2012,Mount Ida,27901,Elms,532,02/04/2012,0,3,Away,,-,102
+2012,Mount Ida,27901,Wentworth Inst.,762,02/09/2012,0,3,Away,,-,48
+2012,Mount Ida,27901,Wentworth Inst.,762,02/15/2012,0,3,Home,,-,0
+2012,Mount Ida,27901,Johnson & Wales (RI),22626,02/18/2012,0,3,Away,,-,57
+2012,Mount Ida,27901,Lesley,24317,02/22/2012,3,1,Home,,-,0
+2012,Mount Ida,27901,Polytechnic (NY),481,02/24/2012,0,3,Neutral,"Annandale, NY",-,40
+2012,Mount Ida,27901,Bard,962,02/24/2012,0,3,Away,,-,50
+2012,Mount Ida,27901,SUNYIT,9500,02/25/2012,1,3,Neutral,"Annandale, NY",-,40
+2012,Mount Ida,27901,Lasell,8486,02/28/2012,0,3,Home,,-,0
+2012,Mount Ida,27901,Daniel Webster,2691,03/01/2012,0,3,Home,,-,50
+2012,Mount Ida,27901,MIT,398,03/03/2012,0,3,Away,,-,0
+2012,Mount Ida,27901,New York U.,479,03/03/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Mount Ida,27901,Daniel Webster,2691,03/08/2012,0,3,Away,,-,38
+2012,Mount Ida,27901,Emmanuel (MA),215,03/20/2012,0,3,Away,,-,100
+2012,Mount Ida,27901,Johnson & Wales (RI),22626,03/22/2012,0,3,Home,,-,57
+2012,Mount Ida,27901,Albertus Magnus,2798,03/27/2012,0,3,Away,,-,86
+2012,Mount Ida,27901,Emmanuel (MA),215,03/29/2012,0,3,Home,,-,50
+2012,Mount Ida,27901,Rivier,18422,03/31/2012,0,3,Away,,-,0
+2012,Mount Ida,27901,Albertus Magnus,2798,03/31/2012,0,3,Neutral,"Nashua, NH",-,70
+2012,Mount Ida,27901,Emerson,214,04/03/2012,0,3,Away,,-,67
+2012,Mount Ida,27901,Lasell,8486,04/05/2012,0,3,Away,,-,54
+2012,Mount Ida,27901,Rivier,18422,04/07/2012,0,3,Home,,-,25
+2012,Mount Ida,27901,Emerson,214,04/07/2012,1,3,Home,,-,0
+2012,Mount Olive,1245,Quincy,561,01/13/2012,1,3,Home,,1 Sets,302
+2012,Mount Olive,1245,Barton,15646,01/13/2012,3,0,Home,,-,129
+2012,Mount Olive,1245,Limestone,1174,01/14/2012,0,3,Home,,-,162
+2012,Mount Olive,1245,Barton,15646,01/24/2012,3,0,Home,,-,417
+2012,Mount Olive,1245,IPFW,308,01/27/2012,1,3,Home,,1 Sets,381
+2012,Mount Olive,1245,IPFW,308,01/28/2012,0,3,Home,,-,179
+2012,Mount Olive,1245,Saint Francis (PA),600,02/02/2012,1,3,Away,,2 Sets,78
+2012,Mount Olive,1245,Penn St.,539,02/03/2012,0,3,Away,,-,"1,331"
+2012,Mount Olive,1245,Ohio St.,518,02/04/2012,0,3,Neutral,"University Park, Pa.",-,"1,402"
+2012,Mount Olive,1245,Pfeiffer,542,02/07/2012,2,3,Home,,2 Sets,268
+2012,Mount Olive,1245,Limestone,1174,02/11/2012,2,3,Away,,2 Sets,156
+2012,Mount Olive,1245,Barton,15646,02/16/2012,3,0,Away,,-,190
+2012,Mount Olive,1245,King (TN),30051,02/17/2012,3,1,Home,,1 Sets,168
+2012,Mount Olive,1245,Ball St.,47,02/24/2012,0,3,Away,,-,369
+2012,Mount Olive,1245,Quincy,561,02/25/2012,2,3,Away,,2 Sets,275
+2012,Mount Olive,1245,Hannibal-La Grange,,02/27/2012,3,1,Away,,1 Sets,200
+2012,Mount Olive,1245,Missouri Valley,,02/27/2012,3,0,Neutral,"Hannibal, Mo",-,200
+2012,Mount Olive,1245,Lewis,354,02/28/2012,1,3,Away,,1 Sets,378
+2012,Mount Olive,1245,Lees-McRae,13302,03/03/2012,3,2,Home,,2 Sets,179
+2012,Mount Olive,1245,Saint Francis (PA),600,03/05/2012,3,2,Home,,2 Sets,263
+2012,Mount Olive,1245,Mt. St. Vincent,451,03/09/2012,3,0,Neutral,"Jamaica, N.Y.",-,60
+2012,Mount Olive,1245,Medgar Evers,403,03/09/2012,3,0,Neutral,"Jamaica, NY",-,20
+2012,Mount Olive,1245,York (NY),2730,03/10/2012,3,0,Away,,-,65
+2012,Mount Olive,1245,Wells,761,03/10/2012,3,0,Neutral,"Jamaica, N.Y.",-,65
+2012,Mount Olive,1245,Lees-McRae,13302,03/23/2012,3,1,Away,,1 Sets,146
+2012,Mount Olive,1245,Mt. St. Joseph,8567,03/24/2012,3,1,Neutral,"Bristol, Tenn.",1 Sets,15
+2012,Mount Olive,1245,King (TN),30051,03/24/2012,3,0,Away,,-,87
+2012,Mount Olive,1245,Pfeiffer,542,03/27/2012,0,3,Away,,-,187
+2012,Mount Olive,1245,Limestone,1174,04/07/2012,3,1,Home,,1 Sets,209
+2012,Mount Olive,1245,Limestone,1174,04/15/2012,3,1,Away,,1 Sets,102
+2012,Mount Olive,1245,Pfeiffer,542,04/18/2012,0,3,Away,,-,648
+2012,MSOE,20220,Cardinal Stritch,,01/20/2012,0,3,Away,,-,78
+2012,MSOE,20220,Rust,586,01/28/2012,3,0,Home,,-,26
+2012,MSOE,20220,Quincy,561,02/02/2012,1,3,Home,,1 Sets,125
+2012,MSOE,20220,Lindenwood (MO),30136,02/11/2012,0,3,Home,,-,59
+2012,MSOE,20220,Lourdes,,02/11/2012,3,1,Home,,-,59
+2012,MSOE,20220,St. Xavier,,02/16/2012,3,0,Home,,-,37
+2012,MSOE,20220,Mt. St. Joseph,8567,02/25/2012,3,1,Away,,-,0
+2012,MSOE,20220,Lourdes,,02/25/2012,1,3,Neutral,"Cincinnati, OH",-,0
+2012,MSOE,20220,Barton,15646,02/26/2012,3,0,Neutral,"Cincinnati, OH",-,28
+2012,MSOE,20220,Rust,586,02/26/2012,3,0,Neutral,"Cincinnati, OH",-,54
+2012,MSOE,20220,Carthage,121,02/28/2012,0,3,Away,,-,110
+2012,MSOE,20220,UC Santa Cruz,113,03/02/2012,0,3,Neutral,"St. Louis, MO",-,0
+2012,MSOE,20220,Mt. St. Joseph,8567,03/03/2012,3,0,Neutral,"St. Louis, MO",-,0
+2012,MSOE,20220,Fontbonne,11538,03/03/2012,3,0,Away,,-,0
+2012,MSOE,20220,Quincy,561,03/04/2012,1,3,Away,,1 Sets,75
+2012,MSOE,20220,MIT,398,03/09/2012,3,1,Neutral,"St. Louis, MO",-,0
+2012,MSOE,20220,Thiel,707,03/10/2012,3,1,Neutral,"St. Louis, MO",-,0
+2012,MSOE,20220,Fontbonne,11538,03/10/2012,3,0,Away,,-,0
+2012,MSOE,20220,Nazareth,461,03/16/2012,0,3,Home,,-,60
+2012,MSOE,20220,Rust,586,03/16/2012,3,0,Home,,-,45
+2012,MSOE,20220,New York U.,479,03/17/2012,0,3,Home,,-,73
+2012,MSOE,20220,Juniata,325,03/17/2012,0,3,Home,,-,69
+2012,MSOE,20220,Elmira,213,03/18/2012,3,0,Home,,-,50
+2012,MSOE,20220,Thiel,707,03/18/2012,3,0,Home,,-,43
+2012,MSOE,20220,St. Xavier,,03/21/2012,3,2,Away,,-,125
+2012,MSOE,20220,Robert Morris-Chi.,,03/24/2012,3,0,Home,,-,0
+2012,MSOE,20220,Cardinal Stritch,,03/27/2012,1,3,Home,,-,57
+2012,MSOE,20220,UC Santa Cruz,113,03/29/2012,2,3,Home,,-,82
+2012,MSOE,20220,Mt. St. Joseph,8567,03/31/2012,3,0,Home,,-,31
+2012,MSOE,20220,Fontbonne,11538,03/31/2012,3,0,Home,,-,36
+2012,MSOE,20220,Carthage,121,04/04/2012,1,3,Home,,-,121
+2012,MSOE,20220,Stevenson,21852,04/13/2012,0,3,Away,,-,59
+2012,Mt. St. Joseph,8567,Lees-McRae,13302,01/14/2012,1,3,Home,,-,0
+2012,Mt. St. Joseph,8567,Missouri Valley,,01/21/2012,0,3,Home,,-,0
+2012,Mt. St. Joseph,8567,Penn St.-Behrend,538,01/21/2012,3,1,Home,,-,0
+2012,Mt. St. Joseph,8567,Siena Heights,,01/22/2012,1,3,Home,,-,0
+2012,Mt. St. Joseph,8567,King (TN),30051,01/22/2012,1,3,Home,,-,0
+2012,Mt. St. Joseph,8567,Medaille,23725,02/03/2012,0,3,Neutral,"Greenville, PA",-,37
+2012,Mt. St. Joseph,8567,Thiel,707,02/03/2012,0,3,Away,,-,89
+2012,Mt. St. Joseph,8567,Nazareth,461,02/04/2012,0,3,Neutral,"Greenville, PA",-,0
+2012,Mt. St. Joseph,8567,Elmira,213,02/04/2012,0,3,Neutral,"Greenville, PA",-,0
+2012,Mt. St. Joseph,8567,Lourdes,,02/18/2012,0,3,Neutral,"Chicago, IL",-,0
+2012,Mt. St. Joseph,8567,Robert Morris-Chi.,,02/18/2012,1,3,Neutral,"Chicago, IL",-,0
+2012,Mt. St. Joseph,8567,Barton,15646,02/25/2012,3,1,Home,,-,0
+2012,Mt. St. Joseph,8567,Milwaukee Engr.,20220,02/25/2012,1,3,Home,,-,0
+2012,Mt. St. Joseph,8567,Rust,586,02/26/2012,3,0,Home,,-,0
+2012,Mt. St. Joseph,8567,Lourdes,,02/26/2012,0,3,Home,,-,0
+2012,Mt. St. Joseph,8567,Fontbonne,11538,03/02/2012,3,0,Away,,-,0
+2012,Mt. St. Joseph,8567,Milwaukee Engr.,20220,03/03/2012,0,3,Neutral,"St. Louis, MO",-,0
+2012,Mt. St. Joseph,8567,UC Santa Cruz,113,03/03/2012,0,3,Neutral,"St. Louis, MO",-,50
+2012,Mt. St. Joseph,8567,Carthage,121,03/04/2012,0,3,Neutral,"St. Louis, MO",-,50
+2012,Mt. St. Joseph,8567,Mount Olive,1245,03/24/2012,1,3,Neutral,"Bristol, Tenn.",1 Sets,15
+2012,Mt. St. Joseph,8567,King (TN),30051,03/24/2012,0,3,Away,,-,89
+2012,Mt. St. Joseph,8567,Milwaukee Engr.,20220,03/31/2012,0,3,Away,,-,31
+2012,Mt. St. Joseph,8567,UC Santa Cruz,113,03/31/2012,1,3,Neutral,"Milwaukee, WI",-,34
+2012,Mt. St. Joseph,8567,Carthage,121,04/01/2012,0,3,Neutral,"Milwaukee, WI",-,45
+2012,Mt. St. Joseph,8567,Fontbonne,11538,04/01/2012,2,3,Neutral,"Milwaukee, WI",-,33
+2012,Mt. St. Vincent,451,Lehman,279,01/26/2012,2,3,Home,,-,78
+2012,Mt. St. Vincent,451,Sage Colleges,11036,01/29/2012,0,3,Away,,-,70
+2012,Mt. St. Vincent,451,Purchase St.,30029,01/29/2012,3,0,Neutral,"Troy, NY",-,80
+2012,Mt. St. Vincent,451,CCNY,480,02/02/2012,3,0,Home,,-,57
+2012,Mt. St. Vincent,451,Kean,329,02/08/2012,1,3,Away,,-,55
+2012,Mt. St. Vincent,451,Kean,329,02/11/2012,0,3,Neutral,"Brooklyn, NY",-,40
+2012,Mt. St. Vincent,451,Polytechnic (NY),481,02/11/2012,0,3,Away,,-,50
+2012,Mt. St. Vincent,451,Yeshiva,814,02/14/2012,3,1,Away,,-,0
+2012,Mt. St. Vincent,451,Springfield,673,02/17/2012,0,3,Away,,-,100
+2012,Mt. St. Vincent,451,Sage Colleges,11036,02/23/2012,0,3,Home,,-,27
+2012,Mt. St. Vincent,451,Rutgers-Newark,589,02/25/2012,0,3,Home,,-,37
+2012,Mt. St. Vincent,451,Purchase St.,30029,02/27/2012,3,0,Home,,-,38
+2012,Mt. St. Vincent,451,Ramapo,564,02/29/2012,0,3,Home,,-,35
+2012,Mt. St. Vincent,451,Yeshiva,814,03/04/2012,3,1,Home,,1 Sets,25
+2012,Mt. St. Vincent,451,New Jersey City,319,03/04/2012,0,3,Home,,-,25
+2012,Mt. St. Vincent,451,Sarah Lawrence,30163,03/08/2012,3,0,Away,,-,0
+2012,Mt. St. Vincent,451,York (NY),2730,03/09/2012,0,3,Away,,-,60
+2012,Mt. St. Vincent,451,Mount Olive,1245,03/09/2012,0,3,Neutral,"Jamaica, N.Y.",-,60
+2012,Mt. St. Vincent,451,Medgar Evers,403,03/10/2012,3,0,Neutral,"Jamaica, NY",-,20
+2012,Mt. St. Vincent,451,St. Joseph's (Brkln),30072,03/20/2012,3,0,Away,,-,7
+2012,Mt. St. Vincent,451,Lehman,279,03/24/2012,3,1,Home,,1 Sets,0
+2012,Mt. St. Vincent,451,Bard,962,03/24/2012,3,2,Home,,2 Sets,0
+2012,Mt. St. Vincent,451,John Jay,321,03/26/2012,3,0,Home,,-,45
+2012,Mt. St. Vincent,451,Ramapo,564,04/01/2012,0,3,Away,,-,75
+2012,Mt. St. Vincent,451,Polytechnic (NY),481,04/01/2012,0,3,Neutral,"Mahwah, NJ",-,75
+2012,Mt. St. Vincent,451,New Jersey City,319,04/03/2012,0,3,Away,,-,69
+2012,Mt. St. Vincent,451,Vassar,737,04/04/2012,1,3,Away,,1 Sets,175
+2012,Nazareth,461,Phila. Biblical,1305,01/27/2012,3,0,Home,,-,100
+2012,Nazareth,461,Carthage,121,01/27/2012,1,3,Home,,-,200
+2012,Nazareth,461,Southern Vt.,1379,01/28/2012,3,0,Home,,-,60
+2012,Nazareth,461,MIT,398,01/28/2012,1,3,Home,,-,60
+2012,Nazareth,461,Medaille,23725,01/31/2012,2,3,Away,,-,140
+2012,Nazareth,461,Mt. St. Joseph,8567,02/04/2012,3,0,Neutral,"Greenville, PA",-,0
+2012,Nazareth,461,Thiel,707,02/04/2012,3,1,Away,,-,0
+2012,Nazareth,461,Stevenson,21852,02/05/2012,3,0,Neutral,"Greenville, PA",-,17
+2012,Nazareth,461,East. Mennonite,203,02/05/2012,3,0,Neutral,"Greenville, PA",-,19
+2012,Nazareth,461,Vassar,737,02/11/2012,3,2,Neutral,"Hoboken, NJ",-,54
+2012,Nazareth,461,SUNY New Paltz,475,02/12/2012,3,0,Neutral,"Hoboken, NJ",-,42
+2012,Nazareth,461,New York U.,479,02/12/2012,2,3,Neutral,"Hoboken, NJ",-,53
+2012,Nazareth,461,Elmira,213,02/15/2012,3,0,Home,,-,0
+2012,Nazareth,461,Medaille,23725,02/17/2012,3,1,Neutral,"Phelps, NY",-,0
+2012,Nazareth,461,Hilbert,8398,02/22/2012,3,1,Away,,-,75
+2012,Nazareth,461,Thiel,707,02/24/2012,3,0,Neutral,"Huntingdon, PA",-,89
+2012,Nazareth,461,Juniata,325,02/25/2012,3,1,Away,,-,117
+2012,Nazareth,461,Springfield,673,02/25/2012,1,3,Neutral,"Huntingdon, PA",-,87
+2012,Nazareth,461,Penn St.-Behrend,538,02/29/2012,3,0,Home,,-,0
+2012,Nazareth,461,Rivier,18422,03/02/2012,3,1,Home,,-,468
+2012,Nazareth,461,Bard,962,03/10/2012,3,0,Home,,-,103
+2012,Nazareth,461,Stevens,679,03/11/2012,1,3,Neutral,"Rochester, NY",-,80
+2012,Nazareth,461,SUNYIT,9500,03/11/2012,3,0,Home,,-,80
+2012,Nazareth,461,Milwaukee Engr.,20220,03/16/2012,3,0,Away,,-,60
+2012,Nazareth,461,Rust,586,03/16/2012,3,0,Neutral,"Milwaukee, WI",-,60
+2012,Nazareth,461,East. Mennonite,203,03/17/2012,3,0,Neutral,"Milwaukee, WI",-,38
+2012,Nazareth,461,Carthage,121,03/17/2012,0,3,Away,,-,100
+2012,Nazareth,461,D'Youville,1059,03/28/2012,3,1,Home,,1 Sets,210
+2012,Nazareth,461,Johnson & Wales (RI),22626,03/30/2012,3,2,Neutral,"Poughkeepsie, NY",2 Sets,75
+2012,Nazareth,461,Springfield,673,03/30/2012,0,3,Neutral,"Poughkeepsie, NY",-,75
+2012,Nazareth,461,Newbury,21772,03/31/2012,3,1,Neutral,"Poughkeepsie, NY",1 Sets,120
+2012,Nazareth,461,Baruch,58,03/31/2012,3,0,Neutral,"Poughkeepsie, NY",-,75
+2012,Nazareth,461,Vassar,737,04/14/2012,3,0,Neutral,"New York, NY",-,110
+2012,Nazareth,461,Penn St.-Behrend,538,04/14/2012,3,0,Neutral,"New York, NY",-,85
+2012,Nazareth,461,Stevens,679,04/15/2012,3,2,Neutral,"New York, NY",2 Sets,106
+2012,Nazareth,461,Carthage,121,04/27/2012,2,3,Neutral,"Springfield, MA",2 Sets,300
+2012,New Jersey City,319,Polytechnic (NY),481,01/23/2012,3,0,Away,,-,29
+2012,New Jersey City,319,York (NY),2730,01/25/2012,3,0,Home,,-,64
+2012,New Jersey City,319,Kean,329,01/28/2012,2,3,Home,,-,143
+2012,New Jersey City,319,Ramapo,564,01/28/2012,0,3,Home,,-,143
+2012,New Jersey City,319,NJIT,471,01/31/2012,0,3,Away,,-,109
+2012,New Jersey City,319,Ramapo,564,02/08/2012,1,3,Away,,-,125
+2012,New Jersey City,319,Hunter,292,02/10/2012,0,3,Away,,-,34
+2012,New Jersey City,319,Purchase St.,30029,02/12/2012,3,0,Away,,-,43
+2012,New Jersey City,319,Yeshiva,814,02/12/2012,3,0,Neutral,"Purchase, NY",-,48
+2012,New Jersey City,319,Purchase St.,30029,02/14/2012,3,0,Home,,-,79
+2012,New Jersey City,319,Juniata,325,02/18/2012,0,3,Neutral,"Hoboken, NJ",-,79
+2012,New Jersey City,319,Stevens,679,02/18/2012,0,3,Away,,-,65
+2012,New Jersey City,319,Bard,962,02/19/2012,3,1,Home,,-,79
+2012,New Jersey City,319,Lehman,279,02/19/2012,3,2,Home,,-,76
+2012,New Jersey City,319,Rutgers-Newark,589,02/21/2012,1,3,Home,,1 Sets,98
+2012,New Jersey City,319,Yeshiva,814,02/23/2012,3,0,Home,,-,62
+2012,New Jersey City,319,Sage Colleges,11036,02/27/2012,2,3,Away,,-,83
+2012,New Jersey City,319,Mt. St. Vincent,451,03/04/2012,3,0,Away,,-,25
+2012,New Jersey City,319,Polytechnic (NY),481,03/04/2012,3,0,Neutral,"Riverdale, NY",-,42
+2012,New Jersey City,319,Stevenson,21852,03/09/2012,0,3,Away,,-,52
+2012,New Jersey City,319,Vassar,737,03/17/2012,1,3,Home,,1 Sets,61
+2012,New Jersey City,319,Rivier,18422,03/17/2012,0,3,Home,,-,61
+2012,New Jersey City,319,SUNYIT,9500,03/24/2012,3,0,Neutral,"Beverly, MA",-,64
+2012,New Jersey City,319,MIT,398,03/24/2012,0,3,Neutral,"Beverly, MA",-,62
+2012,New Jersey City,319,Rivier,18422,03/25/2012,1,3,Neutral,"Beverly, MA",-,49
+2012,New Jersey City,319,Johnson & Wales (RI),22626,03/25/2012,3,2,Neutral,"Beverly, MA",-,57
+2012,New Jersey City,319,Sage Colleges,11036,04/01/2012,3,1,Neutral,"New York, NY",1 Sets,49
+2012,New Jersey City,319,Kean,329,04/01/2012,0,3,Neutral,"New York, NY",-,49
+2012,New Jersey City,319,Mt. St. Vincent,451,04/03/2012,3,0,Home,,-,69
+2012,New Jersey City,319,SUNY New Paltz,475,04/05/2012,0,3,Away,,-,77
+2012,New Jersey City,319,Ramapo,564,04/14/2012,2,3,Neutral,"Union, NJ",2 Sets,84
+2012,Newbury,21772,Daniel Webster,2691,02/02/2012,3,2,Away,,-,85
+2012,Newbury,21772,Mount Ida,27901,02/04/2012,3,0,Neutral,"Chicopee, MA",-,102
+2012,Newbury,21772,Elms,532,02/04/2012,0,3,Away,,-,102
+2012,Newbury,21772,Lasell,8486,02/07/2012,1,3,Away,,-,74
+2012,Newbury,21772,Endicott,8981,02/09/2012,0,3,Away,,-,100
+2012,Newbury,21772,Wentworth Inst.,762,02/11/2012,2,3,Home,,-,37
+2012,Newbury,21772,Southern Vt.,1379,02/11/2012,1,3,Home,,-,35
+2012,Newbury,21772,Emerson,214,02/16/2012,3,1,Away,,-,65
+2012,Newbury,21772,Hunter,292,02/18/2012,0,3,Neutral,"Springfield, MA",-,35
+2012,Newbury,21772,Springfield,673,02/18/2012,0,3,Away,,-,50
+2012,Newbury,21772,Lesley,24317,03/02/2012,3,0,Away,,-,44
+2012,Newbury,21772,MIT,398,03/17/2012,1,3,Home,,-,31
+2012,Newbury,21772,Emmanuel (MA),215,03/17/2012,0,3,Neutral,"Brookline, MA",-,21
+2012,Newbury,21772,Lesley,24317,03/19/2012,3,0,Neutral,"Brookline, MA",-,14
+2012,Newbury,21772,Daniel Webster,2691,03/24/2012,0,3,Home,,-,0
+2012,Newbury,21772,Regis (MA),569,03/24/2012,3,0,Home,,-,0
+2012,Newbury,21772,Elms,532,03/25/2012,0,3,Home,,-,25
+2012,Newbury,21772,Southern Vt.,1379,03/28/2012,0,3,Away,,-,42
+2012,Newbury,21772,SUNY New Paltz,475,03/30/2012,0,3,Neutral,"Poughkeepsie, NY",-,75
+2012,Newbury,21772,Lancaster Bible,30085,03/30/2012,3,2,Neutral,"Poughkeepsie, NY",-,75
+2012,Newbury,21772,Nazareth,461,03/31/2012,1,3,Neutral,"Poughkeepsie, NY",-,120
+2012,Newbury,21772,Vassar,737,03/31/2012,1,3,Away,,-,120
+2012,Newbury,21772,Regis (MA),569,04/03/2012,3,0,Away,,-,112
+2012,Newbury,21772,Endicott,8981,04/05/2012,0,3,Home,,-,54
+2012,Newbury,21772,MIT,398,04/10/2012,0,3,Away,,-,0
+2012,NJIT,471,Grand Canyon,1104,01/13/2012,2,3,Away,,-,257
+2012,NJIT,471,UC San Diego,112,01/14/2012,2,3,Neutral,"Phoenix, AZ",2 Sets,48
+2012,NJIT,471,Grand Canyon,1104,01/14/2012,1,3,Away,,-,153
+2012,NJIT,471,Hunter,292,01/20/2012,3,0,Neutral,"Newark, NJ",-,80
+2012,NJIT,471,Rutgers-Newark,589,01/21/2012,3,0,Away,,-,80
+2012,NJIT,471,Lees-McRae,13302,01/28/2012,3,1,Home,,1 Sets,175
+2012,NJIT,471,New Jersey City,319,01/31/2012,3,0,Home,,-,109
+2012,NJIT,471,Saint Francis (PA),600,02/10/2012,1,3,Away,,1 Sets,115
+2012,NJIT,471,Penn St.,539,02/11/2012,0,3,Away,,-,621
+2012,NJIT,471,Rutgers-Newark,589,02/15/2012,3,1,Away,,1 Sets,60
+2012,NJIT,471,Lewis,354,02/17/2012,0,3,Home,,-,109
+2012,NJIT,471,Loyola Chicago,371,02/18/2012,1,3,Home,,1 Sets,207
+2012,NJIT,471,Sacred Heart,590,02/21/2012,3,2,Home,,2 Sets,213
+2012,NJIT,471,Pfeiffer,542,02/25/2012,1,3,Home,,1 Sets,208
+2012,NJIT,471,IPFW,308,03/02/2012,0,3,Away,,-,320
+2012,NJIT,471,IPFW,308,03/03/2012,1,3,Away,,1 Sets,319
+2012,NJIT,471,Princeton,554,03/09/2012,3,1,Home,,1 Sets,134
+2012,NJIT,471,Lees-McRae,13302,03/16/2012,2,3,Away,,2 Sets,281
+2012,NJIT,471,King (TN),30051,03/17/2012,3,2,Away,,2 Sets,31
+2012,NJIT,471,Penn St.,539,03/23/2012,1,3,Home,,1 Sets,476
+2012,NJIT,471,Saint Francis (PA),600,03/24/2012,3,1,Home,,1 Sets,300
+2012,NJIT,471,Limestone,1174,03/29/2012,3,2,Home,,2 Sets,177
+2012,NJIT,471,Harvard,275,03/31/2012,0,3,Away,,-,136
+2012,NJIT,471,George Mason,248,04/06/2012,0,3,Home,,-,109
+2012,NJIT,471,Rutgers-Newark,589,04/11/2012,2,3,Home,,2 Sets,105
+2012,NJIT,471,Harvard,275,04/13/2012,3,1,Home,,1 Sets,203
+2012,NJIT,471,George Mason,248,04/14/2012,2,3,Away,,2 Sets,151
+2012,NJIT,471,Princeton,554,04/18/2012,2,3,Away,,2 Sets,85
+2012,NJIT,471,Sacred Heart,590,04/21/2012,3,1,Away,,1 Sets,130
+2012,NYU,479,Rutgers-Newark,589,01/20/2012,2,3,Away,,-,112
+2012,NYU,479,Hunter,292,01/21/2012,3,1,Neutral,"Newark, NJ",-,60
+2012,NYU,479,Vassar,737,01/25/2012,0,3,Away,,-,140
+2012,NYU,479,Kean,329,02/04/2012,3,0,Home,,-,70
+2012,NYU,479,SUNYIT,9500,02/04/2012,3,0,Home,,-,66
+2012,NYU,479,Medaille,23725,02/11/2012,3,0,Neutral,"Hoboken, NJ",-,45
+2012,NYU,479,Hilbert,8398,02/12/2012,3,0,Neutral,"Hoboken, NJ",-,41
+2012,NYU,479,Nazareth,461,02/12/2012,3,2,Neutral,"Hoboken, NJ",-,53
+2012,NYU,479,Bard,962,02/15/2012,3,0,Away,,-,0
+2012,NYU,479,Ramapo,564,02/18/2012,3,1,Home,,-,91
+2012,NYU,479,Rutgers-Newark,589,02/18/2012,3,0,Home,,-,90
+2012,NYU,479,Vassar,737,02/22/2012,3,2,Home,,-,203
+2012,NYU,479,Endicott,8981,03/02/2012,3,1,Away,,-,90
+2012,NYU,479,MIT,398,03/03/2012,2,3,Away,,-,0
+2012,NYU,479,Mount Ida,27901,03/03/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,NYU,479,Springfield,673,03/07/2012,2,3,Away,,-,250
+2012,NYU,479,D'Youville,1059,03/10/2012,3,0,Neutral,"Rochester, NY",-,85
+2012,NYU,479,Elmira,213,03/10/2012,3,0,Neutral,"Rochester, NY",-,100
+2012,NYU,479,Penn St.-Behrend,538,03/11/2012,3,0,Neutral,"Rochester, NY",-,0
+2012,NYU,479,Carthage,121,03/16/2012,0,3,Away,,-,60
+2012,NYU,479,East. Mennonite,203,03/16/2012,3,0,Neutral,"Kenosha, WI",-,50
+2012,NYU,479,Juniata,325,03/17/2012,1,3,Neutral,"Milwaukee, WI",-,30
+2012,NYU,479,Milwaukee Engr.,20220,03/17/2012,3,0,Away,,-,73
+2012,NYU,479,Stevens,679,03/21/2012,3,2,Home,,-,515
+2012,NYU,479,SUNY New Paltz,475,03/28/2012,3,2,Away,,2 Sets,75
+2012,NYU,479,Polytechnic (NY),481,03/31/2012,3,0,Home,,-,67
+2012,NYU,479,Baruch,58,04/03/2012,1,3,Away,,-,122
+2012,NYU,479,Princeton,554,04/06/2012,2,3,Away,,2 Sets,105
+2012,NYU,479,Penn St.-Behrend,538,04/14/2012,2,3,Home,,2 Sets,110
+2012,Ohio St.,518,UC Santa Barbara,104,01/06/2012,3,2,Away,,-,275
+2012,Ohio St.,518,UCLA,110,01/06/2012,0,3,Neutral,UC Santa Barbara,-,350
+2012,Ohio St.,518,Long Beach St.,99,01/07/2012,2,3,Neutral,"Santa Barbara, Calif",-,320
+2012,Ohio St.,518,Lees-McRae,13302,01/13/2012,3,0,Home,,-,386
+2012,Ohio St.,518,Penn St.,539,01/14/2012,0,3,Home,,-,"1,084"
+2012,Ohio St.,518,Sacred Heart,590,01/17/2012,3,0,Home,,-,183
+2012,Ohio St.,518,George Mason,248,01/19/2012,3,2,Home,,-,241
+2012,Ohio St.,518,Saint Francis (PA),600,01/22/2012,3,1,Home,,-,338
+2012,Ohio St.,518,Pacific,534,01/27/2012,3,1,Home,,1 Sets,462
+2012,Ohio St.,518,Stanford,674,01/28/2012,2,3,Home,,2 Sets,959
+2012,Ohio St.,518,Cal Baptist,30135,02/03/2012,3,1,Neutral,"University Park, Pa.",1 Sets,"1,331"
+2012,Ohio St.,518,Mount Olive,1245,02/04/2012,3,0,Neutral,"University Park, Pa.",-,"1,402"
+2012,Ohio St.,518,IPFW,308,02/10/2012,3,1,Away,,1 Sets,"1,144"
+2012,Ohio St.,518,Ball St.,47,02/17/2012,3,0,Home,,-,633
+2012,Ohio St.,518,Carthage,121,02/19/2012,3,1,Home,,1 Sets,425
+2012,Ohio St.,518,Lewis,354,02/23/2012,1,3,Away,,1 Sets,"1,189"
+2012,Ohio St.,518,Loyola Chicago,371,02/25/2012,3,0,Away,,-,"1,212"
+2012,Ohio St.,518,Saint Francis (PA),600,03/02/2012,3,2,Away,,2 Sets,95
+2012,Ohio St.,518,Penn St.,539,03/03/2012,2,3,Away,,2 Sets,"1,825"
+2012,Ohio St.,518,Ball St.,47,03/18/2012,2,3,Away,,2 Sets,510
+2012,Ohio St.,518,Quincy,561,03/23/2012,1,3,Away,,1 Sets,735
+2012,Ohio St.,518,Quincy,561,03/24/2012,3,0,Away,,-,435
+2012,Ohio St.,518,Loyola Chicago,371,03/30/2012,3,0,Home,,-,679
+2012,Ohio St.,518,Lewis,354,03/31/2012,3,0,Home,,-,375
+2012,Ohio St.,518,Grand Canyon,1104,04/05/2012,3,2,Home,,2 Sets,264
+2012,Ohio St.,518,Grand Canyon,1104,04/06/2012,3,1,Home,,1 Sets,429
+2012,Ohio St.,518,IPFW,308,04/13/2012,3,1,Home,,1 Sets,638
+2012,Ohio St.,518,George Mason,248,04/15/2012,3,0,Away,,-,127
+2012,Ohio St.,518,Ball St.,47,04/25/2012,3,0,Home,,-,496
+2012,Ohio St.,518,Lewis,354,04/28/2012,2,3,Home,,-,866
+2012,P.R.-Rio Piedras,2716,IPFW,308,01/04/2012,2,3,Home,,2 Sets,200
+2012,P.R.-Rio Piedras,2716,IPFW,308,01/07/2012,3,1,Home,,1 Sets,200
+2012,Pacific,534,Grand Canyon,1104,01/07/2012,3,0,Home,,-,107
+2012,Pacific,534,Grand Canyon,1104,01/08/2012,3,0,Home,,-,109
+2012,Pacific,534,Stanford,674,01/11/2012,0,3,Home,,-,227
+2012,Pacific,534,Loyola Chicago,371,01/13/2012,0,3,Home,,-,270
+2012,Pacific,534,UC Santa Barbara,104,01/20/2012,3,1,Away,,1 Sets,328
+2012,Pacific,534,UCLA,110,01/21/2012,0,3,Away,,-,418
+2012,Pacific,534,Ohio St.,518,01/27/2012,1,3,Away,,1 Sets,462
+2012,Pacific,534,Penn St.,539,01/28/2012,1,3,Neutral,"Columbus, Ohio",1 Sets,959
+2012,Pacific,534,Hawaii,277,02/03/2012,2,3,Home,,2 Sets,347
+2012,Pacific,534,Hawaii,277,02/04/2012,0,3,Home,,-,296
+2012,Pacific,534,Cal St. Northridge,101,02/10/2012,2,3,Away,,2 Sets,512
+2012,Pacific,534,Long Beach St.,99,02/11/2012,3,1,Away,,1 Sets,650
+2012,Pacific,534,UC San Diego,112,02/17/2012,3,0,Away,,-,278
+2012,Pacific,534,UC Irvine,109,02/18/2012,0,3,Away,,-,309
+2012,Pacific,534,Southern California,657,02/24/2012,1,3,Home,,1 Sets,350
+2012,Pacific,534,Pepperdine,541,02/25/2012,1,3,Home,,1 Sets,351
+2012,Pacific,534,UC Irvine,109,03/02/2012,1,3,Home,,1 Sets,240
+2012,Pacific,534,UC San Diego,112,03/03/2012,3,0,Home,,-,420
+2012,Pacific,534,BYU,77,03/09/2012,0,3,Away,,-,"3,702"
+2012,Pacific,534,BYU,77,03/10/2012,0,3,Away,,-,"2,472"
+2012,Pacific,534,UC Santa Cruz,113,03/23/2012,3,0,Home,,-,203
+2012,Pacific,534,Southern California,657,03/30/2012,0,3,Away,,-,250
+2012,Pacific,534,Pepperdine,541,03/31/2012,2,3,Away,,2 Sets,276
+2012,Pacific,534,Stanford,674,04/03/2012,0,3,Away,,-,512
+2012,Pacific,534,Cal St. Northridge,101,04/06/2012,2,3,Home,,2 Sets,151
+2012,Pacific,534,Long Beach St.,99,04/07/2012,1,3,Home,,1 Sets,153
+2012,Pacific,534,UCLA,110,04/13/2012,1,3,Home,,1 Sets,205
+2012,Pacific,534,UC Santa Barbara,104,04/14/2012,3,2,Home,,2 Sets,214
+2012,Penn St.,539,Ohio St.,518,01/14/2012,3,0,Away,,-,"1,084"
+2012,Penn St.,539,Loyola Chicago,371,01/20/2012,3,0,Away,,-,"1,827"
+2012,Penn St.,539,Lewis,354,01/21/2012,1,3,Away,,1 Sets,"1,310"
+2012,Penn St.,539,Stanford,674,01/27/2012,3,1,Neutral,"Columbus, Ohio",1 Sets,462
+2012,Penn St.,539,Pacific,534,01/28/2012,3,1,Neutral,"Columbus, Ohio",1 Sets,959
+2012,Penn St.,539,Mount Olive,1245,02/03/2012,3,0,Home,,-,"1,331"
+2012,Penn St.,539,Cal Baptist,30135,02/04/2012,3,0,Home,,-,"1,402"
+2012,Penn St.,539,Rutgers-Newark,589,02/10/2012,3,0,Home,,-,852
+2012,Penn St.,539,NJIT,471,02/11/2012,3,0,Home,,-,621
+2012,Penn St.,539,Harvard,275,02/17/2012,3,0,Away,,-,323
+2012,Penn St.,539,Sacred Heart,590,02/18/2012,3,0,Away,,-,"1,078"
+2012,Penn St.,539,Princeton,554,02/24/2012,3,0,Home,,-,365
+2012,Penn St.,539,George Mason,248,02/25/2012,3,0,Home,,-,513
+2012,Penn St.,539,Ohio St.,518,03/03/2012,3,2,Home,,2 Sets,"1,825"
+2012,Penn St.,539,Pepperdine,541,03/08/2012,2,3,Away,,2 Sets,352
+2012,Penn St.,539,Southern California,657,03/09/2012,0,3,Away,,-,750
+2012,Penn St.,539,Saint Francis (PA),600,03/17/2012,3,0,Away,,-,450
+2012,Penn St.,539,NJIT,471,03/23/2012,3,1,Away,,1 Sets,476
+2012,Penn St.,539,Rutgers-Newark,589,03/24/2012,3,0,Away,,-,118
+2012,Penn St.,539,Princeton,554,03/30/2012,3,2,Away,,2 Sets,265
+2012,Penn St.,539,George Mason,248,03/31/2012,3,1,Away,,1 Sets,982
+2012,Penn St.,539,Sacred Heart,590,04/06/2012,3,0,Home,,-,375
+2012,Penn St.,539,Harvard,275,04/07/2012,3,2,Home,,2 Sets,328
+2012,Penn St.,539,BYU,77,04/13/2012,1,3,Away,,1 Sets,"3,242"
+2012,Penn St.,539,BYU,77,04/14/2012,0,3,Away,,-,"3,845"
+2012,Penn St.,539,Saint Francis (PA),600,04/21/2012,3,0,Home,,-,"1,203"
+2012,Penn St.,539,Princeton,554,04/26/2012,3,0,Home,,-,723
+2012,Penn St.,539,George Mason,248,04/28/2012,3,1,Home,,1 Sets,"1,221"
+2012,Penn St.,539,UC Irvine,109,05/03/2012,1,3,Neutral,"Los Angeles, CA",1 Sets,"2,750"
+2012,Penn St.-Behrend,538,Siena Heights,,01/21/2012,0,3,Neutral,"Cincinatti, OH",-,0
+2012,Penn St.-Behrend,538,Mt. St. Joseph,8567,01/21/2012,1,3,Away,,-,0
+2012,Penn St.-Behrend,538,King (TN),30051,01/22/2012,0,3,Neutral,"Cincinnati, Ohio",-,0
+2012,Penn St.-Behrend,538,Missouri Valley,,01/22/2012,0,3,Neutral,"Cincinatti, OH",-,0
+2012,Penn St.-Behrend,538,Thiel,707,01/25/2012,1,3,Home,,-,150
+2012,Penn St.-Behrend,538,Elmira,213,01/31/2012,1,3,Home,,-,102
+2012,Penn St.-Behrend,538,D'Youville,1059,02/08/2012,2,3,Away,,-,145
+2012,Penn St.-Behrend,538,SUNY New Paltz,475,02/11/2012,2,3,Neutral,"Hoboken, NJ",-,56
+2012,Penn St.-Behrend,538,Stevens,679,02/12/2012,0,3,Away,,-,55
+2012,Penn St.-Behrend,538,Bard,962,02/12/2012,3,1,Neutral,"Hoboken, NJ",-,38
+2012,Penn St.-Behrend,538,Thiel,707,02/14/2012,0,3,Away,,-,117
+2012,Penn St.-Behrend,538,D'Youville,1059,02/15/2012,3,0,Home,,-,108
+2012,Penn St.-Behrend,538,Medaille,23725,02/22/2012,0,3,Home,,-,112
+2012,Penn St.-Behrend,538,York (NY),2730,02/24/2012,2,3,Away,,-,35
+2012,Penn St.-Behrend,538,Sarah Lawrence,30163,02/25/2012,3,0,Away,,-,0
+2012,Penn St.-Behrend,538,John Jay,321,02/26/2012,3,0,Away,,-,7
+2012,Penn St.-Behrend,538,Nazareth,461,02/29/2012,0,3,Away,,-,0
+2012,Penn St.-Behrend,538,SUNYIT,9500,03/10/2012,3,0,Neutral,"Rochester, NY",-,50
+2012,Penn St.-Behrend,538,New York U.,479,03/11/2012,0,3,Neutral,"Rochester, NY",-,0
+2012,Penn St.-Behrend,538,Vassar,737,03/11/2012,0,3,Neutral,"Rochester, NY",-,0
+2012,Penn St.-Behrend,538,Hilbert,8398,03/14/2012,3,0,Home,,-,115
+2012,Penn St.-Behrend,538,Medaille,23725,03/15/2012,0,3,Away,,-,92
+2012,Penn St.-Behrend,538,Wells,761,03/18/2012,3,0,Home,,-,75
+2012,Penn St.-Behrend,538,Hilbert,8398,03/21/2012,3,0,Away,,-,64
+2012,Penn St.-Behrend,538,D'Youville,1059,03/31/2012,2,3,Neutral,"Buffalo, NY",2 Sets,100
+2012,Penn St.-Behrend,538,Wells,761,04/05/2012,3,0,Away,,-,55
+2012,Penn St.-Behrend,538,New York U.,479,04/14/2012,3,2,Away,,2 Sets,110
+2012,Penn St.-Behrend,538,Nazareth,461,04/14/2012,0,3,Neutral,"New York, NY",-,85
+2012,Pepperdine,541,Lewis,354,01/07/2012,1,3,Home,,-,613
+2012,Pepperdine,541,Lewis,354,01/08/2012,3,2,Home,,-,404
+2012,Pepperdine,541,Cal St. Northridge,101,01/11/2012,3,1,Home,,-,509
+2012,Pepperdine,541,Long Beach St.,99,01/14/2012,3,1,Home,,-,688
+2012,Pepperdine,541,Hawaii,277,01/20/2012,3,1,Home,,-,583
+2012,Pepperdine,541,Hawaii,277,01/21/2012,3,1,Home,,-,485
+2012,Pepperdine,541,UC Irvine,109,01/25/2012,1,3,Away,,1 Sets,536
+2012,Pepperdine,541,UC San Diego,112,01/27/2012,3,2,Away,,2 Sets,564
+2012,Pepperdine,541,UCLA,110,02/01/2012,2,3,Home,,2 Sets,826
+2012,Pepperdine,541,UC Santa Barbara,104,02/03/2012,1,3,Home,,1 Sets,701
+2012,Pepperdine,541,Southern California,657,02/10/2012,0,3,Away,,-,750
+2012,Pepperdine,541,Cal Baptist,30135,02/15/2012,3,2,Home,,2 Sets,239
+2012,Pepperdine,541,Stanford,674,02/24/2012,1,3,Away,,1 Sets,"1,186"
+2012,Pepperdine,541,Pacific,534,02/25/2012,3,1,Away,,1 Sets,351
+2012,Pepperdine,541,BYU,77,03/02/2012,1,3,Away,,1 Sets,"2,838"
+2012,Pepperdine,541,BYU,77,03/03/2012,0,3,Away,,-,"2,599"
+2012,Pepperdine,541,Penn St.,539,03/08/2012,3,2,Home,,2 Sets,352
+2012,Pepperdine,541,Southern California,657,03/10/2012,1,3,Home,,1 Sets,612
+2012,Pepperdine,541,Harvard,275,03/12/2012,3,1,Home,,-,447
+2012,Pepperdine,541,UC Santa Barbara,104,03/14/2012,3,0,Away,,-,205
+2012,Pepperdine,541,UCLA,110,03/16/2012,0,3,Away,,-,622
+2012,Pepperdine,541,George Mason,248,03/24/2012,3,0,Home,,-,264
+2012,Pepperdine,541,Stanford,674,03/30/2012,2,3,Home,,2 Sets,439
+2012,Pepperdine,541,Pacific,534,03/31/2012,3,2,Home,,2 Sets,276
+2012,Pepperdine,541,UC Irvine,109,04/05/2012,2,3,Home,,2 Sets,381
+2012,Pepperdine,541,UC San Diego,112,04/07/2012,3,0,Home,,-,343
+2012,Pepperdine,541,Cal St. Northridge,101,04/12/2012,1,3,Away,,1 Sets,912
+2012,Pepperdine,541,Long Beach St.,99,04/14/2012,1,3,Away,,1 Sets,"1,080"
+2012,Pepperdine,541,Stanford,674,04/21/2012,1,3,Away,,1 Sets,"1,072"
+2012,Pfeiffer,542,Ball St.,47,01/28/2012,0,3,Home,,-,219
+2012,Pfeiffer,542,Barton,15646,02/01/2012,3,0,Away,,-,465
+2012,Pfeiffer,542,King (TN),30051,02/04/2012,3,0,Home,,-,109
+2012,Pfeiffer,542,Mount Olive,1245,02/07/2012,3,2,Away,,2 Sets,268
+2012,Pfeiffer,542,East. Mennonite,203,02/11/2012,3,1,Away,,1 Sets,143
+2012,Pfeiffer,542,Phila. Biblical,1305,02/11/2012,3,1,Neutral,"Harrisonburg, VA",1 Sets,64
+2012,Pfeiffer,542,Limestone,1174,02/15/2012,3,1,Home,,1 Sets,143
+2012,Pfeiffer,542,Lees-McRae,13302,02/18/2012,3,1,Away,,1 Sets,281
+2012,Pfeiffer,542,NJIT,471,02/25/2012,3,1,Away,,1 Sets,208
+2012,Pfeiffer,542,Kean,329,02/26/2012,3,0,Neutral,"New York, NY",-,100
+2012,Pfeiffer,542,Rivier,18422,02/26/2012,3,1,Neutral,"New York, NY",-,100
+2012,Pfeiffer,542,Mo. Baptist,,03/02/2012,3,1,Neutral,"St. Charles, MO",-,200
+2012,Pfeiffer,542,Cal Baptist,30135,03/03/2012,0,3,Neutral,"St. Charles, Mo.",-,200
+2012,Pfeiffer,542,Lindenwood (MO),30136,03/03/2012,0,3,Away,,-,150
+2012,Pfeiffer,542,Saint Francis (PA),600,03/06/2012,2,3,Home,,2 Sets,188
+2012,Pfeiffer,542,Sacred Heart,590,03/08/2012,3,0,Home,,-,102
+2012,Pfeiffer,542,Ramapo,564,03/16/2012,3,1,Neutral,"Lake Wales, FL",-,80
+2012,Pfeiffer,542,Stevens,679,03/16/2012,3,1,Neutral,"Lake Wales, FL",-,65
+2012,Pfeiffer,542,Warner,,03/17/2012,3,1,Away,,-,0
+2012,Pfeiffer,542,St. Ambrose,,03/17/2012,0,3,Neutral,"Lake Wales , FL",-,0
+2012,Pfeiffer,542,Limestone,1174,03/21/2012,0,3,Away,,-,72
+2012,Pfeiffer,542,King (TN),30051,03/23/2012,3,2,Away,,2 Sets,121
+2012,Pfeiffer,542,Mount Olive,1245,03/27/2012,3,0,Home,,-,187
+2012,Pfeiffer,542,Lees-McRae,13302,03/31/2012,3,1,Home,,1 Sets,254
+2012,Pfeiffer,542,Barton,15646,04/11/2012,3,0,Home,,-,142
+2012,Pfeiffer,542,Lees-McRae,13302,04/15/2012,3,1,Home,,1 Sets,349
+2012,Pfeiffer,542,Mount Olive,1245,04/18/2012,3,0,Home,,-,648
+2012,Polytechnic (NY),481,New Jersey City,319,01/23/2012,0,3,Home,,-,29
+2012,Polytechnic (NY),481,Ramapo,564,01/28/2012,0,3,Neutral,"Jersey City, NJ",-,143
+2012,Polytechnic (NY),481,Kean,329,01/28/2012,0,3,Neutral,"Jersey City, NJ",-,143
+2012,Polytechnic (NY),481,York (NY),2730,01/30/2012,2,3,Home,,-,30
+2012,Polytechnic (NY),481,Lehman,279,02/01/2012,0,3,Away,,-,43
+2012,Polytechnic (NY),481,York (NY),2730,02/03/2012,3,2,Home,,2 Sets,30
+2012,Polytechnic (NY),481,Lancaster Bible,30085,02/03/2012,0,3,Home,,-,35
+2012,Polytechnic (NY),481,Yeshiva,814,02/08/2012,3,0,Home,,-,18
+2012,Polytechnic (NY),481,Sage Colleges,11036,02/11/2012,0,3,Home,,-,25
+2012,Polytechnic (NY),481,Mt. St. Vincent,451,02/11/2012,3,0,Home,,-,50
+2012,Polytechnic (NY),481,Sage Colleges,11036,02/14/2012,0,3,Away,,-,100
+2012,Polytechnic (NY),481,Brooklyn,79,02/20/2012,3,0,Home,,-,33
+2012,Polytechnic (NY),481,Bard,962,02/24/2012,0,3,Away,,-,50
+2012,Polytechnic (NY),481,Mount Ida,27901,02/24/2012,3,0,Neutral,"Annandale, NY",-,40
+2012,Polytechnic (NY),481,Lasell,8486,02/25/2012,1,3,Neutral,"Annandale, NY",-,40
+2012,Polytechnic (NY),481,Kean,329,02/28/2012,0,3,Away,,-,67
+2012,Polytechnic (NY),481,Ramapo,564,03/01/2012,0,3,Home,,-,35
+2012,Polytechnic (NY),481,Yeshiva,814,03/04/2012,3,0,Neutral,"Riverdale, NY",-,40
+2012,Polytechnic (NY),481,New Jersey City,319,03/04/2012,0,3,Neutral,"Riverdale, NY",-,42
+2012,Polytechnic (NY),481,Purchase St.,30029,03/21/2012,3,0,Away,,-,21
+2012,Polytechnic (NY),481,St. Joseph's (Brkln),30072,03/27/2012,3,0,Home,,-,10
+2012,Polytechnic (NY),481,Medgar Evers,403,03/29/2012,3,0,Home,,-,25
+2012,Polytechnic (NY),481,New York U.,479,03/31/2012,0,3,Away,,-,67
+2012,Polytechnic (NY),481,Mt. St. Vincent,451,04/01/2012,3,0,Neutral,"Mahwah, NJ",-,75
+2012,Polytechnic (NY),481,Purchase St.,30029,04/01/2012,3,0,Neutral,"Mahwah, NJ",-,0
+2012,Polytechnic (NY),481,John Jay,321,04/05/2012,3,0,Home,,-,33
+2012,Polytechnic (NY),481,CCNY,480,04/07/2012,3,1,Home,,1 Sets,30
+2012,Polytechnic (NY),481,Wells,761,04/07/2012,3,0,Home,,-,20
+2012,Princeton,554,Cal Baptist,30135,01/30/2012,1,3,Away,,1 Sets,224
+2012,Princeton,554,Long Beach St.,99,01/31/2012,0,3,Away,,-,622
+2012,Princeton,554,UC San Diego,112,02/01/2012,3,2,Away,,2 Sets,103
+2012,Princeton,554,Sacred Heart,590,02/10/2012,3,0,Away,,-,107
+2012,Princeton,554,Harvard,275,02/11/2012,0,3,Away,,-,164
+2012,Princeton,554,Rutgers-Newark,589,02/17/2012,3,2,Away,,2 Sets,70
+2012,Princeton,554,Penn St.,539,02/24/2012,0,3,Away,,-,365
+2012,Princeton,554,Saint Francis (PA),600,02/25/2012,3,0,Away,,-,87
+2012,Princeton,554,Rutgers-Newark,589,02/28/2012,3,1,Home,,1 Sets,105
+2012,Princeton,554,Sacred Heart,590,03/02/2012,3,1,Home,,1 Sets,85
+2012,Princeton,554,Harvard,275,03/03/2012,2,3,Home,,2 Sets,95
+2012,Princeton,554,NJIT,471,03/09/2012,1,3,Away,,1 Sets,134
+2012,Princeton,554,George Mason,248,03/10/2012,0,3,Home,,-,130
+2012,Princeton,554,Juniata,325,03/24/2012,3,2,Home,,2 Sets,125
+2012,Princeton,554,Penn St.,539,03/30/2012,2,3,Home,,2 Sets,265
+2012,Princeton,554,Saint Francis (PA),600,03/31/2012,1,3,Home,,1 Sets,105
+2012,Princeton,554,New York U.,479,04/06/2012,3,2,Home,,2 Sets,105
+2012,Princeton,554,Vassar,737,04/07/2012,3,0,Home,,-,85
+2012,Princeton,554,Kean,329,04/11/2012,3,2,Home,,2 Sets,105
+2012,Princeton,554,Baruch,58,04/14/2012,3,1,Home,,1 Sets,95
+2012,Princeton,554,NJIT,471,04/18/2012,3,2,Home,,2 Sets,85
+2012,Princeton,554,George Mason,248,04/21/2012,3,2,Away,,2 Sets,483
+2012,Princeton,554,Penn St.,539,04/26/2012,0,3,Away,,-,723
+2012,Purchase,30029,Yeshiva,814,01/29/2012,1,3,Neutral,"Troy, NY",1 Sets,75
+2012,Purchase,30029,Mt. St. Vincent,451,01/29/2012,0,3,Neutral,"Troy, NY",-,80
+2012,Purchase,30029,Brooklyn,79,01/31/2012,3,2,Home,,2 Sets,37
+2012,Purchase,30029,Sage Colleges,11036,02/08/2012,0,3,Home,,-,21
+2012,Purchase,30029,New Jersey City,319,02/12/2012,0,3,Home,,-,43
+2012,Purchase,30029,Ramapo,564,02/12/2012,0,3,Home,,-,42
+2012,Purchase,30029,New Jersey City,319,02/14/2012,0,3,Away,,-,79
+2012,Purchase,30029,Albertus Magnus,2798,02/17/2012,0,3,Home,,-,37
+2012,Purchase,30029,Kean,329,02/23/2012,0,3,Home,,-,31
+2012,Purchase,30029,Mt. St. Vincent,451,02/27/2012,0,3,Away,,-,38
+2012,Purchase,30029,Kean,329,03/04/2012,0,3,Away,,-,122
+2012,Purchase,30029,Sage Colleges,11036,03/04/2012,0,3,Neutral,"Union, NJ",-,213
+2012,Purchase,30029,Lehman,279,03/09/2012,0,3,Away,,-,38
+2012,Purchase,30029,St. Joseph's (Brkln),30072,03/12/2012,3,1,Away,,-,34
+2012,Purchase,30029,York (NY),2730,03/15/2012,0,3,Away,,-,50
+2012,Purchase,30029,Polytechnic (NY),481,03/21/2012,0,3,Home,,-,21
+2012,Purchase,30029,Albertus Magnus,2798,03/24/2012,0,3,Away,,-,47
+2012,Purchase,30029,Yeshiva,814,03/27/2012,0,3,Away,,-,80
+2012,Purchase,30029,John Jay,321,03/29/2012,0,3,Home,,-,53
+2012,Purchase,30029,Polytechnic (NY),481,04/01/2012,0,3,Neutral,"Mahwah, NJ",-,0
+2012,Purchase,30029,Ramapo,564,04/01/2012,0,3,Away,,-,75
+2012,Quincy,561,East. Mennonite,203,01/13/2012,3,1,Neutral,"Mount Olive, N.C.",-,302
+2012,Quincy,561,Mount Olive,1245,01/13/2012,3,1,Away,,1 Sets,302
+2012,Quincy,561,King (TN),30051,01/14/2012,3,0,Neutral,"Mount Olive, N.C.",-,162
+2012,Quincy,561,Hannibal-La Grange,,01/24/2012,3,0,Home,,-,234
+2012,Quincy,561,Lindenwood (MO),30136,01/27/2012,3,2,Away,,2 Sets,419
+2012,Quincy,561,Fontbonne,11538,01/28/2012,3,1,Away,,1 Sets,68
+2012,Quincy,561,Fontbonne,11538,01/28/2012,3,0,Away,,-,75
+2012,Quincy,561,Rust,586,01/29/2012,3,0,Home,,-,84
+2012,Quincy,561,Rust,586,01/29/2012,3,0,Home,,-,84
+2012,Quincy,561,Rust,586,01/29/2012,3,0,Home,,-,84
+2012,Quincy,561,Milwaukee Engr.,20220,02/02/2012,3,1,Away,,1 Sets,125
+2012,Quincy,561,Carthage,121,02/03/2012,1,3,Neutral,"Kenosha, Wis.",-,250
+2012,Quincy,561,Ball St.,47,02/11/2012,0,3,Away,,-,361
+2012,Quincy,561,Fontbonne,11538,02/13/2012,3,0,Home,,-,102
+2012,Quincy,561,Fontbonne,11538,02/13/2012,3,0,Home,,-,164
+2012,Quincy,561,Grand Canyon,1104,02/18/2012,0,3,Away,,-,92
+2012,Quincy,561,Grand Canyon,1104,02/19/2012,0,3,Away,,-,74
+2012,Quincy,561,Mount Olive,1245,02/25/2012,3,2,Home,,2 Sets,275
+2012,Quincy,561,Lewis,354,03/01/2012,0,3,Away,,-,310
+2012,Quincy,561,Loyola Chicago,371,03/02/2012,0,3,Away,,-,201
+2012,Quincy,561,Loyola Chicago,371,03/03/2012,0,3,Away,,-,212
+2012,Quincy,561,Milwaukee Engr.,20220,03/04/2012,3,1,Home,,1 Sets,75
+2012,Quincy,561,King (TN),30051,03/05/2012,1,3,Home,,1 Sets,90
+2012,Quincy,561,Carthage,121,03/09/2012,3,1,Home,,1 Sets,100
+2012,Quincy,561,Mo. Baptist,,03/13/2012,3,2,Home,,2 Sets,102
+2012,Quincy,561,Ohio St.,518,03/23/2012,3,1,Home,,1 Sets,735
+2012,Quincy,561,Ohio St.,518,03/24/2012,0,3,Home,,-,435
+2012,Quincy,561,IPFW,308,03/30/2012,2,3,Home,,2 Sets,127
+2012,Quincy,561,IPFW,308,03/31/2012,0,3,Home,,-,138
+2012,Quincy,561,Lewis,354,04/03/2012,0,3,Home,,-,204
+2012,Quincy,561,Ball St.,47,04/13/2012,0,3,Home,,-,154
+2012,Quincy,561,Lindenwood (MO),30136,04/15/2012,0,3,Home,,-,177
+2012,Quincy,561,Lewis,354,04/20/2012,0,3,Away,,-,512
+2012,Ramapo,564,Phila. Biblical,1305,01/21/2012,3,1,Home,,-,75
+2012,Ramapo,564,Vassar,737,01/21/2012,3,1,Home,,-,100
+2012,Ramapo,564,Polytechnic (NY),481,01/28/2012,3,0,Neutral,"Jersey City, NJ",-,143
+2012,Ramapo,564,New Jersey City,319,01/28/2012,3,0,Away,,-,143
+2012,Ramapo,564,Stevens,679,02/04/2012,2,3,Away,,-,145
+2012,Ramapo,564,Sacred Heart,590,02/04/2012,0,3,Neutral,"Hoboken, NJ",-,65
+2012,Ramapo,564,New Jersey City,319,02/08/2012,3,1,Home,,-,125
+2012,Ramapo,564,Yeshiva,814,02/12/2012,3,0,Neutral,"Purchase, NY",-,31
+2012,Ramapo,564,Purchase St.,30029,02/12/2012,3,0,Away,,-,42
+2012,Ramapo,564,Rutgers-Newark,589,02/18/2012,0,3,Neutral,"New York, NY",-,86
+2012,Ramapo,564,New York U.,479,02/18/2012,1,3,Away,,-,91
+2012,Ramapo,564,Yeshiva,814,02/27/2012,3,0,Away,,-,40
+2012,Ramapo,564,Mt. St. Vincent,451,02/29/2012,3,0,Away,,-,35
+2012,Ramapo,564,Polytechnic (NY),481,03/01/2012,3,0,Away,,-,35
+2012,Ramapo,564,Kean,329,03/04/2012,0,3,Away,,-,102
+2012,Ramapo,564,Sage Colleges,11036,03/04/2012,3,0,Neutral,"Union, NY",-,50
+2012,Ramapo,564,Bard,962,03/07/2012,3,1,Away,,1 Sets,70
+2012,Ramapo,564,Phila. Biblical,1305,03/10/2012,0,3,Away,,-,25
+2012,Ramapo,564,East. Mennonite,203,03/10/2012,0,3,Neutral,"Langhorne, PA",-,25
+2012,Ramapo,564,Endicott,8981,03/16/2012,3,1,Neutral,"Lake Wales, FL",-,50
+2012,Ramapo,564,Pfeiffer,542,03/16/2012,1,3,Neutral,"Lake Wales, FL",-,80
+2012,Ramapo,564,Warner,,03/17/2012,1,3,Away,,1 Sets,65
+2012,Ramapo,564,St. Ambrose,,03/17/2012,1,3,Neutral,"Lake Wales, FL",-,65
+2012,Ramapo,564,Warner,,03/19/2012,0,3,Away,,-,69
+2012,Ramapo,564,Kean,329,03/29/2012,3,1,Home,,1 Sets,200
+2012,Ramapo,564,Purchase St.,30029,04/01/2012,3,0,Home,,-,75
+2012,Ramapo,564,Mt. St. Vincent,451,04/01/2012,3,0,Home,,-,75
+2012,Ramapo,564,Sage Colleges,11036,04/03/2012,3,0,Home,,-,125
+2012,Ramapo,564,Lehman,279,04/04/2012,3,1,Home,,1 Sets,60
+2012,Ramapo,564,SUNY New Paltz,475,04/11/2012,2,3,Home,,-,100
+2012,Ramapo,564,Kean,329,04/14/2012,0,3,Away,,-,95
+2012,Ramapo,564,New Jersey City,319,04/14/2012,3,2,Neutral,"Union, NJ",2 Sets,84
+2012,Ramapo,564,Daniel Webster,2691,04/21/2012,3,1,Neutral,,-,115
+2012,Ramapo,564,Endicott,8981,04/21/2012,3,0,Away,,-,115
+2012,Regis (MA),569,Southern Vt.,1379,02/02/2012,0,3,Away,,-,61
+2012,Regis (MA),569,Emerson,214,02/04/2012,0,3,Home,,-,56
+2012,Regis (MA),569,Lesley,24317,02/09/2012,0,3,Home,,-,42
+2012,Regis (MA),569,Daniel Webster,2691,02/11/2012,0,3,Away,,-,62
+2012,Regis (MA),569,Endicott,8981,02/15/2012,0,3,Home,,-,39
+2012,Regis (MA),569,Elms,532,02/18/2012,0,3,Home,,-,26
+2012,Regis (MA),569,Endicott,8981,02/22/2012,0,3,Away,,-,75
+2012,Regis (MA),569,Sarah Lawrence,30163,02/26/2012,3,2,Away,,-,30
+2012,Regis (MA),569,Albertus Magnus,2798,02/26/2012,0,3,Away,,-,46
+2012,Regis (MA),569,Lasell,8486,02/29/2012,0,3,Away,,-,89
+2012,Regis (MA),569,Southern Vt.,1379,03/01/2012,0,3,Home,,-,48
+2012,Regis (MA),569,Emerson,214,03/13/2012,0,3,Away,,-,65
+2012,Regis (MA),569,Albertus Magnus,2798,03/19/2012,0,3,Home,,-,42
+2012,Regis (MA),569,Lesley,24317,03/22/2012,2,3,Away,,-,12
+2012,Regis (MA),569,Newbury,21772,03/24/2012,0,3,Away,,-,0
+2012,Regis (MA),569,Daniel Webster,2691,03/28/2012,0,3,Home,,-,42
+2012,Regis (MA),569,Wentworth Inst.,762,03/31/2012,0,3,Neutral,"Chicopee, MA",-,75
+2012,Regis (MA),569,Elms,532,03/31/2012,0,3,Away,,-,105
+2012,Regis (MA),569,Newbury,21772,04/03/2012,0,3,Home,,-,112
+2012,Rivier,18422,Johnson & Wales (RI),22626,01/25/2012,3,0,Away,,-,107
+2012,Rivier,18422,Harvard,275,01/27/2012,0,3,Home,,-,150
+2012,Rivier,18422,Wentworth Inst.,762,02/03/2012,3,0,Home,,-,100
+2012,Rivier,18422,Emerson,214,02/09/2012,3,0,Away,,-,75
+2012,Rivier,18422,Stevenson,21852,02/11/2012,3,1,Neutral,"Cambridge, MA",-,100
+2012,Rivier,18422,Elms,532,02/11/2012,3,0,Neutral,"Cambridge, MA",-,100
+2012,Rivier,18422,MIT,398,02/12/2012,0,3,Away,,-,100
+2012,Rivier,18422,Endicott,8981,02/12/2012,3,0,Neutral,"Cambridge, MA",-,65
+2012,Rivier,18422,Emmanuel (MA),215,02/17/2012,3,1,Home,,-,100
+2012,Rivier,18422,Baruch,58,02/25/2012,3,1,Away,,-,64
+2012,Rivier,18422,Stevens,679,02/25/2012,1,3,Neutral,"New York, NY",-,64
+2012,Rivier,18422,Elmira,213,02/26/2012,3,1,Neutral,"New York, NY",-,100
+2012,Rivier,18422,Pfeiffer,542,02/26/2012,1,3,Neutral,"New York, NY",-,100
+2012,Rivier,18422,Emmanuel (MA),215,02/28/2012,3,0,Away,,-,250
+2012,Rivier,18422,Nazareth,461,03/02/2012,1,3,Away,,-,468
+2012,Rivier,18422,Medaille,23725,03/03/2012,0,3,Away,,-,62
+2012,Rivier,18422,D'Youville,1059,03/03/2012,3,1,Neutral,"Buffalo, NY",-,62
+2012,Rivier,18422,Albertus Magnus,2798,03/16/2012,3,0,Away,,-,67
+2012,Rivier,18422,New Jersey City,319,03/17/2012,3,0,Away,,-,61
+2012,Rivier,18422,Vassar,737,03/17/2012,3,1,Neutral,"Jersey City, NJ",-,61
+2012,Rivier,18422,Lasell,8486,03/20/2012,3,0,Home,,-,100
+2012,Rivier,18422,Hunter,292,03/24/2012,0,3,Neutral,"Beverly, MA",-,100
+2012,Rivier,18422,SUNY New Paltz,475,03/24/2012,3,1,Neutral,"Beverly, MA",1 Sets,100
+2012,Rivier,18422,Stevens,679,03/25/2012,1,3,Neutral,"Beverly, MA",1 Sets,100
+2012,Rivier,18422,New Jersey City,319,03/25/2012,3,1,Neutral,"Beverly, MA",1 Sets,49
+2012,Rivier,18422,Lasell,8486,03/29/2012,3,0,Away,,-,48
+2012,Rivier,18422,Albertus Magnus,2798,03/31/2012,3,0,Home,,-,0
+2012,Rivier,18422,Mount Ida,27901,03/31/2012,3,0,Home,,-,0
+2012,Rivier,18422,Johnson & Wales (RI),22626,04/03/2012,3,1,Home,,1 Sets,100
+2012,Rivier,18422,Wentworth Inst.,762,04/05/2012,3,0,Away,,-,40
+2012,Rivier,18422,Mount Ida,27901,04/07/2012,3,0,Away,,-,25
+2012,Rivier,18422,Emerson,214,04/07/2012,3,0,Neutral,"Newton, MA",-,50
+2012,Rivier,18422,Albertus Magnus,2798,04/12/2012,3,0,Home,,-,100
+2012,Rivier,18422,Emmanuel (MA),215,04/14/2012,3,0,Home,,-,100
+2012,Rivier,18422,UC Santa Cruz,113,04/27/2012,2,3,Neutral,"Springfield, MA",-,600
+2012,Rust,586,Graceland (IA),,01/13/2012,0,3,Neutral,"St. Louis, MO",-,0
+2012,Rust,586,Mo. Baptist,,01/14/2012,0,3,Away,,-,0
+2012,Rust,586,Cardinal Stritch,,01/14/2012,0,3,Neutral,"St. Louis, MO",-,0
+2012,Rust,586,Milwaukee Engr.,20220,01/28/2012,0,3,Away,,-,26
+2012,Rust,586,Quincy,561,01/29/2012,0,3,Away,,-,84
+2012,Rust,586,Quincy,561,01/29/2012,0,3,Away,,-,84
+2012,Rust,586,Quincy,561,01/29/2012,0,3,Away,,-,84
+2012,Rust,586,Lindenwood (MO),30136,02/03/2012,0,3,Away,,-,200
+2012,Rust,586,Grand View,,02/03/2012,0,3,Neutral,"St. Charles, MO",-,0
+2012,Rust,586,Missouri Valley,,02/04/2012,0,3,Neutral,"St. Charles, MO (LU)",-,0
+2012,Rust,586,Mo. Baptist,,02/04/2012,1,3,Neutral,"St. Charles, MO",-,0
+2012,Rust,586,Fontbonne,11538,02/11/2012,3,2,Home,,-,0
+2012,Rust,586,Fontbonne,11538,02/11/2012,2,3,Home,,-,0
+2012,Rust,586,East. Mennonite,203,02/18/2012,0,3,Away,,-,283
+2012,Rust,586,East. Mennonite,203,02/18/2012,1,3,Away,,-,87
+2012,Rust,586,Lourdes,,02/25/2012,0,3,Neutral,"Cincinnatti, OH",-,0
+2012,Rust,586,Barton,15646,02/25/2012,3,1,Neutral,"Cincinnati, OH",-,0
+2012,Rust,586,Mt. St. Joseph,8567,02/26/2012,0,3,Away,,-,0
+2012,Rust,586,Milwaukee Engr.,20220,02/26/2012,0,3,Neutral,"Cincinnati, OH",-,54
+2012,Rust,586,St. Xavier,,03/12/2012,0,3,Away,,-,102
+2012,Rust,586,Nazareth,461,03/16/2012,0,3,Neutral,"Milwaukee, WI",-,60
+2012,Rust,586,Milwaukee Engr.,20220,03/16/2012,0,3,Away,,-,45
+2012,Rust,586,Thiel,707,03/17/2012,0,3,Neutral,"Kenosha, WI",-,40
+2012,Rust,586,Elmira,213,03/17/2012,0,3,Neutral,"Kenosha, WI",-,40
+2012,Rust,586,Fontbonne,11538,03/17/2012,0,3,Neutral,"Kenosha, WI",-,40
+2012,Rust,586,Missouri Valley,,03/24/2012,0,3,Home,,-,0
+2012,Rust,586,Fontbonne,11538,03/28/2012,1,3,Away,,-,0
+2012,Rust,586,Fontbonne,11538,03/28/2012,1,3,Away,,-,0
+2012,Rust,586,Lindenwood (IL),,03/29/2012,1,3,Home,,-,0
+2012,Rutgers-Newark,589,New York U.,479,01/20/2012,3,2,Home,,-,112
+2012,Rutgers-Newark,589,NJIT,471,01/21/2012,0,3,Home,,-,80
+2012,Rutgers-Newark,589,Kean,329,01/27/2012,3,2,Home,,2 Sets,157
+2012,Rutgers-Newark,589,Sacred Heart,590,02/02/2012,3,0,Home,,-,60
+2012,Rutgers-Newark,589,York (NY),2730,02/07/2012,3,0,Away,,-,55
+2012,Rutgers-Newark,589,Penn St.,539,02/10/2012,0,3,Away,,-,852
+2012,Rutgers-Newark,589,Saint Francis (PA),600,02/11/2012,0,3,Away,,-,118
+2012,Rutgers-Newark,589,NJIT,471,02/15/2012,1,3,Home,,1 Sets,60
+2012,Rutgers-Newark,589,Princeton,554,02/17/2012,2,3,Home,,2 Sets,70
+2012,Rutgers-Newark,589,Ramapo,564,02/18/2012,3,0,Neutral,"New York, NY",-,86
+2012,Rutgers-Newark,589,New York U.,479,02/18/2012,0,3,Away,,-,90
+2012,Rutgers-Newark,589,New Jersey City,319,02/21/2012,3,1,Away,,1 Sets,98
+2012,Rutgers-Newark,589,Mt. St. Vincent,451,02/25/2012,3,0,Away,,-,37
+2012,Rutgers-Newark,589,Princeton,554,02/28/2012,1,3,Away,,1 Sets,105
+2012,Rutgers-Newark,589,SUNYIT,9500,03/03/2012,3,0,Neutral,"Hoboken, NJ",-,10
+2012,Rutgers-Newark,589,Stevens,679,03/03/2012,2,3,Away,,2 Sets,43
+2012,Rutgers-Newark,589,Saint Francis (PA),600,03/23/2012,0,3,Home,,-,84
+2012,Rutgers-Newark,589,Penn St.,539,03/24/2012,0,3,Home,,-,118
+2012,Rutgers-Newark,589,Harvard,275,03/30/2012,1,3,Away,,1 Sets,148
+2012,Rutgers-Newark,589,Sacred Heart,590,03/31/2012,1,3,Away,,1 Sets,94
+2012,Rutgers-Newark,589,Kean,329,04/03/2012,3,1,Away,,1 Sets,88
+2012,Rutgers-Newark,589,George Mason,248,04/07/2012,0,3,Home,,-,83
+2012,Rutgers-Newark,589,NJIT,471,04/11/2012,3,2,Away,,2 Sets,105
+2012,Rutgers-Newark,589,Harvard,275,04/14/2012,1,3,Home,,1 Sets,54
+2012,Rutgers-Newark,589,George Mason,248,04/20/2012,0,3,Away,,-,253
+2012,Sacred Heart,590,Ohio St.,518,01/17/2012,0,3,Away,,-,183
+2012,Sacred Heart,590,Ball St.,47,01/18/2012,0,3,Away,,-,451
+2012,Sacred Heart,590,Springfield,673,01/24/2012,2,3,Away,,2 Sets,317
+2012,Sacred Heart,590,Baruch,58,01/28/2012,3,0,Away,,-,43
+2012,Sacred Heart,590,Medaille,23725,01/28/2012,3,1,Neutral,"New York, NY",-,55
+2012,Sacred Heart,590,Lees-McRae,13302,01/29/2012,1,3,Home,,1 Sets,156
+2012,Sacred Heart,590,Rutgers-Newark,589,02/02/2012,0,3,Away,,-,60
+2012,Sacred Heart,590,Stevens,679,02/04/2012,0,3,Away,,-,79
+2012,Sacred Heart,590,Ramapo,564,02/04/2012,3,0,Neutral,"Hoboken, NJ",-,65
+2012,Sacred Heart,590,Princeton,554,02/10/2012,0,3,Home,,-,107
+2012,Sacred Heart,590,George Mason,248,02/11/2012,3,2,Home,,2 Sets,141
+2012,Sacred Heart,590,Saint Francis (PA),600,02/17/2012,0,3,Home,,-,101
+2012,Sacred Heart,590,Penn St.,539,02/18/2012,0,3,Home,,-,"1,078"
+2012,Sacred Heart,590,NJIT,471,02/21/2012,2,3,Away,,2 Sets,213
+2012,Sacred Heart,590,Harvard,275,02/25/2012,0,3,Away,,-,113
+2012,Sacred Heart,590,Princeton,554,03/02/2012,1,3,Away,,1 Sets,85
+2012,Sacred Heart,590,George Mason,248,03/03/2012,0,3,Away,,-,255
+2012,Sacred Heart,590,Lees-McRae,13302,03/06/2012,0,3,Away,,-,47
+2012,Sacred Heart,590,Limestone,1174,03/07/2012,0,3,Away,,-,75
+2012,Sacred Heart,590,Pfeiffer,542,03/08/2012,0,3,Away,,-,102
+2012,Sacred Heart,590,Harvard,275,03/24/2012,1,3,Home,,1 Sets,107
+2012,Sacred Heart,590,Limestone,1174,03/30/2012,1,3,Home,,1 Sets,89
+2012,Sacred Heart,590,Rutgers-Newark,589,03/31/2012,3,1,Home,,1 Sets,94
+2012,Sacred Heart,590,Saint Francis (PA),600,04/05/2012,0,3,Away,,-,120
+2012,Sacred Heart,590,Penn St.,539,04/06/2012,0,3,Away,,-,375
+2012,Sacred Heart,590,Juniata,325,04/07/2012,0,3,Away,,-,103
+2012,Sacred Heart,590,Stevens,679,04/11/2012,3,1,Home,,1 Sets,113
+2012,Sacred Heart,590,NJIT,471,04/21/2012,1,3,Home,,1 Sets,130
+2012,Sage Colleges,11036,Bard,962,01/26/2012,0,3,Away,,-,90
+2012,Sage Colleges,11036,Yeshiva,814,01/29/2012,3,0,Home,,-,85
+2012,Sage Colleges,11036,Mt. St. Vincent,451,01/29/2012,3,0,Home,,-,70
+2012,Sage Colleges,11036,Kean,329,01/31/2012,0,3,Home,,-,100
+2012,Sage Colleges,11036,Phila. Biblical,1305,02/04/2012,3,1,Neutral,"New Paltz, NY",1 Sets,78
+2012,Sage Colleges,11036,SUNY New Paltz,475,02/04/2012,0,3,Away,,-,70
+2012,Sage Colleges,11036,Purchase St.,30029,02/08/2012,3,0,Away,,-,21
+2012,Sage Colleges,11036,Kean,329,02/11/2012,2,3,Neutral,"Brooklyn, NY",2 Sets,40
+2012,Sage Colleges,11036,Polytechnic (NY),481,02/11/2012,3,0,Away,,-,25
+2012,Sage Colleges,11036,Polytechnic (NY),481,02/14/2012,3,0,Home,,-,100
+2012,Sage Colleges,11036,Southern Vt.,1379,02/16/2012,3,1,Away,,-,92
+2012,Sage Colleges,11036,Mt. St. Vincent,451,02/23/2012,3,0,Away,,-,27
+2012,Sage Colleges,11036,SUNYIT,9500,02/24/2012,3,0,Neutral,"Annandale, NY",-,50
+2012,Sage Colleges,11036,Lasell,8486,02/24/2012,3,1,Neutral,"Annandale, NY",-,40
+2012,Sage Colleges,11036,Bard,962,02/25/2012,3,1,Away,,-,50
+2012,Sage Colleges,11036,New Jersey City,319,02/27/2012,3,2,Home,,-,83
+2012,Sage Colleges,11036,Purchase St.,30029,03/04/2012,3,0,Neutral,"Union, NJ",-,213
+2012,Sage Colleges,11036,Ramapo,564,03/04/2012,0,3,Neutral,"Union, NY",-,50
+2012,Sage Colleges,11036,Southern Vt.,1379,03/14/2012,3,2,Home,,2 Sets,95
+2012,Sage Colleges,11036,Johnson & Wales (RI),22626,03/24/2012,3,2,Neutral,"Beverly, MA",-,57
+2012,Sage Colleges,11036,SUNY New Paltz,475,03/24/2012,0,3,Neutral,"Beverly, MA",-,50
+2012,Sage Colleges,11036,Hilbert,8398,03/25/2012,3,1,Neutral,"Beverly, MA",1 Sets,25
+2012,Sage Colleges,11036,Stevenson,21852,03/25/2012,0,3,Neutral,"Beverly, MA",-,25
+2012,Sage Colleges,11036,New Jersey City,319,04/01/2012,1,3,Neutral,"New York, NY",1 Sets,49
+2012,Sage Colleges,11036,Yeshiva,814,04/01/2012,3,0,Away,,-,100
+2012,Sage Colleges,11036,Ramapo,564,04/03/2012,0,3,Away,,-,125
+2012,Sage Colleges,11036,Kean,329,04/14/2012,1,3,Away,,1 Sets,97
+2012,Saint Francis (PA),600,Ball St.,47,01/13/2012,3,2,Home,,-,225
+2012,Saint Francis (PA),600,IPFW,308,01/14/2012,2,3,Home,,-,150
+2012,Saint Francis (PA),600,IPFW,308,01/20/2012,1,3,Away,,-,328
+2012,Saint Francis (PA),600,Ball St.,47,01/21/2012,0,3,Away,,-,501
+2012,Saint Francis (PA),600,Ohio St.,518,01/22/2012,1,3,Away,,-,338
+2012,Saint Francis (PA),600,Lewis,354,01/27/2012,0,3,Away,,-,367
+2012,Saint Francis (PA),600,Loyola Chicago,371,01/28/2012,0,3,Away,,-,278
+2012,Saint Francis (PA),600,Mount Olive,1245,02/02/2012,3,1,Home,,2 Sets,78
+2012,Saint Francis (PA),600,Juniata,325,02/03/2012,3,0,Home,,1 Sets,175
+2012,Saint Francis (PA),600,NJIT,471,02/10/2012,3,1,Home,,1 Sets,115
+2012,Saint Francis (PA),600,Rutgers-Newark,589,02/11/2012,3,0,Home,,-,118
+2012,Saint Francis (PA),600,Sacred Heart,590,02/17/2012,3,0,Away,,-,101
+2012,Saint Francis (PA),600,Harvard,275,02/18/2012,0,3,Away,,-,134
+2012,Saint Francis (PA),600,George Mason,248,02/24/2012,3,2,Home,,2 Sets,148
+2012,Saint Francis (PA),600,Princeton,554,02/25/2012,0,3,Home,,-,87
+2012,Saint Francis (PA),600,Grand Canyon,1104,02/26/2012,3,2,Home,,2 Sets,206
+2012,Saint Francis (PA),600,Ohio St.,518,03/02/2012,2,3,Home,,2 Sets,95
+2012,Saint Francis (PA),600,Mount Olive,1245,03/05/2012,2,3,Away,,2 Sets,263
+2012,Saint Francis (PA),600,Pfeiffer,542,03/06/2012,3,2,Away,,2 Sets,188
+2012,Saint Francis (PA),600,Penn St.,539,03/17/2012,0,3,Home,,-,450
+2012,Saint Francis (PA),600,Rutgers-Newark,589,03/23/2012,3,0,Away,,-,84
+2012,Saint Francis (PA),600,NJIT,471,03/24/2012,1,3,Away,,1 Sets,300
+2012,Saint Francis (PA),600,George Mason,248,03/30/2012,1,3,Away,,1 Sets,187
+2012,Saint Francis (PA),600,Princeton,554,03/31/2012,3,1,Away,,1 Sets,105
+2012,Saint Francis (PA),600,Sacred Heart,590,04/05/2012,3,0,Home,,-,120
+2012,Saint Francis (PA),600,Harvard,275,04/06/2012,1,3,Home,,1 Sets,100
+2012,Saint Francis (PA),600,Penn St.,539,04/21/2012,0,3,Away,,-,"1,203"
+2012,Sarah Lawrence,30163,Washington Adventist,1029,02/19/2012,0,3,Neutral,"Brooklyn, NY",-,50
+2012,Sarah Lawrence,30163,Medgar Evers,403,02/19/2012,3,2,Away,,-,50
+2012,Sarah Lawrence,30163,Yeshiva,814,02/21/2012,0,3,Home,,-,0
+2012,Sarah Lawrence,30163,Cooper Union,,02/23/2012,0,3,Home,,-,0
+2012,Sarah Lawrence,30163,Penn St.-Behrend,538,02/25/2012,0,3,Home,,-,0
+2012,Sarah Lawrence,30163,Medgar Evers,403,02/25/2012,3,0,Home,,-,0
+2012,Sarah Lawrence,30163,Albertus Magnus,2798,02/26/2012,0,3,Away,,-,57
+2012,Sarah Lawrence,30163,Regis (MA),569,02/26/2012,2,3,Home,,-,30
+2012,Sarah Lawrence,30163,Cooper Union,,03/03/2012,0,3,Away,,-,0
+2012,Sarah Lawrence,30163,Webb Inst.,,03/05/2012,3,2,Away,,-,0
+2012,Sarah Lawrence,30163,Mt. St. Vincent,451,03/08/2012,0,3,Home,,-,0
+2012,Sarah Lawrence,30163,St. Joseph's (Brkln),30072,03/08/2012,1,3,Home,,-,25
+2012,Sarah Lawrence,30163,St. Joseph's (Brkln),30072,03/09/2012,1,3,Away,,-,15
+2012,Sarah Lawrence,30163,Brooklyn,79,03/10/2012,0,3,Away,,-,47
+2012,Sarah Lawrence,30163,Webb Inst.,,03/12/2012,2,3,Home,,-,0
+2012,Sarah Lawrence,30163,Albertus Magnus,2798,03/12/2012,0,3,Home,,-,0
+2012,Sarah Lawrence,30163,Yeshiva,814,03/14/2012,0,3,Away,,-,50
+2012,Southern California,657,Cal Baptist,30135,01/05/2012,3,0,Away,,-,275
+2012,Southern California,657,Long Beach St.,99,01/12/2012,3,0,Home,,-,600
+2012,Southern California,657,Cal St. Northridge,101,01/13/2012,3,0,Home,,-,800
+2012,Southern California,657,BYU,77,01/20/2012,1,3,Away,,-,"5,124"
+2012,Southern California,657,BYU,77,01/21/2012,2,3,Away,,-,"4,261"
+2012,Southern California,657,UC Irvine,109,01/27/2012,1,3,Away,,1 Sets,"2,084"
+2012,Southern California,657,UC San Diego,112,01/28/2012,3,0,Away,,-,597
+2012,Southern California,657,UC Santa Barbara,104,02/01/2012,3,0,Home,,-,600
+2012,Southern California,657,UCLA,110,02/03/2012,0,3,Home,,-,"2,000"
+2012,Southern California,657,Pepperdine,541,02/10/2012,3,0,Home,,-,750
+2012,Southern California,657,Hope Int'l,,02/16/2012,3,0,Home,,-,300
+2012,Southern California,657,Pacific,534,02/24/2012,3,1,Away,,1 Sets,350
+2012,Southern California,657,Stanford,674,02/25/2012,3,2,Away,,2 Sets,"1,481"
+2012,Southern California,657,Hawaii,277,03/02/2012,3,0,Home,,-,"1,500"
+2012,Southern California,657,Hawaii,277,03/04/2012,3,2,Home,,2 Sets,750
+2012,Southern California,657,Penn St.,539,03/09/2012,3,0,Home,,-,750
+2012,Southern California,657,Pepperdine,541,03/10/2012,3,1,Away,,1 Sets,612
+2012,Southern California,657,UCLA,110,03/14/2012,3,0,Away,,-,"1,005"
+2012,Southern California,657,UC Santa Barbara,104,03/16/2012,3,0,Away,,-,380
+2012,Southern California,657,George Mason,248,03/23/2012,3,0,Home,,-,400
+2012,Southern California,657,Pacific,534,03/30/2012,3,0,Home,,-,250
+2012,Southern California,657,Stanford,674,03/31/2012,3,1,Home,,1 Sets,"1,000"
+2012,Southern California,657,UC San Diego,112,04/05/2012,3,0,Home,,-,500
+2012,Southern California,657,UC Irvine,109,04/07/2012,3,1,Home,,1 Sets,"1,500"
+2012,Southern California,657,Long Beach St.,99,04/12/2012,3,0,Away,,-,"1,267"
+2012,Southern California,657,Cal St. Northridge,101,04/14/2012,3,0,Away,,-,985
+2012,Southern California,657,Cal St. Northridge,101,04/21/2012,3,0,Home,,-,800
+2012,Southern California,657,UC Irvine,109,04/26/2012,2,3,Home,,2 Sets,"1,500"
+2012,Southern California,657,Lewis,354,05/03/2012,3,1,Home,,1 Sets,"4,375"
+2012,Southern California,657,UC Irvine,109,05/05/2012,0,3,Away,,-,"9,612"
+2012,Southern Vt.,1379,Carthage,121,01/27/2012,0,3,Neutral,"Rochester, NY",-,60
+2012,Southern Vt.,1379,Phila. Biblical,1305,01/27/2012,0,3,Neutral,"Rochester, NY",-,60
+2012,Southern Vt.,1379,Nazareth,461,01/28/2012,0,3,Away,,-,60
+2012,Southern Vt.,1379,D'Youville,1059,01/28/2012,2,3,Neutral,"Rochester, NY",-,31
+2012,Southern Vt.,1379,Regis (MA),569,02/02/2012,3,0,Home,,-,61
+2012,Southern Vt.,1379,Daniel Webster,2691,02/04/2012,3,2,Home,,-,182
+2012,Southern Vt.,1379,Newbury,21772,02/11/2012,3,1,Away,,-,35
+2012,Southern Vt.,1379,Wentworth Inst.,762,02/11/2012,3,0,Neutral,"Brookline, MA",-,38
+2012,Southern Vt.,1379,Sage Colleges,11036,02/16/2012,1,3,Home,,-,92
+2012,Southern Vt.,1379,Endicott,8981,02/18/2012,0,3,Home,,-,83
+2012,Southern Vt.,1379,Lesley,24317,02/25/2012,3,0,Home,,-,63
+2012,Southern Vt.,1379,Regis (MA),569,03/01/2012,3,0,Away,,-,48
+2012,Southern Vt.,1379,Sage Colleges,11036,03/14/2012,2,3,Away,,2 Sets,95
+2012,Southern Vt.,1379,Daniel Webster,2691,03/16/2012,1,3,Neutral,"Providence, RI",-,77
+2012,Southern Vt.,1379,SUNYIT,9500,03/16/2012,3,0,Neutral,"Providence, RI",-,77
+2012,Southern Vt.,1379,Johnson & Wales (RI),22626,03/17/2012,1,3,Away,,-,77
+2012,Southern Vt.,1379,CCNY,480,03/17/2012,3,0,Neutral,"Providence, RI",-,77
+2012,Southern Vt.,1379,Daniel Webster,2691,03/22/2012,0,3,Away,,-,89
+2012,Southern Vt.,1379,Endicott,8981,03/24/2012,0,3,Away,,-,85
+2012,Southern Vt.,1379,Vassar,737,03/24/2012,0,3,Neutral,"Beverly, MA",-,0
+2012,Southern Vt.,1379,SUNY New Paltz,475,03/25/2012,2,3,Neutral,"Beverly, MA",-,0
+2012,Southern Vt.,1379,Hunter,292,03/25/2012,0,3,Neutral,"Beverly, MA",-,53
+2012,Southern Vt.,1379,Newbury,21772,03/28/2012,3,0,Home,,-,42
+2012,Southern Vt.,1379,Elms,532,03/29/2012,2,3,Away,,-,96
+2012,Southern Vt.,1379,Lesley,24317,03/31/2012,3,0,Away,,-,44
+2012,Southern Vt.,1379,Elms,532,04/05/2012,3,2,Home,,-,61
+2012,Southern Vt.,1379,Emmanuel (MA),215,04/06/2012,0,3,Neutral,"Cambridge, MA",-,50
+2012,Southern Vt.,1379,Elmira,213,04/06/2012,0,3,Neutral,"Cambridge, MA",-,0
+2012,Southern Vt.,1379,MIT,398,04/07/2012,0,3,Away,,-,0
+2012,Southern Vt.,1379,Bard,962,04/07/2012,3,1,Neutral,"Cambridge, MA",1 Sets,0
+2012,Southern Vt.,1379,Elms,532,04/13/2012,1,3,Away,,-,95
+2012,Springfield,673,Hawaii,277,01/12/2012,0,3,Away,,-,"2,782"
+2012,Springfield,673,UCLA,110,01/13/2012,0,3,Neutral,"Honolulu, HI",-,"2,873"
+2012,Springfield,673,Lewis,354,01/14/2012,0,3,Neutral,"Honolulu, HI",-,"3,481"
+2012,Springfield,673,Sacred Heart,590,01/24/2012,3,2,Home,,2 Sets,317
+2012,Springfield,673,Endicott,8981,01/27/2012,3,0,Home,,-,400
+2012,Springfield,673,Harvard,275,01/28/2012,0,3,Away,,-,205
+2012,Springfield,673,Emmanuel (MA),215,02/01/2012,3,0,Away,,-,150
+2012,Springfield,673,Emmanuel (MA),215,02/04/2012,3,0,Home,,-,300
+2012,Springfield,673,Johnson & Wales (RI),22626,02/04/2012,3,0,Home,,-,85
+2012,Springfield,673,MIT,398,02/08/2012,3,0,Home,,-,300
+2012,Springfield,673,UC Santa Cruz,113,02/10/2012,3,1,Home,,1 Sets,800
+2012,Springfield,673,Lees-McRae,13302,02/11/2012,3,0,Home,,-,800
+2012,Springfield,673,Mt. St. Vincent,451,02/17/2012,3,0,Home,,-,100
+2012,Springfield,673,Newbury,21772,02/18/2012,3,0,Home,,-,50
+2012,Springfield,673,Hunter,292,02/18/2012,3,0,Home,,-,200
+2012,Springfield,673,Juniata,325,02/24/2012,0,3,Away,,-,689
+2012,Springfield,673,Lancaster Bible,30085,02/24/2012,3,0,Neutral,"Huntingdon, PA",-,107
+2012,Springfield,673,Nazareth,461,02/25/2012,3,1,Neutral,"Huntingdon, PA",1 Sets,87
+2012,Springfield,673,Thiel,707,02/25/2012,3,0,Neutral,"Huntingdon, PA",-,78
+2012,Springfield,673,Baruch,58,03/03/2012,3,2,Away,,-,83
+2012,Springfield,673,New York U.,479,03/07/2012,3,2,Home,,-,250
+2012,Springfield,673,Endicott,8981,03/08/2012,3,0,Away,,-,75
+2012,Springfield,673,Kean,329,03/23/2012,3,0,Home,,-,100
+2012,Springfield,673,Juniata,325,03/23/2012,3,2,Home,,2 Sets,700
+2012,Springfield,673,Baruch,58,03/24/2012,3,0,Home,,-,100
+2012,Springfield,673,Wentworth Inst.,762,03/24/2012,3,0,Home,,-,150
+2012,Springfield,673,SUNY New Paltz,475,03/30/2012,3,0,Neutral,"Poughkeepsie, NY",-,50
+2012,Springfield,673,Nazareth,461,03/30/2012,3,0,Neutral,"Poughkeepsie, NY",-,75
+2012,Springfield,673,Vassar,737,03/31/2012,3,2,Away,,2 Sets,235
+2012,Springfield,673,Johnson & Wales (RI),22626,03/31/2012,3,0,Neutral,"Poughkeepsie, NY",-,75
+2012,Springfield,673,Bard,962,04/06/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,Springfield,673,Phila. Biblical,1305,04/06/2012,3,0,Neutral,"Cambridge, Mass.",-,0
+2012,Springfield,673,Medaille,23725,04/07/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,Springfield,673,Elmira,213,04/07/2012,3,0,Neutral,"Cambridge, MA",-,0
+2012,Springfield,673,MIT,398,04/14/2012,3,1,Away,,1 Sets,0
+2012,Springfield,673,Baruch,58,04/27/2012,3,0,Home,,-,"1,200"
+2012,Springfield,673,Hunter,292,04/28/2012,3,0,Home,,-,"1,095"
+2012,Springfield,673,Carthage,121,04/29/2012,3,0,Home,,-,"1,210"
+2012,St. Joseph's (Brkln),30072,Medgar Evers,403,02/09/2012,3,1,Away,,1 Sets,50
+2012,St. Joseph's (Brkln),30072,Albertus Magnus,2798,02/11/2012,0,3,Home,,-,23
+2012,St. Joseph's (Brkln),30072,Brooklyn,79,02/11/2012,0,3,Home,,-,26
+2012,St. Joseph's (Brkln),30072,York (NY),2730,02/16/2012,0,3,Away,,-,55
+2012,St. Joseph's (Brkln),30072,Brooklyn,79,02/24/2012,0,3,Away,,-,45
+2012,St. Joseph's (Brkln),30072,Cooper Union,,02/25/2012,1,3,Away,,1 Sets,40
+2012,St. Joseph's (Brkln),30072,Medgar Evers,403,02/27/2012,3,1,Home,,-,50
+2012,St. Joseph's (Brkln),30072,Yeshiva,814,03/01/2012,0,3,Away,,-,55
+2012,St. Joseph's (Brkln),30072,Sarah Lawrence,30163,03/08/2012,3,1,Away,,-,25
+2012,St. Joseph's (Brkln),30072,Cooper Union,,03/09/2012,0,3,Home,,-,15
+2012,St. Joseph's (Brkln),30072,Sarah Lawrence,30163,03/09/2012,3,1,Home,,-,15
+2012,St. Joseph's (Brkln),30072,Lehman,279,03/10/2012,1,3,Away,,1 Sets,13
+2012,St. Joseph's (Brkln),30072,Purchase St.,30029,03/12/2012,1,3,Home,,-,34
+2012,St. Joseph's (Brkln),30072,Webb Inst.,,03/16/2012,3,1,Away,,1 Sets,10
+2012,St. Joseph's (Brkln),30072,Mt. St. Vincent,451,03/20/2012,0,3,Home,,-,7
+2012,St. Joseph's (Brkln),30072,Yeshiva,814,03/21/2012,0,3,Home,,-,15
+2012,St. Joseph's (Brkln),30072,Webb Inst.,,03/23/2012,3,1,Home,,1 Sets,15
+2012,St. Joseph's (Brkln),30072,Polytechnic (NY),481,03/27/2012,0,3,Away,,-,10
+2012,St. Joseph's (Brkln),30072,Cooper Union,,03/29/2012,0,3,Neutral,"Bronxville, NY",-,50
+2012,Stanford,674,Pacific,534,01/11/2012,3,0,Away,,-,227
+2012,Stanford,674,Juniata,325,01/13/2012,3,1,Home,,1 Sets,365
+2012,Stanford,674,Loyola Chicago,371,01/14/2012,3,0,Home,,-,417
+2012,Stanford,674,UCLA,110,01/20/2012,0,3,Away,,-,"1,064"
+2012,Stanford,674,UC Santa Barbara,104,01/21/2012,3,1,Away,,1 Sets,350
+2012,Stanford,674,Penn St.,539,01/27/2012,1,3,Neutral,"Columbus, Ohio",1 Sets,462
+2012,Stanford,674,Ohio St.,518,01/28/2012,3,2,Away,,2 Sets,959
+2012,Stanford,674,BYU,77,02/03/2012,3,1,Away,,1 Sets,"4,471"
+2012,Stanford,674,BYU,77,02/04/2012,3,0,Away,,-,"4,524"
+2012,Stanford,674,Long Beach St.,99,02/10/2012,3,2,Away,,2 Sets,"1,012"
+2012,Stanford,674,Cal St. Northridge,101,02/11/2012,3,1,Away,,1 Sets,646
+2012,Stanford,674,UC Irvine,109,02/17/2012,3,0,Away,,-,"1,317"
+2012,Stanford,674,UC San Diego,112,02/18/2012,3,1,Away,,1 Sets,466
+2012,Stanford,674,Pepperdine,541,02/24/2012,3,1,Home,,1 Sets,"1,186"
+2012,Stanford,674,Southern California,657,02/25/2012,2,3,Home,,2 Sets,"1,481"
+2012,Stanford,674,UC San Diego,112,03/02/2012,3,1,Home,,1 Sets,742
+2012,Stanford,674,UC Irvine,109,03/03/2012,1,3,Home,,1 Sets,"1,097"
+2012,Stanford,674,Hawaii,277,03/06/2012,3,1,Home,,1 Sets,401
+2012,Stanford,674,Hawaii,277,03/07/2012,1,3,Home,,1 Sets,397
+2012,Stanford,674,Pepperdine,541,03/30/2012,3,2,Away,,2 Sets,439
+2012,Stanford,674,Southern California,657,03/31/2012,1,3,Away,,1 Sets,"1,000"
+2012,Stanford,674,Pacific,534,04/03/2012,3,0,Home,,-,512
+2012,Stanford,674,Long Beach St.,99,04/06/2012,3,0,Home,,-,680
+2012,Stanford,674,Cal St. Northridge,101,04/07/2012,3,2,Home,,2 Sets,660
+2012,Stanford,674,UC Santa Barbara,104,04/13/2012,3,0,Home,,-,650
+2012,Stanford,674,UCLA,110,04/14/2012,3,0,Home,,-,"1,730"
+2012,Stanford,674,Pepperdine,541,04/21/2012,3,1,Home,,1 Sets,"1,072"
+2012,Stanford,674,BYU,77,04/26/2012,3,1,Neutral,"Los Angeles, CA",-,"1,000"
+2012,Stanford,674,UC Irvine,109,04/28/2012,2,3,Neutral,"Los Angeles, CA",2 Sets,"1,150"
+2012,Stevens,679,Vassar,737,02/01/2012,3,1,Away,,-,160
+2012,Stevens,679,Ramapo,564,02/04/2012,3,2,Home,,-,145
+2012,Stevens,679,Sacred Heart,590,02/04/2012,3,0,Home,,-,79
+2012,Stevens,679,Hilbert,8398,02/11/2012,3,0,Home,,-,54
+2012,Stevens,679,D'Youville,1059,02/11/2012,3,2,Home,,-,75
+2012,Stevens,679,Penn St.-Behrend,538,02/12/2012,3,0,Home,,-,55
+2012,Stevens,679,SUNY New Paltz,475,02/15/2012,2,3,Away,,-,120
+2012,Stevens,679,New Jersey City,319,02/18/2012,3,0,Home,,-,65
+2012,Stevens,679,Juniata,325,02/18/2012,3,2,Home,,-,150
+2012,Stevens,679,Bard,962,02/22/2012,3,0,Home,,-,30
+2012,Stevens,679,Emmanuel (MA),215,02/25/2012,1,3,Neutral,"New York, NY",-,0
+2012,Stevens,679,Rivier,18422,02/25/2012,3,1,Neutral,"New York, NY",-,64
+2012,Stevens,679,Kean,329,02/26/2012,3,0,Neutral,"New York, NY",-,100
+2012,Stevens,679,MIT,398,02/26/2012,2,3,Neutral,"New York, NY",-,42
+2012,Stevens,679,SUNYIT,9500,03/03/2012,3,0,Home,,-,10
+2012,Stevens,679,Rutgers-Newark,589,03/03/2012,3,2,Home,,2 Sets,43
+2012,Stevens,679,Elmira,213,03/10/2012,3,1,Neutral,"Rochester, NY",-,100
+2012,Stevens,679,Medaille,23725,03/10/2012,3,1,Neutral,"Rochester, NY",-,130
+2012,Stevens,679,Nazareth,461,03/11/2012,3,1,Neutral,"Rochester, NY",-,80
+2012,Stevens,679,Warner,,03/16/2012,3,1,Neutral,"Lake Wales, FL",-,65
+2012,Stevens,679,Pfeiffer,542,03/16/2012,1,3,Neutral,"Lake Wales, FL",-,65
+2012,Stevens,679,Johnson & Wales (CO),,03/17/2012,3,0,Neutral,"Tampa, FL",-,60
+2012,Stevens,679,Endicott,8981,03/17/2012,3,0,Neutral,"Tampa, FL",-,60
+2012,Stevens,679,New York U.,479,03/21/2012,2,3,Away,,-,515
+2012,Stevens,679,SUNYIT,9500,03/24/2012,3,0,Neutral,"Beverly, MA",-,20
+2012,Stevens,679,MIT,398,03/24/2012,3,0,Neutral,"Beverly, MA",-,80
+2012,Stevens,679,Johnson & Wales (RI),22626,03/25/2012,3,0,Neutral,"Beverly, MA",-,57
+2012,Stevens,679,Rivier,18422,03/25/2012,3,1,Neutral,"Beverly, MA",-,100
+2012,Stevens,679,Hunter,292,03/31/2012,2,3,Away,,-,56
+2012,Stevens,679,SUNYIT,9500,03/31/2012,3,0,Neutral,"New York, NY",-,10
+2012,Stevens,679,Phila. Biblical,1305,04/04/2012,3,0,Home,,-,35
+2012,Stevens,679,Sacred Heart,590,04/11/2012,1,3,Away,,1 Sets,113
+2012,Stevens,679,SUNY New Paltz,475,04/14/2012,3,1,Neutral,"New York, NY",1 Sets,303
+2012,Stevens,679,Medaille,23725,04/14/2012,3,1,Home,,1 Sets,91
+2012,Stevens,679,Nazareth,461,04/15/2012,2,3,Neutral,"New York, NY",2 Sets,106
+2012,Stevens,679,Baruch,58,04/18/2012,3,0,Home,,-,95
+2012,Stevenson,21852,Lehman,279,01/28/2012,3,1,Away,,-,37
+2012,Stevenson,21852,Baruch,58,01/29/2012,1,3,Away,,-,41
+2012,Stevenson,21852,Medaille,23725,01/29/2012,0,3,Neutral,"New York, NY",-,33
+2012,Stevenson,21852,Medaille,23725,02/04/2012,2,3,Neutral,"Greenville, PA",-,31
+2012,Stevenson,21852,Fontbonne,11538,02/04/2012,3,1,Neutral,"Greenville, PA",-,0
+2012,Stevenson,21852,Nazareth,461,02/05/2012,0,3,Neutral,"Greenville, PA",-,17
+2012,Stevenson,21852,Elmira,213,02/05/2012,3,1,Neutral,"Greenville, PA",-,24
+2012,Stevenson,21852,MIT,398,02/11/2012,0,3,Away,,-,71
+2012,Stevenson,21852,Rivier,18422,02/11/2012,1,3,Neutral,"Cambridge, MA",-,100
+2012,Stevenson,21852,Endicott,8981,02/12/2012,3,2,Neutral,"Cambridge, MA",-,100
+2012,Stevenson,21852,Johnson & Wales (RI),22626,02/12/2012,3,0,Neutral,"Cambridge, MA",-,75
+2012,Stevenson,21852,Lancaster Bible,30085,02/21/2012,3,0,Away,,-,119
+2012,Stevenson,21852,East. Mennonite,203,02/29/2012,3,0,Away,,-,211
+2012,Stevenson,21852,Thiel,707,03/03/2012,2,3,Home,,-,213
+2012,Stevenson,21852,Juniata,325,03/03/2012,0,3,Home,,-,209
+2012,Stevenson,21852,Phila. Biblical,1305,03/07/2012,3,0,Away,,-,75
+2012,Stevenson,21852,New Jersey City,319,03/09/2012,3,0,Home,,-,52
+2012,Stevenson,21852,Kean,329,03/10/2012,2,3,Home,,2 Sets,94
+2012,Stevenson,21852,Lancaster Bible,30085,03/10/2012,3,0,Home,,-,76
+2012,Stevenson,21852,Endicott,8981,03/24/2012,3,2,Away,,-,150
+2012,Stevenson,21852,Vassar,737,03/24/2012,3,2,Neutral,"Beverly, MA",-,50
+2012,Stevenson,21852,SUNY New Paltz,475,03/25/2012,3,0,Neutral,"Beverly, MA",-,50
+2012,Stevenson,21852,Sage Colleges,11036,03/25/2012,3,0,Neutral,"Beverly, MA",-,25
+2012,Stevenson,21852,Phila. Biblical,1305,03/27/2012,3,0,Home,,-,123
+2012,Stevenson,21852,Juniata,325,03/30/2012,0,3,Away,,-,307
+2012,Stevenson,21852,Thiel,707,03/31/2012,3,2,Neutral,"Huntingdon, PA",-,107
+2012,Stevenson,21852,D'Youville,1059,04/02/2012,3,0,Home,,-,112
+2012,Stevenson,21852,Washington Adventist,1029,04/02/2012,3,0,Home,,-,101
+2012,Stevenson,21852,East. Mennonite,203,04/04/2012,3,0,Home,,-,145
+2012,Stevenson,21852,D'Youville,1059,04/05/2012,2,3,Home,,2 Sets,94
+2012,Stevenson,21852,Milwaukee Engr.,20220,04/13/2012,3,0,Home,,-,59
+2012,Stevenson,21852,Carthage,121,04/14/2012,0,3,Away,,-,47
+2012,Stevenson,21852,Medaille,23725,04/21/2012,1,3,Home,,-,76
+2012,SUNY New Paltz,475,Hunter,292,01/17/2012,3,0,Away,,-,72
+2012,SUNY New Paltz,475,Juniata,325,01/21/2012,0,3,Neutral,"Elmira, NY",-,35
+2012,SUNY New Paltz,475,Thiel,707,01/21/2012,3,2,Neutral,"Elmira, NY",-,65
+2012,SUNY New Paltz,475,CCNY,480,01/22/2012,3,0,Neutral,"Elmira, NY",-,30
+2012,SUNY New Paltz,475,Elmira,213,01/22/2012,3,0,Away,,-,55
+2012,SUNY New Paltz,475,Bard,962,02/01/2012,3,0,Away,,-,90
+2012,SUNY New Paltz,475,Sage Colleges,11036,02/04/2012,3,0,Home,,-,70
+2012,SUNY New Paltz,475,Phila. Biblical,1305,02/04/2012,3,0,Home,,-,78
+2012,SUNY New Paltz,475,Penn St.-Behrend,538,02/11/2012,3,2,Neutral,"Hoboken, NJ",-,56
+2012,SUNY New Paltz,475,D'Youville,1059,02/12/2012,3,1,Neutral,"Hoboken, NJ",-,47
+2012,SUNY New Paltz,475,Nazareth,461,02/12/2012,0,3,Neutral,"Hoboken, NJ",-,42
+2012,SUNY New Paltz,475,Stevens,679,02/15/2012,3,2,Home,,-,120
+2012,SUNY New Paltz,475,SUNYIT,9500,02/22/2012,3,0,Away,,-,55
+2012,SUNY New Paltz,475,Medaille,23725,03/10/2012,0,3,Neutral,"Rochester, NY",-,89
+2012,SUNY New Paltz,475,Hilbert,8398,03/10/2012,3,0,Neutral,"Rochester, NY",-,89
+2012,SUNY New Paltz,475,Elmira,213,03/11/2012,0,3,Neutral,"Rochester, NY",-,0
+2012,SUNY New Paltz,475,Baruch,58,03/14/2012,0,3,Away,,-,74
+2012,SUNY New Paltz,475,Vassar,737,03/21/2012,0,3,Away,,-,155
+2012,SUNY New Paltz,475,Rivier,18422,03/24/2012,1,3,Neutral,"Beverly, MA",-,100
+2012,SUNY New Paltz,475,Sage Colleges,11036,03/24/2012,3,0,Neutral,"Beverly, MA",-,50
+2012,SUNY New Paltz,475,Stevenson,21852,03/25/2012,0,3,Neutral,"Beverly, MA",-,50
+2012,SUNY New Paltz,475,Southern Vt.,1379,03/25/2012,3,2,Neutral,"Beverly, MA",-,0
+2012,SUNY New Paltz,475,New York U.,479,03/28/2012,2,3,Home,,2 Sets,75
+2012,SUNY New Paltz,475,Springfield,673,03/30/2012,0,3,Neutral,"Poughkeepsie, NY",-,50
+2012,SUNY New Paltz,475,Newbury,21772,03/30/2012,3,0,Neutral,"Poughkeepsie, NY",-,75
+2012,SUNY New Paltz,475,Baruch,58,03/31/2012,3,1,Neutral,"Poughkeepsie, NY",1 Sets,150
+2012,SUNY New Paltz,475,Lancaster Bible,30085,03/31/2012,3,0,Neutral,"Poughkeepsie, NY",-,75
+2012,SUNY New Paltz,475,New Jersey City,319,04/05/2012,3,0,Home,,-,77
+2012,SUNY New Paltz,475,Ramapo,564,04/11/2012,3,2,Away,,-,100
+2012,SUNY New Paltz,475,Stevens,679,04/14/2012,1,3,Neutral,"New York, NY",1 Sets,303
+2012,SUNY Poly,9500,Elms,532,01/28/2012,1,3,Home,,-,35
+2012,SUNY Poly,9500,Lancaster Bible,30085,01/28/2012,1,3,Home,,-,35
+2012,SUNY Poly,9500,Bard,962,01/29/2012,0,3,Home,,-,0
+2012,SUNY Poly,9500,Kean,329,02/04/2012,0,3,Neutral,"New York, NY",-,55
+2012,SUNY Poly,9500,New York U.,479,02/04/2012,0,3,Away,,-,66
+2012,SUNY Poly,9500,Wells,761,02/08/2012,3,0,Home,,-,45
+2012,SUNY Poly,9500,Elmira,213,02/11/2012,0,3,Neutral,"Hoboken, NJ",-,43
+2012,SUNY Poly,9500,Hilbert,8398,02/11/2012,2,3,Neutral,"Hoboken, NJ",-,54
+2012,SUNY Poly,9500,Medaille,23725,02/12/2012,0,3,Neutral,"Hoboken, NJ",-,0
+2012,SUNY Poly,9500,Vassar,737,02/15/2012,0,3,Home,,-,101
+2012,SUNY Poly,9500,SUNY New Paltz,475,02/22/2012,0,3,Home,,-,55
+2012,SUNY Poly,9500,Sage Colleges,11036,02/24/2012,0,3,Neutral,"Annandale, NY",-,50
+2012,SUNY Poly,9500,Lasell,8486,02/24/2012,0,3,Neutral,"Annandale, NY",-,40
+2012,SUNY Poly,9500,Mount Ida,27901,02/25/2012,3,1,Neutral,"Annandale, NY",-,40
+2012,SUNY Poly,9500,Stevens,679,03/03/2012,0,3,Away,,-,10
+2012,SUNY Poly,9500,Rutgers-Newark,589,03/03/2012,0,3,Neutral,"Hoboken, NJ",-,10
+2012,SUNY Poly,9500,D'Youville,1059,03/10/2012,0,3,Neutral,"Rochester, NY",-,50
+2012,SUNY Poly,9500,Penn St.-Behrend,538,03/10/2012,0,3,Neutral,"Rochester, NY",-,50
+2012,SUNY Poly,9500,Nazareth,461,03/11/2012,0,3,Away,,-,80
+2012,SUNY Poly,9500,Lasell,8486,03/16/2012,0,3,Neutral,"Providence, RI",-,77
+2012,SUNY Poly,9500,Southern Vt.,1379,03/16/2012,0,3,Neutral,"Providence, RI",-,77
+2012,SUNY Poly,9500,Daniel Webster,2691,03/17/2012,1,3,Neutral,"Providence, RI",-,77
+2012,SUNY Poly,9500,Johnson & Wales (RI),22626,03/17/2012,0,3,Away,,-,77
+2012,SUNY Poly,9500,Bard,962,03/21/2012,1,3,Home,,-,39
+2012,SUNY Poly,9500,Stevens,679,03/24/2012,0,3,Neutral,"Beverly, MA",-,20
+2012,SUNY Poly,9500,New Jersey City,319,03/24/2012,0,3,Neutral,"Beverly, MA",-,64
+2012,SUNY Poly,9500,Hunter,292,03/25/2012,0,3,Home,,-,53
+2012,SUNY Poly,9500,Endicott,8981,03/25/2012,0,3,Away,,-,95
+2012,SUNY Poly,9500,Wells,761,03/28/2012,3,1,Away,,-,27
+2012,SUNY Poly,9500,Stevens,679,03/31/2012,0,3,Neutral,"New York, NY",-,10
+2012,SUNY Poly,9500,Hunter,292,03/31/2012,1,3,Away,,-,45
+2012,Thiel,707,SUNY New Paltz,475,01/21/2012,2,3,Neutral,"Elmira, NY",-,65
+2012,Thiel,707,Elmira,213,01/21/2012,1,3,Away,,-,100
+2012,Thiel,707,CCNY,480,01/22/2012,3,0,Neutral,"Elmira, NY",-,20
+2012,Thiel,707,Hilbert,8398,01/22/2012,3,0,Neutral,"Elmira, NY",-,20
+2012,Thiel,707,Penn St.-Behrend,538,01/25/2012,3,1,Away,,-,150
+2012,Thiel,707,Hilbert,8398,01/28/2012,3,0,Away,,-,50
+2012,Thiel,707,Fontbonne,11538,02/03/2012,3,0,Neutral,"Greenville, PA",-,0
+2012,Thiel,707,Mt. St. Joseph,8567,02/03/2012,3,0,Home,,-,89
+2012,Thiel,707,Elmira,213,02/04/2012,2,3,Home,,-,0
+2012,Thiel,707,Nazareth,461,02/04/2012,1,3,Home,,-,0
+2012,Thiel,707,Siena Heights,,02/12/2012,2,3,Home,,-,37
+2012,Thiel,707,Wells,761,02/12/2012,3,0,Home,,-,37
+2012,Thiel,707,Penn St.-Behrend,538,02/14/2012,3,0,Home,,-,117
+2012,Thiel,707,D'Youville,1059,02/17/2012,3,0,Away,,-,25
+2012,Thiel,707,Nazareth,461,02/24/2012,0,3,Neutral,"Huntingdon, PA",-,89
+2012,Thiel,707,Springfield,673,02/25/2012,0,3,Neutral,"Huntingdon, PA",-,78
+2012,Thiel,707,Lancaster Bible,30085,02/25/2012,3,0,Neutral,"Huntingdon, PA",-,90
+2012,Thiel,707,Juniata,325,02/29/2012,0,3,Away,,-,176
+2012,Thiel,707,East. Mennonite,203,03/02/2012,3,0,Neutral,"Stevenson, MD",-,49
+2012,Thiel,707,Phila. Biblical,1305,03/03/2012,1,3,Away,,-,53
+2012,Thiel,707,Stevenson,21852,03/03/2012,3,2,Away,,-,213
+2012,Thiel,707,Fontbonne,11538,03/09/2012,3,0,Away,,-,0
+2012,Thiel,707,MIT,398,03/09/2012,0,3,Neutral,"St. Louis, MO",-,0
+2012,Thiel,707,Carthage,121,03/10/2012,0,3,Neutral,"St. Louis, MO",-,50
+2012,Thiel,707,Milwaukee Engr.,20220,03/10/2012,1,3,Neutral,"St. Louis, MO",-,0
+2012,Thiel,707,Elmira,213,03/17/2012,2,3,Neutral,"Kenosha, WI",-,40
+2012,Thiel,707,Rust,586,03/17/2012,3,0,Neutral,"Kenosha, WI",-,40
+2012,Thiel,707,Fontbonne,11538,03/18/2012,3,0,Neutral,"Milwaukee, WI",-,6
+2012,Thiel,707,Milwaukee Engr.,20220,03/18/2012,0,3,Away,,-,43
+2012,Thiel,707,Juniata,325,03/28/2012,0,3,Home,,-,197
+2012,Thiel,707,East. Mennonite,203,03/30/2012,1,3,Home,,-,180
+2012,Thiel,707,Phila. Biblical,1305,03/31/2012,3,1,Neutral,"Huntingdon, PA",-,49
+2012,Thiel,707,Stevenson,21852,03/31/2012,2,3,Neutral,"Huntingdon, PA",-,107
+2012,Thiel,707,UC Santa Cruz,113,04/13/2012,0,3,Away,,-,79
+2012,UC Irvine,109,Cal Baptist,30135,01/04/2012,3,0,Home,,-,334
+2012,UC Irvine,109,BYU,77,01/06/2012,3,1,Neutral,"Santa Barbara, CA",-,275
+2012,UC Irvine,109,Long Beach St.,99,01/06/2012,3,2,Neutral,"Santa Barbara, Calif",-,320
+2012,UC Irvine,109,UCLA,110,01/07/2012,3,1,Neutral,"Santa Barbara, Calif",-,360
+2012,UC Irvine,109,BYU,77,01/13/2012,0,3,Home,,-,"2,741"
+2012,UC Irvine,109,BYU,77,01/14/2012,2,3,Home,,-,"2,889"
+2012,UC Irvine,109,UC San Diego,112,01/21/2012,3,0,Home,,-,471
+2012,UC Irvine,109,Pepperdine,541,01/25/2012,3,1,Home,,1 Sets,536
+2012,UC Irvine,109,Southern California,657,01/27/2012,3,1,Home,,1 Sets,"2,084"
+2012,UC Irvine,109,Hawaii,277,02/10/2012,3,1,Away,,1 Sets,"2,974"
+2012,UC Irvine,109,Hawaii,277,02/12/2012,3,0,Away,,-,"2,636"
+2012,UC Irvine,109,Stanford,674,02/17/2012,0,3,Home,,-,"1,317"
+2012,UC Irvine,109,Pacific,534,02/18/2012,3,0,Home,,-,309
+2012,UC Irvine,109,Cal St. Northridge,101,02/22/2012,3,0,Home,,-,439
+2012,UC Irvine,109,Long Beach St.,99,02/24/2012,3,0,Home,,-,"1,617"
+2012,UC Irvine,109,Pacific,534,03/02/2012,3,1,Away,,1 Sets,240
+2012,UC Irvine,109,Stanford,674,03/03/2012,3,1,Away,,1 Sets,"1,097"
+2012,UC Irvine,109,UC Santa Barbara,104,03/07/2012,3,0,Away,,-,220
+2012,UC Irvine,109,UCLA,110,03/10/2012,3,2,Away,,2 Sets,"1,503"
+2012,UC Irvine,109,Cal St. Northridge,101,03/14/2012,3,0,Away,,-,338
+2012,UC Irvine,109,Long Beach St.,99,03/17/2012,3,0,Away,,-,"1,084"
+2012,UC Irvine,109,UC Santa Barbara,104,03/30/2012,3,0,Home,,-,546
+2012,UC Irvine,109,UCLA,110,03/31/2012,0,3,Home,,-,762
+2012,UC Irvine,109,Pepperdine,541,04/05/2012,3,2,Away,,2 Sets,381
+2012,UC Irvine,109,Southern California,657,04/07/2012,1,3,Away,,1 Sets,"1,500"
+2012,UC Irvine,109,UC San Diego,112,04/14/2012,3,0,Away,,-,420
+2012,UC Irvine,109,UCLA,110,04/21/2012,3,1,Home,,1 Sets,"1,864"
+2012,UC Irvine,109,Southern California,657,04/26/2012,3,2,Away,,2 Sets,"1,500"
+2012,UC Irvine,109,Stanford,674,04/28/2012,3,2,Neutral,"Los Angeles, CA",2 Sets,"1,150"
+2012,UC Irvine,109,Penn St.,539,05/03/2012,3,1,Neutral,"Los Angeles, CA",1 Sets,"2,750"
+2012,UC Irvine,109,Southern California,657,05/05/2012,3,0,Home,,-,"9,612"
+2012,UC San Diego,112,Hawaii,277,01/05/2012,0,3,Away,,-,"2,796"
+2012,UC San Diego,112,Hawaii,277,01/06/2012,3,0,Away,,-,"2,832"
+2012,UC San Diego,112,Loyola Chicago,371,01/11/2012,0,3,Home,,-,157
+2012,UC San Diego,112,NJIT,471,01/14/2012,3,2,Neutral,"Phoenix, AZ",2 Sets,48
+2012,UC San Diego,112,Grand Canyon,1104,01/15/2012,0,3,Away,,-,135
+2012,UC San Diego,112,UC Irvine,109,01/21/2012,0,3,Away,,-,471
+2012,UC San Diego,112,Pepperdine,541,01/27/2012,2,3,Home,,2 Sets,564
+2012,UC San Diego,112,Southern California,657,01/28/2012,0,3,Home,,-,597
+2012,UC San Diego,112,Princeton,554,02/01/2012,2,3,Home,,2 Sets,103
+2012,UC San Diego,112,Hope Int'l,,02/03/2012,3,2,Away,,2 Sets,129
+2012,UC San Diego,112,BYU,77,02/09/2012,0,3,Home,,-,512
+2012,UC San Diego,112,BYU,77,02/11/2012,2,3,Home,,2 Sets,305
+2012,UC San Diego,112,Pacific,534,02/17/2012,0,3,Home,,-,278
+2012,UC San Diego,112,Stanford,674,02/18/2012,1,3,Home,,1 Sets,466
+2012,UC San Diego,112,Cal St. Northridge,101,02/24/2012,0,3,Home,,-,255
+2012,UC San Diego,112,Long Beach St.,99,02/25/2012,1,3,Home,,1 Sets,419
+2012,UC San Diego,112,Stanford,674,03/02/2012,1,3,Away,,1 Sets,742
+2012,UC San Diego,112,Pacific,534,03/03/2012,0,3,Away,,-,420
+2012,UC San Diego,112,UCLA,110,03/08/2012,0,3,Away,,-,801
+2012,UC San Diego,112,UC Santa Barbara,104,03/09/2012,3,1,Away,,1 Sets,310
+2012,UC San Diego,112,Long Beach St.,99,03/15/2012,3,2,Away,,2 Sets,556
+2012,UC San Diego,112,Cal St. Northridge,101,03/16/2012,3,1,Away,,1 Sets,422
+2012,UC San Diego,112,UCLA,110,03/30/2012,3,1,Home,,1 Sets,626
+2012,UC San Diego,112,UC Santa Barbara,104,03/31/2012,3,0,Home,,-,235
+2012,UC San Diego,112,Southern California,657,04/05/2012,0,3,Away,,-,500
+2012,UC San Diego,112,Pepperdine,541,04/07/2012,0,3,Away,,-,343
+2012,UC San Diego,112,Cal Baptist,30135,04/12/2012,3,2,Home,,2 Sets,111
+2012,UC San Diego,112,UC Irvine,109,04/14/2012,0,3,Home,,-,420
+2012,UC Santa Barbara,104,Ohio St.,518,01/06/2012,2,3,Home,,-,275
+2012,UC Santa Barbara,104,Cal St. Northridge,101,01/06/2012,3,1,Home,,-,320
+2012,UC Santa Barbara,104,BYU,77,01/07/2012,0,3,Home,,-,320
+2012,UC Santa Barbara,104,Cal Baptist,30135,01/11/2012,3,0,Home,,-,150
+2012,UC Santa Barbara,104,Pacific,534,01/20/2012,1,3,Home,,1 Sets,328
+2012,UC Santa Barbara,104,Stanford,674,01/21/2012,1,3,Home,,1 Sets,350
+2012,UC Santa Barbara,104,UCLA,110,01/27/2012,0,3,Away,,-,860
+2012,UC Santa Barbara,104,Southern California,657,02/01/2012,0,3,Away,,-,600
+2012,UC Santa Barbara,104,Pepperdine,541,02/03/2012,3,1,Away,,1 Sets,701
+2012,UC Santa Barbara,104,UCLA,110,02/10/2012,1,3,Home,,1 Sets,615
+2012,UC Santa Barbara,104,Cal St. Northridge,101,02/15/2012,3,0,Home,,-,150
+2012,UC Santa Barbara,104,Long Beach St.,99,02/17/2012,1,3,Away,,1 Sets,"1,007"
+2012,UC Santa Barbara,104,BYU,77,02/24/2012,1,3,Away,,1 Sets,"2,254"
+2012,UC Santa Barbara,104,BYU,77,02/25/2012,3,2,Away,,2 Sets,"2,605"
+2012,UC Santa Barbara,104,Cal St. Northridge,101,02/29/2012,2,3,Away,,2 Sets,489
+2012,UC Santa Barbara,104,Long Beach St.,99,03/02/2012,2,3,Home,,2 Sets,225
+2012,UC Santa Barbara,104,UC Irvine,109,03/07/2012,0,3,Home,,-,220
+2012,UC Santa Barbara,104,UC San Diego,112,03/09/2012,1,3,Home,,1 Sets,310
+2012,UC Santa Barbara,104,Pepperdine,541,03/14/2012,0,3,Home,,-,205
+2012,UC Santa Barbara,104,Southern California,657,03/16/2012,0,3,Home,,-,380
+2012,UC Santa Barbara,104,UC Irvine,109,03/30/2012,0,3,Away,,-,546
+2012,UC Santa Barbara,104,UC San Diego,112,03/31/2012,0,3,Away,,-,235
+2012,UC Santa Barbara,104,Hawaii,277,04/06/2012,3,0,Home,,-,346
+2012,UC Santa Barbara,104,Hawaii,277,04/07/2012,3,1,Home,,1 Sets,350
+2012,UC Santa Barbara,104,Stanford,674,04/13/2012,0,3,Away,,-,650
+2012,UC Santa Barbara,104,Pacific,534,04/14/2012,2,3,Away,,2 Sets,214
+2012,UC Santa Cruz,113,Grand Canyon,1104,01/09/2012,1,3,Home,,-,100
+2012,UC Santa Cruz,113,Juniata,325,01/14/2012,3,0,Home,,-,150
+2012,UC Santa Cruz,113,Holy Names,,01/25/2012,3,1,Home,,-,75
+2012,UC Santa Cruz,113,Holy Names,,02/04/2012,3,1,Away,,-,0
+2012,UC Santa Cruz,113,Springfield,673,02/10/2012,1,3,Away,,-,800
+2012,UC Santa Cruz,113,Cal Baptist,30135,02/11/2012,0,3,Neutral,"Springfield, Mass.",-,200
+2012,UC Santa Cruz,113,Johnson & Wales (CO),,02/17/2012,3,0,Neutral,"Fullerton, CA",-,42
+2012,UC Santa Cruz,113,Hope Int'l,,02/18/2012,0,3,Away,,-,68
+2012,UC Santa Cruz,113,Fontbonne,11538,03/01/2012,3,0,Away,,-,0
+2012,UC Santa Cruz,113,Milwaukee Engr.,20220,03/02/2012,3,0,Neutral,"St. Louis, MO",-,0
+2012,UC Santa Cruz,113,Mt. St. Joseph,8567,03/03/2012,3,0,Neutral,"St. Louis, MO",-,50
+2012,UC Santa Cruz,113,Carthage,121,03/03/2012,3,1,Neutral,"St. Louis, MO",-,50
+2012,UC Santa Cruz,113,Hope Int'l,,03/09/2012,3,0,Home,,-,230
+2012,UC Santa Cruz,113,Holy Names,,03/14/2012,3,1,Away,,-,0
+2012,UC Santa Cruz,113,Pacific,534,03/23/2012,0,3,Away,,-,203
+2012,UC Santa Cruz,113,Milwaukee Engr.,20220,03/29/2012,3,2,Away,,-,82
+2012,UC Santa Cruz,113,Fontbonne,11538,03/30/2012,3,0,Neutral,"Milwaukee, WI",-,30
+2012,UC Santa Cruz,113,Carthage,121,03/31/2012,1,3,Neutral,"Milwaukee, WI",-,89
+2012,UC Santa Cruz,113,Mt. St. Joseph,8567,03/31/2012,3,1,Neutral,"Milwaukee, WI",-,34
+2012,UC Santa Cruz,113,Thiel,707,04/13/2012,3,0,Home,,-,79
+2012,UC Santa Cruz,113,Juniata,325,04/14/2012,3,2,Away,,-,107
+2012,UC Santa Cruz,113,Carthage,121,04/14/2012,3,0,Away,,-,43
+2012,UC Santa Cruz,113,Rivier,18422,04/27/2012,3,2,Neutral,"Springfield, MA",-,600
+2012,UC Santa Cruz,113,Carthage,121,04/28/2012,1,3,Neutral,"Springfield, MA",-,400
+2012,UCLA,110,Ohio St.,518,01/06/2012,3,0,Neutral,UC Santa Barbara,-,350
+2012,UCLA,110,Cal St. Northridge,101,01/06/2012,3,1,Neutral,"Santa Barbara, Calif",-,50
+2012,UCLA,110,UC Irvine,109,01/07/2012,1,3,Neutral,"Santa Barbara, Calif",-,360
+2012,UCLA,110,Lewis,354,01/12/2012,3,1,Neutral,"Honolulu, HI",-,"2,782"
+2012,UCLA,110,Springfield,673,01/13/2012,3,0,Neutral,"Honolulu, HI",-,"2,873"
+2012,UCLA,110,Hawaii,277,01/14/2012,3,0,Away,,-,"3,481"
+2012,UCLA,110,Stanford,674,01/20/2012,3,0,Home,,-,"1,064"
+2012,UCLA,110,Pacific,534,01/21/2012,3,0,Home,,-,418
+2012,UCLA,110,Cal St. Northridge,101,01/25/2012,3,0,Home,,-,403
+2012,UCLA,110,UC Santa Barbara,104,01/27/2012,3,0,Home,,-,860
+2012,UCLA,110,Pepperdine,541,02/01/2012,3,2,Away,,2 Sets,826
+2012,UCLA,110,Southern California,657,02/03/2012,3,0,Away,,-,"2,000"
+2012,UCLA,110,UC Santa Barbara,104,02/10/2012,3,1,Away,,1 Sets,615
+2012,UCLA,110,Long Beach St.,99,02/14/2012,2,3,Away,,2 Sets,782
+2012,UCLA,110,Hawaii,277,02/17/2012,3,0,Away,,-,"2,856"
+2012,UCLA,110,Hawaii,277,02/18/2012,3,0,Away,,-,"2,922"
+2012,UCLA,110,Cal Baptist,30135,02/24/2012,3,0,Home,,-,716
+2012,UCLA,110,Long Beach St.,99,02/29/2012,3,0,Home,,-,850
+2012,UCLA,110,Cal St. Northridge,101,03/02/2012,3,0,Away,,-,721
+2012,UCLA,110,UC San Diego,112,03/08/2012,3,0,Home,,-,801
+2012,UCLA,110,UC Irvine,109,03/10/2012,2,3,Home,,2 Sets,"1,503"
+2012,UCLA,110,Southern California,657,03/14/2012,0,3,Home,,-,"1,005"
+2012,UCLA,110,Pepperdine,541,03/16/2012,3,0,Home,,-,622
+2012,UCLA,110,UC San Diego,112,03/30/2012,1,3,Away,,1 Sets,626
+2012,UCLA,110,UC Irvine,109,03/31/2012,3,0,Away,,-,762
+2012,UCLA,110,BYU,77,04/06/2012,2,3,Home,,2 Sets,"1,357"
+2012,UCLA,110,BYU,77,04/07/2012,3,0,Home,,-,"1,802"
+2012,UCLA,110,Pacific,534,04/13/2012,3,1,Away,,1 Sets,205
+2012,UCLA,110,Stanford,674,04/14/2012,0,3,Away,,-,"1,730"
+2012,UCLA,110,UC Irvine,109,04/21/2012,1,3,Away,,1 Sets,"1,864"
+2012,Vassar,737,Phila. Biblical,1305,01/21/2012,3,0,Neutral,"Mahwah, NJ",-,50
+2012,Vassar,737,Ramapo,564,01/21/2012,1,3,Away,,-,100
+2012,Vassar,737,New York U.,479,01/25/2012,3,0,Home,,-,140
+2012,Vassar,737,Stevens,679,02/01/2012,1,3,Home,,-,160
+2012,Vassar,737,Medaille,23725,02/11/2012,3,0,Neutral,"Hoboken, NJ",-,58
+2012,Vassar,737,Nazareth,461,02/11/2012,2,3,Neutral,"Hoboken, NJ",-,54
+2012,Vassar,737,Elmira,213,02/12/2012,2,3,Neutral,"Hoboken, NJ",-,37
+2012,Vassar,737,SUNYIT,9500,02/15/2012,3,0,Away,,-,101
+2012,Vassar,737,New York U.,479,02/22/2012,2,3,Away,,-,203
+2012,Vassar,737,Wentworth Inst.,762,02/25/2012,3,0,Home,,-,100
+2012,Vassar,737,CCNY,480,02/25/2012,3,0,Home,,-,80
+2012,Vassar,737,Hunter,292,03/06/2012,1,3,Away,,-,66
+2012,Vassar,737,Hilbert,8398,03/10/2012,3,0,Neutral,"Rochester, NY",-,89
+2012,Vassar,737,D'Youville,1059,03/11/2012,3,0,Neutral,"Rochester, NY",-,65
+2012,Vassar,737,Penn St.-Behrend,538,03/11/2012,3,0,Neutral,"Rochester, NY",-,0
+2012,Vassar,737,Rivier,18422,03/17/2012,1,3,Neutral,"Jersey City, NJ",-,61
+2012,Vassar,737,New Jersey City,319,03/17/2012,3,1,Away,,-,61
+2012,Vassar,737,SUNY New Paltz,475,03/21/2012,3,0,Home,,-,155
+2012,Vassar,737,Stevenson,21852,03/24/2012,2,3,Neutral,"Beverly, MA",-,50
+2012,Vassar,737,Southern Vt.,1379,03/24/2012,3,0,Neutral,"Beverly, MA",-,0
+2012,Vassar,737,Endicott,8981,03/25/2012,3,1,Away,,1 Sets,100
+2012,Vassar,737,MIT,398,03/25/2012,3,0,Neutral,"Beverly, MA",-,0
+2012,Vassar,737,Bard,962,03/28/2012,3,0,Away,,-,125
+2012,Vassar,737,Johnson & Wales (RI),22626,03/30/2012,3,0,Home,,-,150
+2012,Vassar,737,Baruch,58,03/30/2012,3,1,Home,,-,100
+2012,Vassar,737,Springfield,673,03/31/2012,2,3,Home,,2 Sets,235
+2012,Vassar,737,Newbury,21772,03/31/2012,3,1,Home,,-,120
+2012,Vassar,737,Mt. St. Vincent,451,04/04/2012,3,1,Home,,-,175
+2012,Vassar,737,Princeton,554,04/07/2012,0,3,Away,,-,85
+2012,Vassar,737,Nazareth,461,04/14/2012,0,3,Neutral,"New York, NY",-,110
+2012,Washington Adventist,1029,Lancaster Bible,30085,02/06/2012,0,3,Away,,-,162
+2012,Washington Adventist,1029,CCNY,480,02/12/2012,0,3,Away,,-,50
+2012,Washington Adventist,1029,Medgar Evers,403,02/19/2012,3,0,Away,,-,50
+2012,Washington Adventist,1029,Sarah Lawrence,30163,02/19/2012,3,0,Neutral,"Brooklyn, NY",-,50
+2012,Washington Adventist,1029,Yeshiva,814,02/26/2012,0,3,Away,,-,50
+2012,Washington Adventist,1029,Cooper Union,,02/26/2012,0,0,Neutral,"New York, NY",-,0
+2012,Washington Adventist,1029,King (TN),30051,03/29/2012,0,3,Away,,-,53
+2012,Washington Adventist,1029,Lees-McRae,13302,03/30/2012,0,3,Away,,-,103
+2012,Washington Adventist,1029,D'Youville,1059,04/02/2012,0,3,Neutral,"Owings Mills, Md.",-,94
+2012,Washington Adventist,1029,Stevenson,21852,04/02/2012,0,3,Away,,-,101
+2012,Wells,761,SUNYIT,9500,02/08/2012,0,3,Away,,-,45
+2012,Wells,761,Siena Heights,,02/12/2012,0,3,Neutral,"Greenville, PA",-,23
+2012,Wells,761,Thiel,707,02/12/2012,0,3,Away,,-,37
+2012,Wells,761,Phila. Biblical,1305,02/18/2012,0,3,Away,,-,70
+2012,Wells,761,Hilbert,8398,02/25/2012,0,3,Away,,-,100
+2012,Wells,761,D'Youville,1059,02/25/2012,0,3,Neutral,"Hamburg, NY",-,15
+2012,Wells,761,Lancaster Bible,30085,03/03/2012,0,3,Home,,-,123
+2012,Wells,761,Hilbert,8398,03/03/2012,0,3,Home,,-,45
+2012,Wells,761,Medgar Evers,403,03/09/2012,3,1,Neutral,"Jamaica, NY",-,0
+2012,Wells,761,York (NY),2730,03/10/2012,0,3,Away,,-,50
+2012,Wells,761,Mount Olive,1245,03/10/2012,0,3,Neutral,"Jamaica, N.Y.",-,65
+2012,Wells,761,Phila. Biblical,1305,03/17/2012,0,3,Home,,-,20
+2012,Wells,761,D'Youville,1059,03/17/2012,0,3,Home,,-,40
+2012,Wells,761,Penn St.-Behrend,538,03/18/2012,0,3,Away,,-,75
+2012,Wells,761,SUNYIT,9500,03/28/2012,1,3,Home,,-,27
+2012,Wells,761,CCNY,480,03/31/2012,0,3,Neutral,"Union, NJ",-,23
+2012,Wells,761,Kean,329,03/31/2012,0,3,Away,,-,34
+2012,Wells,761,Penn St.-Behrend,538,04/05/2012,0,3,Home,,-,55
+2012,Wells,761,Polytechnic (NY),481,04/07/2012,0,3,Away,,-,20
+2012,Wells,761,CCNY,480,04/07/2012,0,3,Neutral,"Brooklyn, NY",-,30
+2012,Wentworth,762,MIT,398,01/24/2012,1,3,Home,,-,70
+2012,Wentworth,762,Lesley,24317,01/26/2012,3,0,Home,,-,55
+2012,Wentworth,762,Lehman,279,01/28/2012,3,1,Away,,-,47
+2012,Wentworth,762,CCNY,480,01/28/2012,3,0,Away,,-,50
+2012,Wentworth,762,Rivier,18422,02/03/2012,0,3,Away,,-,100
+2012,Wentworth,762,Emmanuel (MA),215,02/07/2012,0,3,Home,,-,80
+2012,Wentworth,762,Mount Ida,27901,02/09/2012,3,0,Home,,-,48
+2012,Wentworth,762,Southern Vt.,1379,02/11/2012,0,3,Neutral,"Brookline, MA",-,38
+2012,Wentworth,762,Newbury,21772,02/11/2012,3,2,Away,,-,37
+2012,Wentworth,762,Mount Ida,27901,02/15/2012,3,0,Away,,-,0
+2012,Wentworth,762,Lasell,8486,02/22/2012,3,1,Away,,-,96
+2012,Wentworth,762,CCNY,480,02/25/2012,3,0,Neutral,"Poughkeepsie, NY",-,60
+2012,Wentworth,762,Vassar,737,02/25/2012,0,3,Away,,-,100
+2012,Wentworth,762,Albertus Magnus,2798,03/13/2012,3,2,Home,,-,52
+2012,Wentworth,762,Emerson,214,03/15/2012,3,1,Away,,1 Sets,75
+2012,Wentworth,762,Johnson & Wales (RI),22626,03/20/2012,2,3,Home,,2 Sets,46
+2012,Wentworth,762,Juniata,325,03/23/2012,0,3,Neutral,"Springfield, MA",-,150
+2012,Wentworth,762,Baruch,58,03/23/2012,1,3,Neutral,"Springfield, MA",1 Sets,100
+2012,Wentworth,762,Springfield,673,03/24/2012,0,3,Away,,-,150
+2012,Wentworth,762,Kean,329,03/24/2012,1,3,Neutral,"Springfield, MA",1 Sets,150
+2012,Wentworth,762,Lasell,8486,03/27/2012,3,1,Home,,1 Sets,40
+2012,Wentworth,762,Emerson,214,03/29/2012,1,3,Home,,1 Sets,65
+2012,Wentworth,762,Regis (MA),569,03/31/2012,3,0,Neutral,"Chicopee, MA",-,75
+2012,Wentworth,762,Elms,532,03/31/2012,2,3,Away,,2 Sets,124
+2012,Wentworth,762,Emmanuel (MA),215,04/03/2012,0,3,Away,,-,75
+2012,Wentworth,762,Rivier,18422,04/05/2012,0,3,Home,,-,40
+2012,Wentworth,762,Johnson & Wales (RI),22626,04/07/2012,0,3,Neutral,"New Haven, Conn.",-,50
+2012,Wentworth,762,Albertus Magnus,2798,04/07/2012,3,1,Away,,1 Sets,57
+2012,Wentworth,762,Albertus Magnus,2798,04/10/2012,1,3,Home,,-,75
+2012,Yeshiva,814,Sage Colleges,11036,01/29/2012,0,3,Away,,-,85
+2012,Yeshiva,814,Purchase St.,30029,01/29/2012,3,1,Neutral,"Troy, NY",-,75
+2012,Yeshiva,814,York (NY),2730,02/02/2012,0,3,Home,,-,55
+2012,Yeshiva,814,Medgar Evers,403,02/07/2012,3,0,Home,,-,55
+2012,Yeshiva,814,Polytechnic (NY),481,02/08/2012,0,3,Away,,-,18
+2012,Yeshiva,814,Ramapo,564,02/12/2012,0,3,Neutral,"Purchase, NY",-,31
+2012,Yeshiva,814,New Jersey City,319,02/12/2012,0,3,Neutral,"Purchase, NY",-,48
+2012,Yeshiva,814,Mt. St. Vincent,451,02/14/2012,1,3,Home,,-,0
+2012,Yeshiva,814,Albertus Magnus,2798,02/19/2012,0,3,Away,,-,72
+2012,Yeshiva,814,Brooklyn,79,02/19/2012,1,3,Neutral,"New Haven, CT",-,30
+2012,Yeshiva,814,Sarah Lawrence,30163,02/21/2012,3,0,Away,,-,0
+2012,Yeshiva,814,New Jersey City,319,02/23/2012,0,3,Away,,-,62
+2012,Yeshiva,814,Cooper Union,,02/26/2012,3,1,Home,,-,50
+2012,Yeshiva,814,Washington Adventist,1029,02/26/2012,3,0,Home,,-,50
+2012,Yeshiva,814,Ramapo,564,02/27/2012,0,3,Home,,-,40
+2012,Yeshiva,814,St. Joseph's (Brkln),30072,03/01/2012,3,0,Home,,-,55
+2012,Yeshiva,814,Polytechnic (NY),481,03/04/2012,0,3,Neutral,"Riverdale, NY",-,40
+2012,Yeshiva,814,Mt. St. Vincent,451,03/04/2012,1,3,Away,,-,25
+2012,Yeshiva,814,Kean,329,03/06/2012,0,3,Away,,-,66
+2012,Yeshiva,814,Albertus Magnus,2798,03/11/2012,0,3,Home,,-,33
+2012,Yeshiva,814,Webb Inst.,,03/11/2012,3,1,Home,,-,33
+2012,Yeshiva,814,Sarah Lawrence,30163,03/14/2012,3,0,Home,,-,50
+2012,Yeshiva,814,Bard,962,03/18/2012,1,3,Home,,1 Sets,55
+2012,Yeshiva,814,Cooper Union,,03/20/2012,3,2,Home,,2 Sets,100
+2012,Yeshiva,814,St. Joseph's (Brkln),30072,03/21/2012,3,0,Away,,-,15
+2012,Yeshiva,814,Webb Inst.,,03/26/2012,3,0,Away,,-,50
+2012,Yeshiva,814,Purchase St.,30029,03/27/2012,3,0,Home,,-,80
+2012,Yeshiva,814,Cooper Union,,03/29/2012,1,3,Neutral,"Bronxville, NY",1 Sets,0
+2012,Yeshiva,814,Webb Inst.,,03/29/2012,3,0,Neutral,"Bronxville, NY",-,0
+2012,Yeshiva,814,Kean,329,04/01/2012,0,3,Home,,-,100
+2012,Yeshiva,814,Sage Colleges,11036,04/01/2012,0,3,Home,,-,100
+2012,York (NY),2730,New Jersey City,319,01/25/2012,0,3,Away,,-,64
+2012,York (NY),2730,Polytechnic (NY),481,01/30/2012,3,2,Away,,-,30
+2012,York (NY),2730,Yeshiva,814,02/02/2012,3,0,Away,,-,55
+2012,York (NY),2730,Lancaster Bible,30085,02/03/2012,0,3,Neutral,"Brooklyn, NY",-,35
+2012,York (NY),2730,Polytechnic (NY),481,02/03/2012,2,3,Away,,2 Sets,30
+2012,York (NY),2730,John Jay,321,02/04/2012,3,0,Neutral,"New York, NY",-,36
+2012,York (NY),2730,Rutgers-Newark,589,02/07/2012,0,3,Home,,-,55
+2012,York (NY),2730,Cooper Union,,02/07/2012,3,0,Home,,-,55
+2012,York (NY),2730,Brooklyn,79,02/09/2012,3,0,Away,,-,235
+2012,York (NY),2730,Johnson & Wales (RI),22626,02/11/2012,2,3,Neutral,"Cambridge, MA",-,57
+2012,York (NY),2730,Elms,532,02/11/2012,0,3,Neutral,"Cambridge, MA",-,100
+2012,York (NY),2730,Emerson,214,02/12/2012,2,3,Neutral,"Cambridge, MA",-,100
+2012,York (NY),2730,MIT,398,02/12/2012,0,3,Away,,-,100
+2012,York (NY),2730,St. Joseph's (Brkln),30072,02/16/2012,3,0,Home,,-,55
+2012,York (NY),2730,CCNY,480,02/16/2012,3,0,Home,,-,55
+2012,York (NY),2730,Penn St.-Behrend,538,02/24/2012,3,2,Home,,-,35
+2012,York (NY),2730,Lehman,279,02/28/2012,3,0,Home,,-,35
+2012,York (NY),2730,CCNY,480,03/03/2012,3,2,Away,,2 Sets,75
+2012,York (NY),2730,Brooklyn,79,03/03/2012,3,1,Neutral,"New York, NY",-,50
+2012,York (NY),2730,Hunter,292,03/06/2012,0,3,Away,,-,65
+2012,York (NY),2730,Mt. St. Vincent,451,03/09/2012,3,0,Home,,-,60
+2012,York (NY),2730,Wells,761,03/10/2012,3,0,Home,,-,50
+2012,York (NY),2730,Mount Olive,1245,03/10/2012,0,3,Home,,-,65
+2012,York (NY),2730,Purchase St.,30029,03/15/2012,3,0,Home,,-,50
+2012,York (NY),2730,Medgar Evers,403,03/17/2012,3,0,Home,,-,35
+2012,York (NY),2730,Medgar Evers,403,03/17/2012,3,0,Home,,-,35
+2012,York (NY),2730,Hunter,292,03/17/2012,0,3,Home,,-,40
+2012,York (NY),2730,Lehman,279,03/22/2012,3,1,Away,,1 Sets,67
+2012,York (NY),2730,John Jay,321,04/02/2012,3,0,Home,,-,25
+2012,York (NY),2730,Baruch,58,04/04/2012,1,3,Home,,1 Sets,60
+2012,York (NY),2730,Baruch,58,04/04/2012,1,3,Home,,1 Sets,50
+2012,York (NY),2730,CCNY,480,04/10/2012,3,2,Home,,-,50
+2012,York (NY),2730,Baruch,58,04/12/2012,1,3,Neutral,"New York, NY",-,156

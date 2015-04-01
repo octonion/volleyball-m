@@ -1,0 +1,353 @@
+      team_name       | avg_height 
+----------------------+------------
+ Duke                 |       73.3
+ California           |       73.0
+ Penn St.             |       72.8
+ Tennessee            |       72.8
+ Oregon St.           |       72.8
+ Virginia Tech        |       72.8
+ Baylor               |       72.7
+ Wisconsin            |       72.3
+ Harvard              |       72.3
+ UCLA                 |       72.3
+ Colorado             |       72.2
+ Wake Forest          |       72.2
+ Utah                 |       72.1
+ Louisville           |       72.0
+ Dayton               |       72.0
+ West Virginia        |       72.0
+ Minnesota            |       71.9
+ Purdue               |       71.9
+ Washington St.       |       71.9
+ Georgia Tech         |       71.9
+ Michigan St.         |       71.9
+ Auburn               |       71.8
+ Gonzaga              |       71.8
+ San Diego            |       71.8
+ Arkansas             |       71.8
+ Seton Hall           |       71.8
+ Dartmouth            |       71.8
+ Kentucky             |       71.8
+ South Dakota St.     |       71.7
+ Vanderbilt           |       71.7
+ Stanford             |       71.7
+ St. Mary's (CA)      |       71.6
+ Maryland             |       71.6
+ Marquette            |       71.6
+ Northwestern         |       71.6
+ Arizona              |       71.6
+ Iowa                 |       71.6
+ North Carolina       |       71.6
+ St. John's (NY)      |       71.6
+ Central Mich.        |       71.6
+ Princeton            |       71.5
+ Toledo               |       71.5
+ Providence           |       71.5
+ Washington           |       71.5
+ Ill.-Chicago         |       71.5
+ East Carolina        |       71.5
+ Texas Tech           |       71.5
+ Cincinnati           |       71.5
+ IUPUI                |       71.5
+ Utah St.             |       71.5
+ Florida A&M          |       71.4
+ Ohio St.             |       71.4
+ Notre Dame           |       71.4
+ Richmond             |       71.4
+ Davidson             |       71.3
+ Denver               |       71.3
+ Delaware             |       71.3
+ Virginia             |       71.3
+ Southern California  |       71.3
+ South Carolina       |       71.3
+ Boston College       |       71.2
+ Utah Valley          |       71.2
+ Old Dominion         |       71.2
+ Nevada               |       71.2
+ Saint Louis          |       71.2
+ Alabama              |       71.2
+ Kansas St.           |       71.2
+ Georgetown           |       71.2
+ La Salle             |       71.2
+ Miami (OH)           |       71.2
+ Syracuse             |       71.2
+ UConn                |       71.2
+ Idaho                |       71.2
+ LSU                  |       71.2
+ Nebraska             |       71.1
+ Robert Morris        |       71.1
+ UCF                  |       71.1
+ Western Ky.          |       71.1
+ Oklahoma             |       71.1
+ Florida St.          |       71.1
+ Pittsburgh           |       71.1
+ Wyoming              |       71.1
+ Texas A&M            |       71.1
+ St. Bonaventure      |       71.1
+ Saint Joseph's       |       71.1
+ Colorado St.         |       71.1
+ Memphis              |       71.1
+ Loyola Chicago       |       71.1
+ Villanova            |       71.1
+ Tennessee Tech       |       71.0
+ Ole Miss             |       71.0
+ Ball St.             |       71.0
+ Mississippi St.      |       71.0
+ UC Davis             |       71.0
+ Holy Cross           |       71.0
+ Michigan             |       70.9
+ Gardner-Webb         |       70.9
+ Oral Roberts         |       70.9
+ Charlotte            |       70.9
+ Missouri             |       70.9
+ Portland             |       70.9
+ Montana              |       70.9
+ Iowa St.             |       70.9
+ Monmouth             |       70.9
+ Boston U.            |       70.9
+ Chattanooga          |       70.9
+ Elon                 |       70.9
+ North Dakota         |       70.9
+ North Carolina St.   |       70.9
+ Hawaii               |       70.8
+ Pepperdine           |       70.8
+ James Madison        |       70.8
+ Indiana St.          |       70.8
+ Yale                 |       70.8
+ Green Bay            |       70.8
+ N.C. A&T             |       70.8
+ Massachusetts        |       70.8
+ South Carolina St.   |       70.8
+ Eastern Ky.          |       70.8
+ Louisiana Tech       |       70.8
+ Duquesne             |       70.8
+ Boise St.            |       70.7
+ Oregon               |       70.7
+ Penn                 |       70.7
+ UTEP                 |       70.7
+ Kansas               |       70.7
+ Southern Utah        |       70.7
+ Western Caro.        |       70.7
+ Lehigh               |       70.6
+ Cornell              |       70.6
+ Clemson              |       70.6
+ Georgia St.          |       70.6
+ Winthrop             |       70.6
+ IPFW                 |       70.6
+ Presbyterian         |       70.6
+ Arizona St.          |       70.6
+ Rutgers              |       70.6
+ Florida              |       70.6
+ Belmont              |       70.6
+ CSUN                 |       70.6
+ New Hampshire        |       70.6
+ Missouri St.         |       70.6
+ Hartford             |       70.6
+ Prairie View         |       70.5
+ Austin Peay          |       70.5
+ Bowling Green        |       70.5
+ Vermont              |       70.5
+ San Jose St.         |       70.5
+ Idaho St.            |       70.5
+ TCU                  |       70.5
+ Wichita St.          |       70.5
+ Niagara              |       70.5
+ SIUE                 |       70.5
+ Santa Clara          |       70.5
+ Rider                |       70.5
+ Liberty              |       70.5
+ Texas                |       70.5
+ Texas-Arlington      |       70.5
+ South Dakota         |       70.5
+ Northeastern         |       70.5
+ Oklahoma St.         |       70.5
+ Northern Ky.         |       70.4
+ Army                 |       70.4
+ North Dakota St.     |       70.4
+ SMU                  |       70.4
+ Texas Southern       |       70.4
+ Mississippi Val.     |       70.4
+ New Mexico St.       |       70.4
+ Loyola Marymount     |       70.4
+ Columbia             |       70.4
+ Arkansas St.         |       70.4
+ DePaul               |       70.4
+ Hampton              |       70.4
+ UNLV                 |       70.4
+ UT Martin            |       70.4
+ Murray St.           |       70.4
+ Butler               |       70.4
+ Nicholls St.         |       70.4
+ Appalachian St.      |       70.4
+ Temple               |       70.4
+ Saint Francis (PA)   |       70.4
+ BYU                  |       70.4
+ Iona                 |       70.3
+ Quinnipiac           |       70.3
+ Rice                 |       70.3
+ Fordham              |       70.3
+ Chicago St.          |       70.3
+ UC Santa Barbara     |       70.3
+ William & Mary       |       70.3
+ Radford              |       70.3
+ Alcorn               |       70.3
+ Kent St.             |       70.3
+ Ohio                 |       70.3
+ Troy                 |       70.3
+ Brown                |       70.3
+ Southern Ill.        |       70.3
+ Illinois             |       70.3
+ NJIT                 |       70.3
+ Pacific              |       70.2
+ North Texas          |       70.2
+ Valparaiso           |       70.2
+ South Fla.           |       70.2
+ Colgate              |       70.2
+ Bradley              |       70.2
+ Siena                |       70.2
+ UMKC                 |       70.2
+ Middle Tenn.         |       70.2
+ VCU                  |       70.2
+ San Francisco        |       70.2
+ Maine                |       70.2
+ Ga. Southern         |       70.2
+ Furman               |       70.2
+ Marist               |       70.1
+ Youngstown St.       |       70.1
+ Western Ill.         |       70.1
+ Portland St.         |       70.1
+ FIU                  |       70.1
+ Fairfield            |       70.1
+ Stephen F. Austin    |       70.1
+ Rhode Island         |       70.1
+ George Washington    |       70.1
+ Akron                |       70.1
+ Stony Brook          |       70.1
+ Eastern Mich.        |       70.1
+ Indiana              |       70.1
+ Long Beach St.       |       70.1
+ Tulsa                |       70.1
+ UNC Greensboro       |       70.1
+ Buffalo              |       70.0
+ High Point           |       70.0
+ George Mason         |       70.0
+ Miami (FL)           |       70.0
+ Houston Baptist      |       70.0
+ Cal St. Fullerton    |       70.0
+ Oakland              |       70.0
+ Saint Peter's        |       70.0
+ Texas St.            |       70.0
+ Jackson St.          |       70.0
+ Incarnate Word       |       70.0
+ Southern Miss.       |       70.0
+ Tulane               |       70.0
+ Abilene Christian    |       70.0
+ Southern U.          |       70.0
+ North Florida        |       70.0
+ Bethune-Cookman      |       69.9
+ American             |       69.9
+ McNeese St.          |       69.9
+ Marshall             |       69.9
+ Wagner               |       69.9
+ Canisius             |       69.9
+ Binghamton           |       69.9
+ Grand Canyon         |       69.9
+ Georgia              |       69.9
+ Central Conn. St.    |       69.9
+ Mt. St. Mary's       |       69.9
+ Montana St.          |       69.9
+ Eastern Ill.         |       69.9
+ Seattle              |       69.9
+ Morgan St.           |       69.9
+ Omaha                |       69.9
+ Northern Colo.       |       69.9
+ Ark.-Pine Bluff      |       69.9
+ Houston              |       69.9
+ Northern Ill.        |       69.8
+ New Mexico           |       69.8
+ Towson               |       69.8
+ UNI                  |       69.8
+ Charleston So.       |       69.8
+ Eastern Wash.        |       69.8
+ Bryant               |       69.8
+ Col. of Charleston   |       69.8
+ Cal Poly             |       69.8
+ Lafayette            |       69.8
+ Manhattan            |       69.8
+ Jacksonville         |       69.8
+ FGCU                 |       69.8
+ Illinois St.         |       69.8
+ Wright St.           |       69.8
+ Milwaukee            |       69.8
+ Evansville           |       69.8
+ Bakersfield          |       69.8
+ Fresno St.           |       69.7
+ UMBC                 |       69.7
+ Xavier               |       69.7
+ Samford              |       69.7
+ Stetson              |       69.7
+ Albany (NY)          |       69.7
+ Tennessee St.        |       69.7
+ Northern Ariz.       |       69.7
+ Wofford              |       69.7
+ San Diego St.        |       69.7
+ Hofstra              |       69.6
+ Southeast Mo. St.    |       69.6
+ Creighton            |       69.6
+ UTSA                 |       69.6
+ Weber St.            |       69.6
+ Coastal Caro.        |       69.6
+ Air Force            |       69.6
+ Campbell             |       69.5
+ UALR                 |       69.5
+ A&M-Corpus Chris     |       69.5
+ Coppin St.           |       69.5
+ UMES                 |       69.5
+ Morehead St.         |       69.5
+ Fla. Atlantic        |       69.5
+ South Ala.           |       69.5
+ Sam Houston St.      |       69.5
+ UC Riverside         |       69.5
+ Sacred Heart         |       69.5
+ Drake                |       69.5
+ Savannah St.         |       69.5
+ UC Irvine            |       69.5
+ Bucknell             |       69.4
+ USC Upstate          |       69.4
+ Lipscomb             |       69.4
+ Delaware St.         |       69.4
+ Cleveland St.        |       69.4
+ Alabama St.          |       69.4
+ St. Francis Brooklyn |       69.4
+ La.-Monroe           |       69.4
+ Drexel               |       69.3
+ Detroit              |       69.3
+ East Tenn. St.       |       69.3
+ Howard               |       69.3
+ Loyola Maryland      |       69.2
+ LIU Brooklyn         |       69.2
+ Fairleigh Dickinson  |       69.2
+ Alabama A&M          |       69.2
+ Mercer               |       69.2
+ Southeastern La.     |       69.2
+ Grambling            |       69.1
+ UNCW                 |       69.0
+ Western Mich.        |       68.9
+ Tex.-Pan American    |       68.9
+ Navy                 |       68.9
+ Norfolk St.          |       68.8
+ UNC Asheville        |       68.8
+ Longwood             |       68.8
+ New Orleans          |       68.7
+ Central Ark.         |       68.7
+ UAB                  |       68.7
+ Kennesaw St.         |       68.6
+ UMass Lowell         |       68.6
+ N.C. Central         |       68.6
+ Jacksonville St.     |       68.5
+ Northwestern St.     |       68.4
+ Sacramento St.       |       68.3
+ La.-Lafayette        |       68.0
+ Lamar                |       67.9
+(349 rows)
+
