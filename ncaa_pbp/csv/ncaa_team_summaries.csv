@@ -1,4 +1,4 @@
-year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
+year	year_id	team_id	team_name	jersey_number	summary_type	class_year	height	games_played	games_started	s	ms	kills	errors	total_attacks	pct	assists	aces	serr	diggs	rerr	block_solos	block_assists	berr	pts	bhe	tripl_dbl
 2015	12100	77	BYU	-	Totals	-	-	-	-	84	 	1,024	362	2,396	0.276	972	57	235	816	101	29	438	36	1,329.0	9	22
 2015	12100	77	BYU	-	Opponent Totals	-	-	-	-	84	 	1,103	484	2,622	0.236	1,061	101	330	863	57	30	248	59	1,358.0	9	22
 2015	12100	47	Ball St.	-	Totals	-	-	-	-	87	 	1,012	426	2,412	0.243	948	93	307	791	111	43	409	39	1,352.5	13	25
@@ -25,8 +25,8 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2015	12100	1104	Grand Canyon	-	Opponent Totals	-	-	-	-	95	 	1,162	511	2,657	0.245	1,091	108	308	851	133	33	328	35	1,467.0	12	24
 2015	12100	275	Harvard	-	Totals	-	-	-	-	65	 	782	284	1,756	0.284	743	49	185	631	92	43	242	17	995.0	6	18
 2015	12100	275	Harvard	-	Opponent Totals	-	-	-	-	65	 	844	385	2,005	0.229	784	92	261	581	49	54	170	24	1,075.0	 	18
-2015	12100	277	Hawaii	-	Totals	-	-	-	-	87	 	1,189	399	2,512	0.314	1,126	113	314	838	80	44	407	53	1,549.5	8	23
-2015	12100	277	Hawaii	-	Opponent Totals	-	-	-	-	87	 	1,008	487	2,505	0.208	951	80	298	759	113	36	346	53	1,297.0	8	23
+2015	12100	277	Hawaii	-	Totals	-	-	-	-	90	 	1,227	404	2,583	0.319	1,160	118	327	865	83	45	430	55	1,605.0	8	24
+2015	12100	277	Hawaii	-	Opponent Totals	-	-	-	-	90	 	1,036	506	2,584	0.205	977	83	311	781	118	36	350	55	1,330.0	8	24
 2015	12100	30175	Holy Names	-	Totals	-	-	-	-	50	 	473	286	1,405	0.133	450	35	158	457	98	19	103	19	578.5	16	14
 2015	12100	30175	Holy Names	-	Opponent Totals	-	-	-	-	50	 	582	229	1,362	0.259	535	98	149	539	35	25	165	33	787.5	16	14
 2015	12100	308	IPFW	-	Totals	-	-	-	-	92	 	1,180	468	2,675	0.266	1,087	115	343	832	103	29	283	34	1,465.5	13	25
@@ -82,5 +82,5 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2015	12100	112	UC San Diego	-	Opponent Totals	-	-	-	-	76	 	1,021	333	2,113	0.326	967	117	273	808	58	29	400	39	1,367.0	9	23
 2015	12100	104	UC Santa Barbara	-	Totals	-	-	-	-	78	 	973	369	2,249	0.269	907	100	271	781	59	15	375	33	1,275.5	10	22
 2015	12100	104	UC Santa Barbara	-	Opponent Totals	-	-	-	-	78	 	916	450	2,326	0.200	872	59	282	736	100	35	316	21	1,168.0	11	22
-2015	12100	110	UCLA	-	Totals	-	-	-	-	78	 	934	379	2,239	0.248	893	121	363	696	89	24	377	35	1,267.5	2	21
-2015	12100	110	UCLA	-	Opponent Totals	-	-	-	-	78	 	854	363	2,093	0.235	808	89	282	737	121	26	264	39	1,101.0	2	21
+2015	12100	110	UCLA	-	Totals	-	-	-	-	81	 	962	398	2,318	0.243	919	124	376	718	94	24	381	37	1,300.5	2	22
+2015	12100	110	UCLA	-	Opponent Totals	-	-	-	-	81	 	892	368	2,164	0.242	842	94	295	764	124	27	287	41	1,156.5	2	22

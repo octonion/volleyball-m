@@ -9,7 +9,7 @@ require 'open-uri'
 
 require 'pg'
 
-conn = PGconn.open(:dbname => 'basketball-m')
+conn = PGconn.open(:dbname => 'volleyball-m')
 
 ncaa_team_schedules  = conn.exec('select ts.* from ncaa_pbp.team_schedules ts left join ncaa_pbp.periods p on (ts.game_id,ts.team_id)=(p.game_id,p.team_id) where ts.team_score is not null and p.game_id is null;')
 

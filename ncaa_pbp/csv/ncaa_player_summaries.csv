@@ -1,4 +1,4 @@
-year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
+year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	class_year	height	games_played	games_started	s	ms	kills	errors	total_attacks	pct	assists	aces	serr	diggs	rerr	block_solos	block_assists	berr	pts	bhe	tripl_dbl
 2015	12100	77	BYU	12	1303550	Reyes, Jaylen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1303550	Sr	6-1	80	0	80	 	 	 	 	""	52	 	 	174	20	 	 	 	 	 	 
 2015	12100	77	BYU	23	1417609	Hatch, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417609	Jr	6-8	76	0	76	22	88	16	174	0.414	7	4	14	47	1	5	94	3	144.0	 	 
 2015	12100	77	BYU	17	1417608	Grosh, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417608	So	6-7	74	0	74	21	88	23	186	0.349	7	6	15	31	 	8	77	3	140.5	 	 
@@ -190,15 +190,15 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	cl
 2015	12100	275	Harvard	6	1527048	Murphy, Samuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1527048	So	5-9	39	0	39	 	1	 	2	""	17	 	 	73	25	 	 	 	1.0	 	 
 2015	12100	275	Harvard	9	1637718	Moore, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637718	Fr	6-5	30	0	30	5	24	11	65	0.200	1	5	11	14	 	2	23	1	42.5	 	 
 2015	12100	275	Harvard	14	1418154	Bent, Alister	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1418154	Jr	5-7	2	0	2	 	 	 	 	""	1	 	 	2	 	 	 	 	 	 	 
-2015	12100	277	Hawaii	13	1301065	Averill, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1301065	Sr	6-7	85	0	85	23	254	47	412	0.502	13	25	65	28	1	14	102	11	344.0	 	 
-2015	12100	277	Hawaii	11	1301063	Sedore, Brook	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1301063	Sr	6-5	80	0	80	23	280	109	652	0.262	14	35	69	119	2	4	47	3	342.5	 	 
-2015	12100	277	Hawaii	10	1526962	Franciskovic, Jennings	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526962	So	6-5	78	0	78	23	51	6	91	0.495	838	8	34	106	 	6	56	16	93.0	3	 
-2015	12100	277	Hawaii	24	1191496	Holt, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1191496	Sr	6-8	77	0	77	21	88	27	182	0.335	4	1	18	18	 	7	78	7	135.0	2	 
-2015	12100	277	Hawaii	6	1417443	Kanetake, Kolby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417443	Jr	5-8	77	0	77	 	1	1	4	0.000	39	 	 	219	23	 	 	 	1.0	 	 
-2015	12100	277	Hawaii	21	1526961	Fey, Kupono	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526961	So	6-5	77	0	77	17	135	64	303	0.234	26	14	35	112	22	3	37	1	170.5	 	 
-2015	12100	277	Hawaii	16	1417451	Zarkovic, Sinisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417451	Jr	6-4	62	0	62	17	201	81	480	0.250	19	12	35	95	10	4	28	4	231.0	1	 
+2015	12100	277	Hawaii	13	1301065	Averill, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1301065	Sr	6-7	88	0	88	24	262	47	425	0.506	13	25	67	28	1	15	103	11	353.5	 	 
+2015	12100	277	Hawaii	11	1301063	Sedore, Brook	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1301063	Sr	6-5	83	0	83	24	290	113	673	0.263	14	35	71	123	2	4	52	5	355.0	 	 
+2015	12100	277	Hawaii	10	1526962	Franciskovic, Jennings	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526962	So	6-5	81	0	81	24	51	6	93	0.484	867	9	38	113	 	6	58	16	95.0	3	 
+2015	12100	277	Hawaii	24	1191496	Holt, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1191496	Sr	6-8	80	0	80	22	91	27	186	0.344	4	1	19	19	 	7	87	7	142.5	2	 
+2015	12100	277	Hawaii	6	1417443	Kanetake, Kolby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417443	Jr	5-8	80	0	80	 	1	1	5	0.000	41	 	 	222	25	 	 	 	1.0	 	 
+2015	12100	277	Hawaii	21	1526961	Fey, Kupono	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526961	So	6-5	80	0	80	18	142	65	315	0.244	27	15	36	117	22	3	38	1	179.0	 	 
+2015	12100	277	Hawaii	16	1417451	Zarkovic, Sinisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417451	Jr	6-4	65	0	65	18	211	81	498	0.261	21	14	38	101	11	4	33	4	245.5	1	 
 2015	12100	277	Hawaii	3	1191491	Hartley, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1191491	Sr	6-5	61	0	61	11	118	39	235	0.336	12	12	25	58	11	3	25	4	145.5	 	 
-2015	12100	277	Hawaii	8	1526964	Mol, Hendrik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526964	So	6-6	42	0	42	1	12	6	32	0.188	2	5	17	8	2	 	3	 	18.5	2	 
+2015	12100	277	Hawaii	8	1526964	Mol, Hendrik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1526964	So	6-6	45	0	45	1	12	6	32	0.188	2	6	17	9	2	 	3	 	19.5	2	 
 2015	12100	277	Hawaii	18	1637721	Leung, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637721	Sr	6-5	28	0	28	 	27	8	60	0.317	 	1	11	17	 	 	12	1	34.0	 	 
 2015	12100	277	Hawaii	7	1637724	Jones, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637724	Sr	6-4	21	0	21	 	2	2	15	0.000	151	 	 	26	 	2	7	5	7.5	 	 
 2015	12100	277	Hawaii	1	1417444	Komisarek, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1417444	Sr	5-10	18	0	18	 	 	 	 	""	8	 	 	28	3	 	 	 	 	 	 
@@ -624,19 +624,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	cl
 2015	12100	104	UC Santa Barbara	11	1531203	Kaseff, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531203	So	6-6	3	0	3	 	 	1	1	""	 	1	2	2	 	 	1	 	1.5	 	 
 2015	12100	104	UC Santa Barbara	4	1640986	Pion, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1640986	Fr	6-1	3	0	3	 	 	 	 	""	 	 	1	 	 	 	 	 	 	 	 
 2015	12100	104	UC Santa Barbara	2	1531200	Zant, Grady	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531200	Fr	5-10	1	0	1	 	 	 	 	""	 	 	1	1	 	 	 	 	 	 	 
-2015	12100	110	UCLA	7	1531252	Stahl, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531252	So	6-8	72	0	72	20	104	32	205	0.351	15	30	75	21	1	5	72	7	175.0	 	 
-2015	12100	110	UCLA	1	1531249	Bantle, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531249	So	6-1	69	0	69	 	1	 	3	""	28	 	5	141	21	 	 	1	1.0	 	 
-2015	12100	110	UCLA	9	1637110	Hatch, J.T.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637110	Fr	6-2	68	0	68	12	179	60	438	0.272	11	9	50	105	12	1	39	1	208.5	 	 
-2015	12100	110	UCLA	15	1637111	Arnitz, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637111	Fr	6-7	63	0	63	20	171	72	431	0.230	8	18	56	72	33	3	37	4	210.5	 	 
-2015	12100	110	UCLA	17	1637112	Hessenauer, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637112	Fr	6-6	60	0	60	16	151	80	367	0.193	4	12	56	92	2	3	43	3	187.5	 	 
-2015	12100	110	UCLA	14	1421815	Kersten, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421815	Jr	6-9	56	0	56	17	87	21	186	0.355	8	3	13	39	 	5	58	3	124.0	 	 
-2015	12100	110	UCLA	3	1531250	Fisher, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531250	So	6-5	40	0	40	8	61	39	188	0.117	3	13	22	38	3	2	14	3	83.0	 	 
+2015	12100	110	UCLA	7	1531252	Stahl, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531252	So	6-8	75	0	75	21	107	34	214	0.341	15	31	78	24	1	5	74	7	180.0	 	 
+2015	12100	110	UCLA	1	1531249	Bantle, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531249	So	6-1	70	0	70	 	1	 	3	""	28	 	5	142	21	 	 	1	1.0	 	 
+2015	12100	110	UCLA	9	1637110	Hatch, J.T.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637110	Fr	6-2	69	0	69	13	180	62	444	0.266	11	9	50	107	12	1	39	1	209.5	 	 
+2015	12100	110	UCLA	15	1637111	Arnitz, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637111	Fr	6-7	66	0	66	21	178	78	450	0.222	8	19	59	75	35	3	39	4	219.5	 	 
+2015	12100	110	UCLA	17	1637112	Hessenauer, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637112	Fr	6-6	61	0	61	17	151	82	370	0.186	4	12	57	92	2	3	43	3	187.5	 	 
+2015	12100	110	UCLA	14	1421815	Kersten, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421815	Jr	6-9	57	0	57	18	89	21	192	0.354	8	3	13	39	 	5	58	4	126.0	 	 
+2015	12100	110	UCLA	3	1531250	Fisher, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531250	So	6-5	43	0	43	8	66	41	201	0.124	4	14	23	43	5	2	14	4	89.0	 	 
 2015	12100	110	UCLA	22	1531255	Smith, Hagen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531255	So	6-0	39	0	39	10	5	3	16	0.125	387	3	15	63	 	1	34	6	26.0	2	 
-2015	12100	110	UCLA	8	1637109	Matheis, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637109	Fr	6-3	33	0	33	6	 	1	8	""	290	5	14	37	 	1	16	 	14.0	 	 
-2015	12100	110	UCLA	4	1531251	Martin, Oliver	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531251	Fr	6-10	30	0	30	1	47	21	111	0.234	 	7	9	20	 	 	13	1	60.5	 	 
-2015	12100	110	UCLA	19	1531256	Sprague, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531256	Fr	6-9	27	0	27	4	49	16	93	0.355	2	6	25	8	 	1	26	3	69.0	 	 
+2015	12100	110	UCLA	8	1637109	Matheis, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1637109	Fr	6-3	36	0	36	7	 	1	8	""	315	5	15	40	 	1	16	 	14.0	 	 
+2015	12100	110	UCLA	4	1531251	Martin, Oliver	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531251	Fr	6-10	32	0	32	1	50	23	119	0.227	 	7	9	20	 	 	13	1	63.5	 	 
+2015	12100	110	UCLA	19	1531256	Sprague, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531256	Fr	6-9	30	0	30	4	53	16	100	0.370	2	6	29	8	 	1	26	3	73.0	 	 
 2015	12100	110	UCLA	10	1531253	Reeves, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531253	So	6-4	19	0	19	2	35	22	91	0.143	2	4	9	19	7	1	5	1	42.5	 	 
 2015	12100	110	UCLA	2	1421812	O'Dell, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421812	Jr	6-5	15	0	15	5	7	 	13	""	130	4	6	13	 	 	9	2	15.5	 	 
-2015	12100	110	UCLA	6	1421813	Paullin, Clayton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421813	Sr	6-8	12	0	12	4	19	12	67	0.104	1	5	7	14	1	 	5	 	26.5	 	 
-2015	12100	110	UCLA	34	1421821	Zappia, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421821	So	6-5	6	0	6	1	18	 	22	""	 	2	1	5	 	1	6	 	24.0	 	 
-2015	12100	110	UCLA	16	1531254	Chalmers, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531254	So	6-5	5	0	5	 	 	 	 	""	4	 	 	9	3	 	 	 	 	 	 
+2015	12100	110	UCLA	6	1421813	Paullin, Clayton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421813	Sr	6-8	14	0	14	4	21	14	73	0.096	1	5	7	16	1	 	5	 	28.5	 	 
+2015	12100	110	UCLA	34	1421821	Zappia, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1421821	So	6-5	7	0	7	1	19	1	24	0.750	 	2	1	6	 	1	6	 	25.0	 	 
+2015	12100	110	UCLA	16	1531254	Chalmers, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12100&stats_player_seq=1531254	So	6-5	7	0	7	 	 	 	 	""	4	 	 	11	4	 	 	 	 	 	 

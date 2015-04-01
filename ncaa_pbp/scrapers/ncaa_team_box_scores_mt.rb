@@ -29,7 +29,13 @@ ncaa_box_scores = CSV.open("csv/ncaa_games_box_scores_mt.csv","w",
 
 # Headers
 
-ncaa_box_scores << ["game_id","section_id","player_id","player_name","player_url","position","minutes_played","field_goals_made","field_goals_attempted","three_point_field_goals","three_point_field_goals_attempted","free_throws","free_throws_attempted","points","offensive_rebounds","defensive_rebounds","total_rebounds","assists","turnovers","steals","blocks","fouls"]
+ncaa_box_scores << ["game_id", "section_id", "player_id",
+                    "player_name", "player_url",
+                    "position", "s", "ms", "kills", "errors",
+                    "total_attacks", "pct", "assists",
+                    "aces", "serr", "digs", "rerr",
+                    "block_solos", "block_assists", "berr",
+                    "pts", "bhe"]
 
 # Get game IDs
 
@@ -120,6 +126,10 @@ game_ids.each_slice(gpt).with_index do |ids,i|
           else
             field_values += [element.text.strip.to_i]
           end
+        end
+
+        if (field_values.size==0)
+          field_values = [nil]*17
         end
 
         ncaa_box_scores << [game_id,section_id,player_id,player_name,player_url]+field_values
