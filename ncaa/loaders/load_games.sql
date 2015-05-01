@@ -17,8 +17,6 @@ create table ncaa.games (
         attendance            text
 );
 
-truncate table ncaa.games;
-
 copy ncaa.games from '/tmp/ncaa_games.csv' with delimiter as ',' csv quote as '"';
 
 alter table ncaa.games add column game_id serial primary key;

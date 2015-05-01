@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa.schools_divisions;
+
 create table ncaa.schools_divisions (
 	sport_code		text,
 	school_name		text,

@@ -9,10 +9,10 @@ if [ $db_exists -eq 0 ] ; then
    eval $cmd
 fi
 
-psql volleyball-m -f schema/create_schema_ncaa.sql
+psql volleyball-m -f schema/create_schema.sql
 
-tail -q -n+2 csv/ncaa_games_*.csv > /tmp/ncaa_games.csv
-psql volleyball-m -f loaders/load_ncaa_games.sql
+tail -q -n+2 csv/ncaa_games_*.csv >> /tmp/ncaa_games.csv
+psql volleyball-m -f loaders/load_games.sql
 rm /tmp/ncaa_games.csv
 
 #cat csv/ncaa_players_*.csv > /tmp/ncaa_statistics.csv
@@ -23,17 +23,17 @@ rm /tmp/ncaa_games.csv
 #rpl ".00," "," /tmp/ncaa_statistics.csv
 #rpl ".000," "," /tmp/ncaa_statistics.csv
 #rpl -e ",-\n" ",\n" /tmp/ncaa_statistics.csv
-#psql volleyball-m -f loaders/load_ncaa_statistics.sql
+#psql volleyball-m -f loaders/load_statistics.sql
 #rm /tmp/ncaa_statistics.csv
 
 #psql volleyball-m -f schema/create_ncaa_players.sql
 
 cp csv/ncaa_schools.csv /tmp/ncaa_schools.csv
-psql volleyball-m -f loaders/load_ncaa_schools.sql
+psql volleyball-m -f loaders/load_schools.sql
 rm /tmp/ncaa_schools.csv
 
 cp csv/ncaa_divisions.csv /tmp/ncaa_divisions.csv
-psql volleyball-m -f loaders/load_ncaa_divisions.sql
+psql volleyball-m -f loaders/load_divisions.sql
 rm /tmp/ncaa_divisions.csv
 
 #cp ncaa/schools_divisions.csv /tmp/ncaa_schools_divisions.csv
@@ -41,9 +41,9 @@ rm /tmp/ncaa_divisions.csv
 #rm /tmp/ncaa_schools_divisions.csv
 
 cp csv/ncaa_colors.csv /tmp/ncaa_colors.csv
-psql volleyball-m -f loaders/load_ncaa_colors.sql
+psql volleyball-m -f loaders/load_colors.sql
 rm /tmp/ncaa_colors.csv
 
-#cp csv/ncaa_geocodes.csv /tmp/ncaa_geocodes.csv
-#psql volleyball-m -f loaders/load_ncaa_geocodes.sql
-#rm /tmp/ncaa_geocodes.csv
+cp csv/ncaa_geocodes.csv /tmp/ncaa_geocodes.csv
+psql volleyball-m -f loaders/load_geocodes.sql
+rm /tmp/ncaa_geocodes.csv

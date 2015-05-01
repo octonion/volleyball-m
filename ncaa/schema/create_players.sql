@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa.players;
+
 create table ncaa.players (
        player_id	  integer,
        player_name	  text,
