@@ -1,4 +1,4 @@
-date,site,home,div,score,away,div,score
-2015-05-01,home,Lewis,1,1.2,Loyola Chicago,1,0.8
-2015-05-01,home,Penn St.,1,4.2,George Mason,1,0.2
-2015-05-01,home,UC Irvine,1,1.5,Pepperdine,1,0.7
+date,site,home,hd,away,vd,w3,w4,w5,l3,l4,l5,win,lose,e_ws,e_ls
+2015-05-01,home,Lewis,D1,Loyola Chicago,D1,0.167,0.225,0.202,0.091,0.150,0.165,0.595,0.405,2.264,1.846
+2015-05-01,home,Penn St.,D1,George Mason,D1,0.526,0.304,0.117,0.007,0.017,0.028,0.947,0.053,2.916,0.697
+2015-05-01,home,UC Irvine,D1,Pepperdine,D1,0.208,0.254,0.207,0.068,0.120,0.142,0.670,0.330,2.414,1.660

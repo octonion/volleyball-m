@@ -45,7 +45,7 @@ year <- as.factor(year)
 contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
-field <- relevel(field, ref = "none")
+field <- relevel(field, ref = "neutral")
 
 d_div <- as.factor(d_div)
 
@@ -53,8 +53,9 @@ o_div <- as.factor(o_div)
 
 #game_length <- as.factor(game_length)
 
-fp <- data.frame(year,field,d_div,o_div)
-#fp <- data.frame(field,d_div,o_div)
+#fp <- data.frame(year,field,d_div,o_div)
+
+fp <- data.frame(field,d_div,o_div)
 fpn <- names(fp)
 
 # Random parameters
@@ -96,7 +97,8 @@ g <- cbind(fp,rp)
 
 dim(g)
 
-model <- cbind(team_score,opponent_score) ~ year+field+d_div+o_div+(1|offense)+(1|defense)
+#model <- cbind(team_score,opponent_score) ~ year+field+d_div+o_div+(1|offense)+(1|defense)
+model <- cbind(team_score,opponent_score) ~ -1+field+d_div+o_div+(1|offense)+(1|defense)
 fit <- glmer(model, data=g, REML=FALSE, family=binomial(logit), verbose=TRUE)
 
 fit
