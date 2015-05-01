@@ -4,7 +4,7 @@ create temporary table r (
        rk	 serial,
        school 	 text,
        school_id integer,
-       div_id	 integer,
+       div_id	 text,
        year	 integer,
        str	 float,
        ofs	 float,
@@ -18,7 +18,7 @@ insert into r
 select
 coalesce(sd.school_name,sf.school_id::text),
 sf.school_id,
-sd.div_id as div_id,
+'D'||sd.div_id as div_id,
 sf.year,
 log(sf.strength)+log(o.exp_factor)-log(d.exp_factor) as str,
 log(offensive)+log(o.exp_factor) as ofs,
