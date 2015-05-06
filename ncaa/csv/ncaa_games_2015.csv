@@ -46,10 +46,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Ball St.,47,Ohio St.,518,04/09/2015,0,3,Away,,-,440
 2015,Ball St.,47,McKendree,30138,04/11/2015,3,1,Away,,1 Sets,267
 2015,Ball St.,47,Ohio St.,518,04/24/2015,0,3,Away,,-,446
-2015,Bard,962,Wentworth,762,01/23/2015,0,3,Neutral,"Marcy, N.Y.",-,67
 2015,Bard,962,SUNY Poly,9500,01/23/2015,0,3,Away,,-,67
-2015,Bard,962,Elms,532,01/24/2015,0,3,Neutral,"Marcy, N.Y.",-,40
+2015,Bard,962,Wentworth,762,01/23/2015,0,3,Neutral,"Marcy, N.Y.",-,67
 2015,Bard,962,Mount Ida,27901,01/24/2015,3,0,Neutral,"Marcy, N.Y.",-,45
+2015,Bard,962,Elms,532,01/24/2015,0,3,Neutral,"Marcy, N.Y.",-,40
 2015,Bard,962,MIT,398,01/29/2015,0,3,Home,,-,65
 2015,Bard,962,Medgar Evers,403,01/31/2015,3,0,Away,,-,50
 2015,Bard,962,Vassar,737,02/04/2015,0,3,Home,,-,100
@@ -74,8 +74,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Bard,962,SUNY New Paltz,475,03/29/2015,0,3,Away,,-,60
 2015,Bard,962,Vassar,737,04/01/2015,0,3,Away,,-,40
 2015,Bard,962,Endicott,8981,04/03/2015,0,3,Neutral,"Cambridge, Mass.",-,25
-2015,Bard,962,Lehman,279,04/04/2015,3,1,Neutral,"Cambridge, Mass.",1 Sets,30
 2015,Bard,962,MIT,398,04/04/2015,0,3,Away,,-,55
+2015,Bard,962,Lehman,279,04/04/2015,3,1,Neutral,"Cambridge, Mass.",1 Sets,30
 2015,Barton,15646,Ball St.,47,01/10/2015,0,3,Home,,-,110
 2015,Barton,15646,Pfeiffer,542,01/14/2015,2,3,Home,,2 Sets,140
 2015,Barton,15646,Emmanuel (GA),30193,01/16/2015,3,0,Home,,-,107
@@ -93,8 +93,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Barton,15646,Emmanuel (GA),30193,02/27/2015,3,1,Away,,-,130
 2015,Barton,15646,North Greenville,9223,02/28/2015,3,0,Away,,-,75
 2015,Barton,15646,Belmont Abbey,2683,03/03/2015,3,2,Away,,2 Sets,150
-2015,Barton,15646,Concordia Irvine,30199,03/06/2015,2,3,Neutral,"Phoenix, AZ",2 Sets,63
 2015,Barton,15646,Grand Canyon,1104,03/06/2015,2,3,Away,,2 Sets,106
+2015,Barton,15646,Concordia Irvine,30199,03/06/2015,2,3,Neutral,"Phoenix, AZ",2 Sets,63
 2015,Barton,15646,Concordia Irvine,30199,03/07/2015,3,2,Neutral,"Phoenix, AZ",2 Sets,33
 2015,Barton,15646,Grand Canyon,1104,03/07/2015,0,3,Away,,-,103
 2015,Barton,15646,Sacred Heart,590,03/13/2015,2,3,Away,,2 Sets,84
@@ -107,21 +107,21 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Barton,15646,Charleston (WV),1013,04/04/2015,3,0,Home,,-,77
 2015,Barton,15646,Pfeiffer,542,04/14/2015,2,3,Away,,2 Sets,103
 2015,Barton,15646,Erskine,1072,04/18/2015,0,3,Away,,-,109
-2015,Baruch,58,Elmira,213,01/23/2015,3,2,Neutral,Juniata,2 Sets,50
 2015,Baruch,58,Juniata,325,01/23/2015,1,3,Away,,1 Sets,800
+2015,Baruch,58,Elmira,213,01/23/2015,3,2,Neutral,Juniata,2 Sets,50
 2015,Baruch,58,Ramapo,564,02/03/2015,3,2,Away,,2 Sets,130
 2015,Baruch,58,Brooklyn,79,02/07/2015,3,0,Neutral,"New York, NY",-,0
 2015,Baruch,58,Staten Island,675,02/07/2015,3,0,Neutral,"New York, NY",-,0
 2015,Baruch,58,York (NY),2730,02/11/2015,3,0,Home,,-,37
 2015,Baruch,58,Kean,329,02/12/2015,0,3,Home,,-,307
-2015,Baruch,58,Medgar Evers,403,02/16/2015,3,0,Neutral,"New York, NY",-,35
 2015,Baruch,58,Hunter,292,02/16/2015,2,3,Away,,2 Sets,134
+2015,Baruch,58,Medgar Evers,403,02/16/2015,3,0,Neutral,"New York, NY",-,35
 2015,Baruch,58,Staten Island,675,02/19/2015,3,0,Away,,-,24
 2015,Baruch,58,NYU,479,02/24/2015,3,1,Away,,1 Sets,91
 2015,Baruch,58,Lehman,279,02/26/2015,3,0,Home,,-,55
 2015,Baruch,58,Vassar,737,02/27/2015,3,0,Home,,-,72
-2015,Baruch,58,Stevens,679,02/28/2015,0,3,Neutral,"Newark, NJ",-,70
 2015,Baruch,58,Rutgers-Newark,589,02/28/2015,1,3,Away,,1 Sets,80
+2015,Baruch,58,Stevens,679,02/28/2015,0,3,Neutral,"Newark, NJ",-,70
 2015,Baruch,58,Lehman,279,03/07/2015,3,0,Neutral,"Queens, NY",-,103
 2015,Baruch,58,CCNY,480,03/07/2015,3,0,Neutral,"Jamaica, NY",-,32
 2015,Baruch,58,Medgar Evers,403,03/12/2015,3,0,Home,,-,50
@@ -133,13 +133,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Baruch,58,John Jay,321,03/28/2015,3,0,Away,,-,52
 2015,Baruch,58,Hunter,292,03/31/2015,3,0,Home,,-,600
 2015,Baruch,58,SUNY New Paltz,475,04/01/2015,0,3,Away,,-,80
-2015,Baruch,58,Elmira,213,04/03/2015,2,3,Away,,-,147
 2015,Baruch,58,SUNY Poly,9500,04/03/2015,3,1,Neutral,"Elmira, NY",-,67
+2015,Baruch,58,Elmira,213,04/03/2015,2,3,Away,,-,147
 2015,Baruch,58,Nazareth,461,04/04/2015,1,3,Neutral,"Elmira, NY",-,52
 2015,Baruch,58,D'Youville,1059,04/04/2015,3,0,Neutral,"Elmira, NY",-,28
 2015,Baruch,58,Medgar Evers,403,04/07/2015,3,0,Home,,-,55
-2015,Baruch,58,Lehman,279,04/10/2015,3,0,Neutral,"New York, NY",-,"1,000"
 2015,Baruch,58,Hunter,292,04/10/2015,3,1,Away,,1 Sets,"1,000"
+2015,Baruch,58,Lehman,279,04/10/2015,3,0,Neutral,"New York, NY",-,"1,000"
 2015,Baruch,58,Lasell,8486,04/18/2015,3,2,Home,,2 Sets,250
 2015,Baruch,58,Stevens,679,04/24/2015,0,3,Away,,-,423
 2015,Belmont Abbey,2683,Quincy,561,01/16/2015,1,3,Home,,1 Sets,200
@@ -170,8 +170,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Belmont Abbey,2683,Mount Olive,1245,04/18/2015,0,3,Away,,-,239
 2015,Benedictine (IL),296,Cardinal Stritch,,01/16/2015,3,1,Neutral,"Milwaukee,WI",1 Sets,101
 2015,Benedictine (IL),296,MSOE,20220,01/16/2015,1,3,Away,,1 Sets,238
-2015,Benedictine (IL),296,MSOE,20220,01/21/2015,2,3,Home,,2 Sets,190
 2015,Benedictine (IL),296,Loras,364,01/21/2015,3,0,Home,,-,213
+2015,Benedictine (IL),296,MSOE,20220,01/21/2015,2,3,Home,,2 Sets,190
 2015,Benedictine (IL),296,St. Xavier,,01/23/2015,1,3,Home,,1 Sets,367
 2015,Benedictine (IL),296,Juniata,325,01/30/2015,1,3,Neutral,"River Forest, Ill.",1 Sets,85
 2015,Benedictine (IL),296,Carthage,121,02/07/2015,1,3,Away,,1 Sets,333
@@ -191,8 +191,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Benedictine (IL),296,Dominican (IL),1332,03/25/2015,0,3,Away,,-,100
 2015,Benedictine (IL),296,Carthage,121,03/28/2015,0,3,Home,,-,143
 2015,Benedictine (IL),296,MSOE,20220,04/01/2015,0,3,Away,,-,118
-2015,Brooklyn,79,Kean,329,01/16/2015,0,3,Away,,-,79
 2015,Brooklyn,79,Endicott,8981,01/16/2015,0,3,Neutral,"Union, N.J.",-,67
+2015,Brooklyn,79,Kean,329,01/16/2015,0,3,Away,,-,79
 2015,Brooklyn,79,Johnson & Wales (RI),22626,01/17/2015,0,3,Neutral,"Union, N.J.",-,77
 2015,Brooklyn,79,Hunter,292,01/17/2015,0,3,Neutral,"Union, N.J.",-,50
 2015,Brooklyn,79,New Jersey City,319,01/31/2015,0,3,Neutral,"Newark, NJ",-,75
@@ -202,11 +202,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Brooklyn,79,Lehman,279,02/07/2015,0,3,Neutral,"New York, NY",-,189
 2015,Brooklyn,79,Baruch,58,02/07/2015,0,3,Neutral,"New York, NY",-,0
 2015,Brooklyn,79,St. Joseph's (Brkln),30072,02/11/2015,0,3,Away,,-,34
-2015,Brooklyn,79,Staten Island,675,02/16/2015,0,3,Neutral,"New York, NY",-,45
 2015,Brooklyn,79,John Jay,321,02/16/2015,0,3,Neutral,"New York, NY",-,75
+2015,Brooklyn,79,Staten Island,675,02/16/2015,0,3,Neutral,"New York, NY",-,45
 2015,Brooklyn,79,Lehman,279,02/19/2015,1,3,Home,,1 Sets,105
-2015,Brooklyn,79,Cairn,1305,02/28/2015,0,3,Away,,-,70
 2015,Brooklyn,79,SUNY New Paltz,475,02/28/2015,0,3,Neutral,"Langhorne, PA",-,20
+2015,Brooklyn,79,Cairn,1305,02/28/2015,0,3,Away,,-,70
 2015,Brooklyn,79,East. Mennonite,203,03/03/2015,0,3,Home,,-,95
 2015,Brooklyn,79,York (NY),2730,03/07/2015,0,3,Away,,-,100
 2015,Brooklyn,79,Hunter,292,03/07/2015,0,3,Neutral,"Jamaica, NY",-,0
@@ -247,18 +247,18 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,BYU,77,Hawaii,277,04/17/2015,3,1,Home,,1 Sets,"3,780"
 2015,BYU,77,Hawaii,277,04/18/2015,3,2,Home,,2 Sets,"2,953"
 2015,BYU,77,Southern California,657,04/25/2015,2,3,Away,,2 Sets,"2,000"
-2015,Cairn,1305,Johnson & Wales (RI),22626,01/23/2015,0,3,Away,,-,77
 2015,Cairn,1305,Lasell,8486,01/23/2015,0,3,Neutral,"Providence, R.I.",-,77
+2015,Cairn,1305,Johnson & Wales (RI),22626,01/23/2015,0,3,Away,,-,77
 2015,Cairn,1305,Lesley,24317,01/24/2015,3,0,Neutral,"Providence, R.I.",-,77
 2015,Cairn,1305,Purchase,30029,01/24/2015,3,0,Neutral,"Providence, R.I.",-,77
 2015,Cairn,1305,Stevens,679,01/28/2015,0,3,Away,,-,127
 2015,Cairn,1305,Hunter,292,01/29/2015,0,3,Home,,-,65
 2015,Cairn,1305,Southern Vt.,1379,01/30/2015,3,0,Home,,-,95
-2015,Cairn,1305,Lancaster Bible,30085,01/31/2015,3,0,Home,,-,65
 2015,Cairn,1305,York (NY),2730,01/31/2015,3,0,Home,,-,50
+2015,Cairn,1305,Lancaster Bible,30085,01/31/2015,3,0,Home,,-,65
 2015,Cairn,1305,East. Mennonite,203,02/06/2015,2,3,Home,,2 Sets,110
-2015,Cairn,1305,Bluefield Col.,,02/07/2015,3,0,Neutral,"Lancaster, Pa.",-,75
 2015,Cairn,1305,Lancaster Bible,30085,02/07/2015,3,0,Away,,-,135
+2015,Cairn,1305,Bluefield Col.,,02/07/2015,3,0,Neutral,"Lancaster, Pa.",-,75
 2015,Cairn,1305,Rutgers-Newark,589,02/10/2015,0,3,Away,,-,42
 2015,Cairn,1305,Stevenson,21852,02/13/2015,0,3,Away,,-,0
 2015,Cairn,1305,East. Mennonite,203,02/14/2015,2,3,Away,,2 Sets,197
@@ -318,12 +318,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Carthage,121,Dominican (IL),1332,03/04/2015,3,0,Away,,-,270
 2015,Carthage,121,Rivier,18422,03/07/2015,3,0,Home,,-,111
 2015,Carthage,121,MSOE,20220,03/10/2015,3,0,Home,,-,200
-2015,Carthage,121,Kean,329,03/13/2015,2,3,Home,,2 Sets,150
 2015,Carthage,121,Mt. St. Joseph,8567,03/13/2015,3,2,Home,,2 Sets,150
+2015,Carthage,121,Kean,329,03/13/2015,2,3,Home,,2 Sets,150
 2015,Carthage,121,Fontbonne,11538,03/14/2015,3,0,Home,,-,100
 2015,Carthage,121,SUNY New Paltz,475,03/18/2015,1,3,Home,,1 Sets,175
-2015,Carthage,121,Hilbert,8398,03/21/2015,3,0,Neutral,"Buffalo, NY",-,24
 2015,Carthage,121,Medaille,23725,03/21/2015,3,2,Away,,2 Sets,64
+2015,Carthage,121,Hilbert,8398,03/21/2015,3,0,Neutral,"Buffalo, NY",-,24
 2015,Carthage,121,NYU,479,03/22/2015,3,1,Neutral,"Buffalo, NY",-,30
 2015,Carthage,121,D'Youville,1059,03/22/2015,3,0,Away,,-,75
 2015,Carthage,121,Lakeland,1164,03/25/2015,3,2,Away,,2 Sets,142
@@ -334,8 +334,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,CCNY,480,Ramapo,564,01/25/2015,0,3,Away,,-,75
 2015,CCNY,480,Staten Island,675,01/25/2015,3,0,Neutral,"Mahwah, NJ",-,35
 2015,CCNY,480,Purchase,30029,02/05/2015,2,3,Home,,2 Sets,100
-2015,CCNY,480,Staten Island,675,02/07/2015,2,3,Neutral,"New York, NY",-,50
 2015,CCNY,480,John Jay,321,02/07/2015,0,3,Away,,-,65
+2015,CCNY,480,Staten Island,675,02/07/2015,2,3,Neutral,"New York, NY",-,50
 2015,CCNY,480,Hunter,292,02/11/2015,0,3,Away,,-,68
 2015,CCNY,480,Albertus Magnus,2798,02/13/2015,3,1,Home,,1 Sets,100
 2015,CCNY,480,York (NY),2730,02/16/2015,2,3,Neutral,"New York, NY",-,0
@@ -346,15 +346,15 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,CCNY,480,Rutgers-Newark,589,02/21/2015,0,3,Neutral,Bard College,-,25
 2015,CCNY,480,Medgar Evers,403,02/26/2015,3,0,Away,,-,35
 2015,CCNY,480,New Jersey City,319,03/03/2015,2,3,Away,,2 Sets,72
-2015,CCNY,480,Medgar Evers,403,03/07/2015,3,0,Neutral,"Brooklyn, NY",-,50
 2015,CCNY,480,Baruch,58,03/07/2015,0,3,Neutral,"Jamaica, NY",-,32
+2015,CCNY,480,Medgar Evers,403,03/07/2015,3,0,Neutral,"Brooklyn, NY",-,50
 2015,CCNY,480,Penn St.-Behrend,538,03/08/2015,0,3,Home,,-,50
 2015,CCNY,480,York (NY),2730,03/11/2015,1,3,Home,,1 Sets,50
 2015,CCNY,480,Brooklyn,79,03/14/2015,3,0,Away,,-,87
 2015,CCNY,480,Lehman,279,03/17/2015,0,3,Away,,-,189
 2015,CCNY,480,Baruch,58,03/19/2015,0,3,Home,,-,100
-2015,CCNY,480,Regis (MA),569,03/21/2015,0,3,Away,,-,44
 2015,CCNY,480,Newbury,21772,03/21/2015,0,3,Neutral,"Weston, Mass.",-,33
+2015,CCNY,480,Regis (MA),569,03/21/2015,0,3,Away,,-,44
 2015,CCNY,480,Staten Island,675,03/24/2015,3,1,Away,,1 Sets,74
 2015,CCNY,480,Brooklyn,79,03/28/2015,3,0,Home,,-,50
 2015,CCNY,480,Hunter,292,03/28/2015,1,3,Home,,1 Sets,50
@@ -439,19 +439,19 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,CSUN,101,BYU,77,04/10/2015,0,3,Home,,-,309
 2015,CSUN,101,BYU,77,04/11/2015,0,3,Home,,-,594
 2015,CSUN,101,Long Beach St.,99,04/18/2015,2,3,Away,,2 Sets,"1,102"
-2015,D'Youville,1059,Nazareth,461,01/23/2015,1,3,Neutral,"Marcy, N.Y.",-,67
 2015,D'Youville,1059,Elms,532,01/23/2015,3,2,Neutral,"Marcy, N.Y.",-,37
+2015,D'Youville,1059,Nazareth,461,01/23/2015,1,3,Neutral,"Marcy, N.Y.",-,67
 2015,D'Youville,1059,SUNY Poly,9500,01/24/2015,2,3,Away,,2 Sets,55
 2015,D'Youville,1059,Wells,761,01/24/2015,1,3,Neutral,"Marcy, N.Y.",-,38
 2015,D'Youville,1059,Penn St.-Behrend,538,01/27/2015,2,3,Home,,2 Sets,90
 2015,D'Youville,1059,Stevenson,21852,02/01/2015,3,2,Home,,2 Sets,65
 2015,D'Youville,1059,SUNY Poly,9500,02/13/2015,3,0,Neutral,"Buffalo, NY",-,47
 2015,D'Youville,1059,Wells,761,02/14/2015,3,0,Neutral,"Buffalo, NY",-,75
-2015,D'Youville,1059,Medaille,23725,02/22/2015,3,2,Home,,2 Sets,105
 2015,D'Youville,1059,Hilbert,8398,02/22/2015,3,2,Home,,2 Sets,85
+2015,D'Youville,1059,Medaille,23725,02/22/2015,3,2,Home,,2 Sets,105
 2015,D'Youville,1059,Keuka,1159,03/06/2015,3,2,Neutral,"Altoona, Pa.",2 Sets,31
-2015,D'Youville,1059,Lancaster Bible,30085,03/07/2015,3,0,Neutral,"Altoona, Pa.",-,22
 2015,D'Youville,1059,Penn St.-Altoona,25719,03/07/2015,3,1,Away,,1 Sets,53
+2015,D'Youville,1059,Lancaster Bible,30085,03/07/2015,3,0,Neutral,"Altoona, Pa.",-,22
 2015,D'Youville,1059,Wells,761,03/14/2015,3,2,Neutral,"Marcy, N.Y.",-,33
 2015,D'Youville,1059,SUNY Poly,9500,03/14/2015,3,0,Away,,-,38
 2015,D'Youville,1059,Penn St.-Behrend,538,03/17/2015,1,3,Away,,1 Sets,50
@@ -459,28 +459,28 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,D'Youville,1059,Medaille,23725,03/20/2015,0,3,Neutral,"Hamburg, NY",-,120
 2015,D'Youville,1059,NYU,479,03/21/2015,1,3,Home,,1 Sets,75
 2015,D'Youville,1059,Carthage,121,03/22/2015,0,3,Home,,-,75
-2015,D'Youville,1059,Penn St.-Altoona,25719,03/28/2015,1,3,Neutral,"Buffalo, NY",1 Sets,75
 2015,D'Youville,1059,Keuka,1159,03/28/2015,1,3,Neutral,"Buffalo, NY",1 Sets,90
+2015,D'Youville,1059,Penn St.-Altoona,25719,03/28/2015,1,3,Neutral,"Buffalo, NY",1 Sets,75
 2015,D'Youville,1059,Lancaster Bible,30085,03/29/2015,3,0,Neutral,"Buffalo, NY",-,45
 2015,D'Youville,1059,Nazareth,461,04/03/2015,0,3,Neutral,"Elmira, NY",-,43
 2015,D'Youville,1059,Elmira,213,04/03/2015,0,3,Away,,-,107
-2015,D'Youville,1059,UC Santa Cruz,113,04/04/2015,0,3,Neutral,"Elmira, NY",-,54
 2015,D'Youville,1059,Baruch,58,04/04/2015,0,3,Neutral,"Elmira, NY",-,28
+2015,D'Youville,1059,UC Santa Cruz,113,04/04/2015,0,3,Neutral,"Elmira, NY",-,54
 2015,D'Youville,1059,Wells,761,04/11/2015,3,0,Neutral,"Buffalo, N.Y.",-,125
 2015,D'Youville,1059,Medaille,23725,04/12/2015,0,3,Away,,-,187
-2015,Daniel Webster,2691,Kean,329,01/31/2015,0,3,Home,,-,62
 2015,Daniel Webster,2691,Johnson & Wales (RI),22626,01/31/2015,0,3,Home,,-,57
+2015,Daniel Webster,2691,Kean,329,01/31/2015,0,3,Home,,-,62
 2015,Daniel Webster,2691,Lasell,8486,02/01/2015,0,3,Home,,-,102
 2015,Daniel Webster,2691,Newbury,21772,02/14/2015,1,3,Away,,1 Sets,59
 2015,Daniel Webster,2691,Elms,532,02/17/2015,3,1,Away,,1 Sets,100
 2015,Daniel Webster,2691,Southern Vt.,1379,02/21/2015,0,3,Away,,-,53
 2015,Daniel Webster,2691,Regis (MA),569,02/25/2015,0,3,Away,,-,55
-2015,Daniel Webster,2691,Rivier,18422,02/28/2015,0,3,Away,,-,50
 2015,Daniel Webster,2691,Emerson,214,02/28/2015,1,3,Neutral,"Nashua, NH",1 Sets,50
+2015,Daniel Webster,2691,Rivier,18422,02/28/2015,0,3,Away,,-,50
 2015,Daniel Webster,2691,Lesley,24317,03/03/2015,3,1,Home,,1 Sets,89
 2015,Daniel Webster,2691,Endicott,8981,03/07/2015,0,3,Home,,-,57
-2015,Daniel Webster,2691,Wentworth,762,03/14/2015,0,3,Home,,-,81
 2015,Daniel Webster,2691,Elms,532,03/14/2015,3,2,Home,,2 Sets,87
+2015,Daniel Webster,2691,Wentworth,762,03/14/2015,0,3,Home,,-,81
 2015,Daniel Webster,2691,Newbury,21772,03/17/2015,3,2,Home,,2 Sets,94
 2015,Daniel Webster,2691,Southern Vt.,1379,03/19/2015,0,3,Home,,-,133
 2015,Daniel Webster,2691,Regis (MA),569,03/25/2015,1,3,Home,,1 Sets,88
@@ -496,11 +496,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Dominican (IL),1332,Mt. St. Joseph,8567,02/21/2015,3,0,Home,,-,155
 2015,Dominican (IL),1332,UC Santa Cruz,113,02/22/2015,1,3,Home,,1 Sets,95
 2015,Dominican (IL),1332,Carthage,121,02/25/2015,0,3,Away,,-,125
-2015,Dominican (IL),1332,MIT,398,02/28/2015,3,1,Home,,1 Sets,135
 2015,Dominican (IL),1332,Lakeland,1164,02/28/2015,3,2,Home,,2 Sets,105
+2015,Dominican (IL),1332,MIT,398,02/28/2015,3,1,Home,,1 Sets,135
 2015,Dominican (IL),1332,Carthage,121,03/04/2015,0,3,Home,,-,270
-2015,Dominican (IL),1332,Johnson & Wales (RI),22626,03/07/2015,3,1,Neutral,"Springfield, Mass.",1 Sets,50
 2015,Dominican (IL),1332,Springfield,673,03/07/2015,0,3,Away,,-,100
+2015,Dominican (IL),1332,Johnson & Wales (RI),22626,03/07/2015,3,1,Neutral,"Springfield, Mass.",1 Sets,50
 2015,Dominican (IL),1332,Lasell,8486,03/08/2015,3,0,Away,,-,52
 2015,Dominican (IL),1332,Endicott,8981,03/08/2015,3,0,Neutral,"Auburndale, Mass.",-,34
 2015,Dominican (IL),1332,MIT,398,03/10/2015,3,2,Away,,2 Sets,35
@@ -777,7 +777,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,George Mason,248,Princeton,554,04/24/2015,3,0,Home,,-,323
 2015,George Mason,248,NJIT,471,04/25/2015,3,1,Home,,1 Sets,0
 2015,George Mason,248,Harvard,275,04/29/2015,3,1,Neutral,"University Park, Pa.",1 Sets,0
-2015,George Mason,248,Penn St.,539,05/01/2015,0,0,Away,,-,0
+2015,George Mason,248,Penn St.,539,05/01/2015,0,3,Away,,-,721
 2015,Grand Canyon,1104,Southern California,657,01/07/2015,2,3,Home,,2 Sets,"2,549"
 2015,Grand Canyon,1104,UC San Diego,112,01/10/2015,2,3,Home,,2 Sets,282
 2015,Grand Canyon,1104,Hope Int'l,,01/15/2015,3,0,Home,,-,281
@@ -864,35 +864,36 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Hawaii,277,BYU,77,04/18/2015,2,3,Away,,2 Sets,"2,953"
 2015,Hawaii,277,Long Beach St.,99,04/25/2015,3,0,Home,,-,"6,846"
 2015,Hawaii,277,Pepperdine,541,04/30/2015,1,3,Neutral,"Irvine, Calif.",1 Sets,"1,254"
+2015,Hawaii,277,Penn St.,539,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Hilbert,8398,Marymount (VA),394,01/17/2015,0,3,Home,,-,60
-2015,Hilbert,8398,Hunter,292,01/23/2015,0,3,Neutral,Juniata,-,55
 2015,Hilbert,8398,Juniata,325,01/23/2015,0,3,Away,,-,150
+2015,Hilbert,8398,Hunter,292,01/23/2015,0,3,Neutral,Juniata,-,55
 2015,Hilbert,8398,Thiel,707,01/24/2015,0,3,Neutral,Juniata College,-,0
 2015,Hilbert,8398,Stevenson,21852,01/31/2015,0,3,Neutral,"Buffalo, N.Y.",-,47
-2015,Hilbert,8398,Nazareth,461,02/06/2015,0,3,Away,,-,104
 2015,Hilbert,8398,Ramapo,564,02/06/2015,1,3,Neutral,Nazareth College,1 Sets,18
+2015,Hilbert,8398,Nazareth,461,02/06/2015,0,3,Away,,-,104
 2015,Hilbert,8398,Thiel,707,02/07/2015,0,3,Neutral,Nazareth College,-,20
 2015,Hilbert,8398,Wells,761,02/07/2015,1,3,Neutral,"Rochester, NY",1 Sets,23
 2015,Hilbert,8398,Wells,761,02/13/2015,1,3,Neutral,"Buffalo, NY",1 Sets,43
 2015,Hilbert,8398,SUNY Poly,9500,02/14/2015,2,3,Neutral,"Buffalo, NY",2 Sets,60
 2015,Hilbert,8398,Penn St.-Behrend,538,02/17/2015,1,3,Home,,-,105
-2015,Hilbert,8398,Medaille,23725,02/22/2015,0,3,Neutral,"Buffalo, NY",-,95
 2015,Hilbert,8398,D'Youville,1059,02/22/2015,2,3,Away,,2 Sets,85
+2015,Hilbert,8398,Medaille,23725,02/22/2015,0,3,Neutral,"Buffalo, NY",-,95
 2015,Hilbert,8398,Penn St.-Behrend,538,03/03/2015,0,3,Away,,-,50
 2015,Hilbert,8398,Lancaster Bible,30085,03/06/2015,3,0,Neutral,"Altoona, Pa.",-,36
-2015,Hilbert,8398,Keuka,1159,03/07/2015,0,3,Neutral,"Altoona, Pa.",-,13
 2015,Hilbert,8398,Penn St.-Altoona,25719,03/07/2015,1,3,Away,,1 Sets,71
+2015,Hilbert,8398,Keuka,1159,03/07/2015,0,3,Neutral,"Altoona, Pa.",-,13
 2015,Hilbert,8398,Wells,761,03/14/2015,1,3,Neutral,"Marcy, N.Y.",-,40
 2015,Hilbert,8398,SUNY Poly,9500,03/15/2015,0,3,Away,,-,58
 2015,Hilbert,8398,D'Youville,1059,03/20/2015,0,3,Home,,-,95
 2015,Hilbert,8398,Medaille,23725,03/20/2015,0,3,Home,,-,135
 2015,Hilbert,8398,NYU,479,03/21/2015,0,3,Neutral,"Buffalo, NY",-,65
 2015,Hilbert,8398,Carthage,121,03/21/2015,0,3,Neutral,"Buffalo, NY",-,24
-2015,Hilbert,8398,Keuka,1159,03/28/2015,0,3,Neutral,"Buffalo, NY",-,65
 2015,Hilbert,8398,Lancaster Bible,30085,03/28/2015,3,0,Neutral,"Buffalo, NY",-,65
+2015,Hilbert,8398,Keuka,1159,03/28/2015,0,3,Neutral,"Buffalo, NY",-,65
 2015,Hilbert,8398,Penn St.-Altoona,25719,03/29/2015,3,2,Neutral,"Buffalo, NY",2 Sets,75
-2015,Hilbert,8398,East. Mennonite,203,04/04/2015,1,3,Neutral,Juniata College,1 Sets,50
 2015,Hilbert,8398,Juniata,325,04/04/2015,0,3,Away,,-,450
+2015,Hilbert,8398,East. Mennonite,203,04/04/2015,1,3,Neutral,Juniata College,1 Sets,50
 2015,Holy Names,30175,California Baptist,30135,01/09/2015,0,3,Home,,-,60
 2015,Holy Names,30175,UC Santa Cruz,113,01/16/2015,0,3,Away,,-,130
 2015,Holy Names,30175,UC Merced,,01/21/2015,3,1,Away,,-,50
@@ -909,26 +910,26 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Holy Names,30175,North Greenville,9223,03/10/2015,2,3,Away,,2 Sets,25
 2015,Holy Names,30175,UC Santa Cruz,113,03/28/2015,1,3,Home,,1 Sets,125
 2015,Hunter,292,Johnson & Wales (RI),22626,01/16/2015,0,3,Neutral,"Union, N.J.",-,15
-2015,Hunter,292,Elmira,213,01/17/2015,0,3,Neutral,"Union, N.J.",-,77
 2015,Hunter,292,Brooklyn,79,01/17/2015,3,0,Neutral,"Union, N.J.",-,50
-2015,Hunter,292,Hilbert,8398,01/23/2015,3,0,Neutral,Juniata,-,55
+2015,Hunter,292,Elmira,213,01/17/2015,0,3,Neutral,"Union, N.J.",-,77
 2015,Hunter,292,Thiel,707,01/23/2015,1,3,Neutral,Juniata College,1 Sets,"1,000"
+2015,Hunter,292,Hilbert,8398,01/23/2015,3,0,Neutral,Juniata,-,55
 2015,Hunter,292,Juniata,325,01/24/2015,2,3,Away,,2 Sets,400
 2015,Hunter,292,Cairn,1305,01/29/2015,3,0,Away,,-,65
 2015,Hunter,292,NYU,479,02/02/2015,0,3,Home,,-,134
 2015,Hunter,292,Medgar Evers,403,02/07/2015,3,0,Neutral,"New York, NY",-,15
 2015,Hunter,292,John Jay,321,02/07/2015,3,0,Away,,-,80
 2015,Hunter,292,CCNY,480,02/11/2015,3,0,Home,,-,68
-2015,Hunter,292,Wentworth,762,02/14/2015,0,3,Neutral,"Springfield, Mass.",-,70
 2015,Hunter,292,Springfield,673,02/14/2015,0,3,Away,,-,150
-2015,Hunter,292,Lehman,279,02/16/2015,3,0,Home,,-,126
+2015,Hunter,292,Wentworth,762,02/14/2015,0,3,Neutral,"Springfield, Mass.",-,70
 2015,Hunter,292,Baruch,58,02/16/2015,3,2,Home,,2 Sets,134
+2015,Hunter,292,Lehman,279,02/16/2015,3,0,Home,,-,126
 2015,Hunter,292,York (NY),2730,02/19/2015,3,0,Away,,-,50
 2015,Hunter,292,John Jay,321,02/26/2015,3,0,Home,,-,123
 2015,Hunter,292,Medgar Evers,403,03/04/2015,3,0,Home,,-,111
 2015,Hunter,292,Vassar,737,03/04/2015,2,3,Home,,2 Sets,123
-2015,Hunter,292,Brooklyn,79,03/07/2015,3,0,Neutral,"Jamaica, NY",-,0
 2015,Hunter,292,Staten Island,675,03/07/2015,3,0,Neutral,"Jamaica, NY",-,0
+2015,Hunter,292,Brooklyn,79,03/07/2015,3,0,Neutral,"Jamaica, NY",-,0
 2015,Hunter,292,Ramapo,564,03/10/2015,3,2,Away,,2 Sets,105
 2015,Hunter,292,Lehman,279,03/12/2015,3,0,Away,,-,109
 2015,Hunter,292,Stevens,679,03/14/2015,0,3,Home,,-,111
@@ -973,8 +974,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,IPFW,308,Grand Canyon,1104,04/17/2015,0,3,Away,,-,311
 2015,IPFW,308,Grand Canyon,1104,04/18/2015,3,2,Away,,2 Sets,401
 2015,IPFW,308,Lindenwood (MO),30136,04/24/2015,2,3,Home,,2 Sets,547
-2015,John Jay,321,CCNY,480,02/07/2015,3,0,Home,,-,65
 2015,John Jay,321,Hunter,292,02/07/2015,0,3,Home,,-,80
+2015,John Jay,321,CCNY,480,02/07/2015,3,0,Home,,-,65
 2015,John Jay,321,Medgar Evers,403,02/11/2015,3,0,Away,,-,30
 2015,John Jay,321,Purchase,30029,02/14/2015,2,3,Away,,-,54
 2015,John Jay,321,York (NY),2730,02/16/2015,0,3,Neutral,"New York, NY",-,0
@@ -992,19 +993,19 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,John Jay,321,St. Joseph's (Brkln),30072,03/21/2015,3,0,Home,,-,25
 2015,John Jay,321,Baruch,58,03/24/2015,0,3,Away,,-,67
 2015,John Jay,321,New Jersey City,319,03/26/2015,0,3,Away,,-,43
-2015,John Jay,321,Staten Island,675,03/28/2015,3,0,Home,,-,45
 2015,John Jay,321,Baruch,58,03/28/2015,0,3,Home,,-,52
+2015,John Jay,321,Staten Island,675,03/28/2015,3,0,Home,,-,45
 2015,John Jay,321,Brooklyn,79,03/31/2015,3,0,Away,,-,75
 2015,John Jay,321,Lehman,279,04/07/2015,1,3,Home,,1 Sets,150
 2015,Johnson & Wales (RI),22626,Hunter,292,01/16/2015,3,0,Neutral,"Union, N.J.",-,15
 2015,Johnson & Wales (RI),22626,Brooklyn,79,01/17/2015,3,0,Neutral,"Union, N.J.",-,77
 2015,Johnson & Wales (RI),22626,Kean,329,01/17/2015,1,3,Away,,1 Sets,75
-2015,Johnson & Wales (RI),22626,Purchase,30029,01/23/2015,3,0,Home,,-,77
 2015,Johnson & Wales (RI),22626,Cairn,1305,01/23/2015,3,0,Home,,-,77
-2015,Johnson & Wales (RI),22626,Keuka,1159,01/24/2015,3,0,Home,,-,77
+2015,Johnson & Wales (RI),22626,Purchase,30029,01/23/2015,3,0,Home,,-,77
 2015,Johnson & Wales (RI),22626,Lesley,24317,01/24/2015,3,0,Home,,-,77
-2015,Johnson & Wales (RI),22626,Daniel Webster,2691,01/31/2015,3,0,Away,,-,57
+2015,Johnson & Wales (RI),22626,Keuka,1159,01/24/2015,3,0,Home,,-,77
 2015,Johnson & Wales (RI),22626,Endicott,8981,01/31/2015,3,0,Neutral,"Nashua, NH",-,52
+2015,Johnson & Wales (RI),22626,Daniel Webster,2691,01/31/2015,3,0,Away,,-,57
 2015,Johnson & Wales (RI),22626,Newbury,21772,02/01/2015,3,0,Neutral,"Nashua, NH",-,47
 2015,Johnson & Wales (RI),22626,MIT,398,02/05/2015,0,3,Home,,-,77
 2015,Johnson & Wales (RI),22626,Albertus Magnus,2798,02/08/2015,3,0,Away,,-,100
@@ -1013,12 +1014,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Johnson & Wales (RI),22626,Lasell,8486,02/21/2015,0,3,Away,,-,76
 2015,Johnson & Wales (RI),22626,Wentworth,762,02/23/2015,2,3,Home,,2 Sets,77
 2015,Johnson & Wales (RI),22626,Emerson,214,02/26/2015,3,0,Away,,-,75
-2015,Johnson & Wales (RI),22626,Dominican (IL),1332,03/07/2015,1,3,Neutral,"Springfield, Mass.",1 Sets,50
 2015,Johnson & Wales (RI),22626,Springfield,673,03/07/2015,0,3,Away,,-,180
+2015,Johnson & Wales (RI),22626,Dominican (IL),1332,03/07/2015,1,3,Neutral,"Springfield, Mass.",1 Sets,50
 2015,Johnson & Wales (RI),22626,Regis (MA),569,03/14/2015,3,0,Home,,-,57
 2015,Johnson & Wales (RI),22626,Sage Colleges,11036,03/14/2015,3,0,Home,,-,57
-2015,Johnson & Wales (RI),22626,Rivier,18422,03/21/2015,2,3,Home,,2 Sets,75
 2015,Johnson & Wales (RI),22626,Lasell,8486,03/21/2015,3,1,Home,,1 Sets,75
+2015,Johnson & Wales (RI),22626,Rivier,18422,03/21/2015,2,3,Home,,2 Sets,75
 2015,Johnson & Wales (RI),22626,Emmanuel (MA),215,03/26/2015,3,2,Home,,2 Sets,85
 2015,Johnson & Wales (RI),22626,Wentworth,762,03/28/2015,0,3,Away,,-,213
 2015,Johnson & Wales (RI),22626,Emerson,214,03/28/2015,3,1,Neutral,"Boston, Mass.",1 Sets,118
@@ -1035,8 +1036,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Juniata,325,Benedictine (IL),296,01/30/2015,3,1,Neutral,"River Forest, Ill.",1 Sets,85
 2015,Juniata,325,Carthage,121,01/31/2015,3,2,Away,,2 Sets,150
 2015,Juniata,325,Kean,329,02/06/2015,2,3,Away,,2 Sets,333
-2015,Juniata,325,Lasell,8486,02/07/2015,3,0,Neutral,"Union, N.J.",-,111
 2015,Juniata,325,Stevens,679,02/07/2015,0,3,Neutral,"Union, N.J.",-,222
+2015,Juniata,325,Lasell,8486,02/07/2015,3,0,Neutral,"Union, N.J.",-,111
 2015,Juniata,325,Thiel,707,02/10/2015,3,0,Away,,-,150
 2015,Juniata,325,Marymount (VA),394,02/14/2015,3,0,Home,,-,375
 2015,Juniata,325,Cairn,1305,02/18/2015,3,1,Away,,1 Sets,75
@@ -1337,7 +1338,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Lewis,354,McKendree,30138,04/18/2015,3,1,Home,,1 Sets,687
 2015,Lewis,354,Grand Canyon,1104,04/25/2015,3,0,Home,,-,478
 2015,Lewis,354,Lindenwood (MO),30136,04/28/2015,3,0,Home,,-,410
-2015,Lewis,354,Loyola Chicago,371,05/01/2015,0,0,Home,,-,0
+2015,Lewis,354,Loyola Chicago,371,05/01/2015,1,3,Home,,1 Sets,"1,200"
 2015,Limestone,1174,Long Beach St.,99,01/09/2015,0,3,Neutral,"Santa Barbara, Calif",-,75
 2015,Limestone,1174,UC Santa Barbara,104,01/09/2015,0,3,Away,,-,155
 2015,Limestone,1174,UCLA,110,01/10/2015,0,3,Neutral,"Santa Barbara, Calif",-,280
@@ -1469,9 +1470,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Loyola Chicago,371,Ohio St.,518,04/18/2015,3,0,Home,,-,"1,877"
 2015,Loyola Chicago,371,Quincy,561,04/24/2015,3,0,Home,,-,311
 2015,Loyola Chicago,371,Ohio St.,518,04/29/2015,3,1,Home,,1 Sets,714
-2015,Loyola Chicago,371,Lewis,354,05/01/2015,0,0,Away,,-,0
-2015,Marymount (VA),394,Nazareth,461,01/17/2015,1,3,Away,,1 Sets,598
+2015,Loyola Chicago,371,Lewis,354,05/01/2015,3,1,Away,,1 Sets,"1,200"
+2015,Loyola Chicago,371,Pfeiffer,542,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Marymount (VA),394,Hilbert,8398,01/17/2015,3,0,Away,,-,60
+2015,Marymount (VA),394,Nazareth,461,01/17/2015,1,3,Away,,1 Sets,598
 2015,Marymount (VA),394,MSOE,20220,01/24/2015,0,3,Neutral,Mount St. Joseph,-,150
 2015,Marymount (VA),394,Mt. St. Joseph,8567,01/24/2015,0,3,Away,,-,200
 2015,Marymount (VA),394,Lakeland,1164,01/25/2015,1,3,Neutral,"Cincinnati, OH",1 Sets,0
@@ -1488,8 +1490,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Marymount (VA),394,Juniata,325,02/28/2015,1,3,Home,,1 Sets,311
 2015,Marymount (VA),394,Ramapo,564,03/04/2015,3,1,Neutral,"Owings Mills, Md.",1 Sets,0
 2015,Marymount (VA),394,Stevenson,21852,03/04/2015,0,3,Away,,-,52
-2015,Marymount (VA),394,Holy Names,30175,03/07/2015,3,0,Neutral,"Hartsville, S.C.",-,13
 2015,Marymount (VA),394,Emmanuel (GA),30193,03/07/2015,3,2,Neutral,"Hartsville, S.C.",2 Sets,45
+2015,Marymount (VA),394,Holy Names,30175,03/07/2015,3,0,Neutral,"Hartsville, S.C.",-,13
 2015,Marymount (VA),394,Sacred Heart,590,03/08/2015,0,3,Neutral,"Hartsville, S.C.",-,11
 2015,Marymount (VA),394,Coker,1023,03/08/2015,1,3,Away,,1 Sets,89
 2015,Marymount (VA),394,Mount Olive,1245,03/10/2015,0,3,Away,,-,136
@@ -1507,8 +1509,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,McKendree,30138,Ohio St.,518,01/02/2015,1,3,Away,,1 Sets,518
 2015,McKendree,30138,Ohio St.,518,01/03/2015,1,3,Away,,1 Sets,251
 2015,McKendree,30138,Grand View,,01/09/2015,1,3,Home,,1 Sets,202
-2015,McKendree,30138,Graceland (IA),,01/23/2015,3,2,Neutral,"Parkville, MO",2 Sets,35
 2015,McKendree,30138,Culver-Stockton,,01/23/2015,0,3,Neutral,"Parkville, MO",-,40
+2015,McKendree,30138,Graceland (IA),,01/23/2015,3,2,Neutral,"Parkville, MO",2 Sets,35
 2015,McKendree,30138,Morningside,,01/24/2015,3,1,Neutral,"Parkville, MO",1 Sets,38
 2015,McKendree,30138,Clarke,,01/24/2015,1,3,Neutral,"Parkville, MO",1 Sets,45
 2015,McKendree,30138,Mo. Baptist,,01/27/2015,3,1,Home,,1 Sets,167
@@ -1536,23 +1538,23 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,McKendree,30138,Lewis,354,04/18/2015,1,3,Away,,1 Sets,687
 2015,Medaille,23725,Mt. St. Joseph,8567,01/24/2015,1,3,Away,,1 Sets,300
 2015,Medaille,23725,Lakeland,1164,01/24/2015,1,3,Neutral,"Cincinnati, Ohio",1 Sets,0
-2015,Medaille,23725,Marymount (VA),394,01/25/2015,1,3,Neutral,"Cincinnati, OH",1 Sets,0
 2015,Medaille,23725,MSOE,20220,01/25/2015,0,3,Neutral,Mount St. Joseph,-,150
+2015,Medaille,23725,Marymount (VA),394,01/25/2015,1,3,Neutral,"Cincinnati, OH",1 Sets,0
 2015,Medaille,23725,Stevenson,21852,01/31/2015,0,3,Home,,-,92
 2015,Medaille,23725,UC Santa Cruz,113,02/06/2015,0,3,Neutral,Nazareth College,-,70
 2015,Medaille,23725,Wells,761,02/06/2015,3,0,Neutral,Nazareth College,-,59
-2015,Medaille,23725,Elmira,213,02/07/2015,2,3,Neutral,Nazareth College,2 Sets,85
 2015,Medaille,23725,Nazareth,461,02/07/2015,3,1,Away,,1 Sets,367
-2015,Medaille,23725,Wells,761,02/14/2015,3,0,Home,,-,65
+2015,Medaille,23725,Elmira,213,02/07/2015,2,3,Neutral,Nazareth College,2 Sets,85
 2015,Medaille,23725,SUNY Poly,9500,02/14/2015,3,0,Home,,-,75
-2015,Medaille,23725,Nazareth,461,02/21/2015,0,3,Away,,-,243
+2015,Medaille,23725,Wells,761,02/14/2015,3,0,Home,,-,65
 2015,Medaille,23725,Elmira,213,02/21/2015,1,3,Neutral,Nazareth College,1 Sets,113
-2015,Medaille,23725,D'Youville,1059,02/22/2015,2,3,Away,,2 Sets,105
+2015,Medaille,23725,Nazareth,461,02/21/2015,0,3,Away,,-,243
 2015,Medaille,23725,Hilbert,8398,02/22/2015,3,0,Neutral,"Buffalo, NY",-,95
+2015,Medaille,23725,D'Youville,1059,02/22/2015,2,3,Away,,2 Sets,105
 2015,Medaille,23725,Penn St.-Behrend,538,02/26/2015,3,0,Away,,-,67
 2015,Medaille,23725,Penn St.-Altoona,25719,03/06/2015,3,1,Away,,1 Sets,26
-2015,Medaille,23725,Lancaster Bible,30085,03/07/2015,3,0,Neutral,"Altoona, Pa.",-,22
 2015,Medaille,23725,Keuka,1159,03/07/2015,3,0,Neutral,"Altoona, Pa.",-,46
+2015,Medaille,23725,Lancaster Bible,30085,03/07/2015,3,0,Neutral,"Altoona, Pa.",-,22
 2015,Medaille,23725,SUNY Poly,9500,03/14/2015,3,1,Away,,1 Sets,46
 2015,Medaille,23725,Wells,761,03/15/2015,3,0,Neutral,"Marcy, N.Y.",-,30
 2015,Medaille,23725,Hilbert,8398,03/20/2015,3,0,Away,,-,135
@@ -1570,12 +1572,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Medgar Evers,403,St. Joseph's (Brkln),30072,01/30/2015,2,3,Away,,-,50
 2015,Medgar Evers,403,Bard,962,01/31/2015,0,3,Home,,-,50
 2015,Medgar Evers,403,Yeshiva,814,02/04/2015,0,3,Away,,-,121
-2015,Medgar Evers,403,York (NY),2730,02/07/2015,0,3,Neutral,"New York, NY",-,25
 2015,Medgar Evers,403,Hunter,292,02/07/2015,0,3,Neutral,"New York, NY",-,15
+2015,Medgar Evers,403,York (NY),2730,02/07/2015,0,3,Neutral,"New York, NY",-,25
 2015,Medgar Evers,403,John Jay,321,02/11/2015,0,3,Home,,-,30
 2015,Medgar Evers,403,Vassar,737,02/12/2015,0,3,Away,,-,32
-2015,Medgar Evers,403,Baruch,58,02/16/2015,0,3,Neutral,"New York, NY",-,35
 2015,Medgar Evers,403,Staten Island,675,02/16/2015,0,3,Neutral,"New York, NY",-,35
+2015,Medgar Evers,403,Baruch,58,02/16/2015,0,3,Neutral,"New York, NY",-,35
 2015,Medgar Evers,403,Pratt,,02/19/2015,1,3,Home,,-,40
 2015,Medgar Evers,403,St. Joseph's (Brkln),30072,02/24/2015,0,3,Home,,-,30
 2015,Medgar Evers,403,CCNY,480,02/26/2015,0,3,Home,,-,35
@@ -1595,27 +1597,27 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Medgar Evers,403,Baruch,58,04/07/2015,0,3,Away,,-,55
 2015,MIT,398,Emerson,214,01/23/2015,3,1,Away,,1 Sets,55
 2015,MIT,398,Bard,962,01/29/2015,3,0,Away,,-,65
-2015,MIT,398,Regis (MA),569,01/31/2015,3,0,Home,,-,40
 2015,MIT,398,Wentworth,762,01/31/2015,3,1,Home,,1 Sets,75
+2015,MIT,398,Regis (MA),569,01/31/2015,3,0,Home,,-,40
 2015,MIT,398,Harvard,275,02/03/2015,0,3,Away,,-,108
 2015,MIT,398,Johnson & Wales (RI),22626,02/05/2015,3,0,Away,,-,77
-2015,MIT,398,Newbury,21772,02/07/2015,3,0,Home,,-,33
 2015,MIT,398,Emerson,214,02/07/2015,3,0,Home,,-,30
+2015,MIT,398,Newbury,21772,02/07/2015,3,0,Home,,-,33
 2015,MIT,398,SUNY New Paltz,475,02/14/2015,0,3,Neutral,"Erie, Pa.",-,50
 2015,MIT,398,Penn St.-Behrend,538,02/14/2015,3,1,Away,,1 Sets,78
 2015,MIT,398,Southern Vt.,1379,02/17/2015,3,1,Home,,1 Sets,35
 2015,MIT,398,Mount Ida,27901,02/18/2015,3,0,Away,,-,68
 2015,MIT,398,Endicott,8981,02/25/2015,3,2,Away,,2 Sets,195
 2015,MIT,398,Benedictine (IL),296,02/27/2015,3,1,Away,,1 Sets,103
-2015,MIT,398,Lakeland,1164,02/28/2015,3,0,Neutral,"River Forest, Ill.",-,120
 2015,MIT,398,Dominican (IL),1332,02/28/2015,1,3,Away,,1 Sets,135
+2015,MIT,398,Lakeland,1164,02/28/2015,3,0,Neutral,"River Forest, Ill.",-,120
 2015,MIT,398,Springfield,673,03/03/2015,1,3,Home,,1 Sets,55
-2015,MIT,398,Elmira,213,03/07/2015,0,3,Home,,-,33
 2015,MIT,398,Stevens,679,03/07/2015,0,3,Home,,-,75
+2015,MIT,398,Elmira,213,03/07/2015,0,3,Home,,-,33
 2015,MIT,398,Dominican (IL),1332,03/10/2015,2,3,Home,,2 Sets,35
 2015,MIT,398,Elms,532,03/12/2015,3,0,Home,,-,20
-2015,MIT,398,Lasell,8486,03/14/2015,2,3,Home,,2 Sets,35
 2015,MIT,398,Vassar,737,03/14/2015,2,3,Home,,2 Sets,55
+2015,MIT,398,Lasell,8486,03/14/2015,2,3,Home,,2 Sets,35
 2015,MIT,398,Emmanuel (MA),215,03/18/2015,3,0,Home,,-,50
 2015,MIT,398,NYU,479,03/28/2015,1,3,Away,,1 Sets,132
 2015,MIT,398,Nazareth,461,03/28/2015,1,3,Neutral,"New York, NY",1 Sets,81
@@ -1708,8 +1710,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mt. St. Joseph,8567,Marymount (VA),394,01/24/2015,3,0,Home,,-,200
 2015,Mt. St. Joseph,8567,MSOE,20220,01/25/2015,2,3,Home,,2 Sets,150
 2015,Mt. St. Joseph,8567,Lakeland,1164,01/25/2015,3,1,Home,,1 Sets,175
-2015,Mt. St. Joseph,8567,Nazareth,461,01/31/2015,0,3,Neutral,"Greenville, Pa.",-,25
 2015,Mt. St. Joseph,8567,Thiel,707,01/31/2015,3,0,Away,,-,100
+2015,Mt. St. Joseph,8567,Nazareth,461,01/31/2015,0,3,Neutral,"Greenville, Pa.",-,25
 2015,Mt. St. Joseph,8567,Elmira,213,02/01/2015,3,0,Neutral,"Greenville, Pa.",-,75
 2015,Mt. St. Joseph,8567,Lakeland,1164,02/06/2015,3,1,Away,,1 Sets,278
 2015,Mt. St. Joseph,8567,MSOE,20220,02/07/2015,3,0,Away,,-,188
@@ -1722,8 +1724,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mt. St. Joseph,8567,Fontbonne,11538,03/06/2015,3,0,Away,,-,95
 2015,Mt. St. Joseph,8567,Lindenwood (MO),30136,03/07/2015,0,3,Away,,-,108
 2015,Mt. St. Joseph,8567,Charleston (WV),1013,03/09/2015,3,1,Home,,1 Sets,70
-2015,Mt. St. Joseph,8567,Kean,329,03/13/2015,0,3,Neutral,"Kenosha, Wis.",-,150
 2015,Mt. St. Joseph,8567,Carthage,121,03/13/2015,2,3,Away,,2 Sets,150
+2015,Mt. St. Joseph,8567,Kean,329,03/13/2015,0,3,Neutral,"Kenosha, Wis.",-,150
 2015,Mt. St. Joseph,8567,Loras,364,03/14/2015,3,1,Away,,1 Sets,64
 2015,Mt. St. Joseph,8567,Benedictine (IL),296,03/20/2015,3,0,Home,,-,100
 2015,Mt. St. Joseph,8567,Dominican (IL),1332,03/21/2015,3,2,Home,,2 Sets,130
@@ -1731,25 +1733,25 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mt. St. Joseph,8567,MSOE,20220,03/29/2015,3,0,Home,,-,250
 2015,Mt. St. Joseph,8567,Dominican (IL),1332,04/10/2015,3,2,Neutral,"Kenosha, Wis.",-,150
 2015,Mt. St. Joseph,8567,Carthage,121,04/11/2015,0,3,Away,,-,205
-2015,Mt. St. Vincent,451,Albertus Magnus,2798,01/24/2015,3,1,Home,,1 Sets,55
 2015,Mt. St. Vincent,451,Southern Vt.,1379,01/24/2015,0,3,Home,,-,55
+2015,Mt. St. Vincent,451,Albertus Magnus,2798,01/24/2015,3,1,Home,,1 Sets,55
 2015,Mt. St. Vincent,451,Lehman,279,01/30/2015,3,0,Home,,-,75
 2015,Mt. St. Vincent,451,York (NY),2730,02/04/2015,3,0,Home,,-,77
 2015,Mt. St. Vincent,451,Sage Colleges,11036,02/14/2015,3,0,Away,,-,65
 2015,Mt. St. Vincent,451,New Jersey City,319,02/14/2015,0,3,Neutral,"Albany, NY",-,60
 2015,Mt. St. Vincent,451,Culinary,,02/16/2015,3,0,Home,,-,37
-2015,Mt. St. Vincent,451,Bard,962,02/20/2015,3,0,Away,,-,40
 2015,Mt. St. Vincent,451,Rutgers-Newark,589,02/20/2015,0,3,Neutral,Bard College,-,40
+2015,Mt. St. Vincent,451,Bard,962,02/20/2015,3,0,Away,,-,40
 2015,Mt. St. Vincent,451,Vassar,737,02/21/2015,0,3,Neutral,Bard College,-,40
 2015,Mt. St. Vincent,451,Staten Island,675,02/23/2015,3,0,Home,,-,35
-2015,Mt. St. Vincent,451,Purchase,30029,02/28/2015,3,0,Home,,-,60
 2015,Mt. St. Vincent,451,Ramapo,564,02/28/2015,0,3,Home,,-,65
+2015,Mt. St. Vincent,451,Purchase,30029,02/28/2015,3,0,Home,,-,60
 2015,Mt. St. Vincent,451,Sarah Lawrence,30163,03/01/2015,3,0,Away,,-,20
 2015,Mt. St. Vincent,451,Yeshiva,814,03/01/2015,3,0,Neutral,"Bronxville, N.Y.",-,25
-2015,Mt. St. Vincent,451,Kean,329,03/07/2015,1,3,Neutral,"Purchase, NY",-,95
 2015,Mt. St. Vincent,451,Purchase,30029,03/07/2015,3,1,Away,,-,88
-2015,Mt. St. Vincent,451,New Jersey City,319,03/08/2015,3,1,Neutral,"Mahwah, NJ",1 Sets,103
+2015,Mt. St. Vincent,451,Kean,329,03/07/2015,1,3,Neutral,"Purchase, NY",-,95
 2015,Mt. St. Vincent,451,Ramapo,564,03/08/2015,0,3,Away,,-,120
+2015,Mt. St. Vincent,451,New Jersey City,319,03/08/2015,3,1,Neutral,"Mahwah, NJ",1 Sets,103
 2015,Mt. St. Vincent,451,Medgar Evers,403,03/18/2015,3,0,Home,,-,20
 2015,Mt. St. Vincent,451,Lehman,279,03/20/2015,2,3,Away,,2 Sets,110
 2015,Mt. St. Vincent,451,Yeshiva,814,03/22/2015,3,0,Neutral,"Union, N.J.",-,65
@@ -1759,32 +1761,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mt. St. Vincent,451,CCNY,480,03/31/2015,3,0,Home,,-,65
 2015,Mt. St. Vincent,451,Kean,329,04/09/2015,0,3,Away,,-,134
 2015,Nazareth,461,Marymount (VA),394,01/17/2015,3,1,Home,,1 Sets,598
-2015,Nazareth,461,D'Youville,1059,01/23/2015,3,1,Neutral,"Marcy, N.Y.",-,67
 2015,Nazareth,461,Elms,532,01/23/2015,3,0,Neutral,"Marcy, N.Y.",-,56
+2015,Nazareth,461,D'Youville,1059,01/23/2015,3,1,Neutral,"Marcy, N.Y.",-,67
 2015,Nazareth,461,Wentworth,762,01/24/2015,3,0,Neutral,"Marcy, N.Y.",-,50
 2015,Nazareth,461,Vassar,737,01/24/2015,3,2,Neutral,"Marcy, N.Y.",2 Sets,54
 2015,Nazareth,461,Mt. St. Joseph,8567,01/31/2015,3,0,Neutral,"Greenville, Pa.",-,25
 2015,Nazareth,461,Fontbonne,11538,01/31/2015,3,0,Neutral,"Greenville, Pa.",-,0
 2015,Nazareth,461,Lakeland,1164,02/01/2015,3,2,Neutral,"Greenville, Pa.",-,0
-2015,Nazareth,461,Hilbert,8398,02/06/2015,3,0,Home,,-,104
 2015,Nazareth,461,UC Santa Cruz,113,02/06/2015,3,0,Home,,-,376
+2015,Nazareth,461,Hilbert,8398,02/06/2015,3,0,Home,,-,104
 2015,Nazareth,461,Ramapo,564,02/07/2015,3,0,Home,,-,219
 2015,Nazareth,461,Medaille,23725,02/07/2015,1,3,Home,,1 Sets,367
-2015,Nazareth,461,Stevens,679,02/14/2015,1,3,Home,,1 Sets,318
 2015,Nazareth,461,Bard,962,02/14/2015,3,0,Home,,-,67
+2015,Nazareth,461,Stevens,679,02/14/2015,1,3,Home,,1 Sets,318
 2015,Nazareth,461,Ramapo,564,02/21/2015,3,0,Home,,-,62
 2015,Nazareth,461,Medaille,23725,02/21/2015,3,0,Home,,-,243
 2015,Nazareth,461,Elmira,213,02/25/2015,2,3,Away,,2 Sets,157
-2015,Nazareth,461,Wells,761,02/27/2015,3,0,Neutral,"Elmira, NY",-,32
 2015,Nazareth,461,SUNY Poly,9500,02/27/2015,3,0,Neutral,"Elmira, NY",-,49
+2015,Nazareth,461,Wells,761,02/27/2015,3,0,Neutral,"Elmira, NY",-,32
 2015,Nazareth,461,Stevenson,21852,02/28/2015,3,1,Neutral,"Elmira, N.Y.",1 Sets,88
 2015,Nazareth,461,Keuka,1159,03/04/2015,3,1,Away,,-,150
-2015,Nazareth,461,Vassar,737,03/07/2015,3,0,Away,,-,76
 2015,Nazareth,461,SUNY New Paltz,475,03/07/2015,2,3,Neutral,"Poughkeepsie, NY",2 Sets,129
+2015,Nazareth,461,Vassar,737,03/07/2015,3,0,Away,,-,76
 2015,Nazareth,461,Penn St.-Behrend,538,03/19/2015,3,1,Away,,1 Sets,110
 2015,Nazareth,461,Elmira,213,03/21/2015,3,1,Home,,1 Sets,453
-2015,Nazareth,461,NYU,479,03/28/2015,3,1,Away,,1 Sets,114
 2015,Nazareth,461,MIT,398,03/28/2015,3,1,Neutral,"New York, NY",1 Sets,81
+2015,Nazareth,461,NYU,479,03/28/2015,3,1,Away,,1 Sets,114
 2015,Nazareth,461,Medaille,23725,03/31/2015,3,2,Away,,2 Sets,125
 2015,Nazareth,461,D'Youville,1059,04/03/2015,3,0,Neutral,"Elmira, NY",-,43
 2015,Nazareth,461,UC Santa Cruz,113,04/03/2015,1,3,Neutral,"Elmira, N.Y.",-,94
@@ -1797,15 +1799,15 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,New Jersey City,319,Rutgers-Newark,589,01/31/2015,0,3,Away,,-,90
 2015,New Jersey City,319,Lancaster Bible,30085,02/03/2015,3,0,Home,,-,176
 2015,New Jersey City,319,Staten Island,675,02/05/2015,3,0,Away,,-,67
-2015,New Jersey City,319,Wentworth,762,02/07/2015,0,3,Neutral,"Poughkeepsie, NY",-,35
 2015,New Jersey City,319,Vassar,737,02/07/2015,1,3,Away,,1 Sets,50
-2015,New Jersey City,319,Mt. St. Vincent,451,02/14/2015,3,0,Neutral,"Albany, NY",-,60
+2015,New Jersey City,319,Wentworth,762,02/07/2015,0,3,Neutral,"Poughkeepsie, NY",-,35
 2015,New Jersey City,319,Sage Colleges,11036,02/14/2015,3,1,Away,,1 Sets,60
+2015,New Jersey City,319,Mt. St. Vincent,451,02/14/2015,3,0,Neutral,"Albany, NY",-,60
 2015,New Jersey City,319,Yeshiva,814,02/19/2015,3,0,Home,,-,83
 2015,New Jersey City,319,Cairn,1305,02/25/2015,1,3,Home,,1 Sets,142
 2015,New Jersey City,319,Lancaster Bible,30085,02/26/2015,3,0,Away,,-,97
-2015,New Jersey City,319,Kean,329,02/28/2015,0,3,Away,,-,111
 2015,New Jersey City,319,Sage Colleges,11036,02/28/2015,3,1,Neutral,"Union, NJ",1 Sets,89
+2015,New Jersey City,319,Kean,329,02/28/2015,0,3,Away,,-,111
 2015,New Jersey City,319,Medgar Evers,403,03/02/2015,3,0,Away,,-,27
 2015,New Jersey City,319,CCNY,480,03/03/2015,3,2,Home,,2 Sets,72
 2015,New Jersey City,319,Mt. St. Vincent,451,03/08/2015,1,3,Neutral,"Mahwah, NJ",1 Sets,103
@@ -1817,8 +1819,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,New Jersey City,319,John Jay,321,03/26/2015,3,0,Home,,-,43
 2015,New Jersey City,319,Purchase,30029,03/27/2015,3,0,Home,,-,48
 2015,New Jersey City,319,Sarah Lawrence,30163,03/27/2015,3,0,Home,,-,22
-2015,New Jersey City,319,Purchase,30029,03/29/2015,3,1,Neutral,"New York, NY",1 Sets,49
 2015,New Jersey City,319,Yeshiva,814,03/29/2015,3,0,Away,,-,30
+2015,New Jersey City,319,Purchase,30029,03/29/2015,3,1,Neutral,"New York, NY",1 Sets,49
 2015,New Jersey City,319,NYU,479,03/31/2015,1,3,Away,,1 Sets,89
 2015,New Jersey City,319,Keuka,1159,04/03/2015,0,3,Away,,-,122
 2015,New Jersey City,319,Penn St.-Behrend,538,04/04/2015,0,3,Neutral,"Aurora, NY",-,24
@@ -1995,7 +1997,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Penn St.,539,NJIT,471,04/18/2015,3,0,Away,,-,299
 2015,Penn St.,539,Saint Francis (PA),600,04/25/2015,3,0,Away,,-,969
 2015,Penn St.,539,Princeton,554,04/29/2015,3,0,Home,,-,616
-2015,Penn St.,539,George Mason,248,05/01/2015,0,0,Home,,-,0
+2015,Penn St.,539,George Mason,248,05/01/2015,3,0,Home,,-,721
+2015,Penn St.,539,Hawaii,277,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Penn St.-Altoona,25719,East. Mennonite,203,01/24/2015,3,1,Home,,1 Sets,81
 2015,Penn St.-Altoona,25719,Penn St.-Behrend,538,01/24/2015,0,3,Home,,-,93
 2015,Penn St.-Altoona,25719,Lakeland,1164,01/31/2015,1,3,Neutral,"Greenville, Pa.",-,0
@@ -2076,7 +2079,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Pepperdine,541,UC Santa Barbara,104,04/15/2015,1,3,Home,,1 Sets,913
 2015,Pepperdine,541,UC Santa Barbara,104,04/25/2015,3,0,Home,,-,"1,036"
 2015,Pepperdine,541,Hawaii,277,04/30/2015,3,1,Neutral,"Irvine, Calif.",1 Sets,"1,254"
-2015,Pepperdine,541,UC Irvine,109,05/01/2015,0,0,Away,,-,0
+2015,Pepperdine,541,UC Irvine,109,05/01/2015,1,3,Away,,1 Sets,"2,408"
 2015,Pfeiffer,542,Barton,15646,01/14/2015,3,2,Away,,2 Sets,140
 2015,Pfeiffer,542,Limestone,1174,01/20/2015,2,3,Away,,2 Sets,100
 2015,Pfeiffer,542,Ohio St.,518,01/25/2015,1,3,Away,,1 Sets,350
@@ -2101,6 +2104,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Pfeiffer,542,North Greenville,9223,04/18/2015,3,0,Home,,-,155
 2015,Pfeiffer,542,Limestone,1174,04/21/2015,3,0,Home,,-,450
 2015,Pfeiffer,542,Erskine,1072,04/22/2015,3,0,Home,,-,550
+2015,Pfeiffer,542,Loyola Chicago,371,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Princeton,554,UC Santa Barbara,104,01/09/2015,0,3,Away,,-,312
 2015,Princeton,554,Long Beach St.,99,01/09/2015,0,3,Neutral,"Santa Barbara, CA",-,75
 2015,Princeton,554,CSUN,101,01/10/2015,3,2,Neutral,"Santa Barbara, Calif",2 Sets,203
@@ -2220,11 +2224,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Regis (MA),569,MIT,398,01/31/2015,0,3,Away,,-,40
 2015,Regis (MA),569,Bard,962,02/07/2015,3,0,Neutral,"Keuka Park, N.Y.",-,23
 2015,Regis (MA),569,SUNY Poly,9500,02/07/2015,2,3,Neutral,"Keuka Park, N.Y.",-,20
-2015,Regis (MA),569,Sage Colleges,11036,02/08/2015,3,0,Neutral,"Keuka Park, N.Y.",-,25
 2015,Regis (MA),569,Keuka,1159,02/08/2015,0,3,Away,,-,75
+2015,Regis (MA),569,Sage Colleges,11036,02/08/2015,3,0,Neutral,"Keuka Park, N.Y.",-,25
 2015,Regis (MA),569,Endicott,8981,02/10/2015,0,3,Home,,-,112
-2015,Regis (MA),569,Southern Vt.,1379,02/14/2015,1,3,Home,,1 Sets,67
 2015,Regis (MA),569,Emerson,214,02/14/2015,0,3,Home,,-,38
+2015,Regis (MA),569,Southern Vt.,1379,02/14/2015,1,3,Home,,1 Sets,67
 2015,Regis (MA),569,Mount Ida,27901,02/16/2015,1,3,Home,,1 Sets,56
 2015,Regis (MA),569,Emerson,214,02/19/2015,0,3,Away,,-,80
 2015,Regis (MA),569,Emmanuel (MA),215,02/21/2015,0,3,Away,,-,100
@@ -2233,40 +2237,40 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Regis (MA),569,Southern Vt.,1379,02/28/2015,0,3,Away,,-,45
 2015,Regis (MA),569,Endicott,8981,03/10/2015,0,3,Away,,-,125
 2015,Regis (MA),569,Lesley,24317,03/12/2015,3,0,Away,,-,41
-2015,Regis (MA),569,Sage Colleges,11036,03/14/2015,3,0,Neutral,"Providence, R.I.",-,57
 2015,Regis (MA),569,Johnson & Wales (RI),22626,03/14/2015,0,3,Away,,-,57
+2015,Regis (MA),569,Sage Colleges,11036,03/14/2015,3,0,Neutral,"Providence, R.I.",-,57
 2015,Regis (MA),569,Elms,532,03/17/2015,3,0,Home,,-,65
-2015,Regis (MA),569,Newbury,21772,03/21/2015,3,2,Home,,2 Sets,56
 2015,Regis (MA),569,CCNY,480,03/21/2015,3,0,Home,,-,44
+2015,Regis (MA),569,Newbury,21772,03/21/2015,3,2,Home,,2 Sets,56
 2015,Regis (MA),569,Daniel Webster,2691,03/25/2015,3,1,Away,,1 Sets,88
 2015,Regis (MA),569,Elms,532,03/28/2015,3,0,Away,,-,30
 2015,Regis (MA),569,Lesley,24317,03/30/2015,3,1,Home,,1 Sets,76
 2015,Regis (MA),569,Newbury,21772,04/01/2015,1,3,Away,,1 Sets,67
 2015,Regis (MA),569,Southern Vt.,1379,04/10/2015,3,2,Neutral,"Beverly, Mass.",2 Sets,90
 2015,Regis (MA),569,Endicott,8981,04/11/2015,0,3,Away,,-,225
-2015,Rivier,18422,Kean,329,01/31/2015,2,3,Home,,2 Sets,50
 2015,Rivier,18422,Newbury,21772,01/31/2015,3,0,Home,,-,50
+2015,Rivier,18422,Kean,329,01/31/2015,2,3,Home,,2 Sets,50
 2015,Rivier,18422,Endicott,8981,02/01/2015,3,0,Home,,-,50
 2015,Rivier,18422,Stevenson,21852,02/06/2015,0,3,Neutral,"Union, N.J.",-,60
-2015,Rivier,18422,Stevens,679,02/07/2015,0,3,Neutral,"Union, N.J.",-,99
 2015,Rivier,18422,Marymount (VA),394,02/07/2015,3,0,Neutral,"Union, N.J.",-,87
+2015,Rivier,18422,Stevens,679,02/07/2015,0,3,Neutral,"Union, N.J.",-,99
 2015,Rivier,18422,Springfield,673,02/12/2015,1,3,Home,,1 Sets,60
 2015,Rivier,18422,Emmanuel (MA),215,02/18/2015,3,0,Home,,-,60
 2015,Rivier,18422,Springfield,673,02/20/2015,1,3,Away,,1 Sets,900
 2015,Rivier,18422,Mount Ida,27901,02/25/2015,3,0,Home,,-,40
-2015,Rivier,18422,Daniel Webster,2691,02/28/2015,3,0,Home,,-,50
 2015,Rivier,18422,Emerson,214,02/28/2015,3,0,Home,,-,40
+2015,Rivier,18422,Daniel Webster,2691,02/28/2015,3,0,Home,,-,50
 2015,Rivier,18422,Lasell,8486,03/03/2015,1,3,Away,,1 Sets,136
 2015,Rivier,18422,Lakeland,1164,03/06/2015,3,1,Away,,1 Sets,119
-2015,Rivier,18422,Benedictine (IL),296,03/07/2015,0,3,Neutral,"Kenosha, Wis.",-,62
 2015,Rivier,18422,Carthage,121,03/07/2015,0,3,Away,,-,111
+2015,Rivier,18422,Benedictine (IL),296,03/07/2015,0,3,Neutral,"Kenosha, Wis.",-,62
 2015,Rivier,18422,Albertus Magnus,2798,03/17/2015,3,0,Home,,-,50
 2015,Rivier,18422,Lasell,8486,03/21/2015,3,1,Neutral,"Providence, R.I.",1 Sets,75
 2015,Rivier,18422,Johnson & Wales (RI),22626,03/21/2015,3,2,Away,,2 Sets,75
 2015,Rivier,18422,Emerson,214,03/24/2015,3,1,Away,,1 Sets,65
 2015,Rivier,18422,Mount Ida,27901,03/26/2015,3,0,Away,,-,84
-2015,Rivier,18422,Emmanuel (MA),215,03/28/2015,3,2,Away,,2 Sets,100
 2015,Rivier,18422,Albertus Magnus,2798,03/28/2015,3,0,Neutral,"Boston, Mass.",-,25
+2015,Rivier,18422,Emmanuel (MA),215,03/28/2015,3,2,Away,,2 Sets,100
 2015,Rivier,18422,Wentworth,762,03/31/2015,3,0,Away,,-,135
 2015,Rivier,18422,Johnson & Wales (RI),22626,04/02/2015,3,1,Home,,1 Sets,60
 2015,Rivier,18422,Wentworth,762,04/04/2015,3,0,Home,,-,60
@@ -2277,13 +2281,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Rust,586,East. Mennonite,203,03/28/2015,0,3,Away,,-,222
 2015,Rust,586,Marymount (VA),394,03/28/2015,0,3,Neutral,"Harrisonburg, Va.",-,27
 2015,Rutgers-Newark,589,P.R.-Rio Piedras,2716,01/15/2015,1,3,Neutral,"Mayaguez, P.R.",-,24
-2015,Rutgers-Newark,589,P.R.-Mayaguez,24361,01/16/2015,0,3,Away,,-,24
 2015,Rutgers-Newark,589,Erskine,1072,01/16/2015,0,3,Neutral,"Mayaquez, PR",-,0
+2015,Rutgers-Newark,589,P.R.-Mayaguez,24361,01/16/2015,0,3,Away,,-,24
 2015,Rutgers-Newark,589,NYU,479,01/24/2015,2,3,Neutral,"Owings Mills, Md.",2 Sets,76
 2015,Rutgers-Newark,589,SUNY New Paltz,475,01/24/2015,1,3,Neutral,"Owings Mills, Md.",1 Sets,75
 2015,Rutgers-Newark,589,New Jersey City,319,01/31/2015,3,0,Home,,-,90
-2015,Rutgers-Newark,589,Brooklyn,79,01/31/2015,3,0,Home,,-,75
 2015,Rutgers-Newark,589,Sage Colleges,11036,01/31/2015,3,0,Home,,-,75
+2015,Rutgers-Newark,589,Brooklyn,79,01/31/2015,3,0,Home,,-,75
 2015,Rutgers-Newark,589,Marymount (VA),394,02/06/2015,3,0,Home,,-,65
 2015,Rutgers-Newark,589,East. Mennonite,203,02/07/2015,3,0,Home,,-,50
 2015,Rutgers-Newark,589,Cairn,1305,02/10/2015,3,0,Home,,-,42
@@ -2292,8 +2296,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Rutgers-Newark,589,Staten Island,675,02/20/2015,3,0,Neutral,Bard College,-,40
 2015,Rutgers-Newark,589,CCNY,480,02/21/2015,3,0,Neutral,Bard College,-,25
 2015,Rutgers-Newark,589,Juniata,325,02/24/2015,2,3,Away,,2 Sets,400
-2015,Rutgers-Newark,589,Stevens,679,02/28/2015,1,3,Home,,1 Sets,85
 2015,Rutgers-Newark,589,Baruch,58,02/28/2015,3,1,Home,,1 Sets,80
+2015,Rutgers-Newark,589,Stevens,679,02/28/2015,1,3,Home,,1 Sets,85
 2015,Rutgers-Newark,589,Cairn,1305,03/04/2015,3,0,Away,,-,60
 2015,Rutgers-Newark,589,Stevenson,21852,03/06/2015,3,2,Away,,2 Sets,156
 2015,Rutgers-Newark,589,NYU,479,03/10/2015,0,3,Away,,-,71
@@ -2334,29 +2338,29 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Sacred Heart,590,George Mason,248,04/18/2015,2,3,Home,,2 Sets,153
 2015,Sacred Heart,590,Harvard,275,04/25/2015,2,3,Away,,2 Sets,255
 2015,Sage Colleges,11036,SUNY Poly,9500,01/28/2015,0,3,Away,,-,40
-2015,Sage Colleges,11036,Rutgers-Newark,589,01/31/2015,0,3,Away,,-,75
 2015,Sage Colleges,11036,Brooklyn,79,01/31/2015,3,0,Neutral,"Newark, NJ",-,70
+2015,Sage Colleges,11036,Rutgers-Newark,589,01/31/2015,0,3,Away,,-,75
 2015,Sage Colleges,11036,Elms,532,02/07/2015,3,0,Neutral,"Keuka Park, N.Y.",-,24
 2015,Sage Colleges,11036,Keuka,1159,02/07/2015,2,3,Away,,-,35
 2015,Sage Colleges,11036,Regis (MA),569,02/08/2015,0,3,Neutral,"Keuka Park, N.Y.",-,25
 2015,Sage Colleges,11036,Southern Vt.,1379,02/12/2015,0,3,Home,,-,47
-2015,Sage Colleges,11036,Mt. St. Vincent,451,02/14/2015,0,3,Home,,-,65
 2015,Sage Colleges,11036,New Jersey City,319,02/14/2015,1,3,Home,,1 Sets,60
+2015,Sage Colleges,11036,Mt. St. Vincent,451,02/14/2015,0,3,Home,,-,65
 2015,Sage Colleges,11036,Yeshiva,814,02/22/2015,3,0,Home,,-,40
 2015,Sage Colleges,11036,Purchase,30029,02/25/2015,3,0,Home,,-,37
-2015,Sage Colleges,11036,New Jersey City,319,02/28/2015,1,3,Neutral,"Union, NJ",1 Sets,89
 2015,Sage Colleges,11036,Kean,329,02/28/2015,0,3,Away,,-,87
-2015,Sage Colleges,11036,Yeshiva,814,03/08/2015,3,1,Away,,1 Sets,55
+2015,Sage Colleges,11036,New Jersey City,319,02/28/2015,1,3,Neutral,"Union, NJ",1 Sets,89
 2015,Sage Colleges,11036,Sarah Lawrence,30163,03/08/2015,3,0,Neutral,"New York, NY",-,31
-2015,Sage Colleges,11036,Regis (MA),569,03/14/2015,0,3,Neutral,"Providence, R.I.",-,57
+2015,Sage Colleges,11036,Yeshiva,814,03/08/2015,3,1,Away,,1 Sets,55
 2015,Sage Colleges,11036,Johnson & Wales (RI),22626,03/14/2015,0,3,Away,,-,57
-2015,Sage Colleges,11036,Purchase,30029,03/22/2015,3,0,Away,,-,15
+2015,Sage Colleges,11036,Regis (MA),569,03/14/2015,0,3,Neutral,"Providence, R.I.",-,57
 2015,Sage Colleges,11036,Ramapo,564,03/22/2015,0,3,Neutral,"Purchase, NY",-,25
+2015,Sage Colleges,11036,Purchase,30029,03/22/2015,3,0,Away,,-,15
 2015,Sage Colleges,11036,Bard,962,03/25/2015,3,1,Home,,1 Sets,73
-2015,Sage Colleges,11036,Mt. St. Vincent,451,03/28/2015,0,3,Neutral,"Mahwah, NJ",-,25
 2015,Sage Colleges,11036,Ramapo,564,03/28/2015,0,3,Away,,-,58
-2015,Sage Colleges,11036,Kean,329,03/29/2015,0,3,Home,,-,45
+2015,Sage Colleges,11036,Mt. St. Vincent,451,03/28/2015,0,3,Neutral,"Mahwah, NJ",-,25
 2015,Sage Colleges,11036,Sarah Lawrence,30163,03/29/2015,3,0,Home,,-,70
+2015,Sage Colleges,11036,Kean,329,03/29/2015,0,3,Home,,-,45
 2015,Sage Colleges,11036,York (NY),2730,04/04/2015,1,3,Neutral,"Poughkeepsie, NY",1 Sets,35
 2015,Sage Colleges,11036,Vassar,737,04/04/2015,0,3,Away,,-,100
 2015,Sage Colleges,11036,SUNY New Paltz,475,04/08/2015,0,3,Away,,-,110
@@ -2579,13 +2583,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Stevens,679,Rivier,18422,02/07/2015,3,0,Neutral,"Union, N.J.",-,99
 2015,Stevens,679,Juniata,325,02/07/2015,3,0,Neutral,"Union, N.J.",-,222
 2015,Stevens,679,NJIT,471,02/11/2015,2,3,Home,,2 Sets,173
-2015,Stevens,679,Nazareth,461,02/14/2015,3,1,Away,,1 Sets,318
 2015,Stevens,679,Bard,962,02/14/2015,3,0,Neutral,Nazareth College,-,52
+2015,Stevens,679,Nazareth,461,02/14/2015,3,1,Away,,1 Sets,318
 2015,Stevens,679,SUNY New Paltz,475,02/18/2015,3,0,Home,,-,172
 2015,Stevens,679,Carthage,121,02/21/2015,3,0,Away,,-,200
 2015,Stevens,679,UC Santa Cruz,113,02/21/2015,1,3,Neutral,"Kenosha, Wis.",1 Sets,70
-2015,Stevens,679,Loras,364,02/22/2015,3,0,Neutral,"Sheboygan, Wis.",-,33
 2015,Stevens,679,Lakeland,1164,02/22/2015,3,0,Away,,-,117
+2015,Stevens,679,Loras,364,02/22/2015,3,0,Neutral,"Sheboygan, Wis.",-,33
 2015,Stevens,679,Baruch,58,02/28/2015,3,0,Neutral,"Newark, NJ",-,70
 2015,Stevens,679,Rutgers-Newark,589,02/28/2015,3,1,Away,,1 Sets,85
 2015,Stevens,679,NYU,479,03/04/2015,3,0,Away,,-,85
@@ -2595,8 +2599,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Stevens,679,Hunter,292,03/14/2015,3,0,Away,,-,111
 2015,Stevens,679,Stevenson,21852,03/14/2015,3,1,Neutral,"New York, N.Y.",1 Sets,122
 2015,Stevens,679,Juniata,325,03/25/2015,3,1,Away,,1 Sets,600
-2015,Stevens,679,Penn St.-Behrend,538,03/28/2015,3,0,Home,,-,46
 2015,Stevens,679,Vassar,737,03/28/2015,3,0,Home,,-,59
+2015,Stevens,679,Penn St.-Behrend,538,03/28/2015,3,0,Home,,-,46
 2015,Stevens,679,NYU,479,04/01/2015,3,0,Home,,-,74
 2015,Stevens,679,Staten Island,675,04/04/2015,3,0,Home,,-,133
 2015,Stevens,679,Kean,329,04/04/2015,3,0,Home,,-,188
@@ -2622,12 +2626,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Stevenson,21852,Wells,761,02/27/2015,3,0,Neutral,"Elmira, N.Y.",-,75
 2015,Stevenson,21852,Nazareth,461,02/28/2015,1,3,Neutral,"Elmira, N.Y.",1 Sets,88
 2015,Stevenson,21852,Penn St.-Behrend,538,02/28/2015,3,0,Neutral,"Elmira, N.Y.",-,88
-2015,Stevenson,21852,Ramapo,564,03/04/2015,3,0,Home,,-,0
 2015,Stevenson,21852,Marymount (VA),394,03/04/2015,3,0,Home,,-,52
+2015,Stevenson,21852,Ramapo,564,03/04/2015,3,0,Home,,-,0
 2015,Stevenson,21852,Rutgers-Newark,589,03/06/2015,2,3,Home,,2 Sets,156
 2015,Stevenson,21852,Lancaster Bible,30085,03/11/2015,3,0,Home,,-,76
-2015,Stevenson,21852,Hunter,292,03/14/2015,3,1,Away,,1 Sets,129
 2015,Stevenson,21852,Stevens,679,03/14/2015,1,3,Neutral,"New York, N.Y.",1 Sets,122
+2015,Stevenson,21852,Hunter,292,03/14/2015,3,1,Away,,1 Sets,129
 2015,Stevenson,21852,East. Mennonite,203,03/18/2015,3,0,Away,,-,176
 2015,Stevenson,21852,Marymount (VA),394,03/25/2015,3,1,Away,,-,0
 2015,Stevenson,21852,Rutgers-Newark,589,03/27/2015,0,3,Away,,-,152
@@ -2638,8 +2642,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Stevenson,21852,Rutgers-Newark,589,04/11/2015,0,3,Away,,-,138
 2015,Stevenson,21852,Wentworth,762,04/18/2015,3,1,Home,,1 Sets,75
 2015,Stevenson,21852,Hunter,292,04/18/2015,3,0,Home,,-,125
-2015,SUNY New Paltz,475,Rutgers-Newark,589,01/24/2015,3,1,Neutral,"Owings Mills, Md.",1 Sets,75
 2015,SUNY New Paltz,475,Stevenson,21852,01/24/2015,3,1,Away,,1 Sets,102
+2015,SUNY New Paltz,475,Rutgers-Newark,589,01/24/2015,3,1,Neutral,"Owings Mills, Md.",1 Sets,75
 2015,SUNY New Paltz,475,NYU,479,02/05/2015,3,0,Away,,-,141
 2015,SUNY New Paltz,475,Sacred Heart,590,02/07/2015,2,3,Away,,2 Sets,186
 2015,SUNY New Paltz,475,Ramapo,564,02/11/2015,3,0,Home,,-,205
@@ -2647,8 +2651,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,SUNY New Paltz,475,MIT,398,02/14/2015,3,0,Neutral,"Erie, Pa.",-,50
 2015,SUNY New Paltz,475,Stevens,679,02/18/2015,0,3,Away,,-,172
 2015,SUNY New Paltz,475,Springfield,673,02/25/2015,2,3,Home,,2 Sets,205
-2015,SUNY New Paltz,475,Brooklyn,79,02/28/2015,3,0,Neutral,"Langhorne, PA",-,20
 2015,SUNY New Paltz,475,Cairn,1305,02/28/2015,3,1,Away,,1 Sets,70
+2015,SUNY New Paltz,475,Brooklyn,79,02/28/2015,3,0,Neutral,"Langhorne, PA",-,20
 2015,SUNY New Paltz,475,Kean,329,03/04/2015,3,0,Home,,-,210
 2015,SUNY New Paltz,475,Vassar,737,03/07/2015,3,0,Away,,-,120
 2015,SUNY New Paltz,475,Nazareth,461,03/07/2015,3,2,Neutral,"Poughkeepsie, NY",2 Sets,129
@@ -2664,8 +2668,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,SUNY New Paltz,475,Elmira,213,03/29/2015,3,0,Home,,-,65
 2015,SUNY New Paltz,475,Baruch,58,04/01/2015,3,0,Home,,-,80
 2015,SUNY New Paltz,475,Southern Vt.,1379,04/03/2015,3,1,Neutral,"Springfield, MA",1 Sets,80
-2015,SUNY New Paltz,475,Springfield,673,04/04/2015,2,3,Away,,2 Sets,400
 2015,SUNY New Paltz,475,Ramapo,564,04/04/2015,3,2,Neutral,"Springfield, Mass.",2 Sets,80
+2015,SUNY New Paltz,475,Springfield,673,04/04/2015,2,3,Away,,2 Sets,400
 2015,SUNY New Paltz,475,Sage Colleges,11036,04/08/2015,3,0,Home,,-,110
 2015,SUNY New Paltz,475,Nazareth,461,04/11/2015,3,2,Neutral,"Hoboken, N.J.",2 Sets,98
 2015,SUNY New Paltz,475,Stevens,679,04/12/2015,1,3,Away,,1 Sets,212
@@ -2673,8 +2677,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,SUNY New Paltz,475,Stevens,679,04/25/2015,2,3,Away,,2 Sets,813
 2015,SUNY Poly,9500,Bard,962,01/23/2015,3,0,Home,,-,67
 2015,SUNY Poly,9500,Wentworth,762,01/23/2015,0,3,Home,,-,67
-2015,SUNY Poly,9500,Wells,761,01/24/2015,3,0,Home,,-,45
 2015,SUNY Poly,9500,D'Youville,1059,01/24/2015,3,2,Home,,2 Sets,55
+2015,SUNY Poly,9500,Wells,761,01/24/2015,3,0,Home,,-,45
 2015,SUNY Poly,9500,Sage Colleges,11036,01/28/2015,3,0,Home,,-,40
 2015,SUNY Poly,9500,Wells,761,01/31/2015,1,3,Away,,1 Sets,188
 2015,SUNY Poly,9500,Penn St.-Behrend,538,01/31/2015,0,3,Neutral,"Aurora, N.Y.",-,88
@@ -2755,7 +2759,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UC Irvine,109,UC San Diego,112,04/18/2015,3,0,Home,,-,"1,005"
 2015,UC Irvine,109,UCLA,110,04/25/2015,3,0,Home,,-,"1,923"
 2015,UC Irvine,109,Southern California,657,04/30/2015,3,2,Home,,2 Sets,"2,835"
-2015,UC Irvine,109,Pepperdine,541,05/01/2015,0,0,Home,,-,0
+2015,UC Irvine,109,Pepperdine,541,05/01/2015,3,1,Home,,1 Sets,"2,408"
 2015,UC San Diego,112,Concordia Irvine,30199,01/07/2015,1,3,Away,,1 Sets,500
 2015,UC San Diego,112,Grand Canyon,1104,01/10/2015,3,2,Away,,2 Sets,282
 2015,UC San Diego,112,Long Beach St.,99,01/14/2015,0,3,Away,,-,632

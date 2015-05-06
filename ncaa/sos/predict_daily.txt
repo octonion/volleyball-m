@@ -1,21 +1,19 @@
 BEGIN
 SET
 CREATE TABLE
-INSERT 0 3
-UPDATE 3
-    date    | site |   home    | hd |      away      | vd |  w3   |  w4   |  w5   |  win  | lose  
-------------+------+-----------+----+----------------+----+-------+-------+-------+-------+-------
- 2015-05-01 | home | Lewis     | D1 | Loyola Chicago | D1 | 0.167 | 0.225 | 0.202 | 0.595 | 0.405
- 2015-05-01 | home | Penn St.  | D1 | George Mason   | D1 | 0.526 | 0.304 | 0.117 | 0.947 | 0.053
- 2015-05-01 | home | UC Irvine | D1 | Pepperdine     | D1 | 0.208 | 0.254 | 0.207 | 0.670 | 0.330
-(3 rows)
+INSERT 0 2
+UPDATE 2
+    date    |  site   |      home      | hd |   away   | vd |  w3   |  w4   |  w5   |  win  | lose  
+------------+---------+----------------+----+----------+----+-------+-------+-------+-------+-------
+ 2015-05-05 | neutral | Hawaii         | D1 | Penn St. | D1 | 0.262 | 0.283 | 0.204 | 0.749 | 0.251
+ 2015-05-05 | neutral | Loyola Chicago | D1 | Pfeiffer | D1 | 0.861 | 0.126 | 0.012 | 0.999 | 0.001
+(2 rows)
 
-    date    | site |   home    | hd |      away      | vd |  l3   |  l4   |  l5   | e_ws  | e_ls  
-------------+------+-----------+----+----------------+----+-------+-------+-------+-------+-------
- 2015-05-01 | home | Lewis     | D1 | Loyola Chicago | D1 | 0.091 | 0.150 | 0.165 | 2.264 | 1.846
- 2015-05-01 | home | Penn St.  | D1 | George Mason   | D1 | 0.007 | 0.017 | 0.028 | 2.916 | 0.697
- 2015-05-01 | home | UC Irvine | D1 | Pepperdine     | D1 | 0.068 | 0.120 | 0.142 | 2.414 | 1.660
-(3 rows)
+    date    |  site   |      home      | hd |   away   | vd |  l3   |  l4   |  l5   | e_ws  | e_ls  
+------------+---------+----------------+----+----------+----+-------+-------+-------+-------+-------
+ 2015-05-05 | neutral | Hawaii         | D1 | Penn St. | D1 | 0.047 | 0.090 | 0.115 | 2.567 | 1.443
+ 2015-05-05 | neutral | Loyola Chicago | D1 | Pfeiffer | D1 | 0.000 | 0.000 | 0.001 | 2.998 | 0.153
+(2 rows)
 
-COPY 3
+COPY 2
 COMMIT

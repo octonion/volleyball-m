@@ -27,10 +27,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,8981,Endicott,17,12,0,29
 2015,1072,Erskine,21,7,0,28
 2015,11538,Fontbonne,5,22,0,27
-2015,248,George Mason,15,12,1,28
+2015,248,George Mason,15,13,0,28
 2015,1104,Grand Canyon,14,17,0,31
 2015,275,Harvard,13,12,0,25
-2015,277,Hawaii,24,6,0,30
+2015,277,Hawaii,24,6,1,31
 2015,8398,Hilbert,3,26,0,29
 2015,30175,Holy Names,1,14,0,15
 2015,292,Hunter,21,14,0,35
@@ -47,12 +47,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,13302,Lees-McRae,3,19,0,22
 2015,279,Lehman,16,14,0,30
 2015,24317,Lesley,1,20,0,21
-2015,354,Lewis,26,2,1,29
+2015,354,Lewis,26,3,0,29
 2015,1174,Limestone,14,15,0,29
 2015,30136,Lindenwood (MO),13,12,0,25
 2015,99,Long Beach St.,15,13,0,28
 2015,364,Loras,3,20,0,23
-2015,371,Loyola Chicago,24,2,1,27
+2015,371,Loyola Chicago,25,2,1,28
 2015,394,Marymount (VA),14,20,0,34
 2015,30138,McKendree,11,19,0,30
 2015,23725,Medaille,19,14,0,33
@@ -72,11 +72,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,518,Ohio St.,22,9,0,31
 2015,24361,P.R.-Mayaguez,3,2,0,5
 2015,2716,P.R.-Rio Piedras,1,1,0,2
-2015,539,Penn St.,19,9,1,29
+2015,539,Penn St.,20,9,1,30
 2015,25719,Penn St.-Altoona,7,17,0,24
 2015,538,Penn St.-Behrend,13,14,0,27
-2015,541,Pepperdine,24,5,1,30
-2015,542,Pfeiffer,21,3,0,24
+2015,541,Pepperdine,24,6,0,30
+2015,542,Pfeiffer,21,3,1,25
 2015,554,Princeton,11,13,0,24
 2015,30029,Purchase,10,17,0,27
 2015,561,Quincy,13,15,0,28
@@ -100,7 +100,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,475,SUNY New Paltz,27,6,0,33
 2015,9500,SUNY Poly,15,13,0,28
 2015,707,Thiel,11,14,0,25
-2015,109,UC Irvine,27,4,1,32
+2015,109,UC Irvine,28,4,0,32
 2015,112,UC San Diego,2,26,0,28
 2015,104,UC Santa Barbara,17,10,0,27
 2015,113,UC Santa Cruz,23,5,0,28
