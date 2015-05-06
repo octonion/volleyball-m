@@ -7,8 +7,9 @@ create extension if not exists plpython2u;
 drop function if exists set_probability(integer, float);
 
 create or replace function set_probability
-  (target integer, point_p float, OUT set_p float)
-returns float
+  (target integer, point_p float,
+   OUT set_p float, OUT gap_p float, OUT gap_wp float)
+returns record
 as $$
 
 # To do - general gap
@@ -33,6 +34,6 @@ gap_wp = p**2/(1-2*p*q)
 
 set_p = w + gap_p*gap_wp
 
-return(set_p)
+return([set_p, gap_p, gap_wp])
 
 $$ language plpython2u;

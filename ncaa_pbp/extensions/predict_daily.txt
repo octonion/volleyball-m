@@ -1,0 +1,22 @@
+BEGIN
+SET
+CREATE TABLE
+INSERT 0 2
+UPDATE 2
+UPDATE 2
+UPDATE 2
+UPDATE 2
+    date    |  site   |      home      | hd |   away   | vd |  w3   |  w4   |  w5   |  win  | lose  
+------------+---------+----------------+----+----------+----+-------+-------+-------+-------+-------
+ 2015-05-05 | neutral | Hawaii         | D1 | Penn St. | D1 | 0.167 | 0.225 | 0.198 | 0.591 | 0.409
+ 2015-05-05 | neutral | Loyola Chicago | D1 | Pfeiffer | D1 | 0.590 | 0.285 | 0.086 | 0.961 | 0.039
+(2 rows)
+
+    date    |  site   |      home      | hd |   away   | vd |  l3   |  l4   |  l5   | e_ws  | e_ls  
+------------+---------+----------------+----+----------+----+-------+-------+-------+-------+-------
+ 2015-05-05 | neutral | Hawaii         | D1 | Penn St. | D1 | 0.090 | 0.149 | 0.169 | 2.261 | 1.848
+ 2015-05-05 | neutral | Loyola Chicago | D1 | Pfeiffer | D1 | 0.004 | 0.011 | 0.024 | 2.942 | 0.573
+(2 rows)
+
+COPY 2
+COMMIT
