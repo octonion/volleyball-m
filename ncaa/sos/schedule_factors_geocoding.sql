@@ -115,11 +115,11 @@ insert into rs
 select
 school_id,
 year,
-exp(avg(log(offensive*o_div))),
-exp(avg(log(defensive*d_div))),
-exp(avg(log(strength*o_div/d_div))),
-exp(avg(log(offensive*o_div/field))),
-exp(avg(log(defensive*d_div*field)))
+exp(avg(ln(offensive*o_div))),
+exp(avg(ln(defensive*d_div))),
+exp(avg(ln(strength*o_div/d_div))),
+exp(avg(ln(offensive*o_div/field))),
+exp(avg(ln(defensive*d_div*field)))
 from r
 group by school_id,year
 );

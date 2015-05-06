@@ -20,13 +20,13 @@ coalesce(sd.school_name,sf.school_id::text),
 sf.school_id,
 'D'||sd.div_id as div_id,
 sf.year,
-log(sf.strength)+log(o.exp_factor)-log(d.exp_factor) as str,
-log(offensive)+log(o.exp_factor) as ofs,
-log(defensive)+log(d.exp_factor) as dfs,
+ln(sf.strength)+ln(o.exp_factor)-ln(d.exp_factor) as str,
+ln(offensive)+ln(o.exp_factor) as ofs,
+ln(defensive)+ln(d.exp_factor) as dfs,
 --(sf.strength*o.exp_factor/d.exp_factor) as str,
 --(offensive*o.exp_factor) as ofs,
 --(defensive*d.exp_factor) as dfs,
-log(schedule_strength) as sos
+ln(schedule_strength) as sos
 from ncaa._schedule_factors sf
 join ncaa.schools_divisions sd
   on (sd.school_id,sd.year)=(sf.school_id,sf.year)

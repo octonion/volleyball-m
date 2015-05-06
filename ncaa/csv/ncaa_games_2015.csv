@@ -864,7 +864,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Hawaii,277,BYU,77,04/18/2015,2,3,Away,,2 Sets,"2,953"
 2015,Hawaii,277,Long Beach St.,99,04/25/2015,3,0,Home,,-,"6,846"
 2015,Hawaii,277,Pepperdine,541,04/30/2015,1,3,Neutral,"Irvine, Calif.",1 Sets,"1,254"
-2015,Hawaii,277,Penn St.,539,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
+2015,Hawaii,277,Penn St.,539,05/05/2015,1,3,Neutral,"Stanford, Calif.",1 Sets,539
 2015,Hilbert,8398,Marymount (VA),394,01/17/2015,0,3,Home,,-,60
 2015,Hilbert,8398,Juniata,325,01/23/2015,0,3,Away,,-,150
 2015,Hilbert,8398,Hunter,292,01/23/2015,0,3,Neutral,Juniata,-,55
@@ -1339,6 +1339,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Lewis,354,Grand Canyon,1104,04/25/2015,3,0,Home,,-,478
 2015,Lewis,354,Lindenwood (MO),30136,04/28/2015,3,0,Home,,-,410
 2015,Lewis,354,Loyola Chicago,371,05/01/2015,1,3,Home,,1 Sets,"1,200"
+2015,Lewis,354,Penn St.,539,05/07/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Limestone,1174,Long Beach St.,99,01/09/2015,0,3,Neutral,"Santa Barbara, Calif",-,75
 2015,Limestone,1174,UC Santa Barbara,104,01/09/2015,0,3,Away,,-,155
 2015,Limestone,1174,UCLA,110,01/10/2015,0,3,Neutral,"Santa Barbara, Calif",-,280
@@ -1471,7 +1472,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Loyola Chicago,371,Quincy,561,04/24/2015,3,0,Home,,-,311
 2015,Loyola Chicago,371,Ohio St.,518,04/29/2015,3,1,Home,,1 Sets,714
 2015,Loyola Chicago,371,Lewis,354,05/01/2015,3,1,Away,,1 Sets,"1,200"
-2015,Loyola Chicago,371,Pfeiffer,542,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
+2015,Loyola Chicago,371,Pfeiffer,542,05/05/2015,3,0,Neutral,"Stanford, Calif.",-,0
+2015,Loyola Chicago,371,UC Irvine,109,05/07/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Marymount (VA),394,Hilbert,8398,01/17/2015,3,0,Away,,-,60
 2015,Marymount (VA),394,Nazareth,461,01/17/2015,1,3,Away,,1 Sets,598
 2015,Marymount (VA),394,MSOE,20220,01/24/2015,0,3,Neutral,Mount St. Joseph,-,150
@@ -1998,7 +2000,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Penn St.,539,Saint Francis (PA),600,04/25/2015,3,0,Away,,-,969
 2015,Penn St.,539,Princeton,554,04/29/2015,3,0,Home,,-,616
 2015,Penn St.,539,George Mason,248,05/01/2015,3,0,Home,,-,721
-2015,Penn St.,539,Hawaii,277,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
+2015,Penn St.,539,Hawaii,277,05/05/2015,3,1,Neutral,"Stanford, Calif.",1 Sets,539
+2015,Penn St.,539,Lewis,354,05/07/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,Penn St.-Altoona,25719,East. Mennonite,203,01/24/2015,3,1,Home,,1 Sets,81
 2015,Penn St.-Altoona,25719,Penn St.-Behrend,538,01/24/2015,0,3,Home,,-,93
 2015,Penn St.-Altoona,25719,Lakeland,1164,01/31/2015,1,3,Neutral,"Greenville, Pa.",-,0
@@ -2104,7 +2107,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Pfeiffer,542,North Greenville,9223,04/18/2015,3,0,Home,,-,155
 2015,Pfeiffer,542,Limestone,1174,04/21/2015,3,0,Home,,-,450
 2015,Pfeiffer,542,Erskine,1072,04/22/2015,3,0,Home,,-,550
-2015,Pfeiffer,542,Loyola Chicago,371,05/05/2015,0,0,Neutral,"Stanford, CA",-,0
+2015,Pfeiffer,542,Loyola Chicago,371,05/05/2015,0,3,Neutral,"Stanford, Calif.",-,0
 2015,Princeton,554,UC Santa Barbara,104,01/09/2015,0,3,Away,,-,312
 2015,Princeton,554,Long Beach St.,99,01/09/2015,0,3,Neutral,"Santa Barbara, CA",-,75
 2015,Princeton,554,CSUN,101,01/10/2015,3,2,Neutral,"Santa Barbara, Calif",2 Sets,203
@@ -2760,6 +2763,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UC Irvine,109,UCLA,110,04/25/2015,3,0,Home,,-,"1,923"
 2015,UC Irvine,109,Southern California,657,04/30/2015,3,2,Home,,2 Sets,"2,835"
 2015,UC Irvine,109,Pepperdine,541,05/01/2015,3,1,Home,,1 Sets,"2,408"
+2015,UC Irvine,109,Loyola Chicago,371,05/07/2015,0,0,Neutral,"Stanford, CA",-,0
 2015,UC San Diego,112,Concordia Irvine,30199,01/07/2015,1,3,Away,,1 Sets,500
 2015,UC San Diego,112,Grand Canyon,1104,01/10/2015,3,2,Away,,2 Sets,282
 2015,UC San Diego,112,Long Beach St.,99,01/14/2015,0,3,Away,,-,632

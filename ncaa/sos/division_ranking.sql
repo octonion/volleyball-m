@@ -17,10 +17,10 @@ select
 t.school_id,
 t.div_id as div,
 sf.year,
-log(sf.strength)+log(o.exp_factor)-log(d.exp_factor) as str,
-log(offensive)+log(o.exp_factor) as ofs,
-log(defensive)+log(d.exp_factor) as dfs,
-log(schedule_strength) as sos
+ln(sf.strength)+ln(o.exp_factor)-ln(d.exp_factor) as str,
+ln(offensive)+ln(o.exp_factor) as ofs,
+ln(defensive)+ln(d.exp_factor) as dfs,
+ln(schedule_strength) as sos
 --(sf.strength*o.exp_factor/d.exp_factor)::numeric(9,3) as str,
 --(offensive*o.exp_factor)::numeric(9,3) as ofs,
 --(defensive*d.exp_factor)::numeric(9,3) as dfs
