@@ -1,17 +1,17 @@
-[1] 3048    7
+[1] 3910    7
 [1] TRUE
-[1] 3048    3
-start par. =  1 1 fn =  15451.72 
+[1] 3910    3
+start par. =  1 1 fn =  19657.78 
 At return
-eval:  48 fn:      15227.497 par: 0.178667 0.178667
-(NM) 20: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
-(NM) 40: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
-(NM) 60: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
-(NM) 80: f = 15227.5 at   0.178667   0.178667 -0.0381755  0.0381755   0.076351
-(NM) 100: f = 15227.5 at  0.178713  0.178706 -0.038158 0.0382249 0.0763922
-(NM) 120: f = 15227.5 at   0.178684   0.178674 -0.0381835  0.0381904  0.0763958
-(NM) 140: f = 15227.5 at   0.178667   0.178664 -0.0381957  0.0382063  0.0764029
-(NM) 160: f = 15227.5 at   0.178669   0.178668 -0.0381983  0.0382018  0.0763998
+eval:  69 fn:      19430.784 par: 0.180633 0.180633
+(NM) 20: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 40: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 60: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 80: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 100: f = 19430.8 at   0.180673   0.180637 -0.0377513  0.0376588  0.0753195
+(NM) 120: f = 19430.8 at   0.180632   0.180627 -0.0376881  0.0376627  0.0753177
+(NM) 140: f = 19430.8 at   0.180634   0.180631 -0.0376666  0.0376581  0.0753144
+(NM) 160: f = 19430.8 at   0.180632   0.180632 -0.0376623  0.0376571  0.0753143
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: binomial  ( logit )
@@ -19,15 +19,15 @@ Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |
     defense)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
-15237.496 15267.608 -7613.748 15227.496      3043 
+19440.783 19472.140 -9715.392 19430.783      3905 
 Random effects:
  Groups  Name        Std.Dev.
- offense (Intercept) 0.1787  
- defense (Intercept) 0.1787  
-Number of obs: 3048, groups:  offense, 50; defense, 50
+ offense (Intercept) 0.1806  
+ defense (Intercept) 0.1806  
+Number of obs: 3910, groups:  offense, 51; defense, 51
 Fixed Effects:
       (Intercept)       fieldneutral  fieldoffense_home  
-          -0.0382             0.0382             0.0764  
+         -0.03766            0.03766            0.07531  
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: binomial  ( logit )
@@ -36,31 +36,31 @@ Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |
    Data: g
 
      AIC      BIC   logLik deviance df.resid 
- 15237.5  15267.6  -7613.7  15227.5     3043 
+ 19440.8  19472.1  -9715.4  19430.8     3905 
 
 Scaled residuals: 
-   Min     1Q Median     3Q    Max 
--2.815 -0.551  0.000  0.551  2.815 
+    Min      1Q  Median      3Q     Max 
+-2.8396 -0.5676  0.0000  0.5676  2.8396 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- offense (Intercept) 0.03192  0.1787  
- defense (Intercept) 0.03192  0.1787  
-Number of obs: 3048, groups:  offense, 50; defense, 50
+ offense (Intercept) 0.03263  0.1806  
+ defense (Intercept) 0.03263  0.1806  
+Number of obs: 3910, groups:  offense, 51; defense, 51
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)       -0.03820    0.03777  -1.011    0.312    
-fieldneutral       0.03820    0.02699   1.415    0.157    
-fieldoffense_home  0.07640    0.01181   6.467 9.97e-11 ***
+(Intercept)       -0.03766    0.03761  -1.001    0.317    
+fieldneutral       0.03766    0.02331   1.616    0.106    
+fieldoffense_home  0.07531    0.01026   7.344 2.08e-13 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
             (Intr) fldntr
-fieldneutrl -0.110       
-fildffns_hm -0.156  0.219
+fieldneutrl -0.090       
+fildffns_hm -0.136  0.220
 Analysis of Variance Table
       Df Sum Sq Mean Sq F value
-field  2 41.906  20.953  20.953
+field  2 54.019  27.009  27.009
 [1] TRUE
