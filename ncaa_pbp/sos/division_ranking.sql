@@ -34,10 +34,10 @@ order by ofs desc);
 
 select
 year,
---exp(avg(log(str)))::numeric(9,3) as str,
-exp(avg(log(ofs)))::numeric(9,3) as ofs,
-exp(-avg(log(dfs)))::numeric(9,3) as dfs,
---exp(avg(log(sos)))::numeric(9,3) as sos,
+--exp(avg(ln(str)))::numeric(9,3) as str,
+exp(avg(ln(ofs)))::numeric(9,3) as ofs,
+exp(-avg(ln(dfs)))::numeric(9,3) as dfs,
+--exp(avg(ln(sos)))::numeric(9,3) as sos,
 count(*) as n
 from r
 group by year
@@ -46,10 +46,10 @@ order by year asc;
 select
 year,
 div,
---exp(avg(log(str)))::numeric(9,3) as str,
-exp(avg(log(ofs)))::numeric(9,3) as ofs,
-exp(-avg(log(dfs)))::numeric(9,3) as dfs,
---exp(avg(log(sos)))::numeric(9,3) as sos,
+--exp(avg(ln(str)))::numeric(9,3) as str,
+exp(avg(ln(ofs)))::numeric(9,3) as ofs,
+exp(-avg(ln(dfs)))::numeric(9,3) as dfs,
+--exp(avg(ln(sos)))::numeric(9,3) as sos,
 count(*) as n
 from r
 where div is not null
