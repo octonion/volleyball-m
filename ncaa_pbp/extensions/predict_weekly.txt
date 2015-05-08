@@ -1,22 +1,20 @@
 BEGIN
 SET
 CREATE TABLE
-INSERT 0 2
-UPDATE 2
-UPDATE 2
-UPDATE 2
-UPDATE 2
-    date    |  site   |   home    | hd |      away      | vd |  w3   |  w4   |  w5   |  win  | lose  
-------------+---------+-----------+----+----------------+----+-------+-------+-------+-------+-------
- 2015-05-07 | neutral | Lewis     | D1 | Penn St.       | D1 | 0.254 | 0.279 | 0.196 | 0.729 | 0.271
- 2015-05-07 | neutral | UC Irvine | D1 | Loyola Chicago | D1 | 0.099 | 0.160 | 0.175 | 0.434 | 0.566
-(2 rows)
+INSERT 0 1
+UPDATE 1
+UPDATE 1
+UPDATE 1
+UPDATE 1
+    date    |  site   | home  | hd |      away      | vd |  w3   |  w4   |  w5   |  win  | lose  
+------------+---------+-------+----+----------------+----+-------+-------+-------+-------+-------
+ 2015-05-09 | neutral | Lewis | D1 | Loyola Chicago | D1 | 0.139 | 0.201 | 0.192 | 0.533 | 0.467
+(1 row)
 
-    date    |  site   |   home    | hd |      away      | vd |  l3   |  l4   |  l5   | e_ws  | e_ls  
-------------+---------+-----------+----+----------------+----+-------+-------+-------+-------+-------
- 2015-05-07 | neutral | Lewis     | D1 | Penn St.       | D1 | 0.049 | 0.094 | 0.128 | 2.536 | 1.485
- 2015-05-07 | neutral | UC Irvine | D1 | Loyola Chicago | D1 | 0.155 | 0.215 | 0.196 | 1.908 | 2.208
-(2 rows)
+    date    |  site   | home  | hd |      away      | vd |  l3   |  l4   |  l5   | e_ws  | e_ls  
+------------+---------+-------+----+----------------+----+-------+-------+-------+-------+-------
+ 2015-05-09 | neutral | Lewis | D1 | Loyola Chicago | D1 | 0.112 | 0.174 | 0.182 | 2.136 | 1.987
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
