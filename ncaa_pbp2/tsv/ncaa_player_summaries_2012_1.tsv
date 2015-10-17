@@ -1,0 +1,578 @@
+year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
+2012	10800	77	BYU	19	976865	Lavaja, Russell	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976865	Jr	6-7	118	0	118	30	188	42	339	0.431	14	12	47	65	11	157	21	289.5	1
+2012	10800	77	BYU	6	1191622	Rivera, Josue	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191622	Fr	6-3	118	0	118	30	257	102	606	0.256	22	17	75	186	2	68	15	310.0	3
+2012	10800	77	BYU	13	1083502	Stowell, Robb	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083502	Sr	6-7	117	0	117	30	389	162	879	0.258	13	19	87	172	8	99	12	465.5	6
+2012	10800	77	BYU	8	976864	Kauliakamoa, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976864	Sr	6-4	107	0	107	26	64	12	98	0.531	1,178	6	30	155	7	81	7	117.5	9
+2012	10800	77	BYU	12	1303550	Reyes, Jaylen	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303550	Fr	6-1	105	0	105	""	0	1	1	-1.000	65	0	0	170	0	0	0	0.0	6
+2012	10800	77	BYU	17	976883	Tavana, Futi	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976883	Sr	6-8	91	0	91	24	170	34	353	0.385	12	5	21	56	14	131	10	254.5	1
+2012	10800	77	BYU	15	1191623	Sander, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191623	So	6-4	89	0	89	23	435	114	812	0.395	28	44	65	120	2	67	12	514.5	4
+2012	10800	77	BYU	2	976880	Smith, Quentin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976880	Sr	6-6	36	0	36	8	42	11	72	0.431	1	1	6	18	3	36	8	64.0	1
+2012	10800	77	BYU	3	1083487	Boyce, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083487	Jr	6-1	29	0	29	5	0	1	1	-1.000	197	1	9	36	1	14	10	9.0	2
+2012	10800	77	BYU	16	1303546	Albertson, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303546	Fr	6-4	26	0	26	6	37	23	116	0.121	7	2	21	37	1	20	1	50.0	0
+2012	10800	77	BYU	4	1303551	Heap, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303551	So	6-4	22	0	22	3	26	14	75	0.160	5	2	10	22	0	13	3	34.5	0
+2012	10800	77	BYU	10	1191619	Jones, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191619	Jr	6-1	21	0	21	""	0	0	0	""	4	0	0	30	0	0	0	0.0	1
+2012	10800	77	BYU	7	1303548	Fuchs, Phil	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303548	Fr	6-4	10	0	10	""	11	5	34	0.176	0	0	4	8	0	8	1	15.0	0
+2012	10800	77	BYU	24	1191621	Rindfleisch, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191621	Jr	6-9	6	0	6	1	13	6	32	0.219	0	1	4	8	0	3	0	15.5	0
+2012	10800	77	BYU	1	1083486	Mayer, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083486	Jr	6-6	5	0	5	""	2	2	8	0.000	1	0	1	1	0	2	2	3.0	2
+2012	10800	47	Ball St.	16	1192274	Owens, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192274	So	6-9	94	0	94	25	182	42	350	0.400	6	8	20	20	15	84	12	247.0	0
+2012	10800	47	Ball St.	99	1083336	Leske, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083336	So	6-7	92	0	92	25	146	53	269	0.346	15	7	47	17	19	102	10	223.0	0
+2012	10800	47	Ball St.	4	1083338	Rouse, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083338	So	5-8	92	0	92	""	1	0	6	0.167	24	0	0	224	0	0	0	1.0	0
+2012	10800	47	Ball St.	11	1083340	Wrather, Larry	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083340	Jr	5-11	90	0	90	24	226	134	605	0.152	37	14	54	164	4	41	6	264.5	3
+2012	10800	47	Ball St.	1	1305083	Vander Meer, David Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305083	Fr	5-9	85	0	85	1	11	8	36	0.083	3	1	6	31	1	1	1	13.5	0
+2012	10800	47	Ball St.	6	1083335	Herceg, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083335	Jr	6-4	83	0	83	17	150	100	395	0.127	9	11	38	86	2	27	2	176.5	0
+2012	10800	47	Ball St.	5	1192272	McIlvaine, Graham	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192272	So	6-6	76	0	76	20	65	18	120	0.392	649	16	37	101	7	52	3	114.0	6
+2012	10800	47	Ball St.	7	1305084	Witmer, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305084	Fr	6-3	69	0	69	16	91	61	271	0.111	23	5	33	94	2	27	0	111.5	2
+2012	10800	47	Ball St.	8	976236	Hartley, Jamion	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976236	Jr	6-7	56	0	56	8	140	74	345	0.191	9	4	11	62	1	20	3	155.0	0
+2012	10800	47	Ball St.	3	1083339	Wichmann, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083339	Jr	6-3	56	0	56	5	8	2	18	0.333	224	1	8	37	1	15	1	17.5	1
+2012	10800	47	Ball St.	12	1305087	Sutherlan, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305087	Fr	6-3	43	0	43	5	48	31	164	0.104	5	3	23	36	0	16	1	59.0	1
+2012	10800	47	Ball St.	10	1305086	Aucoin, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305086	So	6-0	37	0	37	5	36	24	111	0.108	4	1	19	33	1	7	0	41.5	0
+2012	10800	47	Ball St.	2	1192275	Aparcedo, Elias	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192275	Jr	6-3	11	0	11	1	4	4	16	0.000	55	1	4	9	3	3	0	9.5	0
+2012	10800	47	Ball St.	9	1305085	Welsh-White, Julian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305085	Fr	6-7	8	0	8	2	9	4	24	0.208	0	0	1	1	1	6	4	13.0	0
+2012	10800	47	Ball St.	14	1192273	Demirovski, Urim	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192273	So	6-4	4	0	4	2	2	5	21	-0.143	0	1	5	7	0	2	1	4.0	0
+2012	10800	15646	Barton	9	1307402	Malpass, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307402	So	6-5	56	0	56	13	33	22	102	0.108	9	5	9	48	7	17	5	53.5	2
+2012	10800	15646	Barton	17	1307407	Medina, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307407	Fr	6-8	56	0	56	13	21	9	74	0.162	2	7	16	13	7	32	11	51.0	1
+2012	10800	15646	Barton	11	1307404	McCalla, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307404	Fr	6-2	55	0	55	13	131	83	384	0.125	16	13	36	82	1	14	0	152.0	2
+2012	10800	15646	Barton	18	1307408	Robison, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307408	Fr	6-4	55	0	55	12	65	49	192	0.083	204	16	45	60	5	9	4	90.5	7
+2012	10800	15646	Barton	10	1307403	Draughan, Alx	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307403	So	6-7	46	0	46	12	93	86	290	0.024	6	13	46	41	5	12	3	117.0	2
+2012	10800	15646	Barton	1	1307399	De Luca, Dante	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307399	Fr	5-11	42	0	42	""	2	3	7	-0.143	6	0	2	36	0	0	0	2.0	0
+2012	10800	15646	Barton	15	1307406	Daley, T.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307406	Fr	6-5	38	0	38	7	31	26	106	0.047	8	9	31	18	3	7	1	46.5	0
+2012	10800	15646	Barton	3	1307400	Prevatte, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307400	Sr	5-10	20	0	20	""	0	0	0	""	1	0	0	12	0	0	0	0.0	0
+2012	10800	15646	Barton	12	1307405	Thomas, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307405	Fr	6-3	19	0	19	6	8	6	22	0.091	130	3	9	23	1	4	2	14.0	3
+2012	10800	15646	Barton	7	1307401	O'Connor, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307401	Fr	6-4	18	0	18	2	27	22	96	0.052	4	0	4	27	0	5	0	29.5	0
+2012	10800	101	CSUN	10	1084967	Moore, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084967	Jr	6-8	103	0	103	26	147	42	285	0.368	3	14	51	34	10	94	7	218.0	1
+2012	10800	101	CSUN	7	1084963	Staker, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084963	Jr	6-8	101	0	101	27	125	35	259	0.347	6	8	32	32	12	94	11	192.0	0
+2012	10800	101	CSUN	9	1191484	Lebrock, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191484	So	6-1	100	0	100	26	260	116	608	0.237	14	18	77	100	7	42	1	306.0	0
+2012	10800	101	CSUN	12	1299906	Hoefer, Julius	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299906	Fr	6-9	96	0	96	20	286	136	646	0.232	3	18	56	92	11	52	8	341.0	1
+2012	10800	101	CSUN	1	1191480	Condron, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191480	So	5-11	82	0	82	""	3	0	3	1.000	33	0	0	177	0	0	0	3.0	0
+2012	10800	101	CSUN	11	976790	Stork, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976790	Sr	6-5	70	0	70	18	199	93	554	0.191	14	21	52	70	2	21	0	232.5	1
+2012	10800	101	CSUN	14	1084964	Baker, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084964	Jr	6-4	65	0	65	10	161	61	361	0.277	3	11	28	65	2	34	0	191.0	0
+2012	10800	101	CSUN	2	1191482	Rodrick, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191482	Sr	6-0	64	0	64	17	5	4	18	0.056	553	8	17	88	3	20	1	26.0	2
+2012	10800	101	CSUN	3	1316124	Magorien, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316124	Fr	6-5	62	0	62	5	9	6	23	0.130	293	4	9	37	3	16	0	24.0	0
+2012	10800	101	CSUN	8	1299905	Stevenson, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299905	Fr	6-5	54	0	54	12	72	38	181	0.188	5	1	17	59	2	28	2	89.0	1
+2012	10800	101	CSUN	4	1316125	Aghassy, Sina	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316125	Fr	5-9	39	0	39	""	1	0	1	1.000	13	0	0	69	0	0	0	1.0	0
+2012	10800	101	CSUN	5	1299904	Tomicic, Filip	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299904	So	6-7	32	0	32	8	11	2	21	0.429	317	4	12	22	2	13	1	23.5	1
+2012	10800	101	CSUN	13	1191483	Wagner, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191483	So	6-5	21	0	21	4	29	14	67	0.224	4	1	4	15	2	7	0	35.5	0
+2012	10800	101	CSUN	16	1191485	Lorenz, Marty	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191485	So	6-6	13	0	13	4	10	7	30	0.100	0	1	7	3	1	9	3	16.5	0
+2012	10800	101	CSUN	17	1191486	Faulkner, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191486	So	6-7	12	0	12	3	17	4	34	0.382	0	1	7	1	2	12	0	26.0	0
+2012	10800	30135	California Baptist	23	1304657	Johnson, Kristopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304657	Jr	6-11	105	0	105	27	294	79	499	0.431	9	15	59	33	23	73	21	368.5	0
+2012	10800	30135	California Baptist	2	1304647	Freitas, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304647	Jr	6-5	103	0	103	25	219	98	581	0.208	20	6	50	139	2	31	7	242.5	0
+2012	10800	30135	California Baptist	4	1304646	Cate, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304646	So	6-2	102	0	102	3	14	10	40	0.100	32	0	3	200	0	0	0	14.0	1
+2012	10800	30135	California Baptist	24	1304658	McCalmont, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304658	Jr	6-4	101	0	101	25	329	173	783	0.199	16	36	96	213	3	47	2	391.5	1
+2012	10800	30135	California Baptist	22	1304656	Tuttle, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304656	Fr	6-4	100	0	100	23	152	96	457	0.123	11	13	46	105	4	39	1	188.5	0
+2012	10800	30135	California Baptist	8	1304650	Metcalfe, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304650	So	6-4	95	0	95	23	33	12	78	0.269	945	10	53	148	4	38	10	66.0	3
+2012	10800	30135	California Baptist	11	1304652	Kreutziger, Garet	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304652	Sr	6-5	73	0	73	15	99	44	249	0.221	8	7	11	31	4	50	6	135.0	0
+2012	10800	30135	California Baptist	12	1304653	Bates, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304653	Fr	6-6	41	0	41	5	57	34	142	0.162	4	4	25	45	1	18	1	71.0	0
+2012	10800	30135	California Baptist	15	1304655	Quinn, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304655	So	6-7	34	0	34	5	33	32	112	0.009	3	4	17	37	2	16	0	47.0	0
+2012	10800	30135	California Baptist	14	1304654	Waber, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304654	Jr	6-8	33	0	33	8	44	10	103	0.330	1	0	3	8	0	28	0	58.0	0
+2012	10800	30135	California Baptist	5	1304648	Kustura, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304648	Fr	5-10	26	0	26	4	5	0	9	0.556	172	3	4	19	2	4	0	12.0	2
+2012	10800	30135	California Baptist	7	1304649	Casper, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304649	Fr	5-11	22	0	22	""	0	1	1	-1.000	7	0	0	36	0	0	0	0.0	0
+2012	10800	30135	California Baptist	9	1304651	Fitzpatrick, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304651	Jr	6-7	22	0	22	5	44	7	84	0.440	1	5	6	11	3	7	0	55.5	1
+2012	10800	30135	California Baptist	55	1304659	Bowman, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304659	So	6-2	2	0	2	""	0	0	1	0.000	9	1	2	2	0	1	0	1.5	0
+2012	10800	248	George Mason	19	1299560	Stevens, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299560	Fr	6-8	120	0	120	30	126	43	301	0.276	12	6	25	31	11	108	9	197.0	0
+2012	10800	248	George Mason	13	1088144	Dabrowski, Piotr	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088144	Jr	6-6	120	0	120	30	118	35	288	0.288	17	5	12	24	21	157	5	222.5	1
+2012	10800	248	George Mason	4	1195265	Lucas, Dave	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195265	So	5-9	102	0	102	""	0	1	2	-0.500	11	2	5	43	0	0	0	2.0	0
+2012	10800	248	George Mason	1	1195263	Jepson, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195263	So	5-11	100	0	100	""	1	1	3	0.000	6	1	4	51	0	0	0	2.0	0
+2012	10800	248	George Mason	3	1299580	Dentler, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299580	Jr	6-5	96	0	96	24	247	134	624	0.181	9	11	73	144	10	80	6	308.0	0
+2012	10800	248	George Mason	11	1088142	Jones, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088142	Jr	6-5	94	0	94	23	301	164	741	0.185	94	14	53	149	1	45	4	338.5	1
+2012	10800	248	George Mason	12	1088143	McFarland, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088143	Jr	5-11	90	0	90	4	30	23	91	0.077	28	2	2	211	1	3	0	34.5	0
+2012	10800	248	George Mason	5	974336	Norton, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=974336	Sr	6-4	88	0	88	20	180	93	511	0.170	17	19	52	135	1	48	1	224.0	0
+2012	10800	248	George Mason	18	1088145	Kvidahl, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088145	Jr	6-8	86	0	86	19	262	123	604	0.230	9	47	75	107	4	47	3	336.5	0
+2012	10800	248	George Mason	14	1195266	Cuppernull, Pete	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195266	Fr	6-6	70	0	70	16	39	18	83	0.253	644	3	15	95	5	44	3	69.0	6
+2012	10800	248	George Mason	10	1088141	Maloney, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088141	Jr	6-4	44	0	44	""	2	2	4	0.000	11	0	0	84	0	0	0	2.0	0
+2012	10800	248	George Mason	7	1088140	Perez, Javier	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088140	Jr	6-3	41	0	41	11	15	10	44	0.114	420	1	18	61	2	24	2	30.0	1
+2012	10800	248	George Mason	2	1195264	Lutz, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195264	So	6-5	12	0	12	3	42	23	92	0.207	1	2	12	11	3	3	0	48.5	0
+2012	10800	248	George Mason	15	1088147	Stoeckinger, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088147	Jr	6-6	7	0	7	""	0	0	1	0.000	0	0	0	0	0	0	0	0.0	0
+2012	10800	248	George Mason	16	1299558	Beal, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299558	Fr	6-4	5	0	5	""	0	0	0	""	0	0	0	0	0	1	0	0.5	0
+2012	10800	248	George Mason	6	1299559	Edgley, Dominic	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299559	Fr	6-4	1	0	1	""	2	2	5	0.000	0	0	1	0	0	1	0	2.5	0
+2012	10800	1104	Grand Canyon	8	1193773	Ponnet, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193773	So	6-4	116	0	116	31	421	182	986	0.242	20	29	93	190	8	51	3	483.5	0
+2012	10800	1104	Grand Canyon	12	1193774	Smith, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193774	So	6-4	108	0	108	30	43	8	96	0.365	1,147	3	10	185	9	84	10	97.0	3
+2012	10800	1104	Grand Canyon	2	1083699	Bruns, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083699	Jr	6-0	105	0	105	""	0	2	3	-0.667	45	0	0	256	0	0	0	0.0	1
+2012	10800	1104	Grand Canyon	10	1302310	Mather, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302310	Fr	6-6	87	0	87	21	146	48	284	0.345	7	17	61	47	7	91	9	215.5	0
+2012	10800	1104	Grand Canyon	16	1100256	Wekell, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1100256	Jr	6-2	86	0	86	5	42	31	106	0.104	3	17	47	34	1	8	0	64.0	0
+2012	10800	1104	Grand Canyon	4	1193770	Galliano, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193770	Sr	6-5	78	0	78	20	132	52	331	0.242	5	9	22	51	11	52	3	178.0	1
+2012	10800	1104	Grand Canyon	13	1193775	Tarantino, Jordon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193775	Jr	6-5	77	0	77	20	267	120	705	0.209	2	10	55	97	4	47	6	304.5	0
+2012	10800	1104	Grand Canyon	14	973993	Griffin, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973993	Sr	6-2	58	0	58	14	102	46	313	0.179	10	1	13	70	2	16	0	113.0	0
+2012	10800	1104	Grand Canyon	5	1193771	Hunt, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193771	So	6-4	48	0	48	9	48	27	153	0.137	7	1	2	64	2	11	3	56.5	0
+2012	10800	1104	Grand Canyon	19	1302312	Lockwood, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302312	So	6-5	45	0	45	13	86	28	167	0.347	3	4	26	26	3	37	3	111.5	0
+2012	10800	1104	Grand Canyon	21	1302313	Olson, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302313	Fr	6-1	39	0	39	5	39	21	120	0.150	1	6	18	40	2	8	0	51.0	0
+2012	10800	1104	Grand Canyon	9	1302309	Dougherty, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302309	So	6-6	38	0	38	10	74	25	152	0.322	2	1	13	21	1	26	0	89.0	0
+2012	10800	1104	Grand Canyon	11	1083701	Brannick, Robbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083701	So	6-4	37	0	37	7	58	35	162	0.142	2	3	5	53	3	16	1	72.0	0
+2012	10800	1104	Grand Canyon	17	1193777	Morrison, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193777	Fr	6-0	36	0	36	""	1	0	1	1.000	15	1	0	39	0	0	0	2.0	0
+2012	10800	1104	Grand Canyon	6	1193772	Fajardo, Andre	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1193772	Sr	6-0	29	0	29	1	0	0	0	""	0	3	10	5	0	0	0	3.0	0
+2012	10800	1104	Grand Canyon	7	1302308	Berry, Keaton	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302308	Fr	6-5	15	0	15	3	18	10	40	0.200	0	1	4	4	0	7	0	22.5	0
+2012	10800	1104	Grand Canyon	1	1083698	Moore, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083698	Jr	6-1	10	0	10	2	2	2	7	0.000	93	0	3	10	3	3	0	6.5	0
+2012	10800	1104	Grand Canyon	3	1302307	Goldberg, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302307	Fr	6-1	9	0	9	""	3	0	5	0.600	31	1	1	5	0	0	0	4.0	2
+2012	10800	1104	Grand Canyon	15	1302311	Youngs, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1302311	Sr	6-4	6	0	6	1	2	1	6	0.167	0	0	1	1	0	1	0	2.5	0
+2012	10800	275	Harvard	1	1306233	White, Dj	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1306233	Fr	6-5	90	0	90	24	248	66	570	0.319	18	8	12	135	6	28	6	276.0	0
+2012	10800	275	Harvard	11	977043	Jones, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977043	Sr	6-3	90	0	90	24	345	123	729	0.305	17	38	82	133	3	59	5	415.5	0
+2012	10800	275	Harvard	16	1195294	Madden, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195294	So	6-5	89	0	89	24	268	120	595	0.249	11	17	74	132	7	53	12	318.5	0
+2012	10800	275	Harvard	6	1084194	Lothman, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084194	Jr	6-2	88	0	88	23	11	10	46	0.022	889	5	17	93	4	31	10	35.5	2
+2012	10800	275	Harvard	15	1195293	Gibbons, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195293	So	6-1	86	0	86	""	2	2	14	0.000	22	0	0	212	0	0	0	2.0	0
+2012	10800	275	Harvard	3	1195280	Chambers, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195280	So	6-3	80	0	80	20	114	29	220	0.386	5	8	36	23	6	59	11	157.5	0
+2012	10800	275	Harvard	2	1195279	Owen, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195279	So	6-7	76	0	76	15	43	17	102	0.255	2	11	33	37	3	58	4	86.0	0
+2012	10800	275	Harvard	9	1084193	Jansma, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084193	Jr	6-3	62	0	62	1	1	0	3	0.333	47	5	27	14	0	3	1	7.5	2
+2012	10800	275	Harvard	10	1306234	Zimmick, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1306234	Fr	6-9	45	0	45	13	90	25	159	0.409	3	8	13	10	7	47	4	128.5	0
+2012	10800	275	Harvard	12	1306232	Manzo, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1306232	Fr	6-3	12	0	12	""	2	3	7	-0.143	0	2	2	0	0	0	0	4.0	0
+2012	10800	275	Harvard	14	977050	Schreff, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977050	Sr	6-1	11	0	11	""	0	0	0	""	3	0	0	9	0	0	0	0.0	0
+2012	10800	275	Harvard	4	1306235	Martin, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1306235	Jr	6-2	1	0	1	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	277	Hawaii	12	1301064	West, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301064	So	6-8	101	0	101	27	183	51	357	0.370	6	13	70	31	8	85	3	246.5	0
+2012	10800	277	Hawaii	1	1191489	Castello, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191489	Sr	5-8	101	0	101	""	1	0	2	0.500	41	0	0	230	0	0	0	1.0	0
+2012	10800	277	Hawaii	5	976973	Hunt, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976973	Sr	6-5	101	0	101	27	419	186	1,041	0.224	14	22	80	101	22	40	3	483.0	1
+2012	10800	277	Hawaii	4	1083104	Biscaro, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083104	So	6-4	100	0	100	27	29	12	85	0.200	1,011	5	38	149	2	48	18	60.0	5
+2012	10800	277	Hawaii	14	976980	Lofy, Jarrod	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976980	Sr	6-9	94	0	94	25	86	16	180	0.389	10	3	9	15	14	72	6	139.0	1
+2012	10800	277	Hawaii	15	1301066	Marks, Jp	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301066	Fr	6-6	94	0	94	26	216	121	549	0.173	20	23	82	110	9	34	2	265.0	0
+2012	10800	277	Hawaii	13	1301065	Averill, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301065	Fr	6-7	78	0	78	13	129	72	289	0.197	8	6	25	72	3	38	2	157.0	0
+2012	10800	277	Hawaii	11	1301063	Sedore, Brook	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301063	Fr	6-5	62	0	62	1	26	27	77	-0.013	4	7	26	24	1	5	0	36.5	0
+2012	10800	277	Hawaii	16	1191494	Carroll, Harrison	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191494	Jr	6-1	46	0	46	6	88	45	195	0.221	5	1	5	47	1	5	0	92.5	0
+2012	10800	277	Hawaii	3	1191491	Hartley, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191491	So	6-4	36	0	36	2	12	16	48	-0.083	2	2	1	14	1	2	0	16.0	0
+2012	10800	277	Hawaii	7	1301060	Timmer, Johann	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301060	Fr	6-6	33	0	33	6	34	21	93	0.140	3	3	15	31	0	7	2	40.5	0
+2012	10800	277	Hawaii	19	1301067	Lile, Dominic	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301067	Fr	6-3	22	0	22	""	0	2	2	-1.000	54	0	2	8	0	3	0	1.5	0
+2012	10800	277	Hawaii	17	1191495	Crutchfield, Troy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191495	Sr	5-11	21	0	21	""	0	0	0	""	0	0	1	4	0	0	0	0.0	0
+2012	10800	277	Hawaii	9	1191493	Phelps, Harrison	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191493	So	6-1	14	0	14	""	0	0	0	""	0	0	2	3	0	0	0	0.0	0
+2012	10800	277	Hawaii	2	1191490	Welch, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191490	So	6-10	9	0	9	2	3	4	14	-0.071	0	0	1	1	1	6	1	7.0	0
+2012	10800	277	Hawaii	8	1301061	Hinkle, Stanley	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301061	Fr	6-5	7	0	7	""	9	5	19	0.211	0	0	2	1	0	1	0	9.5	0
+2012	10800	277	Hawaii	18	1191496	Holt, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191496	Fr	6-8	2	0	2	""	1	0	1	1.000	0	0	0	0	0	0	0	1.0	0
+2012	10800	277	Hawaii	21	976987	Cheape, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976987	Jr	5-10	2	0	2	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	308	IPFW	1	1191685	Kieckhefer, Jw	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191685	So	6-1	108	0	108	1	0	0	6	0.000	34	0	0	278	0	0	0	0.0	0
+2012	10800	308	IPFW	17	973864	Frain, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973864	Sr	6-5	91	0	91	20	143	28	270	0.426	6	15	37	47	7	72	4	201.0	0
+2012	10800	308	IPFW	8	1191686	Rivera Marin, Eddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191686	So	6-2	89	0	89	18	240	99	612	0.230	17	26	55	187	2	37	4	286.5	1
+2012	10800	308	IPFW	2	1307054	Rivera, Omar	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307054	Fr	6-3	89	0	89	18	29	20	74	0.122	874	14	67	106	3	36	20	64.0	7
+2012	10800	308	IPFW	12	973855	Matos, Ivan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973855	Sr	6-4	85	0	85	20	325	155	750	0.227	13	8	60	106	4	40	2	357.0	2
+2012	10800	308	IPFW	7	1087471	Fyfield, Elon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087471	Jr	6-5	68	0	68	17	167	84	424	0.196	9	16	38	90	0	30	4	198.0	2
+2012	10800	308	IPFW	13	1087472	Samp, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087472	Jr	6-7	64	0	64	12	67	21	142	0.324	3	9	21	23	2	43	10	99.5	1
+2012	10800	308	IPFW	6	1307055	Burgos, Ramon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307055	Fr	6-5	61	0	61	13	126	24	232	0.440	11	3	13	38	4	56	6	161.0	2
+2012	10800	308	IPFW	15	973863	Peterson, Phil	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973863	Jr	6-7	58	0	58	16	151	75	374	0.203	3	13	37	47	1	19	0	174.5	1
+2012	10800	308	IPFW	4	973849	Mader, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973849	Sr	6-5	56	0	56	2	45	34	116	0.095	13	3	21	36	2	11	0	55.5	1
+2012	10800	308	IPFW	11	1191687	Quinn, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191687	Sr	6-5	45	0	45	9	3	6	15	-0.200	370	4	4	35	0	16	3	15.0	2
+2012	10800	308	IPFW	16	1307057	Saunders, Bryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307057	Fr	6-4	41	0	41	9	74	14	131	0.458	1	2	14	8	1	25	1	89.5	1
+2012	10800	308	IPFW	14	1087469	Randolph, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087469	Jr	6-5	40	0	40	6	64	38	180	0.144	3	2	18	33	1	13	1	73.5	0
+2012	10800	308	IPFW	5	973850	Meyer, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973850	Sr	6-2	38	0	38	""	1	1	2	0.000	2	0	5	26	0	0	0	1.0	0
+2012	10800	308	IPFW	19	1316155	Klimek, Albert	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316155	Fr	6-5	10	0	10	1	7	11	41	-0.098	4	1	7	8	2	2	1	11.0	0
+2012	10800	308	IPFW	3	1316151	Pinto, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316151	Sr	6-0	4	0	4	""	0	0	0	""	0	0	0	2	0	0	0	0.0	0
+2012	10800	30051	King (TN)	1	1094351	Rorer, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1094351	Sr	5-10	90	0	90	5	37	20	106	0.160	19	1	5	238	0	3	1	39.5	0
+2012	10800	30051	King (TN)	3	1300185	Koebel, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300185	Jr	6-4	86	0	86	22	165	114	511	0.100	27	24	63	103	3	26	2	205.0	1
+2012	10800	30051	King (TN)	21	1300182	Glenn, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300182	Sr	6-4	84	0	84	21	203	52	434	0.348	0	12	28	33	19	74	18	271.0	1
+2012	10800	30051	King (TN)	20	1094344	Friddle, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1094344	Sr	6-4	83	0	83	20	245	126	590	0.202	17	20	36	163	9	43	9	295.5	1
+2012	10800	30051	King (TN)	5	1094350	Parker, Ned	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1094350	Jr	6-0	82	0	82	15	23	14	69	0.130	425	5	13	170	2	25	6	42.5	0
+2012	10800	30051	King (TN)	25	1195007	Funk, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195007	So	6-0	78	0	78	15	60	53	220	0.032	25	4	18	79	2	12	2	72.0	0
+2012	10800	30051	King (TN)	6	1300183	Harper, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300183	Fr	6-8	77	0	77	17	137	53	305	0.275	3	14	38	25	16	58	17	196.0	1
+2012	10800	30051	King (TN)	14	1195006	Brown, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195006	So	6-3	70	0	70	11	82	56	230	0.113	15	13	34	62	7	10	4	107.0	0
+2012	10800	30051	King (TN)	13	1195008	Crane, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195008	Fr	6-0	49	0	49	9	16	13	61	0.049	395	10	21	49	3	24	5	41.0	7
+2012	10800	30051	King (TN)	11	1300181	Casner, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300181	Fr	6-8	22	0	22	8	42	8	79	0.430	1	2	15	6	6	15	1	57.5	0
+2012	10800	30051	King (TN)	4	1317109	Kibsey, Adrian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317109	Sr	6-0	21	0	21	2	16	15	45	0.022	41	4	10	25	1	6	0	24.0	0
+2012	10800	30051	King (TN)	7	1300186	Lopez, Adrian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300186	Fr	6-5	1	0	1	""	0	0	0	""	0	0	0	0	0	1	0	0.5	0
+2012	10800	13302	Lees-McRae	4	1195013	Negron, Efrain	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195013	So	5-9	80	0	80	1	1	2	7	-0.143	24	0	0	206	0	0	0	1.0	0
+2012	10800	13302	Lees-McRae	16	1195019	Harpenau, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195019	So	6-8	77	0	77	20	159	55	346	0.301	4	12	36	31	5	56	6	204.0	0
+2012	10800	13302	Lees-McRae	14	1195018	Lucas, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195018	So	6-7	72	0	72	19	191	103	513	0.172	2	16	32	112	5	48	4	236.0	2
+2012	10800	13302	Lees-McRae	8	1301277	Jones, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301277	Fr	6-7	70	0	70	17	127	51	256	0.297	2	10	38	21	10	65	3	179.5	0
+2012	10800	13302	Lees-McRae	5	1195014	Ramirez, Randy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195014	So	6-3	70	0	70	18	62	26	130	0.277	708	9	71	87	9	40	14	100.0	5
+2012	10800	13302	Lees-McRae	10	1195016	Flood, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195016	So	6-4	67	0	67	15	118	77	321	0.128	12	16	52	92	5	12	1	145.0	1
+2012	10800	13302	Lees-McRae	9	1301278	Ribas, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301278	So	6-7	61	0	61	15	206	93	493	0.229	12	18	32	60	11	23	3	246.5	1
+2012	10800	13302	Lees-McRae	11	1195017	Kembre, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195017	So	6-0	43	0	43	1	10	7	23	0.130	83	7	14	19	2	2	0	20.0	0
+2012	10800	13302	Lees-McRae	12	1083183	Walkley, Edmund	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083183	Jr	6-6	31	0	31	8	35	17	100	0.180	17	5	12	43	4	3	1	45.5	1
+2012	10800	13302	Lees-McRae	17	1195020	Sheers, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195020	So	6-4	15	0	15	2	25	13	71	0.169	22	2	8	14	0	1	0	27.5	0
+2012	10800	13302	Lees-McRae	13	1301279	Callaway, Houston	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301279	Jr	6-9	12	0	12	2	12	3	22	0.409	0	1	8	5	1	4	1	16.0	0
+2012	10800	13302	Lees-McRae	6	1195015	Morrison, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195015	So	6-5	10	0	10	1	13	8	39	0.128	1	4	8	10	0	1	0	17.5	0
+2012	10800	13302	Lees-McRae	18	1195021	Cothron, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195021	So	6-9	9	0	9	1	5	5	12	0.000	0	2	3	1	0	1	1	7.5	0
+2012	10800	354	Lewis	18	974133	Flick, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=974133	Sr	6-8	114	0	114	31	200	26	341	0.510	5	12	17	51	4	100	10	266.0	0
+2012	10800	354	Lewis	9	1299554	Petty, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299554	Fr	6-6	112	0	112	29	201	82	479	0.248	28	33	96	122	4	43	3	259.5	1
+2012	10800	354	Lewis	07	974123	Gallik, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=974123	Sr	6-6	111	0	111	31	167	40	305	0.416	12	8	67	25	15	112	19	246.0	1
+2012	10800	354	Lewis	16	1084011	Boldog, Bj	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084011	So	6-4	107	0	107	29	49	8	75	0.547	1,151	11	54	113	8	84	6	110.0	2
+2012	10800	354	Lewis	19	974134	Petty, Jay	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=974134	Jr	6-6	105	0	105	29	421	146	864	0.318	28	35	89	160	7	61	8	493.5	1
+2012	10800	354	Lewis	13	1191552	Powell, Geoff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191552	Fr	6-4	89	0	89	16	223	85	484	0.285	16	19	39	94	2	37	7	262.5	1
+2012	10800	354	Lewis	10	1191548	Varney, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191548	Jr	6-1	89	0	89	""	0	0	1	0.000	16	0	0	176	0	0	0	0.0	0
+2012	10800	354	Lewis	27	1084012	Karbiener, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084012	Jr	6-6	88	0	88	21	217	88	530	0.243	10	19	54	117	5	46	3	264.0	1
+2012	10800	354	Lewis	05	1191547	Butch, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191547	Fr	6-3	53	0	53	4	9	1	17	0.471	165	8	25	18	2	14	2	26.0	2
+2012	10800	354	Lewis	01	1084005	Torres-Davis, Roberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084005	So	5-9	53	0	53	""	0	0	0	""	30	0	0	83	0	0	0	0.0	1
+2012	10800	354	Lewis	04	1084007	Sanchez, Omar	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084007	Sr	6-3	37	0	37	1	12	12	34	0.000	1	3	13	18	0	5	1	17.5	0
+2012	10800	354	Lewis	12	1191551	Hofmann, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191551	Fr	6-8	18	0	18	1	5	4	11	0.091	0	0	6	2	1	5	0	8.5	0
+2012	10800	354	Lewis	14	1084008	Fitterer, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084008	Fr	6-8	16	0	16	3	33	18	81	0.185	0	3	9	10	0	5	0	38.5	0
+2012	10800	354	Lewis	20	1191553	Zhou, Yiwei	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191553	So	6-9	16	0	16	3	21	8	41	0.317	1	1	10	4	1	16	3	31.0	0
+2012	10800	354	Lewis	11	1191550	Orf, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191550	So	6-2	11	0	11	""	2	0	3	0.667	0	0	1	4	0	0	0	2.0	0
+2012	10800	354	Lewis	8	1299553	Nelson, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299553	Fr	6-7	8	0	8	""	11	1	15	0.667	0	0	4	1	2	8	1	17.0	0
+2012	10800	354	Lewis	3	1084006	Logan, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1084006	Fr	6-4	2	0	2	""	0	0	0	""	0	0	1	0	0	0	0	0.0	0
+2012	10800	1174	Limestone	3	1192693	Van Grinsven, Curtis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192693	So	6-6	92	0	92	23	104	29	257	0.292	4	4	22	24	15	97	12	171.5	0
+2012	10800	1174	Limestone	29	1087012	Daley, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087012	Jr	6-4	92	0	92	24	164	56	342	0.316	6	12	30	34	21	99	5	246.5	0
+2012	10800	1174	Limestone	22	1087016	Pile, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087016	Jr	6-3	90	0	90	24	77	21	160	0.350	786	23	61	146	17	46	4	140.0	7
+2012	10800	1174	Limestone	30	1305097	Warren, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305097	Jr	6-7	88	0	88	24	270	116	699	0.220	15	19	42	120	11	90	9	345.0	0
+2012	10800	1174	Limestone	12	1087009	Hart, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087009	Jr	6-3	87	0	87	24	212	117	584	0.163	19	16	49	164	4	26	5	245.0	1
+2012	10800	1174	Limestone	2	1087004	Gilliland, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087004	Jr	5-9	76	0	76	""	1	0	11	0.091	40	1	2	160	0	0	0	2.0	1
+2012	10800	1174	Limestone	91	1196773	Miller, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196773	So	6-4	68	0	68	16	105	69	285	0.126	12	4	19	98	6	37	5	133.5	2
+2012	10800	1174	Limestone	1	1087014	Dorr, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087014	Jr	6-2	58	0	58	5	23	11	69	0.174	18	2	8	61	3	11	0	33.5	0
+2012	10800	1174	Limestone	6	1305098	Zaun, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305098	Fr	6-4	21	0	21	4	57	17	106	0.377	6	2	17	32	2	10	3	66.0	0
+2012	10800	1174	Limestone	7	1087006	Shearer, Cj	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087006	Jr	6-3	6	0	6	""	4	3	14	0.071	0	0	3	5	0	1	0	4.5	0
+2012	10800	1174	Limestone	16	1305100	Mineo, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305100	Fr	5-9	3	0	3	""	1	0	2	0.500	23	1	2	3	0	2	0	3.0	0
+2012	10800	1174	Limestone	23	1192694	Mican, Ondrej	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192694	So	6-2	2	0	2	""	3	1	6	0.333	1	0	1	0	0	0	0	3.0	0
+2012	10800	1174	Limestone	18	1305099	Clark, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305099	Fr	5-10	1	0	1	""	0	0	0	""	0	1	0	1	0	0	0	1.0	0
+2012	10800	30136	Lindenwood (MO)	16	1305255	Jarus, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305255	Fr	6-6	111	0	111	31	179	47	356	0.371	7	3	28	35	17	98	6	248.0	2
+2012	10800	30136	Lindenwood (MO)	10	1305245	Mitchell, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305245	Sr	6-5	109	0	109	29	361	151	835	0.251	9	8	23	162	18	78	4	426.0	0
+2012	10800	30136	Lindenwood (MO)	6	1305241	Adams, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305241	So	6-4	106	0	106	28	283	137	702	0.208	33	28	85	170	13	37	1	342.5	1
+2012	10800	30136	Lindenwood (MO)	3	1305239	Schmidt, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305239	So	6-2	92	0	92	24	53	17	115	0.313	950	7	59	146	6	29	9	80.5	19
+2012	10800	30136	Lindenwood (MO)	7	1305242	Plummer, Jm	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305242	Sr	6-3	89	0	89	21	177	106	498	0.143	14	5	28	155	4	35	1	203.5	2
+2012	10800	30136	Lindenwood (MO)	9	1305244	Buehler, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305244	So	6-1	86	0	86	""	0	1	6	-0.167	30	0	0	186	0	0	0	0.0	0
+2012	10800	30136	Lindenwood (MO)	22	1305257	Siwicki, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305257	So	6-8	80	0	80	21	152	44	285	0.379	3	12	43	31	9	52	7	199.0	0
+2012	10800	30136	Lindenwood (MO)	1	1305237	Poole, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305237	So	5-6	78	0	78	""	0	1	2	-0.500	16	1	12	90	0	0	0	1.0	1
+2012	10800	30136	Lindenwood (MO)	13	1305252	Tudor, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305252	Jr	6-2	65	0	65	12	163	83	404	0.198	13	14	36	91	5	18	3	191.0	1
+2012	10800	30136	Lindenwood (MO)	11	1305246	Calder, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305246	Jr	6-1	47	0	47	""	13	5	28	0.286	1	5	7	16	1	1	0	19.5	0
+2012	10800	30136	Lindenwood (MO)	8	1305243	Cox, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305243	Jr	6-5	41	0	41	5	21	11	48	0.208	200	0	9	30	2	6	1	26.0	0
+2012	10800	30136	Lindenwood (MO)	15	1305254	Bruton, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305254	So	6-4	38	0	38	10	47	14	104	0.317	0	5	19	9	1	36	2	71.0	0
+2012	10800	30136	Lindenwood (MO)	2	1305238	Schmalzried, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305238	Jr	6-0	21	0	21	1	2	1	7	0.143	105	1	6	24	1	3	2	5.5	2
+2012	10800	30136	Lindenwood (MO)	12	1305251	Steiner, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305251	So	6-0	10	0	10	""	0	0	0	""	0	5	1	1	0	0	0	5.0	0
+2012	10800	30136	Lindenwood (MO)	21	1305256	Whitaker, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305256	So	6-4	9	0	9	""	4	4	13	0.000	0	4	0	3	1	10	0	14.0	0
+2012	10800	30136	Lindenwood (MO)	14	1305253	Cruz, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305253	Fr	6-5	7	0	7	1	4	3	12	0.083	0	0	0	0	0	2	0	5.0	0
+2012	10800	30136	Lindenwood (MO)	5	1305240	Saunders, JeVaughn	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305240	Jr	6-1	4	0	4	""	8	2	15	0.400	0	0	1	4	0	1	1	8.5	0
+2012	10800	30136	Lindenwood (MO)	23	1315523	Thompson, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1315523	Jr	6-1	1	0	1	""	0	1	1	-1.000	0	0	0	0	0	0	0	0.0	0
+2012	10800	99	Long Beach St.	12	1191521	McElderry, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191521	Sr	6-5	115	0	115	""	4	1	7	0.429	57	0	0	211	0	0	0	4.0	0
+2012	10800	99	Long Beach St.	21	1191525	Olbright, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191525	So	6-4	110	0	110	26	49	21	109	0.257	1,144	16	51	179	3	54	12	95.0	1
+2012	10800	99	Long Beach St.	4	1191520	Crabb, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191520	So	6-0	110	0	110	27	303	120	755	0.242	72	20	45	210	6	36	0	347.0	0
+2012	10800	99	Long Beach St.	16	1191523	Ornee, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191523	So	6-8	106	0	106	25	175	41	336	0.399	12	8	18	36	13	97	14	244.5	0
+2012	10800	99	Long Beach St.	19	1191524	Hemmerling, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191524	Sr	6-4	103	0	103	26	211	91	537	0.223	14	17	43	158	6	51	1	259.5	1
+2012	10800	99	Long Beach St.	25	1085559	Meehan, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1085559	Sr	6-8	89	0	89	22	145	35	272	0.404	3	20	54	16	16	79	6	220.5	0
+2012	10800	99	Long Beach St.	2	978067	Baughman, Jim	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978067	Sr	6-7	81	0	81	13	230	91	492	0.283	5	22	56	77	4	30	10	271.0	0
+2012	10800	99	Long Beach St.	15	1085556	Echave, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1085556	Jr	6-7	51	0	51	8	73	18	136	0.404	7	14	30	15	4	34	5	108.0	0
+2012	10800	99	Long Beach St.	23	978083	Nadazdin, Srdjan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978083	Sr	6-8	43	0	43	11	103	52	302	0.169	8	5	7	63	1	29	3	123.5	0
+2012	10800	99	Long Beach St.	3	1191519	Crabb, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191519	Jr	6-4	34	0	34	3	68	25	172	0.250	2	0	6	42	1	15	2	76.5	0
+2012	10800	99	Long Beach St.	6	1299666	La Rusch, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299666	Fr	6-6	31	0	31	6	59	27	127	0.252	2	3	11	26	1	15	0	70.5	0
+2012	10800	99	Long Beach St.	14	1191522	Satterfield, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191522	So	6-5	23	0	23	1	15	6	37	0.243	1	1	8	10	1	1	0	17.5	0
+2012	10800	99	Long Beach St.	8	1299667	Anshus, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299667	So	6-4	12	0	12	""	0	1	1	-1.000	14	0	0	3	0	1	0	0.5	0
+2012	10800	99	Long Beach St.	1	1299664	Silver, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299664	Fr	6-0	6	0	6	""	0	0	0	""	1	0	0	5	0	0	0	0.0	0
+2012	10800	99	Long Beach St.	10	1085554	Ammerman, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1085554	Jr	6-4	2	0	2	""	0	0	0	""	0	0	2	0	0	0	0	0.0	0
+2012	10800	99	Long Beach St.	5	1299665	Smith, McKay	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299665	Jr	6-6	1	0	1	""	2	0	3	0.667	0	0	0	0	0	0	0	2.0	0
+2012	10800	371	Loyola Chicago	21	976327	Daliege, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976327	Jr	6-7	102	0	102	30	154	30	287	0.432	1	4	13	30	10	91	7	213.5	2
+2012	10800	371	Loyola Chicago	24	1083853	Mirick, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083853	Jr	6-0	100	0	100	27	17	11	40	0.150	1,092	11	31	126	4	44	3	54.0	7
+2012	10800	371	Loyola Chicago	16	1083852	Smalzer, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083852	So	6-8	98	0	98	27	337	150	671	0.279	58	48	81	136	7	45	2	414.5	1
+2012	10800	371	Loyola Chicago	6	1083850	Jasaitis, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083850	So	6-0	97	0	97	""	0	1	3	-0.333	45	0	0	265	0	0	0	0.0	4
+2012	10800	371	Loyola Chicago	13	976319	Bunting, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976319	Sr	6-4	87	0	87	26	317	127	719	0.264	10	21	67	107	6	33	2	360.5	1
+2012	10800	371	Loyola Chicago	8	1196591	Berzins, Dainis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196591	So	6-5	86	0	86	20	188	81	421	0.254	8	15	55	119	9	33	4	228.5	1
+2012	10800	371	Loyola Chicago	12	1300437	Caldwell, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300437	Fr	6-6	81	0	81	19	200	89	485	0.229	22	19	52	128	6	22	2	236.0	2
+2012	10800	371	Loyola Chicago	19	1300439	Patton, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300439	Jr	6-7	75	0	75	1	1	1	4	0.000	0	6	25	7	0	4	0	9.0	0
+2012	10800	371	Loyola Chicago	20	976326	Thompson, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976326	Sr	6-6	55	0	55	13	63	16	127	0.370	3	8	34	17	4	33	6	91.5	0
+2012	10800	371	Loyola Chicago	11	976309	Nail, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976309	Jr	6-8	36	0	36	10	50	20	103	0.291	2	1	9	16	1	30	5	67.0	1
+2012	10800	371	Loyola Chicago	15	1195623	Podkowa, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195623	So	6-6	30	0	30	8	38	13	75	0.333	2	1	8	14	1	15	2	47.5	0
+2012	10800	371	Loyola Chicago	3	976302	Styler, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976302	Sr	6-6	22	0	22	1	2	3	10	-0.100	0	0	3	3	0	0	0	2.0	0
+2012	10800	371	Loyola Chicago	7	1195622	Darin, Torey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195622	So	6-5	18	0	18	""	11	10	33	0.030	1	2	6	5	1	4	0	16.0	0
+2012	10800	371	Loyola Chicago	2	976301	Becker, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976301	Sr	6-0	16	0	16	""	0	0	0	""	9	0	0	30	0	0	0	0.0	0
+2012	10800	371	Loyola Chicago	22	976328	Pincoski, J.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976328	Jr	6-1	8	0	8	2	0	3	7	-0.429	60	0	1	11	1	1	0	1.5	1
+2012	10800	371	Loyola Chicago	9	1300441	Phillips, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300441	Fr	6-4	6	0	6	""	10	7	25	0.120	2	1	5	3	0	3	0	12.5	0
+2012	10800	371	Loyola Chicago	25	976331	Dewaele, Domenic	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976331	Sr	6-6	4	0	4	1	7	4	15	0.200	1	0	5	1	0	3	0	8.5	0
+2012	10800	371	Loyola Chicago	4	1300434	Mirick, Kurtis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300434	Fr	5-11	1	0	1	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	371	Loyola Chicago	5	1300435	Stalyga, Jonas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300435	Fr	6-8	1	0	1	""	1	0	2	0.500	0	0	1	0	0	0	0	1.0	0
+2012	10800	371	Loyola Chicago	14	1300438	Baine, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300438	Fr	6-5	1	0	1	""	0	0	0	""	0	0	0	0	0	1	0	0.5	0
+2012	10800	371	Loyola Chicago	1	1300433	Maniscalco, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300433	So	6-0	1	0	1	""	0	0	0	""	0	0	0	1	0	0	0	0.0	0
+2012	10800	1245	Mount Olive	17	1308386	Hoelzl, Lukas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308386	Fr	6-4	103	0	103	25	187	92	453	0.210	13	12	21	136	4	36	2	221.0	0
+2012	10800	1245	Mount Olive	13	1191542	Tutty, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191542	So	6-10	101	0	101	23	190	41	342	0.436	3	6	13	40	12	79	8	247.5	0
+2012	10800	1245	Mount Olive	3	1091962	Miracle, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1091962	Jr	6-3	99	0	99	23	337	145	734	0.262	14	13	34	106	4	50	5	379.0	1
+2012	10800	1245	Mount Olive	12	1191541	Mettichecchia, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191541	Sr	6-2	98	0	98	24	31	7	57	0.421	1,006	13	15	125	5	50	6	74.0	14
+2012	10800	1245	Mount Olive	8	1091964	Arnold, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1091964	Jr	6-2	90	0	90	""	1	2	3	-0.333	7	0	0	217	0	1	0	1.5	1
+2012	10800	1245	Mount Olive	7	1191543	Rivero, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191543	Jr	6-2	89	0	89	21	250	140	554	0.199	21	14	68	91	5	55	12	296.5	2
+2012	10800	1245	Mount Olive	15	1091967	Nunns, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1091967	Sr	6-4	64	0	64	18	138	50	287	0.307	4	16	51	19	8	52	3	188.0	0
+2012	10800	1245	Mount Olive	20	978524	Ebbecke, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978524	Sr	6-7	57	0	57	9	85	31	166	0.325	0	6	14	20	14	66	6	138.0	1
+2012	10800	1245	Mount Olive	14	1317110	Vazquez, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317110	Sr	6-4	33	0	33	3	74	46	169	0.166	6	8	7	32	1	22	0	94.0	0
+2012	10800	1245	Mount Olive	22	1191544	Casado, Benjamin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191544	So	6-2	33	0	33	2	1	4	7	-0.429	50	10	7	40	1	4	1	14.0	0
+2012	10800	1245	Mount Olive	2	1191538	Rossato, Renzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191538	So	6-2	28	0	28	5	47	28	106	0.179	0	13	26	10	1	7	0	64.5	0
+2012	10800	1245	Mount Olive	6	1308372	Carnes, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308372	Fr	6-1	17	0	17	""	1	0	1	1.000	2	0	0	25	0	0	0	1.0	2
+2012	10800	1245	Mount Olive	16	1308373	Marin, Quaid	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308373	So	6-3	13	0	13	2	8	3	16	0.312	122	0	5	18	0	7	0	11.5	0
+2012	10800	1245	Mount Olive	10	1191540	Cruse, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191540	So	6-4	9	0	9	""	12	5	30	0.233	0	4	9	12	2	6	0	21.0	1
+2012	10800	1245	Mount Olive	21	1308375	Steppin, Bastian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308375	Fr	6-7	5	0	5	""	9	5	21	0.190	0	1	1	4	0	2	0	11.0	1
+2012	10800	1245	Mount Olive	11	1091966	Sela, Giora	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1091966	Jr	6-4	5	0	5	1	6	0	9	0.667	0	1	5	1	0	3	0	8.5	0
+2012	10800	1245	Mount Olive	5	1308371	Sokol, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308371	Fr	6-3	3	0	3	""	1	0	2	0.500	0	0	0	1	0	0	0	1.0	0
+2012	10800	1245	Mount Olive	18	1308374	Alaniz, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308374	Fr	6-2	2	0	2	""	4	1	8	0.375	0	0	4	1	0	0	0	4.0	0
+2012	10800	1245	Mount Olive	1	1308370	Fraga Leal, Victor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308370	Fr	6-2	1	0	1	""	0	0	0	""	0	0	0	1	0	0	0	0.0	0
+2012	10800	1245	Mount Olive	24	1308376	Basson, Peter-Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308376	Fr	6-1	1	0	1	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	471	NJIT	7	1083270	Van Oss, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083270	Jr	6-8	113	0	113	29	192	69	425	0.289	20	32	81	44	21	61	9	275.5	0
+2012	10800	471	NJIT	5	1083269	Smith, Brady	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083269	Jr	6-0	109	0	109	1	0	0	2	0.000	49	0	0	302	0	0	0	0.0	0
+2012	10800	471	NJIT	8	1083271	Battersby, Doug	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083271	Jr	6-5	107	0	107	24	159	67	359	0.256	8	19	44	42	16	71	3	229.5	0
+2012	10800	471	NJIT	3	973475	Gustafson, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973475	Sr	6-0	100	0	100	25	144	44	343	0.292	430	19	28	186	6	33	7	185.5	5
+2012	10800	471	NJIT	14	1300349	Jurko, Tj	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300349	Fr	6-3	88	0	88	22	294	145	692	0.215	19	11	41	119	1	14	6	313.0	1
+2012	10800	471	NJIT	1	1195227	Kantushov, Herman	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195227	So	6-1	88	0	88	18	163	83	468	0.171	13	15	33	105	7	25	3	197.5	1
+2012	10800	471	NJIT	21	1318205	Kaepernick, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1318205	Fr	6-8	71	0	71	16	149	79	418	0.167	16	10	33	77	1	13	4	166.5	1
+2012	10800	471	NJIT	2	1083267	Lui, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083267	Jr	6-1	63	0	63	10	11	10	31	0.032	454	6	24	63	5	29	1	36.5	1
+2012	10800	471	NJIT	6	1300346	Griesshammer, Aurel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300346	Fr	6-7	62	0	62	15	139	56	329	0.252	10	3	17	63	4	30	4	161.0	0
+2012	10800	471	NJIT	11	1300352	Robben, Zak	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300352	Fr	6-0	46	0	46	6	7	0	18	0.389	269	3	13	40	0	6	1	13.0	1
+2012	10800	471	NJIT	23	1300350	Thomas, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300350	Fr	6-5	27	0	27	4	40	27	104	0.125	0	0	14	13	0	7	1	43.5	0
+2012	10800	471	NJIT	9	1300347	Zyndorf, Oren	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300347	Fr	5-9	17	0	17	""	0	0	0	""	1	0	2	24	0	0	0	0.0	0
+2012	10800	471	NJIT	4	1083268	Stoyanow, Andrei	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083268	Jr	6-2	17	0	17	2	34	10	77	0.312	3	6	10	19	1	5	0	43.5	0
+2012	10800	471	NJIT	15	1195228	Lad, Dhruv	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195228	So	6-1	16	0	16	1	17	21	54	-0.074	2	0	4	17	0	2	1	18.0	0
+2012	10800	471	NJIT	17	1083275	Feehan, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083275	Jr	6-1	15	0	15	1	19	10	53	0.170	0	1	4	10	1	2	0	22.0	0
+2012	10800	471	NJIT	10	1083272	Blondell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083272	Jr	5-10	10	0	10	""	0	0	0	""	0	1	4	5	0	0	0	1.0	0
+2012	10800	518	Ohio St.	12	973454	Berzins, Mik	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973454	Sr	6-3	113	0	113	28	278	113	705	0.234	27	13	24	235	12	48	6	327.0	0
+2012	10800	518	Ohio St.	6	973446	Sangrey, Shawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973446	Sr	6-5	109	0	109	27	548	215	1,203	0.277	8	31	67	209	7	61	7	616.5	0
+2012	10800	518	Ohio St.	8	1191469	Heinen, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191469	Fr	6-4	102	0	102	25	37	6	68	0.456	1,088	5	34	139	13	46	5	78.0	7
+2012	10800	518	Ohio St.	9	973457	Tholen, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973457	Jr	6-6	99	0	99	25	137	33	251	0.414	4	4	13	23	18	70	16	194.0	0
+2012	10800	518	Ohio St.	5	1083912	Overman, Grayson	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083912	Jr	6-6	97	0	97	22	141	49	297	0.310	8	10	53	30	18	105	13	221.5	2
+2012	10800	518	Ohio St.	10	1083919	Kues, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083919	Jr	5-9	97	0	97	""	1	0	2	0.500	8	5	0	66	0	0	0	6.0	0
+2012	10800	518	Ohio St.	21	1191466	Piechowski, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191466	So	6-0	93	0	93	""	1	0	2	0.500	23	0	0	119	0	0	0	1.0	0
+2012	10800	518	Ohio St.	3	973443	Hock, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973443	Sr	6-2	93	0	93	13	76	35	196	0.209	11	9	38	115	0	20	1	95.0	2
+2012	10800	518	Ohio St.	7	1083913	Stefani, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083913	Jr	6-3	63	0	63	""	0	0	0	""	0	6	27	5	0	0	0	6.0	0
+2012	10800	518	Ohio St.	18	1301116	Henchy, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301116	Fr	6-7	61	0	61	13	101	49	272	0.191	3	9	25	71	7	32	2	133.0	1
+2012	10800	518	Ohio St.	11	1301117	Baker, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301117	So	5-9	55	0	55	""	0	0	1	0.000	11	1	2	41	0	0	0	1.0	0
+2012	10800	518	Ohio St.	2	1191465	Herron, Shawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191465	Fr	6-9	44	0	44	11	70	22	124	0.387	4	3	15	13	5	27	8	91.5	1
+2012	10800	518	Ohio St.	14	1301112	Levitan, Chen	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301112	Jr	6-5	36	0	36	4	48	25	119	0.193	5	6	26	31	1	3	3	56.5	1
+2012	10800	518	Ohio St.	13	1083914	Gibson, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083914	Jr	6-6	24	0	24	2	43	22	100	0.210	1	1	14	23	1	12	3	51.0	0
+2012	10800	518	Ohio St.	4	1083911	Lawrence, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083911	Jr	6-2	22	0	22	4	4	9	17	-0.294	207	2	6	33	1	7	1	10.5	1
+2012	10800	518	Ohio St.	15	1301113	Newton, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301113	So	6-6	8	0	8	""	2	1	3	0.333	0	2	0	3	0	5	0	6.5	0
+2012	10800	518	Ohio St.	17	1301119	Anderson, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301119	Fr	6-2	8	0	8	""	0	0	0	""	1	0	1	5	0	0	0	0.0	0
+2012	10800	518	Ohio St.	23	1191468	Chapel, Scottie	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191468	Fr	6-5	2	0	2	""	0	0	0	""	1	0	1	0	0	0	0	0.0	0
+2012	10800	2716	P.R.-Rio Piedras	3	1317141	C, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317141	N/A	-	9	0	9	""	0	0	0	""	2	0	0	33	0	0	0	0.0	0
+2012	10800	2716	P.R.-Rio Piedras	10	1317142	J, PLayer	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317142	N/A	-	9	0	9	2	21	14	55	0.127	0	0	4	6	0	4	0	23.0	0
+2012	10800	2716	P.R.-Rio Piedras	1	1317125	A, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317125	N/A	-	9	0	9	2	4	0	9	0.444	82	1	3	16	0	0	0	5.0	1
+2012	10800	2716	P.R.-Rio Piedras	13	1317129	M, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317129	N/A	-	9	0	9	2	7	5	23	0.087	1	2	6	2	1	3	0	11.5	0
+2012	10800	2716	P.R.-Rio Piedras	5	1317127	E, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317127	N/A	-	9	0	9	2	32	16	65	0.246	1	1	6	8	0	1	0	33.5	0
+2012	10800	2716	P.R.-Rio Piedras	6	1317128	F, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317128	N/A	-	9	0	9	2	14	4	24	0.417	1	1	3	0	2	5	0	19.5	0
+2012	10800	2716	P.R.-Rio Piedras	2	1317130	B, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317130	N/A	-	8	0	8	""	0	1	1	-1.000	8	0	2	1	0	0	0	0.0	0
+2012	10800	2716	P.R.-Rio Piedras	7	1317140	G, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317140	N/A	-	8	0	8	""	14	7	37	0.189	2	3	3	8	0	1	0	17.5	1
+2012	10800	2716	P.R.-Rio Piedras	12	1317135	L, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317135	N/A	-	7	0	7	""	1	0	1	1.000	1	0	1	2	0	0	0	1.0	0
+2012	10800	2716	P.R.-Rio Piedras	4	1317126	D, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317126	N/A	-	5	0	5	2	10	3	19	0.368	2	0	2	7	0	2	0	11.0	0
+2012	10800	2716	P.R.-Rio Piedras	15	1317133	O, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317133	N/A	-	2	0	2	""	0	0	0	""	0	0	0	0	1	0	0	1.0	0
+2012	10800	2716	P.R.-Rio Piedras	14	1317134	N, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317134	N/A	-	2	0	2	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	2716	P.R.-Rio Piedras	16	1317132	P, Player	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1317132	N/A	-	1	0	1	""	1	2	4	-0.250	0	0	0	0	0	0	0	1.0	0
+2012	10800	534	Pacific	2	1191566	Caceres, Javier	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191566	So	5-10	103	0	103	1	15	5	29	0.345	43	0	1	257	0	4	0	17.0	0
+2012	10800	534	Pacific	6	1083804	Tunnell, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083804	Jr	6-4	102	0	102	28	31	12	61	0.311	999	8	38	119	11	60	16	80.0	5
+2012	10800	534	Pacific	13	977627	Daley, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977627	Sr	6-7	100	0	100	27	156	38	336	0.351	2	12	59	23	26	121	8	254.5	1
+2012	10800	534	Pacific	12	977626	Hughes, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977626	Jr	6-7	95	0	95	26	328	124	806	0.253	7	9	41	117	5	79	5	381.5	1
+2012	10800	534	Pacific	15	1083806	Gornik, Florian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083806	Sr	6-7	94	0	94	27	310	130	679	0.265	20	15	78	138	9	44	5	356.0	1
+2012	10800	534	Pacific	20	1083808	Ahlin, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083808	Jr	6-7	92	0	92	27	122	36	265	0.325	2	11	17	18	8	75	2	178.5	1
+2012	10800	534	Pacific	5	1083803	Houlihan, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083803	Jr	6-4	82	0	82	9	83	53	243	0.123	4	4	14	63	6	27	5	106.5	0
+2012	10800	534	Pacific	9	1083805	Troy, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083805	So	6-4	56	0	56	12	111	72	315	0.124	4	4	28	51	1	28	1	130.0	0
+2012	10800	534	Pacific	8	977622	Walker, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977622	Sr	6-4	55	0	55	5	36	27	97	0.093	7	5	29	51	0	8	0	45.0	0
+2012	10800	534	Pacific	23	1191570	Leckie, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191570	So	6-2	28	0	28	""	0	0	0	""	33	0	0	8	0	4	0	2.0	0
+2012	10800	534	Pacific	1	1191565	Ramos, Joby	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191565	So	6-1	23	0	23	1	0	1	1	-1.000	40	0	4	9	0	5	2	2.5	0
+2012	10800	534	Pacific	10	1300586	Carmody, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300586	Fr	6-9	17	0	17	""	6	2	21	0.190	2	1	0	1	2	10	0	14.0	0
+2012	10800	534	Pacific	14	977628	Spencer, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977628	Sr	6-2	15	0	15	3	18	9	50	0.180	0	1	5	9	0	5	1	21.5	0
+2012	10800	534	Pacific	7	1300587	Brecheisen, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300587	Jr	6-3	6	0	6	""	3	1	5	0.400	0	0	1	1	0	1	0	3.5	0
+2012	10800	534	Pacific	22	977633	Kaimikaua, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977633	Jr	6-3	3	0	3	""	0	0	0	""	0	0	1	0	0	0	0	0.0	0
+2012	10800	534	Pacific	3	1300584	deRooy, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300584	Fr	6-4	3	0	3	1	5	0	7	0.714	0	0	0	2	1	8	0	10.0	0
+2012	10800	534	Pacific	4	1300585	Gibbs, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300585	Fr	6-2	3	0	3	1	4	4	17	0.000	1	0	2	6	0	3	0	5.5	0
+2012	10800	534	Pacific	16	1083807	Evans, Marcian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083807	So	6-6	1	0	1	""	1	0	1	1.000	0	0	0	0	0	0	0	1.0	0
+2012	10800	534	Pacific	11	1191568	Smith, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191568	Fr	6-7	1	0	1	""	0	0	0	""	0	0	1	0	0	0	0	0.0	0
+2012	10800	539	Penn St.	3	1192083	Curry, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192083	So	6-0	103	0	103	""	0	0	1	0.000	47	0	0	225	0	0	0	0.0	1
+2012	10800	539	Penn St.	7	978135	Goas, Edgardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978135	Sr	6-5	100	0	100	29	38	15	83	0.277	1,111	20	45	148	6	36	7	82.0	6
+2012	10800	539	Penn St.	8	1303431	Russell, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303431	Fr	6-9	98	0	98	28	203	52	357	0.423	13	25	53	44	16	76	8	282.0	0
+2012	10800	539	Penn St.	10	1083821	Turko, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083821	Jr	6-5	96	0	96	29	123	39	248	0.339	3	46	80	39	6	53	6	201.5	1
+2012	10800	539	Penn St.	17	978145	Sunder, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978145	Sr	6-7	96	0	96	28	338	120	661	0.330	14	29	76	167	4	40	3	391.0	1
+2012	10800	539	Penn St.	4	1192084	Goodell, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192084	Fr	6-4	72	0	72	19	237	75	490	0.331	3	21	53	74	3	33	3	277.5	0
+2012	10800	539	Penn St.	9	1192086	Russell, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192086	So	6-5	63	0	63	16	126	52	293	0.253	2	8	26	57	3	21	1	147.5	0
+2012	10800	539	Penn St.	11	1192085	Olsen, Jace	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1192085	So	6-7	54	0	54	14	98	52	240	0.192	9	12	49	64	3	14	2	120.0	2
+2012	10800	539	Penn St.	13	1083823	Comfort, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083823	Jr	6-6	51	0	51	10	142	56	306	0.281	6	10	18	45	2	27	5	167.5	1
+2012	10800	539	Penn St.	12	1083825	Hendries, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083825	Jr	6-8	47	0	47	1	21	3	33	0.545	3	0	5	4	6	17	3	35.5	0
+2012	10800	539	Penn St.	14	978142	Wolf, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978142	Sr	6-3	13	0	13	""	12	4	27	0.296	0	0	2	12	0	1	0	12.5	0
+2012	10800	539	Penn St.	2	978130	Covello, Tor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978130	Sr	6-4	5	0	5	""	1	0	1	1.000	39	1	3	4	0	1	0	2.5	0
+2012	10800	539	Penn St.	5	1083827	Mars, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083827	Jr	6-3	4	0	4	""	7	2	14	0.357	1	0	3	0	0	3	1	8.5	0
+2012	10800	539	Penn St.	15	1083828	Kegerreis, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083828	So	6-6	3	0	3	""	5	1	12	0.333	0	0	1	0	0	1	0	5.5	0
+2012	10800	539	Penn St.	16	1303427	Gregan, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303427	Fr	6-8	2	0	2	""	1	0	1	1.000	0	0	0	0	0	1	0	1.5	0
+2012	10800	541	Pepperdine	1	1300537	West, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300537	Fr	6-5	118	0	118	29	20	8	54	0.222	1,343	1	31	166	5	76	13	64.0	2
+2012	10800	541	Pepperdine	11	977213	Ross, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977213	Sr	6-5	113	0	113	28	230	98	583	0.226	18	20	56	125	0	51	1	275.5	2
+2012	10800	541	Pepperdine	12	1083910	Torres, Maurice	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083910	Jr	6-7	113	0	113	28	450	189	850	0.307	9	47	108	200	8	77	7	543.5	0
+2012	10800	541	Pepperdine	4	977207	Pollock, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977207	Sr	6-9	113	0	113	28	225	45	406	0.443	22	2	18	34	11	118	8	297.0	0
+2012	10800	541	Pepperdine	14	1300542	Taylor, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300542	Fr	6-7	103	0	103	25	363	185	755	0.236	11	12	62	101	9	40	5	404.0	0
+2012	10800	541	Pepperdine	5	1300538	Tarantino, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300538	Fr	6-8	86	0	86	21	130	37	235	0.396	10	9	57	26	9	76	10	186.0	4
+2012	10800	541	Pepperdine	2	1191471	McMahon, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191471	So	5-10	83	0	83	""	0	0	2	0.000	22	0	0	116	0	0	0	0.0	0
+2012	10800	541	Pepperdine	6	1191473	Gerrans, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191473	So	6-1	74	0	74	""	0	1	2	-0.500	5	0	0	46	0	0	0	0.0	2
+2012	10800	541	Pepperdine	20	1191477	Plueger, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191477	So	5-10	58	0	58	""	2	1	3	0.333	11	0	1	58	0	0	0	2.0	0
+2012	10800	541	Pepperdine	3	1300541	Antonijevic, Nikola	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300541	Fr	6-7	48	0	48	9	26	11	63	0.238	8	3	15	11	1	34	2	47.0	0
+2012	10800	541	Pepperdine	10	1300539	Rhein, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1300539	Fr	6-4	45	0	45	6	70	45	196	0.128	7	2	7	58	1	16	3	81.0	0
+2012	10800	541	Pepperdine	9	1083905	Astor, Doug	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083905	Sr	6-3	39	0	39	""	0	0	0	""	1	0	4	3	0	0	0	0.0	0
+2012	10800	541	Pepperdine	18	977220	Vandeweghe, Beau	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977220	Jr	6-5	12	0	12	""	8	3	22	0.227	1	0	7	4	0	3	0	9.5	0
+2012	10800	541	Pepperdine	7	1083907	Lopata, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083907	So	6-5	9	0	9	""	3	1	7	0.286	2	0	1	3	0	8	1	7.0	0
+2012	10800	541	Pepperdine	8	1191474	Leung, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191474	So	6-4	1	0	1	""	0	1	1	-1.000	0	0	1	0	0	0	0	0.0	0
+2012	10800	542	Pfeiffer	9	1083257	Hess, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083257	Jr	5-9	99	0	99	""	0	1	8	-0.125	47	0	0	220	0	0	0	0.0	1
+2012	10800	542	Pfeiffer	19	1305111	Specian, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305111	Fr	6-1	94	0	94	21	46	14	123	0.260	1,019	12	29	155	4	37	9	80.5	13
+2012	10800	542	Pfeiffer	1	1305115	Weise, Konstantin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305115	Fr	6-6	93	0	93	21	144	60	296	0.284	13	8	53	45	13	85	9	207.5	0
+2012	10800	542	Pfeiffer	14	1305120	Moore, Quentin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305120	So	6-4	88	0	88	19	303	137	678	0.245	15	6	37	153	15	32	3	340.0	0
+2012	10800	542	Pfeiffer	25	1305116	Brophy, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305116	Jr	6-6	85	0	85	19	293	124	640	0.264	22	24	86	161	9	31	1	341.5	1
+2012	10800	542	Pfeiffer	21	1305117	Frazee, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305117	Fr	6-5	73	0	73	17	144	31	264	0.428	6	4	17	27	10	59	6	187.5	1
+2012	10800	542	Pfeiffer	7	1083255	Edelman, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083255	Jr	6-5	53	0	53	11	120	70	277	0.181	7	10	46	72	5	30	0	150.0	1
+2012	10800	542	Pfeiffer	11	1191535	Johnson, Lance	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191535	So	6-4	35	0	35	4	49	11	90	0.422	2	3	9	16	5	36	0	75.0	0
+2012	10800	542	Pfeiffer	15	1305114	Coatsworth, Cj	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305114	Fr	6-6	31	0	31	6	74	45	178	0.163	2	5	23	38	3	26	4	95.0	1
+2012	10800	542	Pfeiffer	3	1191533	McLaughlin, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191533	Jr	6-3	30	0	30	7	64	33	153	0.203	4	6	25	30	0	14	0	77.0	1
+2012	10800	542	Pfeiffer	2	1083250	Bortner, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083250	Jr	5-11	24	0	24	1	21	17	69	0.058	1	5	2	28	0	12	0	32.0	0
+2012	10800	542	Pfeiffer	4	1083252	Mariano, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083252	Jr	5-11	6	0	6	""	3	5	15	-0.133	1	2	2	5	1	0	0	6.0	0
+2012	10800	542	Pfeiffer	16	1307410	Landrigan, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307410	Fr	6-3	6	0	6	""	4	0	5	0.800	54	0	2	7	1	0	0	5.0	0
+2012	10800	542	Pfeiffer	18	1083262	Dowdle, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083262	Jr	6-7	4	0	4	""	4	1	7	0.429	0	0	0	1	0	0	0	4.0	0
+2012	10800	542	Pfeiffer	17	1305118	Supko, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305118	Fr	6-4	2	0	2	""	3	0	4	0.750	0	0	0	1	0	2	0	4.0	1
+2012	10800	542	Pfeiffer	5	1305119	O'Rourke, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305119	Fr	6-4	1	0	1	""	2	1	6	0.167	0	0	1	2	0	0	0	2.0	0
+2012	10800	542	Pfeiffer	13	1191534	Boswell, Buck	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191534	So	6-4	1	0	1	""	1	3	8	-0.250	0	1	0	0	0	1	0	2.5	0
+2012	10800	554	Princeton	5	1305153	Kessel, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305153	Fr	6-5	93	0	93	22	372	140	883	0.263	20	8	47	117	11	73	6	427.5	0
+2012	10800	554	Princeton	18	1305154	Siroky, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305154	Fr	6-5	93	0	93	22	172	39	306	0.435	17	14	52	44	14	87	10	243.5	0
+2012	10800	554	Princeton	24	1305152	Ensbury, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305152	Fr	5-11	91	0	91	""	2	2	9	0.000	33	0	1	193	0	0	0	2.0	2
+2012	10800	554	Princeton	21	1195225	Waddell, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195225	So	6-5	91	0	91	22	152	76	421	0.181	46	7	14	132	6	36	6	183.0	0
+2012	10800	554	Princeton	1	976703	Liljestrom, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976703	Sr	6-0	89	0	89	21	38	14	83	0.289	873	8	25	110	5	27	8	64.5	12
+2012	10800	554	Princeton	25	1085573	Dye, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1085573	Jr	6-5	89	0	89	21	207	76	387	0.339	13	26	71	52	13	57	5	274.5	0
+2012	10800	554	Princeton	11	1195221	Stapleton, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195221	So	6-2	68	0	68	15	121	63	308	0.188	11	2	10	71	3	28	4	140.0	0
+2012	10800	554	Princeton	14	1195222	Tien, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195222	Jr	6-0	67	0	67	1	4	2	12	0.167	2	5	19	8	0	0	0	9.0	0
+2012	10800	554	Princeton	2	976704	Scobee, Dexter	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976704	Sr	5-9	61	0	61	""	0	0	1	0.000	1	0	1	12	0	0	0	0.0	0
+2012	10800	554	Princeton	17	1195223	Poladian, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195223	So	6-7	25	0	25	5	8	2	25	0.240	5	2	2	5	0	18	0	19.0	0
+2012	10800	554	Princeton	6	1195224	Howard, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195224	So	6-5	20	0	20	2	7	3	23	0.174	0	1	1	1	0	9	0	12.5	0
+2012	10800	554	Princeton	23	1195226	Ding, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195226	Sr	5-11	6	0	6	1	1	0	7	0.143	0	0	1	4	0	1	0	1.5	2
+2012	10800	554	Princeton	20	1305151	Dube, Conor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305151	Fr	5-10	3	0	3	""	0	0	0	""	3	0	1	0	0	0	0	0.0	0
+2012	10800	554	Princeton	10	1195220	Shabtai, Bar	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195220	So	5-8	1	0	1	""	0	0	0	""	0	0	0	5	0	0	0	0.0	0
+2012	10800	561	Quincy	8	976388	Sokol, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976388	Sr	6-3	99	0	99	23	276	139	657	0.209	7	20	60	156	9	38	2	324.0	0
+2012	10800	561	Quincy	12	976396	Lehmann, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976396	Sr	6-5	97	0	97	24	259	147	634	0.177	9	31	69	166	9	31	3	314.5	1
+2012	10800	561	Quincy	21	1305684	Pranger, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305684	Fr	6-5	96	0	96	24	198	56	388	0.366	3	8	67	24	9	39	13	234.5	2
+2012	10800	561	Quincy	13	976398	Ascher, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976398	Sr	6-6	92	0	92	25	224	107	562	0.208	12	22	31	132	7	31	3	268.5	0
+2012	10800	561	Quincy	17	1191433	Battaglia, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191433	So	6-6	91	0	91	21	207	64	415	0.345	4	11	76	18	13	67	5	264.5	1
+2012	10800	561	Quincy	20	1191435	Ouanu, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191435	Sr	6-0	85	0	85	20	11	7	40	0.100	891	11	46	95	5	32	2	43.0	13
+2012	10800	561	Quincy	7	1191428	Peth, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191428	So	6-0	80	0	80	4	34	22	95	0.126	16	3	9	169	0	5	0	39.5	2
+2012	10800	561	Quincy	1	1305679	Bronson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305679	Sr	5-11	61	0	61	""	0	0	3	0.000	18	0	0	97	0	0	0	0.0	2
+2012	10800	561	Quincy	3	976383	Courtney, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976383	Sr	6-4	58	0	58	4	12	4	31	0.258	70	2	8	26	0	2	0	15.0	0
+2012	10800	561	Quincy	11	1305683	Lynch, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305683	Jr	6-3	47	0	47	6	13	7	37	0.162	259	4	17	33	1	7	1	21.5	5
+2012	10800	561	Quincy	14	1191431	Farrell, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191431	So	6-0	28	0	28	""	0	0	1	0.000	0	0	2	30	0	0	0	0.0	0
+2012	10800	561	Quincy	5	1191426	Wizniak, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191426	Sr	6-4	27	0	27	2	27	9	61	0.295	1	3	5	7	0	13	0	36.5	0
+2012	10800	561	Quincy	10	1305682	Ka'ai'ai, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305682	Fr	6-2	22	0	22	2	11	4	34	0.206	2	4	7	8	0	6	0	18.0	0
+2012	10800	561	Quincy	27	1083634	Voigtmann, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083634	Jr	6-9	16	0	16	5	18	7	49	0.224	0	4	4	12	1	10	3	28.0	0
+2012	10800	561	Quincy	22	1083632	Mueller, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083632	Jr	6-2	10	0	10	1	28	13	61	0.246	1	0	5	15	0	4	0	30.0	1
+2012	10800	561	Quincy	28	1083635	Freeman, Ethan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083635	Jr	6-4	10	0	10	1	25	11	60	0.233	1	0	6	19	0	2	0	26.0	0
+2012	10800	561	Quincy	25	1191444	Kuhlman, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191444	So	6-4	10	0	10	2	12	9	38	0.079	1	3	5	14	1	9	2	20.5	0
+2012	10800	561	Quincy	16	1191432	O'Malley, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191432	Sr	6-4	10	0	10	2	15	7	35	0.229	2	3	3	9	0	3	0	19.5	0
+2012	10800	561	Quincy	24	1305681	Hjorth, Kristoffer	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305681	Fr	6-5	9	0	9	1	9	4	18	0.278	1	1	1	12	0	0	0	10.0	0
+2012	10800	561	Quincy	9	1191430	Cahill, Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191430	Jr	6-3	6	0	6	1	7	5	17	0.118	0	4	5	2	0	0	0	11.0	1
+2012	10800	561	Quincy	18	1305686	Veile, Terence	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305686	Fr	6-2	4	0	4	""	7	8	21	-0.048	0	1	0	6	1	1	0	9.5	0
+2012	10800	561	Quincy	23	1083629	Stevens, Larvell	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083629	Jr	5-7	3	0	3	""	0	0	0	""	1	0	0	1	0	0	0	0.0	0
+2012	10800	561	Quincy	2	1305680	Hill, Timothy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305680	Fr	5-11	1	0	1	""	0	0	0	""	0	0	0	1	0	0	0	0.0	0
+2012	10800	589	Rutgers-Newark	17	1305157	Felipez, Manuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305157	Fr	6-0	92	0	92	23	36	14	79	0.278	886	12	38	107	7	38	3	74.0	13
+2012	10800	589	Rutgers-Newark	8	1194359	Chambers, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1194359	Sr	6-1	92	0	92	""	0	1	3	-0.333	23	0	0	196	0	0	0	0.0	1
+2012	10800	589	Rutgers-Newark	5	973510	Pappas, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=973510	Sr	6-4	92	0	92	23	314	162	672	0.226	10	54	108	132	8	32	13	392.0	2
+2012	10800	589	Rutgers-Newark	6	1194358	Metheny, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1194358	Sr	6-5	92	0	92	23	222	147	538	0.139	19	26	64	113	8	29	5	270.5	3
+2012	10800	589	Rutgers-Newark	10	978733	Midura, Marcin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978733	Sr	6-4	89	0	89	22	247	113	611	0.219	22	15	33	114	4	18	3	275.0	1
+2012	10800	589	Rutgers-Newark	1	1305155	Samin, Lorenzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305155	Fr	6-2	85	0	85	19	69	50	187	0.102	10	19	67	28	10	46	21	121.0	3
+2012	10800	589	Rutgers-Newark	7	1088321	Pickens, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088321	Jr	6-5	81	0	81	20	149	54	293	0.324	12	8	26	26	6	49	8	187.5	1
+2012	10800	589	Rutgers-Newark	2	1305156	Webster, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305156	Fr	6-5	28	0	28	5	9	8	25	0.040	1	4	6	3	1	7	3	17.5	1
+2012	10800	589	Rutgers-Newark	12	1334560	Vedawala, Parth	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1334560	Sr	6-4	12	0	12	3	3	1	11	0.182	0	4	8	2	1	6	1	11.0	0
+2012	10800	590	Sacred Heart	9	1304202	Lutjen, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304202	Fr	6-3	98	0	98	26	28	7	73	0.288	925	10	33	131	6	34	3	61.0	3
+2012	10800	590	Sacred Heart	19	1195705	Kinney, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195705	So	6-6	98	0	98	26	99	54	250	0.180	5	30	69	45	7	53	9	162.5	2
+2012	10800	590	Sacred Heart	17	977955	Komlanc, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977955	Sr	6-5	98	0	98	26	117	41	276	0.275	9	0	14	30	7	67	5	157.5	1
+2012	10800	590	Sacred Heart	10	1195707	Mackenzie, Enzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195707	So	6-4	97	0	97	26	254	164	643	0.140	42	35	100	126	8	34	3	314.0	1
+2012	10800	590	Sacred Heart	2	1087444	Hunt, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087444	So	6-3	95	0	95	26	348	217	828	0.158	14	17	101	105	2	40	5	387.0	2
+2012	10800	590	Sacred Heart	7	1195701	Borsay, Bradley	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195701	So	6-5	90	0	90	22	214	103	573	0.194	17	16	43	94	5	20	3	245.0	1
+2012	10800	590	Sacred Heart	13	1087446	Fernandez, Adrian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087446	Jr	6-2	83	0	83	""	1	1	5	0.000	26	0	0	188	0	0	0	1.0	4
+2012	10800	590	Sacred Heart	6	1087449	Minyard, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087449	Jr	6-4	46	0	46	3	16	22	63	-0.095	3	4	27	23	0	3	0	21.5	0
+2012	10800	590	Sacred Heart	8	1304201	LeClerc, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304201	So	6-2	38	0	38	1	45	24	107	0.196	2	4	23	17	2	11	1	56.5	0
+2012	10800	590	Sacred Heart	4	1304200	Bohl, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1304200	Fr	5-8	23	0	23	""	1	0	2	0.500	5	0	0	44	0	0	0	1.0	1
+2012	10800	590	Sacred Heart	15	1195704	Juelle, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1195704	So	6-4	19	0	19	""	2	1	4	0.250	0	1	5	2	0	0	0	3.0	0
+2012	10800	590	Sacred Heart	5	1087448	Janey, Richard	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087448	Jr	6-3	6	0	6	""	6	8	19	-0.105	0	0	4	4	0	1	0	6.5	0
+2012	10800	590	Sacred Heart	18	1087450	Howard, Frank	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087450	Jr	6-5	3	0	3	""	0	0	1	0.000	0	0	1	0	0	0	0	0.0	0
+2012	10800	600	Saint Francis (PA)	10	1191422	Patterson, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191422	So	6-6	97	0	97	24	251	143	607	0.178	14	22	83	97	3	76	6	314.0	1
+2012	10800	600	Saint Francis (PA)	15	1083325	Roche, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083325	Jr	6-6	93	0	93	22	138	48	295	0.305	4	8	83	21	15	131	6	226.5	0
+2012	10800	600	Saint Francis (PA)	13	978737	Kane, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978737	Sr	6-9	90	0	90	23	316	93	681	0.327	7	7	30	94	8	81	7	371.5	0
+2012	10800	600	Saint Francis (PA)	5	978748	Williams, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978748	Sr	6-3	87	0	87	23	9	4	19	0.263	862	9	25	75	8	50	2	51.0	3
+2012	10800	600	Saint Francis (PA)	3	1083320	Bancroft, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083320	Jr	5-10	85	0	85	""	2	0	3	0.667	40	0	0	163	0	0	0	2.0	0
+2012	10800	600	Saint Francis (PA)	4	1303966	Beatty, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303966	So	6-0	78	0	78	20	115	82	330	0.100	6	14	77	96	2	23	5	142.5	0
+2012	10800	600	Saint Francis (PA)	17	1303967	Kochan, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303967	Fr	6-0	73	0	73	16	136	47	250	0.356	7	12	31	31	8	73	5	192.5	0
+2012	10800	600	Saint Francis (PA)	14	982746	Skarupa, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=982746	Sr	6-8	49	0	49	14	85	30	163	0.337	0	9	34	12	2	33	3	112.5	0
+2012	10800	600	Saint Francis (PA)	8	1083319	Wetsell, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083319	Sr	6-0	46	0	46	""	0	0	0	""	1	1	4	6	0	0	0	1.0	0
+2012	10800	600	Saint Francis (PA)	21	1191417	Barba, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191417	So	6-6	36	0	36	5	63	22	151	0.272	3	2	19	33	0	11	0	70.5	0
+2012	10800	600	Saint Francis (PA)	9	1191419	Behringer, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191419	So	6-1	29	0	29	""	1	0	1	1.000	11	0	0	39	0	0	0	1.0	1
+2012	10800	600	Saint Francis (PA)	19a	1303968	Stork, Dominik	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1303968	Fr	6-0	24	0	24	3	23	15	72	0.111	1	1	9	16	0	9	1	28.5	0
+2012	10800	600	Saint Francis (PA)	1	1191424	Sherwin, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191424	So	6-3	22	0	22	3	41	22	88	0.216	1	6	13	17	0	8	1	51.0	0
+2012	10800	600	Saint Francis (PA)	7	1191421	Krepp, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191421	So	6-0	21	0	21	3	14	4	22	0.455	163	1	6	32	0	13	0	21.5	0
+2012	10800	600	Saint Francis (PA)	18	1191418	Beck, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191418	So	6-6	11	0	11	""	5	0	8	0.625	1	1	2	3	0	5	0	8.5	0
+2012	10800	600	Saint Francis (PA)	12	1206030	Schulze, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1206030	So	6-1	2	0	2	""	0	0	0	""	2	0	0	2	0	0	0	0.0	0
+2012	10800	600	Saint Francis (PA)	6	1083321	Brown, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083321	So	6-0	2	0	2	""	1	0	1	1.000	0	0	0	0	0	0	0	1.0	0
+2012	10800	657	Southern California	18	976963	Shandrick, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976963	Sr	6-7	103	0	103	30	193	33	366	0.437	17	14	48	38	10	99	5	266.5	0
+2012	10800	657	Southern California	5	1299613	Christenson, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299613	Fr	6-5	102	0	102	29	29	15	67	0.209	1,097	12	49	173	9	67	4	83.5	1
+2012	10800	657	Southern California	14	976959	Ciarelli, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976959	Sr	6-6	101	0	101	29	417	127	913	0.318	20	62	66	146	7	67	7	519.5	0
+2012	10800	657	Southern California	16	1299618	Feathers, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299618	Fr	6-8	96	0	96	28	101	35	204	0.324	28	7	10	49	12	142	8	191.0	0
+2012	10800	657	Southern California	6	1191616	Cassiday, Henry	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191616	So	6-3	91	0	91	""	2	0	2	1.000	26	0	0	199	0	1	0	2.5	2
+2012	10800	657	Southern California	8	976953	Mochalski, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976953	Jr	6-6	84	0	84	21	196	103	446	0.209	13	4	21	95	3	28	6	217.0	1
+2012	10800	657	Southern California	1	1083756	Jansen, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083756	So	6-5	76	0	76	22	212	85	437	0.291	0	11	59	102	4	63	1	258.5	2
+2012	10800	657	Southern California	7	1083757	McKibbin, Maddison	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083757	Jr	6-5	55	0	55	13	125	53	282	0.255	11	6	22	72	8	37	5	157.5	0
+2012	10800	657	Southern California	4	976950	Carlson, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976950	Jr	6-3	23	0	23	3	32	18	72	0.194	4	3	5	15	0	8	3	39.0	0
+2012	10800	657	Southern California	3	1191613	Green, J.B.	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191613	So	6-0	17	0	17	""	0	0	0	""	3	0	0	30	0	0	0	0.0	0
+2012	10800	657	Southern California	13	1299616	Lam, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299616	Fr	6-5	12	0	12	1	10	2	18	0.444	1	1	0	2	2	9	1	17.5	0
+2012	10800	657	Southern California	10	1299614	Rivera, Cristian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299614	Fr	6-6	10	0	10	2	12	10	39	0.051	2	3	3	5	1	3	0	17.5	0
+2012	10800	657	Southern California	2	1299612	Lischke, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299612	Fr	6-8	8	0	8	1	6	3	15	0.200	1	0	2	5	2	7	1	11.5	0
+2012	10800	657	Southern California	21	1083758	Trefzger, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083758	So	6-3	7	0	7	1	3	0	5	0.600	30	0	2	5	2	5	0	7.5	0
+2012	10800	657	Southern California	19	1191614	Booth, Joey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191614	Fr	6-5	5	0	5	""	3	3	10	0.000	0	0	3	4	0	2	0	4.0	0
+2012	10800	657	Southern California	11	1083759	Hornaceck, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083759	So	6-2	2	0	2	""	0	0	0	""	2	0	0	0	0	0	0	0.0	0
+2012	10800	657	Southern California	15	1299617	Yoder, Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1299617	Fr	6-3	2	0	2	""	0	0	0	""	0	1	1	0	0	0	0	1.0	0
+2012	10800	674	Stanford	1	978032	Shoji, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978032	Sr	6-0	113	0	113	""	0	0	0	""	52	0	0	304	0	0	0	0.0	0
+2012	10800	674	Stanford	10	978041	Barry, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978041	Sr	6-3	111	0	111	29	40	7	76	0.434	1,336	5	15	172	11	51	4	81.5	4
+2012	10800	674	Stanford	9	978040	Lawson, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978040	Sr	6-7	110	0	110	29	451	140	951	0.327	26	41	89	149	8	49	3	524.5	1
+2012	10800	674	Stanford	13	1191457	Mochalski, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191457	So	6-5	109	0	109	27	215	45	368	0.462	15	30	64	59	14	86	7	302.0	0
+2012	10800	674	Stanford	12	1191455	Irvin, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191455	So	6-5	109	0	109	29	324	148	654	0.269	19	24	57	155	7	39	8	374.5	0
+2012	10800	674	Stanford	5	1191451	Cook, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191451	So	6-5	105	0	105	26	367	128	777	0.308	12	10	66	164	6	62	8	414.0	0
+2012	10800	674	Stanford	2	1087114	Kneller, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087114	Jr	6-4	105	0	105	""	15	6	36	0.250	2	10	24	14	0	1	0	25.5	0
+2012	10800	674	Stanford	3	978051	Ellis, Gus	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978051	Sr	6-6	99	0	99	25	102	18	180	0.467	6	3	4	26	15	86	8	163.0	0
+2012	10800	674	Stanford	22	1191458	Sakaida, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191458	So	5-9	43	0	43	""	0	0	0	""	4	2	3	6	0	0	0	2.0	0
+2012	10800	674	Stanford	7	1191454	Falls, Denny	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191454	So	6-7	31	0	31	8	48	11	87	0.425	2	0	6	6	0	23	2	59.5	0
+2012	10800	674	Stanford	11	1191460	Tublin, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191460	So	6-7	12	0	12	""	15	6	29	0.310	1	0	9	4	0	3	1	16.5	0
+2012	10800	674	Stanford	17	978048	Kordic, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978048	Sr	6-3	6	0	6	""	1	1	2	0.000	27	0	1	4	0	0	0	1.0	0
+2012	10800	674	Stanford	21	1191453	Delgado, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191453	So	5-9	5	0	5	""	0	0	0	""	0	1	1	0	0	0	0	1.0	0
+2012	10800	674	Stanford	4	978035	Henrikson, Charley	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978035	Sr	6-7	5	0	5	1	4	0	6	0.667	0	0	1	2	0	2	1	5.0	0
+2012	10800	674	Stanford	20	1087117	Vandermeer, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087117	Sr	6-5	1	0	1	""	4	3	7	0.143	0	0	3	0	0	0	0	4.0	0
+2012	10800	109	UC Irvine	9	978586	Clark, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978586	Sr	6-5	111	0	111	29	414	110	937	0.324	8	61	100	174	2	59	2	506.5	0
+2012	10800	109	UC Irvine	5	1191872	McDonnell, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191872	Sr	6-6	104	0	104	26	187	45	312	0.455	16	31	88	44	10	90	5	273.0	1
+2012	10800	109	UC Irvine	8	1307717	Brinkley, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307717	Fr	5-10	96	0	96	""	0	1	2	-0.500	50	0	0	199	0	0	0	0.0	1
+2012	10800	109	UC Irvine	11	1191874	Kevorken, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191874	So	6-9	92	0	92	25	135	33	261	0.391	6	11	62	25	10	68	4	190.0	1
+2012	10800	109	UC Irvine	14	1191875	Dejno, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191875	So	6-4	91	0	91	23	268	86	525	0.347	12	35	109	86	7	29	5	324.5	0
+2012	10800	109	UC Irvine	7	1316128	Tillie, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316128	Jr	6-6	90	0	90	24	342	82	672	0.387	18	22	72	154	7	49	4	395.5	0
+2012	10800	109	UC Irvine	3	1307720	Austin, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307720	Jr	6-2	79	0	79	18	24	12	53	0.226	828	4	8	101	3	42	3	52.0	2
+2012	10800	109	UC Irvine	18	1087227	Montgomery, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087227	Jr	6-2	58	0	58	""	1	0	1	1.000	2	0	5	10	0	0	0	1.0	0
+2012	10800	109	UC Irvine	2	1087223	Hughes, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087223	So	6-6	56	0	56	7	106	30	217	0.350	6	4	14	56	4	10	2	119.0	0
+2012	10800	109	UC Irvine	6	1191873	Stork, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191873	So	6-4	52	0	52	11	3	1	6	0.333	580	5	18	69	4	22	2	23.0	0
+2012	10800	109	UC Irvine	12	978587	D'Amore, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978587	Sr	6-5	41	0	41	7	48	14	104	0.327	0	7	19	19	4	27	4	72.5	0
+2012	10800	109	UC Irvine	1	1087222	Carroll, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087222	Sr	6-4	26	0	26	4	66	27	149	0.262	3	7	21	27	0	8	1	77.0	0
+2012	10800	109	UC Irvine	10	1087225	Thomas, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087225	Jr	6-0	22	0	22	""	0	0	0	""	3	0	0	46	0	0	0	0.0	0
+2012	10800	109	UC Irvine	17	1307718	La Cavera, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307718	Fr	6-4	13	0	13	""	19	11	38	0.211	0	5	5	3	1	6	0	28.0	0
+2012	10800	109	UC Irvine	4	1307719	Woloson, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1307719	Fr	6-4	5	0	5	""	0	0	0	""	0	0	1	0	0	0	0	0.0	0
+2012	10800	109	UC Irvine	22	1191876	Mehring, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191876	So	6-7	1	0	1	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	112	UC San Diego	7	976757	Eberts, Carl	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976757	Jr	6-5	104	0	104	28	335	174	829	0.194	18	20	73	139	10	55	2	392.5	0
+2012	10800	112	UC San Diego	18	1191557	Brady, Sebastian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191557	So	6-7	103	0	103	27	172	61	334	0.332	4	2	15	28	9	70	7	218.0	0
+2012	10800	112	UC San Diego	12	1191562	Lennon, Vaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191562	So	6-4	103	0	103	28	293	177	702	0.165	14	16	76	136	6	30	2	330.0	0
+2012	10800	112	UC San Diego	5	1088363	Frishman, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1088363	Jr	6-1	92	0	92	""	0	2	3	-0.667	28	1	2	210	0	0	0	1.0	0
+2012	10800	112	UC San Diego	10	1191558	Brunsting, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191558	So	6-5	87	0	87	18	32	24	89	0.090	556	19	52	88	5	27	0	69.5	2
+2012	10800	112	UC San Diego	23	1087119	Stahl, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1087119	So	6-7	79	0	79	22	109	33	243	0.313	3	8	38	19	5	70	3	157.0	1
+2012	10800	112	UC San Diego	14	1301049	Dempsey, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301049	Fr	6-2	61	0	61	12	5	1	10	0.400	486	5	17	57	0	10	2	15.0	0
+2012	10800	112	UC San Diego	2	1301045	McGinnis, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301045	Fr	6-0	61	0	61	""	0	1	2	-0.500	10	0	5	66	0	0	0	0.0	1
+2012	10800	112	UC San Diego	22	1301053	Awerkamp, Johl	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301053	Jr	6-7	42	0	42	9	149	65	338	0.249	7	6	32	32	1	19	0	165.5	0
+2012	10800	112	UC San Diego	13	1191559	Hayes, Cheyne	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191559	Fr	6-4	38	0	38	6	56	41	156	0.096	1	5	25	49	2	12	3	69.0	0
+2012	10800	112	UC San Diego	3	1301046	Tomasello, Troy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301046	Sr	6-6	33	0	33	9	48	22	135	0.193	1	1	15	32	1	9	2	54.5	0
+2012	10800	112	UC San Diego	1	1301044	Le, Tien	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301044	Fr	6-2	32	0	32	""	2	1	4	0.250	59	2	9	9	0	3	0	5.5	0
+2012	10800	112	UC San Diego	11	1191563	Metzger, Scot	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191563	Fr	6-4	30	0	30	""	10	5	29	0.172	1	3	11	7	0	0	0	13.0	1
+2012	10800	112	UC San Diego	17	1191573	Smith, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191573	Jr	6-6	27	0	27	6	43	6	92	0.402	1	2	9	10	6	17	1	59.5	1
+2012	10800	112	UC San Diego	8	1301048	Johnson, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301048	Jr	6-3	11	0	11	""	3	1	9	0.222	1	0	3	5	0	0	0	3.0	0
+2012	10800	112	UC San Diego	19	1301052	Andrulis, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301052	Fr	6-6	4	0	4	2	12	8	27	0.148	0	0	4	6	0	0	0	12.0	0
+2012	10800	112	UC San Diego	16	1301051	Schow, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301051	Fr	6-6	3	0	3	1	0	0	2	0.000	0	0	0	1	0	1	0	0.5	0
+2012	10800	104	UC Santa Barbara	11	1305762	Evans, Miles	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305762	Jr	6-4	94	0	94	26	325	178	729	0.202	12	15	58	164	4	52	3	370.0	0
+2012	10800	104	UC Santa Barbara	13	1083473	Davis, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083473	Jr	6-9	93	0	93	26	155	43	335	0.334	7	8	27	28	16	90	6	224.0	0
+2012	10800	104	UC Santa Barbara	10	1083471	Kingi, Chad	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083471	So	6-4	92	0	92	1	0	0	1	0.000	73	0	1	209	0	2	1	1.0	1
+2012	10800	104	UC Santa Barbara	1	1083459	Deutschman, Oliver	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083459	Jr	6-5	75	0	75	21	18	8	40	0.250	714	1	3	98	5	27	6	37.5	0
+2012	10800	104	UC Santa Barbara	15	1196167	Donohue, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196167	Fr	6-2	71	0	71	16	204	108	533	0.180	10	18	39	113	6	39	0	247.5	0
+2012	10800	104	UC Santa Barbara	6	1083468	Licht, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083468	So	6-4	59	0	59	10	75	22	134	0.396	1	13	38	23	3	27	2	104.5	0
+2012	10800	104	UC Santa Barbara	22	977004	Nielsen, Blaine	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=977004	Sr	6-5	54	0	54	14	96	69	266	0.102	10	9	45	54	2	22	5	118.0	0
+2012	10800	104	UC Santa Barbara	9	1305761	Thompson, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305761	So	6-9	49	0	49	13	42	20	112	0.196	2	2	11	10	5	34	6	66.0	0
+2012	10800	104	UC Santa Barbara	4	1305759	Miller, Bryce	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305759	Fr	5-11	35	0	35	4	5	2	12	0.250	237	1	7	34	0	3	0	7.5	2
+2012	10800	104	UC Santa Barbara	7	1305760	Kingi, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305760	Fr	6-4	27	0	27	7	53	35	171	0.105	3	4	10	52	3	16	1	68.0	0
+2012	10800	104	UC Santa Barbara	17	1305763	Marsh, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1305763	Fr	6-8	22	0	22	6	60	48	166	0.072	1	2	11	14	0	0	0	62.0	0
+2012	10800	104	UC Santa Barbara	21	1196169	Nielsen, Weston	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196169	Fr	6-6	21	0	21	4	24	22	78	0.026	7	1	5	28	1	11	2	31.5	0
+2012	10800	104	UC Santa Barbara	12	1196166	Staahl, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196166	Fr	6-6	21	0	21	3	25	5	45	0.444	0	0	11	2	3	14	1	35.0	0
+2012	10800	104	UC Santa Barbara	5	1196165	Hartig, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196165	Fr	6-6	20	0	20	4	40	29	96	0.115	0	2	16	14	2	5	1	46.5	0
+2012	10800	104	UC Santa Barbara	2	976991	Goswiller, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=976991	Jr	6-3	15	0	15	1	9	4	26	0.192	5	1	1	10	0	0	0	10.0	0
+2012	10800	104	UC Santa Barbara	25	1196170	Silver, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1196170	So	6-3	5	0	5	""	0	0	0	""	0	0	2	1	0	0	0	0.0	0
+2012	10800	110	UCLA	6	978601	Dunlap, Weston	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978601	Sr	6-8	105	0	105	29	247	47	434	0.461	17	10	42	43	10	95	3	314.5	0
+2012	10800	110	UCLA	12	1316121	Mottram, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1316121	So	6-1	105	0	105	""	0	2	4	-0.500	77	0	0	215	0	0	0	0.0	1
+2012	10800	110	UCLA	18	978599	Amberg, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978599	Sr	6-6	105	0	105	29	234	42	395	0.486	5	17	82	35	9	139	18	329.5	2
+2012	10800	110	UCLA	23	1191513	Quiroga, Gonzalo	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191513	So	6-4	102	0	102	28	258	109	634	0.235	43	47	85	149	8	41	4	333.5	0
+2012	10800	110	UCLA	30	981162	Casebeer, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=981162	Sr	6-4	102	0	102	28	268	102	618	0.269	44	8	38	116	7	61	7	313.5	0
+2012	10800	110	UCLA	8	978600	Caldwell, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978600	Sr	6-9	101	0	101	28	131	24	243	0.440	1,026	22	77	152	11	79	13	203.5	2
+2012	10800	110	UCLA	7	978616	Vogel, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978616	Sr	6-9	79	0	79	23	142	72	299	0.234	10	15	63	80	8	61	4	195.5	0
+2012	10800	110	UCLA	19	1083838	Vegas, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1083838	Jr	6-6	45	0	45	""	0	0	0	""	6	6	14	3	0	0	0	6.0	0
+2012	10800	110	UCLA	17	1199696	Rowe, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1199696	So	6-6	24	0	24	1	27	15	68	0.176	6	2	13	20	1	9	0	34.5	0
+2012	10800	110	UCLA	4	1191515	Hanley, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191515	So	6-2	16	0	16	2	15	10	40	0.125	3	1	9	3	0	3	0	17.5	0
+2012	10800	110	UCLA	14	978612	Polales, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=978612	Sr	6-7	14	0	14	3	27	14	78	0.167	1	2	6	14	1	7	1	33.5	1
+2012	10800	110	UCLA	28	1301981	Izuchukwu, Kene	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301981	Fr	6-0	12	0	12	2	14	8	29	0.207	3	0	6	7	1	4	0	17.0	0
+2012	10800	110	UCLA	27	1100255	Jagd, Ryal	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1100255	Sr	6-3	11	0	11	""	0	0	0	""	0	1	2	1	0	0	0	1.0	0
+2012	10800	110	UCLA	3	1301972	Kuld, Kristian	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1301972	Jr	6-2	8	0	8	""	0	0	0	""	0	0	1	0	0	0	0	0.0	0
+2012	10800	110	UCLA	15	1191512	Page, Robart	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191512	So	7-0	7	0	7	""	6	6	20	0.000	2	0	2	11	0	3	1	7.5	0
+2012	10800	110	UCLA	10	1191511	Bannan, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191511	So	6-2	4	0	4	1	1	1	2	0.000	32	1	0	2	0	3	0	3.5	0
+2012	10800	110	UCLA	1	1191517	Ker, Jamey	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1191517	Jr	6-0	1	0	1	""	0	0	0	""	0	0	0	0	0	0	0	0.0	0
+2012	10800	1029	Washington Adventist	7	1320160	Berry, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1320160	Jr	6-2	24	0	24	5	47	37	142	0.070	1	6	13	35	2	4	7	57.0	5
+2012	10800	1029	Washington Adventist	4	1320163	Ismael, Jimmi	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1320163	Jr	5-6	24	0	24	2	0	0	0	""	0	1	5	14	0	0	0	1.0	0
+2012	10800	1029	Washington Adventist	11	1320159	Christianson, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1320159	Jr	6-2	24	0	24	5	30	30	121	0.000	0	0	6	27	4	5	3	36.5	1
+2012	10800	1029	Washington Adventist	1	1308167	Tarumaru, Fernando	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308167	Fr	5-8	24	0	24	5	7	11	49	-0.082	104	14	13	40	0	1	2	21.5	5
+2012	10800	1029	Washington Adventist	3	1308166	Phipps, Wendell	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1308166	Fr	5-10	24	0	24	5	18	24	74	-0.081	5	2	4	21	1	1	3	21.5	3
+2012	10800	1029	Washington Adventist	15	1322979	Kramer, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1322979	Jr	5-8	18	0	18	3	8	18	60	-0.167	0	3	6	11	0	2	4	12.0	1
+2012	10800	1029	Washington Adventist	6	1321285	Valladares, Ezequiel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1321285	Sr	5-7	18	0	18	3	0	2	6	-0.333	0	1	4	10	0	1	1	1.5	1
+2012	10800	1029	Washington Adventist	5	1326506	Daniels, C. Lamar	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1326506	Fr	5-7	10	0	10	""	1	0	1	1.000	0	0	0	1	0	0	0	1.0	0
+2012	10800	1029	Washington Adventist	8	1334291	Duran, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1334291	Fr	4-0	6	0	6	2	5	3	17	0.118	0	0	4	10	0	0	0	5.0	2
+2012	10800	1029	Washington Adventist	10	1320161	Messenger, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=10800&stats_player_seq=1320161	So	6-5	3	0	3	""	3	7	20	-0.200	0	1	3	3	0	0	1	4.0	0
