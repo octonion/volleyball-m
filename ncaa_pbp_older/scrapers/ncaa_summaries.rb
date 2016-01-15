@@ -18,16 +18,30 @@ ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries.csv","w",{:col_sep => "\
 #http://stats.ncaa.org/team/roster/11540?org_id=2
 
 # Headers for files
+#Season to Date Stats - Through games of 03/28/2015
+#Jersey	Player	Yr	Ht	GP	GS	S	MS	Kills	Errors	Total Attacks	Pct	Assists	Aces	SErr	Digs	RErr	Block Solos	Block Assists	BErr	PTS	BHE	Tripl Dbl
 
-#ncaa_player_summaries << ["year","year_id","team_id","team_name","jersey_number","player_id","player_name","player_url","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles"]
+ncaa_player_summaries << ["year", "year_id",
+                          "team_id", "team_name",
+                          "jersey_number",
+                          "player_id", "player_name", "player_url",
+                          "class_year", "height",
+                          "games_played", "games_started", "s",
+                          "ms", "kills", "errors", "total_attacks",
+                          "pct", "assists", "aces", "serr", "diggs",
+                          "rerr", "block_solos", "block_assists",
+                          "berr", "pts", "bhe", "tripl_dbl"]
 
-ncaa_player_summaries << ["year","year_id","team_id","team_name","jersey_number","player_id","player_name","player_url","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles","dq"]
-
-#ncaa_team_summaries << ["year","year_id","team_id","team_name","jersey_number","summary_type","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles"]
-
-ncaa_team_summaries << ["year","year_id","team_id","team_name","jersey_number","summary_type","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles", "dq"]
-
-# Base URL for relative team links
+ncaa_team_summaries << ["year", "year_id",
+                        "team_id", "team_name",
+                        "jersey_number",
+                        "summary_type",
+                        "class_year", "height",
+                        "games_played", "games_started", "s",
+                        "ms", "kills", "errors", "total_attacks",
+                        "pct", "assists", "aces", "serr", "diggs",
+                        "rerr", "block_solos", "block_assists",
+                        "berr", "pts", "bhe", "tripl_dbl"]
 
 base_url = 'http://stats.ncaa.org'
 

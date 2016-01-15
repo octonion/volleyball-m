@@ -59,14 +59,16 @@ insert into r
 (
 select
 r.team_id,
-r.team_div_id,
+--r.school_div_id,
+null,
 r.opponent_id,
-r.opponent_div_id,
+--r.opponent_div_id,
+null,
 r.game_date,
 r.year,
 r.field
 from ncaa_pbp.results r
-where r.year between 2012 and 2016
+where r.year between 2015 and 2015
 );
 
 update r

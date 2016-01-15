@@ -10,7 +10,6 @@ create table ncaa_pbp.box_scores (
        player_url				text,
        position					text,
        s					integer,
-       mp					integer,
        ms					integer,
        kills					integer,
        errors					integer,
@@ -24,7 +23,7 @@ create table ncaa_pbp.box_scores (
        block_solos				integer,
        block_assists				integer,
        berr					integer,
-       pts					float,
+       pts					integer,
        bhe					integer
 --       primary key (game_id,section_id,player_id) --,player_name)
 );

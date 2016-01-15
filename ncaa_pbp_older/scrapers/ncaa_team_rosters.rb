@@ -16,7 +16,9 @@ ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters.csv","w",{:col_sep => "\t"})
 
 # Header for team file
 
-ncaa_team_rosters << ["year","year_id","team_id","team_name","jersey_number","player_id","player_name","player_url","position","height","class_year","games_played","games_started"]
+ncaa_team_rosters << ["year","year_id","team_id","team_name","jersey_number",
+                      "player_id","player_name","player_url","height",
+                      "class_year","games_played","games_started"]
 
 # Base URL for relative team links
 

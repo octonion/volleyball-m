@@ -1,0 +1,66 @@
+[1] 3910    7
+[1] TRUE
+[1] 3910    3
+start par. =  1 1 fn =  19657.78 
+At return
+eval:  69 fn:      19430.784 par: 0.180633 0.180633
+(NM) 20: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 40: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 60: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 80: f = 19430.8 at   0.180633   0.180633 -0.0376382  0.0376382  0.0752765
+(NM) 100: f = 19430.8 at   0.180673   0.180637 -0.0377513  0.0376588  0.0753195
+(NM) 120: f = 19430.8 at   0.180632   0.180627 -0.0376881  0.0376627  0.0753177
+(NM) 140: f = 19430.8 at   0.180634   0.180631 -0.0376666  0.0376581  0.0753144
+(NM) 160: f = 19430.8 at   0.180632   0.180632 -0.0376623  0.0376571  0.0753143
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |  
+    defense)
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+19440.783 19472.140 -9715.392 19430.783      3905 
+Random effects:
+ Groups  Name        Std.Dev.
+ offense (Intercept) 0.1806  
+ defense (Intercept) 0.1806  
+Number of obs: 3910, groups:  offense, 51; defense, 51
+Fixed Effects:
+      (Intercept)       fieldneutral  fieldoffense_home  
+         -0.03766            0.03766            0.07531  
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |  
+    defense)
+   Data: g
+
+     AIC      BIC   logLik deviance df.resid 
+ 19440.8  19472.1  -9715.4  19430.8     3905 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.8396 -0.5676  0.0000  0.5676  2.8396 
+
+Random effects:
+ Groups  Name        Variance Std.Dev.
+ offense (Intercept) 0.03263  0.1806  
+ defense (Intercept) 0.03263  0.1806  
+Number of obs: 3910, groups:  offense, 51; defense, 51
+
+Fixed effects:
+                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)       -0.03766    0.03761  -1.001    0.317    
+fieldneutral       0.03766    0.02331   1.616    0.106    
+fieldoffense_home  0.07531    0.01026   7.344 2.08e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) fldntr
+fieldneutrl -0.090       
+fildffns_hm -0.136  0.220
+Analysis of Variance Table
+      Df Sum Sq Mean Sq F value
+field  2 54.019  27.009  27.009
+[1] TRUE

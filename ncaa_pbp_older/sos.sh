@@ -23,11 +23,9 @@ psql volleyball-m -c "vacuum full verbose analyze ncaa_pbp._schedule_factors;"
 psql volleyball-m -f sos/connectivity.sql > sos/connectivity.txt
 
 psql volleyball-m -f sos/current_ranking.sql > sos/current_ranking.txt
-cp /tmp/current_ranking.csv sos/
 
 psql volleyball-m -f sos/division_ranking.sql > sos/division_ranking.txt
 
-psql volleyball-m -f sos/test_predictions_matches.sql > sos/test_predictions_matches.txt
+psql volleyball-m -f sos/test_predictions.sql > sos/test_predictions.txt
 
-cd python
-./predict.py
+psql volleyball-m -f sos/predict_daily.sql > sos/predict_daily.txt

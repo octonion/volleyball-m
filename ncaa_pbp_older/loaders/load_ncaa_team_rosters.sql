@@ -11,7 +11,6 @@ create table ncaa_pbp.team_rosters (
 	player_id	      text,
 	player_name	      text,
 	player_url	      text,
-	position	      text,
 	height		      text,
 	class_year	      text,
 	games_played	      integer,

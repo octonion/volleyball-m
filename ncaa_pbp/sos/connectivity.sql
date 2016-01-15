@@ -2,21 +2,21 @@ begin;
 
 select
 r.year,
-t.div_id as div,
-o.div_id as div,
-sum(case when r.team_score>r.opponent_score then 1 else 0 end) as won,
-sum(case when r.team_score<r.opponent_score then 1 else 0 end) as lost,
-sum(case when r.team_score=r.opponent_score then 1 else 0 end) as tied,
+t.division as tdiv,
+o.division as odiv,
+sum(case when r.team_won then 1 else 0 end) as won,
+sum(case when not(r.team_won) then 1 else 0 end) as lost,
 count(*)
-from ncaa_pbp.results r
-left join ncaa_pbp.schools_divisions t
-  on (t.school_id,t.year)=(r.school_id,r.year)
-left join ncaa_pbp.schools_divisions o
-  on (o.school_id,o.year)=(r.opponent_id,r.year)
+from ncaa_pbp.team_schedules r
+left join ncaa_pbp.teams t
+  on (t.team_id,t.year)=(r.team_id,r.year)
+left join ncaa_pbp.teams o
+  on (o.team_id,o.year)=(r.opponent_id,r.year)
 where
-    t.div_id<=o.div_id
-and r.year between 2009 and 2015
-group by r.year,t.div_id,o.div_id
-order by r.year,t.div_id,o.div_id;
+    t.division<=o.division
+and r.year between 2012 and 2016
+and r.team_won is not null
+group by r.year,t.division,o.division
+order by r.year,t.division,o.division;
 
 commit;
