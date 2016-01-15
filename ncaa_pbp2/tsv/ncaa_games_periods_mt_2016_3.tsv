@@ -1,0 +1,13 @@
+game_id	section_id	team_id	team_name	team_url	period_scores
+3980811	0	586	Rust	http://stats.ncaa.org/team/index/12382?org_id=586	[1, 7, 5, 0]
+3980811	1	1023	Coker	http://stats.ncaa.org/team/index/12382?org_id=1023	[25, 25, 25, 3]
+3980811	2		Ties		[0, 1, 0, 1]
+3980811	3		Lead changes		[0, 0, 0, 0]
+3983509	0	30175	Holy Names	http://stats.ncaa.org/team/index/12382?org_id=30175	[22, 21, 14, 0]
+3983509	1	113	UC Santa Cruz	http://stats.ncaa.org/team/index/12382?org_id=113	[25, 25, 25, 3]
+3983509	2		Ties		[0]
+3983509	3		Lead changes		[0]
+3983666	0	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/index/12382?org_id=22626	[20, 16, 22, 0]
+3983666	1	329	Kean	http://stats.ncaa.org/team/index/12382?org_id=329	[25, 25, 25, 3]
+3983666	2		Ties		[1, 1, 1, 3]
+3983666	3		Lead changes		[0, 1, 0, 1]

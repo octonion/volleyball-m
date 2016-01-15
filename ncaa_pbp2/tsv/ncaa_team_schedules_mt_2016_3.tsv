@@ -1,0 +1,2069 @@
+year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	opponent_url	neutral_site	neutral_location	home_game	score_string	team_won	score	exempt	team_score	opponent_score	overtime	overtime_periods	game_id	game_url
+2016	12382	4	Adrian	01/22/2016	Hilbert@Springfield, OH		HilbertSpringfield, OH		false		false	-									
+2016	12382	4	Adrian	01/23/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	4	Adrian	01/23/2016	Olivet@Springfield, OH		OlivetSpringfield, OH		false		false	-									
+2016	12382	4	Adrian	01/30/2016	Siena Heights		Siena Heights		false		true	-									
+2016	12382	4	Adrian	02/05/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	4	Adrian	02/06/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	4	Adrian	02/12/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	4	Adrian	02/13/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	4	Adrian	02/19/2016	Marymount (VA)@Cincinnati, OH		Marymount (VA)Cincinnati, OH		false		false	-									
+2016	12382	4	Adrian	02/19/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	4	Adrian	02/20/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	4	Adrian	02/27/2016	@ Siena Heights		Siena Heights		false		false	-									
+2016	12382	4	Adrian	03/04/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	4	Adrian	03/05/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	4	Adrian	03/11/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	4	Adrian	03/12/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	4	Adrian	03/18/2016	Loras		Loras		false		true	-									
+2016	12382	4	Adrian	03/19/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	4	Adrian	03/26/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	4	Adrian	04/01/2016	IIT		IIT		false		true	-									
+2016	12382	4	Adrian	04/02/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	2798	Albertus Magnus	01/28/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	2798	Albertus Magnus	02/03/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	2798	Albertus Magnus	02/08/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	2798	Albertus Magnus	02/10/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	2798	Albertus Magnus	02/13/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	2798	Albertus Magnus	02/21/2016	CCNY		CCNY		false		true	-									
+2016	12382	2798	Albertus Magnus	02/21/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	2798	Albertus Magnus	02/24/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	2798	Albertus Magnus	02/27/2016	John Jay@Jamaica, NY		John JayJamaica, NY		false		false	-									
+2016	12382	2798	Albertus Magnus	02/27/2016	Lancaster Bible@Jamaica, NY		Lancaster BibleJamaica, NY		false		false	-									
+2016	12382	2798	Albertus Magnus	02/27/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	2798	Albertus Magnus	03/01/2016	Lasell		Lasell		false		true	-									
+2016	12382	2798	Albertus Magnus	03/05/2016	Emerson		Emerson		false		true	-									
+2016	12382	2798	Albertus Magnus	03/10/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	2798	Albertus Magnus	03/19/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	2798	Albertus Magnus	03/19/2016	Emmanuel (MA)@Boston, MA		Emmanuel (MA)Boston, MA		false		false	-									
+2016	12382	2798	Albertus Magnus	03/22/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	2798	Albertus Magnus	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	2798	Albertus Magnus	03/26/2016	Rivier@Providence, RI		RivierProvidence, RI		false		false	-									
+2016	12382	2798	Albertus Magnus	03/29/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	2798	Albertus Magnus	03/31/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	2798	Albertus Magnus	04/02/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	2798	Albertus Magnus	04/02/2016	Rivier		Rivier		false		true	-									
+2016	12382	962	Bard	01/22/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	962	Bard	01/22/2016	Elms@Utica, NY		ElmsUtica, NY		false		false	-									
+2016	12382	962	Bard	01/23/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	962	Bard	01/23/2016	Wentworth@Utica, NY		WentworthUtica, NY		false		false	-									
+2016	12382	962	Bard	01/29/2016	@ MIT		MIT		false		false	-									
+2016	12382	962	Bard	01/30/2016	Emmanuel (MA)@Cambridge, MA		Emmanuel (MA)Cambridge, MA		false		false	-									
+2016	12382	962	Bard	01/30/2016	Endicott@Cambridge, MA		EndicottCambridge, MA		false		false	-									
+2016	12382	962	Bard	02/02/2016	Lehman		Lehman		false		true	-									
+2016	12382	962	Bard	02/06/2016	Purchase@Ramapo		PurchaseRamapo		false		false	-									
+2016	12382	962	Bard	02/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	962	Bard	02/17/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	962	Bard	02/20/2016	Vassar@Erie, PA		VassarErie, PA		false		false	-									
+2016	12382	962	Bard	02/20/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	962	Bard	02/24/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	962	Bard	02/26/2016	@ Kean		Kean		false		false	-									
+2016	12382	962	Bard	02/27/2016	@ Wilson		Wilson		false		false	-									
+2016	12382	962	Bard	03/05/2016	Stevens		Stevens		false		true	-									
+2016	12382	962	Bard	03/05/2016	Elmira		Elmira		false		true	-									
+2016	12382	962	Bard	03/08/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	962	Bard	03/11/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
+2016	12382	962	Bard	03/11/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	962	Bard	03/12/2016	York (NY)@Providence, RI		York (NY)Providence, RI		false		false	-									
+2016	12382	962	Bard	03/12/2016	Lesley@Providence, RI		LesleyProvidence, RI		false		false	-									
+2016	12382	962	Bard	03/15/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	962	Bard	03/19/2016	Daniel Webster@Chicopee, MA		Daniel WebsterChicopee, MA		false		false	-									
+2016	12382	962	Bard	03/19/2016	@ Elms		Elms		false		false	-									
+2016	12382	962	Bard	03/24/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	962	Bard	03/26/2016	Nazareth@New York, NY		NazarethNew York, NY		false		false	-									
+2016	12382	962	Bard	03/26/2016	@ NYU		NYU		false		false	-									
+2016	12382	962	Bard	03/30/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	962	Bard	04/01/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	962	Bard	04/02/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	962	Bard	04/02/2016	CCNY		CCNY		false		true	-									
+2016	12382	58	Baruch	01/29/2016	Rivier@Union, NJ		RivierUnion, NJ		false		false	-									
+2016	12382	58	Baruch	01/30/2016	Wentworth@Union, NJ		WentworthUnion, NJ		false		false	-									
+2016	12382	58	Baruch	01/30/2016	Nazareth@Union, NJ		NazarethUnion, NJ		false		false	-									
+2016	12382	58	Baruch	02/04/2016	NYU		NYU		false		true	-									
+2016	12382	58	Baruch	02/06/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	58	Baruch	02/06/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	58	Baruch	02/10/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	58	Baruch	02/12/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	58	Baruch	02/15/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	58	Baruch	02/15/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	58	Baruch	02/18/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	58	Baruch	02/25/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	58	Baruch	02/27/2016	Stevens		Stevens		false		true	-									
+2016	12382	58	Baruch	02/27/2016	Carthage		Carthage		false		true	-									
+2016	12382	58	Baruch	03/04/2016	Springfield		Springfield		false		true	-									
+2016	12382	58	Baruch	03/05/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	58	Baruch	03/05/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	58	Baruch	03/09/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	58	Baruch	03/10/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	58	Baruch	03/15/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	58	Baruch	03/17/2016	CCNY		CCNY		false		true	-									
+2016	12382	58	Baruch	03/18/2016	@ Kean		Kean		false		false	-									
+2016	12382	58	Baruch	03/22/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	58	Baruch	03/26/2016	John Jay@Jamaica, NY		John JayJamaica, NY		false		false	-									
+2016	12382	58	Baruch	03/26/2016	York (NY)@Jamaica, NY		York (NY)Jamaica, NY		false		false	-									
+2016	12382	58	Baruch	03/29/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	58	Baruch	03/30/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	58	Baruch	04/01/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	296	Benedictine (IL)	01/19/2016	Marian (WI)@Milwaukee, WI		Marian (WI)Milwaukee, WI		false		false	-									
+2016	12382	296	Benedictine (IL)	01/19/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	296	Benedictine (IL)	01/23/2016	Calumet Col.		Calumet Col.		false		true	-									
+2016	12382	296	Benedictine (IL)	01/23/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	296	Benedictine (IL)	01/24/2016	Benedictine Mesa		Benedictine Mesa		false		true	-									
+2016	12382	296	Benedictine (IL)	01/24/2016	Loras		Loras		false		true	-									
+2016	12382	296	Benedictine (IL)	01/26/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	296	Benedictine (IL)	01/30/2016	Trinity Christian@Dubuque, IA		Trinity ChristianDubuque, IA		false		false	-									
+2016	12382	296	Benedictine (IL)	01/30/2016	Lakeland@Dubuque, IA		LakelandDubuque, IA		false		false	-									
+2016	12382	296	Benedictine (IL)	02/05/2016	Loras		Loras		false		true	-									
+2016	12382	296	Benedictine (IL)	02/06/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	296	Benedictine (IL)	02/07/2016	UC Santa Cruz@Milwaukee, WI		UC Santa CruzMilwaukee, WI		false		false	-									
+2016	12382	296	Benedictine (IL)	02/12/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	296	Benedictine (IL)	02/13/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	296	Benedictine (IL)	02/19/2016	Greenville		Greenville		false		true	-									
+2016	12382	296	Benedictine (IL)	02/20/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	296	Benedictine (IL)	02/25/2016	@ St. Xavier		St. Xavier		false		false	-									
+2016	12382	296	Benedictine (IL)	03/04/2016	MSOE		MSOE		false		true	-									
+2016	12382	296	Benedictine (IL)	03/05/2016	Carthage		Carthage		false		true	-									
+2016	12382	296	Benedictine (IL)	03/11/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	296	Benedictine (IL)	03/12/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	296	Benedictine (IL)	03/18/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	296	Benedictine (IL)	03/25/2016	@ IIT		IIT		false		false	-									
+2016	12382	296	Benedictine (IL)	04/01/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	296	Benedictine (IL)	04/02/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	79	Brooklyn	01/14/2016	@ Mo. Baptist		Mo. Baptist		false		false	-									
+2016	12382	79	Brooklyn	01/16/2016	Greenville@St. Louis, MO		GreenvilleSt. Louis, MO		false		false	-									
+2016	12382	79	Brooklyn	01/16/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	79	Brooklyn	01/17/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	79	Brooklyn	01/25/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	79	Brooklyn	01/31/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	79	Brooklyn	01/31/2016	Yeshiva@Jersey City, NJ		YeshivaJersey City, NJ		false		false	-									
+2016	12382	79	Brooklyn	02/03/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	79	Brooklyn	02/06/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	79	Brooklyn	02/06/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	79	Brooklyn	02/08/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	79	Brooklyn	02/10/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	79	Brooklyn	02/15/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
+2016	12382	79	Brooklyn	02/15/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	79	Brooklyn	02/18/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	79	Brooklyn	02/25/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	79	Brooklyn	03/02/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	79	Brooklyn	03/05/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	79	Brooklyn	03/05/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
+2016	12382	79	Brooklyn	03/07/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	79	Brooklyn	03/10/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	79	Brooklyn	03/15/2016	Baruch		Baruch		false		true	-									
+2016	12382	79	Brooklyn	03/17/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	79	Brooklyn	03/19/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	79	Brooklyn	03/22/2016	Hunter		Hunter		false		true	-									
+2016	12382	79	Brooklyn	03/26/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	79	Brooklyn	03/26/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	79	Brooklyn	03/29/2016	John Jay		John Jay		false		true	-									
+2016	12382	79	Brooklyn	04/01/2016	@ Bard		Bard		false		false	-									
+2016	12382	480	CCNY	01/23/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	480	CCNY	01/23/2016	Southern Vt.@Boston, MA		Southern Vt.Boston, MA		false		false	-									
+2016	12382	480	CCNY	01/26/2016	@ Elms		Elms		false		false	-									
+2016	12382	480	CCNY	02/04/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	480	CCNY	02/06/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
+2016	12382	480	CCNY	02/06/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
+2016	12382	480	CCNY	02/08/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	480	CCNY	02/10/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	480	CCNY	02/11/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	480	CCNY	02/12/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	480	CCNY	02/15/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	480	CCNY	02/18/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	480	CCNY	02/21/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	480	CCNY	02/21/2016	Medgar Evers@New Haven, CT		Medgar EversNew Haven, CT		false		false	-									
+2016	12382	480	CCNY	02/25/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	480	CCNY	02/26/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	480	CCNY	03/02/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	480	CCNY	03/05/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
+2016	12382	480	CCNY	03/05/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	480	CCNY	03/15/2016	Lehman		Lehman		false		true	-									
+2016	12382	480	CCNY	03/17/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	480	CCNY	03/19/2016	Southern Vt.@Weston, MA		Southern Vt.Weston, MA		false		false	-									
+2016	12382	480	CCNY	03/19/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	480	CCNY	03/22/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	480	CCNY	03/26/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	480	CCNY	03/26/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	480	CCNY	04/02/2016	@ Bard		Bard		false		false	-									
+2016	12382	480	CCNY	04/02/2016	Marymount (VA)@Annandale on Hudson, NY		Marymount (VA)Annandale on Hudson, NY		false		false	-									
+2016	12382	1305	Cairn	01/20/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	1305	Cairn	01/22/2016	Springfield@Providence, RI		SpringfieldProvidence, RI		false		false	-									
+2016	12382	1305	Cairn	01/22/2016	Lasell@Providence, RI		LasellProvidence, RI		false		false	-									
+2016	12382	1305	Cairn	01/23/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	1305	Cairn	01/23/2016	Rutgers-Newark@Providence, RI		Rutgers-NewarkProvidence, RI		false		false	-									
+2016	12382	1305	Cairn	01/29/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	1305	Cairn	01/30/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	1305	Cairn	01/30/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	1305	Cairn	02/05/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	1305	Cairn	02/06/2016	Kean@Riverdale, NY, NY		KeanRiverdale, NY, NY		false		false	-									
+2016	12382	1305	Cairn	02/06/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	1305	Cairn	02/09/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	1305	Cairn	02/12/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	1305	Cairn	02/13/2016	Bluefield Col.@Arlington, VA, VA		Bluefield Col.Arlington, VA, VA		false		false	-									
+2016	12382	1305	Cairn	02/13/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	1305	Cairn	02/19/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	1305	Cairn	02/23/2016	John Jay		John Jay		false		true	-									
+2016	12382	1305	Cairn	02/26/2016	Thiel		Thiel		false		true	-									
+2016	12382	1305	Cairn	02/27/2016	Juniata		Juniata		false		true	-									
+2016	12382	1305	Cairn	03/04/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	1305	Cairn	03/05/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	1305	Cairn	03/16/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	1305	Cairn	03/19/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	1305	Cairn	03/19/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	1305	Cairn	03/22/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	1305	Cairn	03/23/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	1305	Cairn	04/01/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	1305	Cairn	04/02/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	105	Cal Lutheran	01/20/2016	@ CSUN		CSUN		false		false	-									
+2016	12382	105	Cal Lutheran	01/22/2016	NYU		NYU		false		true	-									
+2016	12382	105	Cal Lutheran	01/23/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	105	Cal Lutheran	01/23/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	105	Cal Lutheran	01/29/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	105	Cal Lutheran	01/29/2016	MSOE@Springfield, OH		MSOESpringfield, OH		false		false	-									
+2016	12382	105	Cal Lutheran	01/30/2016	Mt. St. Joseph@Springfield, OH		Mt. St. JosephSpringfield, OH		false		false	-									
+2016	12382	105	Cal Lutheran	01/30/2016	Carthage@Springfield, OH		CarthageSpringfield, OH		false		false	-									
+2016	12382	105	Cal Lutheran	02/09/2016	Hope Int'l		Hope Int'l		false		true	-									
+2016	12382	105	Cal Lutheran	02/13/2016	UC Merced		UC Merced		false		true	-									
+2016	12382	105	Cal Lutheran	02/19/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	105	Cal Lutheran	02/20/2016	Holy Names		Holy Names		false		true	-									
+2016	12382	105	Cal Lutheran	02/20/2016	Elmira		Elmira		false		true	-									
+2016	12382	105	Cal Lutheran	02/23/2016	@ Hope Int'l		Hope Int'l		false		false	-									
+2016	12382	105	Cal Lutheran	02/26/2016	Benedictine (KS)@Hope Int'l		Benedictine (KS)Hope Int'l		false		false	-									
+2016	12382	105	Cal Lutheran	03/05/2016	@ UC Merced		UC Merced		false		false	-									
+2016	12382	105	Cal Lutheran	03/09/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	105	Cal Lutheran	03/11/2016	Ramapo@Santa Cruz, CA		RamapoSanta Cruz, CA		false		false	-									
+2016	12382	105	Cal Lutheran	03/12/2016	Nazareth@Santa Cruz, CA		NazarethSanta Cruz, CA		false		false	-									
+2016	12382	105	Cal Lutheran	03/12/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2016	12382	105	Cal Lutheran	03/15/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	105	Cal Lutheran	03/18/2016	@ TBA		TBA		false		false	-									
+2016	12382	105	Cal Lutheran	03/19/2016	@ TBA		TBA		false		false	-									
+2016	12382	105	Cal Lutheran	03/19/2016	SUNY New Paltz@Rochester, NY		SUNY New PaltzRochester, NY		false		false	-									
+2016	12382	105	Cal Lutheran	03/19/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	105	Cal Lutheran	03/19/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
+2016	12382	105	Cal Lutheran	03/21/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	105	Cal Lutheran	04/01/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2016	12382	105	Cal Lutheran	04/02/2016	@ Holy Names		Holy Names		false		false	-									
+2016	12382	121	Carthage	01/15/2016	@ Quincy		Quincy		false		false	-									
+2016	12382	121	Carthage	01/16/2016	@ Lindenwood (MO)		Lindenwood (MO)		false		false	-									
+2016	12382	121	Carthage	01/23/2016	Cardinal Stritch		Cardinal Stritch		false		true	-									
+2016	12382	121	Carthage	01/29/2016	Juniata@Springfield, OH		JuniataSpringfield, OH		false		false	-									
+2016	12382	121	Carthage	01/30/2016	East. Mennonite@Springfield, OH		East. MennoniteSpringfield, OH		false		false	-									
+2016	12382	121	Carthage	01/30/2016	Cal Lutheran@Springfield, OH		Cal LutheranSpringfield, OH		false		false	-									
+2016	12382	121	Carthage	02/04/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	121	Carthage	02/05/2016	Adrian		Adrian		false		true	-									
+2016	12382	121	Carthage	02/06/2016	Olivet		Olivet		false		true	-									
+2016	12382	121	Carthage	02/12/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	121	Carthage	02/13/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	121	Carthage	02/19/2016	Loras		Loras		false		true	-									
+2016	12382	121	Carthage	02/20/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	121	Carthage	02/26/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	121	Carthage	02/26/2016	Medaille@Noboken, NJ		MedailleNoboken, NJ		false		false	-									
+2016	12382	121	Carthage	02/27/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	121	Carthage	03/03/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	121	Carthage	03/05/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	121	Carthage	03/12/2016	NYU		NYU		false		true	-									
+2016	12382	121	Carthage	03/12/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	121	Carthage	03/18/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	121	Carthage	03/19/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	121	Carthage	03/24/2016	MSOE		MSOE		false		true	-									
+2016	12382	121	Carthage	04/01/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	121	Carthage	04/02/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	1059	D'Youville	01/14/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	1059	D'Youville	01/14/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	1059	D'Youville	01/14/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	1059	D'Youville	01/15/2016	Johnson & Wales (RI)@Union, NJ		Johnson & Wales (RI)Union, NJ		false		false	-									
+2016	12382	1059	D'Youville	01/15/2016	@ Kean		Kean		false		false	-									
+2016	12382	1059	D'Youville	01/28/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	1059	D'Youville	02/05/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	1059	D'Youville	02/05/2016	Hilbert@Rochester, NY		HilbertRochester, NY		false		false	-									
+2016	12382	1059	D'Youville	02/06/2016	Johnson & Wales (RI)@Rochester, NY		Johnson & Wales (RI)Rochester, NY		false		false	-									
+2016	12382	1059	D'Youville	02/06/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
+2016	12382	1059	D'Youville	02/10/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	1059	D'Youville	02/13/2016	SUNY Poly@Buffalo, NY		SUNY PolyBuffalo, NY		false		false	-									
+2016	12382	1059	D'Youville	02/13/2016	Wells@Buffalo, NY		WellsBuffalo, NY		false		false	-									
+2016	12382	1059	D'Youville	02/14/2016	Keuka@Buffalo, NY		KeukaBuffalo, NY		false		false	-									
+2016	12382	1059	D'Youville	02/24/2016	Medaille		Medaille		false		true	-									
+2016	12382	1059	D'Youville	03/04/2016	@ Wilson		Wilson		false		false	-									
+2016	12382	1059	D'Youville	03/05/2016	Lancaster Bible@Chambersburg, PA		Lancaster BibleChambersburg, PA		false		false	-									
+2016	12382	1059	D'Youville	03/06/2016	Penn St.-Altoona@Chambersburg, PA		Penn St.-AltoonaChambersburg, PA		false		false	-									
+2016	12382	1059	D'Youville	03/12/2016	Keuka@Marcy, NY		KeukaMarcy, NY		false		false	-									
+2016	12382	1059	D'Youville	03/12/2016	Wells@Aurora, NY		WellsAurora, NY		false		false	-									
+2016	12382	1059	D'Youville	03/13/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	1059	D'Youville	03/15/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	1059	D'Youville	03/18/2016	Vassar@Hamburg, NY		VassarHamburg, NY		false		false	-									
+2016	12382	1059	D'Youville	03/29/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	1059	D'Youville	03/31/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	1059	D'Youville	04/01/2016	Lancaster Bible@Hamburg, NY		Lancaster BibleHamburg, NY		false		false	-									
+2016	12382	1059	D'Youville	04/02/2016	Penn St.-Altoona@Hamburg, NY		Penn St.-AltoonaHamburg, NY		false		false	-									
+2016	12382	1059	D'Youville	04/02/2016	Wilson@Hamburg, NY		WilsonHamburg, NY		false		false	-									
+2016	12382	2691	Daniel Webster	01/16/2016	Emerson@Cambridge, MA		EmersonCambridge, MA		false		false	-									
+2016	12382	2691	Daniel Webster	01/16/2016	@ MIT		MIT		false		false	-									
+2016	12382	2691	Daniel Webster	01/22/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	2691	Daniel Webster	01/23/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	2691	Daniel Webster	01/23/2016	Mount Ida@Rivier, MA		Mount IdaRivier, MA		false		false	-									
+2016	12382	2691	Daniel Webster	01/30/2016	Purchase@Keuka, NY		PurchaseKeuka, NY		false		false	-									
+2016	12382	2691	Daniel Webster	01/30/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	2691	Daniel Webster	01/31/2016	@ Wells		Wells		false		false	-									
+2016	12382	2691	Daniel Webster	02/04/2016	@ MIT		MIT		false		false	-									
+2016	12382	2691	Daniel Webster	02/06/2016	Lasell		Lasell		false		true	-									
+2016	12382	2691	Daniel Webster	02/07/2016	Endicott		Endicott		false		true	-									
+2016	12382	2691	Daniel Webster	02/07/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	2691	Daniel Webster	02/09/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	2691	Daniel Webster	02/17/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	2691	Daniel Webster	02/18/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	2691	Daniel Webster	02/20/2016	Wentworth@Brookline, MA		WentworthBrookline, MA		false		false	-									
+2016	12382	2691	Daniel Webster	02/20/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	2691	Daniel Webster	02/24/2016	Elms		Elms		false		true	-									
+2016	12382	2691	Daniel Webster	02/27/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	2691	Daniel Webster	02/27/2016	Lesley		Lesley		false		true	-									
+2016	12382	2691	Daniel Webster	03/01/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	2691	Daniel Webster	03/12/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	2691	Daniel Webster	03/17/2016	Newbury		Newbury		false		true	-									
+2016	12382	2691	Daniel Webster	03/19/2016	Bard@Chicopee, MA		BardChicopee, MA		false		false	-									
+2016	12382	2691	Daniel Webster	03/19/2016	@ Elms		Elms		false		false	-									
+2016	12382	2691	Daniel Webster	03/26/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	2691	Daniel Webster	03/26/2016	Sage Colleges@Springfield, MA		Sage CollegesSpringfield, MA		false		false	-									
+2016	12382	2691	Daniel Webster	03/29/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	2691	Daniel Webster	04/02/2016	Endicott		Endicott		false		true	-									
+2016	12382	1332	Dominican (IL)	01/21/2016	St. Xavier		St. Xavier		false		true	-									
+2016	12382	1332	Dominican (IL)	01/23/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	1332	Dominican (IL)	01/23/2016	Calumet Col.@Lisle, IL		Calumet Col.Lisle, IL		false		false	-									
+2016	12382	1332	Dominican (IL)	01/31/2016	Graceland (IA)		Graceland (IA)		false		true	-									
+2016	12382	1332	Dominican (IL)	02/02/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	1332	Dominican (IL)	02/05/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	1332	Dominican (IL)	02/06/2016	Loras		Loras		false		true	-									
+2016	12382	1332	Dominican (IL)	02/12/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	1332	Dominican (IL)	02/13/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	1332	Dominican (IL)	02/20/2016	Greenville		Greenville		false		true	-									
+2016	12382	1332	Dominican (IL)	02/21/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	1332	Dominican (IL)	02/27/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	1332	Dominican (IL)	03/01/2016	MSOE		MSOE		false		true	-									
+2016	12382	1332	Dominican (IL)	03/03/2016	Carthage		Carthage		false		true	-									
+2016	12382	1332	Dominican (IL)	03/05/2016	Juniata@New Paltz, NY		JuniataNew Paltz, NY		false		false	-									
+2016	12382	1332	Dominican (IL)	03/05/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	1332	Dominican (IL)	03/06/2016	@ Kean		Kean		false		false	-									
+2016	12382	1332	Dominican (IL)	03/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	1332	Dominican (IL)	03/08/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	1332	Dominican (IL)	03/11/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	1332	Dominican (IL)	03/12/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	1332	Dominican (IL)	03/15/2016	NYU		NYU		false		true	-									
+2016	12382	1332	Dominican (IL)	03/18/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	1332	Dominican (IL)	04/01/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	1332	Dominican (IL)	04/02/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	203	East. Mennonite	01/15/2016	Bluefield Col.		Bluefield Col.		false		true	-									
+2016	12382	203	East. Mennonite	01/15/2016	Alderson Broaddus		Alderson Broaddus		false		true	-									
+2016	12382	203	East. Mennonite	01/20/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	203	East. Mennonite	01/22/2016	@ King (TN)		King (TN)		false		false	-									
+2016	12382	203	East. Mennonite	01/23/2016	@ Lees-McRae		Lees-McRae		false		false	-									
+2016	12382	203	East. Mennonite	01/29/2016	North Central (IL)@Springfield, OH		North Central (IL)Springfield, OH		false		false	-									
+2016	12382	203	East. Mennonite	01/30/2016	Carthage@Springfield, OH		CarthageSpringfield, OH		false		false	-									
+2016	12382	203	East. Mennonite	01/30/2016	MSOE@Springfield, OH		MSOESpringfield, OH		false		false	-									
+2016	12382	203	East. Mennonite	02/05/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	203	East. Mennonite	02/06/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	203	East. Mennonite	02/10/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	203	East. Mennonite	02/10/2016	Wilson@Lancaster, PA		WilsonLancaster, PA		false		false	-									
+2016	12382	203	East. Mennonite	02/12/2016	Cairn		Cairn		false		true	-									
+2016	12382	203	East. Mennonite	02/13/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	203	East. Mennonite	02/24/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	203	East. Mennonite	02/27/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	203	East. Mennonite	02/27/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	203	East. Mennonite	03/04/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	203	East. Mennonite	03/05/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	203	East. Mennonite	03/12/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	203	East. Mennonite	03/12/2016	Limestone@Arlington, VA		LimestoneArlington, VA		false		false	-									
+2016	12382	203	East. Mennonite	03/18/2016	Juniata		Juniata		false		true	-									
+2016	12382	203	East. Mennonite	03/19/2016	Thiel		Thiel		false		true	-									
+2016	12382	203	East. Mennonite	03/19/2016	John Jay		John Jay		false		true	-									
+2016	12382	203	East. Mennonite	03/30/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	213	Elmira	01/22/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	213	Elmira	01/22/2016	Juniata		Juniata		false		true	-									
+2016	12382	213	Elmira	01/23/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	213	Elmira	01/23/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	213	Elmira	01/29/2016	Medaille@Owings Mills, MD		MedailleOwings Mills, MD		false		false	-									
+2016	12382	213	Elmira	01/30/2016	Thiel@Owings Mills, MD		ThielOwings Mills, MD		false		false	-									
+2016	12382	213	Elmira	01/30/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	213	Elmira	02/05/2016	Johnson & Wales (RI)@Rochester, NY		Johnson & Wales (RI)Rochester, NY		false		false	-									
+2016	12382	213	Elmira	02/05/2016	Medaille@Rochester, NY		MedailleRochester, NY		false		false	-									
+2016	12382	213	Elmira	02/06/2016	D'Youville@Rochester, NY		D'YouvilleRochester, NY		false		false	-									
+2016	12382	213	Elmira	02/06/2016	Hilbert@Rochester, NY		HilbertRochester, NY		false		false	-									
+2016	12382	213	Elmira	02/13/2016	MIT		MIT		false		true	-									
+2016	12382	213	Elmira	02/13/2016	NYU		NYU		false		true	-									
+2016	12382	213	Elmira	02/19/2016	Benedictine Mesa@Thousand Oaks, CA		Benedictine MesaThousand Oaks, CA		false		false	-									
+2016	12382	213	Elmira	02/20/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	213	Elmira	02/20/2016	UC Santa Cruz@Thousand Oaks, CA		UC Santa CruzThousand Oaks, CA		false		false	-									
+2016	12382	213	Elmira	02/24/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	213	Elmira	02/26/2016	TBA		TBA		false		true	-									
+2016	12382	213	Elmira	02/26/2016	Rivier		Rivier		false		true	-									
+2016	12382	213	Elmira	02/27/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	213	Elmira	02/27/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	213	Elmira	03/05/2016	Stevens@Annandale-on-Hudson, NY		StevensAnnandale-on-Hudson, NY		false		false	-									
+2016	12382	213	Elmira	03/05/2016	@ Bard		Bard		false		false	-									
+2016	12382	213	Elmira	03/06/2016	UC Santa Cruz@Hoboken, NJ		UC Santa CruzHoboken, NJ		false		false	-									
+2016	12382	213	Elmira	03/16/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	213	Elmira	03/18/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	213	Elmira	03/19/2016	Cal Lutheran@Rochester, NY		Cal LutheranRochester, NY		false		false	-									
+2016	12382	213	Elmira	03/24/2016	Keuka		Keuka		false		true	-									
+2016	12382	213	Elmira	03/26/2016	SUNY New Paltz@Poughkeepsie, NY		SUNY New PaltzPoughkeepsie, NY		false		false	-									
+2016	12382	213	Elmira	03/26/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	213	Elmira	04/02/2016	Alderson Broaddus@Rochester, NY		Alderson BroaddusRochester, NY		false		false	-									
+2016	12382	213	Elmira	04/02/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	532	Elms	01/22/2016	Bard@Utica, NY		BardUtica, NY		false		false	-									
+2016	12382	532	Elms	01/22/2016	Nazareth@Utica, NY		NazarethUtica, NY		false		false	-									
+2016	12382	532	Elms	01/23/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	532	Elms	01/23/2016	Sage Colleges@Marcy, NY		Sage CollegesMarcy, NY		false		false	-									
+2016	12382	532	Elms	01/26/2016	CCNY		CCNY		false		true	-									
+2016	12382	532	Elms	01/29/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	532	Elms	01/30/2016	Purchase@Penn Yan, NY		PurchasePenn Yan, NY		false		false	-									
+2016	12382	532	Elms	01/30/2016	Penn St.-Behrend@Penn Yan, NY		Penn St.-BehrendPenn Yan, NY		false		false	-									
+2016	12382	532	Elms	02/04/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	532	Elms	02/09/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	532	Elms	02/11/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	532	Elms	02/13/2016	Endicott		Endicott		false		true	-									
+2016	12382	532	Elms	02/17/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	532	Elms	02/20/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	532	Elms	02/20/2016	Rivier@Weston, MA		RivierWeston, MA		false		false	-									
+2016	12382	532	Elms	02/24/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	532	Elms	02/27/2016	MIT		MIT		false		true	-									
+2016	12382	532	Elms	02/27/2016	Newbury		Newbury		false		true	-									
+2016	12382	532	Elms	03/01/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	532	Elms	03/15/2016	@ MIT		MIT		false		false	-									
+2016	12382	532	Elms	03/17/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	532	Elms	03/19/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	532	Elms	03/19/2016	Bard		Bard		false		true	-									
+2016	12382	532	Elms	03/23/2016	Lesley		Lesley		false		true	-									
+2016	12382	532	Elms	03/24/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	532	Elms	03/29/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	532	Elms	04/02/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	532	Elms	04/02/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	214	Emerson	01/16/2016	Daniel Webster@Cambridge, MA		Daniel WebsterCambridge, MA		false		false	-									
+2016	12382	214	Emerson	01/16/2016	@ MIT		MIT		false		false	-									
+2016	12382	214	Emerson	01/23/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	214	Emerson	01/23/2016	CCNY		CCNY		false		true	-									
+2016	12382	214	Emerson	01/26/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	214	Emerson	02/02/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	214	Emerson	02/04/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	214	Emerson	02/05/2016	Lesley		Lesley		false		true	-									
+2016	12382	214	Emerson	02/09/2016	MIT		MIT		false		true	-									
+2016	12382	214	Emerson	02/11/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	214	Emerson	02/18/2016	Newbury		Newbury		false		true	-									
+2016	12382	214	Emerson	02/20/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
+2016	12382	214	Emerson	02/20/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	214	Emerson	03/01/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	214	Emerson	03/05/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	214	Emerson	03/15/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	214	Emerson	03/17/2016	Rivier		Rivier		false		true	-									
+2016	12382	214	Emerson	03/19/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	214	Emerson	03/19/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	214	Emerson	03/22/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	214	Emerson	03/26/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	214	Emerson	03/29/2016	Lasell		Lasell		false		true	-									
+2016	12382	214	Emerson	03/31/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	214	Emerson	04/02/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	215	Emmanuel (MA)	01/28/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	215	Emmanuel (MA)	01/30/2016	Bard@Cambridge, MA		BardCambridge, MA		false		false	-									
+2016	12382	215	Emmanuel (MA)	01/30/2016	@ MIT		MIT		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/02/2016	Springfield		Springfield		false		true	-									
+2016	12382	215	Emmanuel (MA)	02/11/2016	Elms		Elms		false		true	-									
+2016	12382	215	Emmanuel (MA)	02/13/2016	Mount Ida@Newton, MA		Mount IdaNewton, MA		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/13/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/17/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/20/2016	Emerson@Providence, RI		EmersonProvidence, RI		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/20/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	215	Emmanuel (MA)	02/22/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/01/2016	MIT		MIT		false		true	-									
+2016	12382	215	Emmanuel (MA)	03/03/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/11/2016	York (NY)@Providence, RI		York (NY)Providence, RI		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/11/2016	Bard@Providence, RI		BardProvidence, RI		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/12/2016	Lesley@Providence, RI		LesleyProvidence, RI		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/12/2016	New Jersey City@Providence, RI		New Jersey CityProvidence, RI		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/15/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/17/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	215	Emmanuel (MA)	03/19/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/19/2016	Albertus Magnus@Boston, MA		Albertus MagnusBoston, MA		false		false	-									
+2016	12382	215	Emmanuel (MA)	03/22/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	215	Emmanuel (MA)	03/24/2016	Endicott		Endicott		false		true	-									
+2016	12382	215	Emmanuel (MA)	03/29/2016	Rivier		Rivier		false		true	-									
+2016	12382	215	Emmanuel (MA)	03/31/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	215	Emmanuel (MA)	04/02/2016	Lasell		Lasell		false		true	-									
+2016	12382	215	Emmanuel (MA)	04/02/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	8981	Endicott	01/22/2016	Rutgers-Newark@Providence, RI		Rutgers-NewarkProvidence, RI		false		false	-									
+2016	12382	8981	Endicott	01/22/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	8981	Endicott	01/23/2016	Springfield@Providence, RI		SpringfieldProvidence, RI		false		false	-									
+2016	12382	8981	Endicott	01/23/2016	Lasell@Providence, RI		LasellProvidence, RI		false		false	-									
+2016	12382	8981	Endicott	01/26/2016	Emerson		Emerson		false		true	-									
+2016	12382	8981	Endicott	01/30/2016	Bard@Cambridge, MA		BardCambridge, MA		false		false	-									
+2016	12382	8981	Endicott	01/30/2016	@ MIT		MIT		false		false	-									
+2016	12382	8981	Endicott	02/03/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	8981	Endicott	02/06/2016	Lasell@Nashua, NH		LasellNashua, NH		false		false	-									
+2016	12382	8981	Endicott	02/07/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	8981	Endicott	02/07/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	8981	Endicott	02/11/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	8981	Endicott	02/13/2016	@ Elms		Elms		false		false	-									
+2016	12382	8981	Endicott	02/17/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	8981	Endicott	02/18/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	8981	Endicott	02/20/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	8981	Endicott	02/20/2016	Stevenson@Springfield, MA		StevensonSpringfield, MA		false		false	-									
+2016	12382	8981	Endicott	02/24/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	8981	Endicott	03/01/2016	Elms		Elms		false		true	-									
+2016	12382	8981	Endicott	03/03/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	8981	Endicott	03/05/2016	Newbury		Newbury		false		true	-									
+2016	12382	8981	Endicott	03/07/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	8981	Endicott	03/22/2016	Lesley		Lesley		false		true	-									
+2016	12382	8981	Endicott	03/24/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	8981	Endicott	03/29/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	8981	Endicott	04/02/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	11538	Fontbonne	01/16/2016	Greenville		Greenville		false		true	-									
+2016	12382	11538	Fontbonne	01/16/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	11538	Fontbonne	01/30/2016	@ Rust		Rust		false		false	-									
+2016	12382	11538	Fontbonne	01/30/2016	@ Rust		Rust		false		false	-									
+2016	12382	11538	Fontbonne	02/03/2016	Greenville		Greenville		false		true	-									
+2016	12382	11538	Fontbonne	02/06/2016	Rust		Rust		false		true	-									
+2016	12382	11538	Fontbonne	02/06/2016	Rust		Rust		false		true	-									
+2016	12382	11538	Fontbonne	02/12/2016	MSOE		MSOE		false		true	-									
+2016	12382	11538	Fontbonne	02/13/2016	Carthage		Carthage		false		true	-									
+2016	12382	11538	Fontbonne	02/19/2016	@ IIT		IIT		false		false	-									
+2016	12382	11538	Fontbonne	02/20/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	11538	Fontbonne	02/21/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	11538	Fontbonne	02/23/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	11538	Fontbonne	03/04/2016	Adrian		Adrian		false		true	-									
+2016	12382	11538	Fontbonne	03/05/2016	Olivet		Olivet		false		true	-									
+2016	12382	11538	Fontbonne	03/11/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	11538	Fontbonne	03/12/2016	IIT		IIT		false		true	-									
+2016	12382	11538	Fontbonne	03/12/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	11538	Fontbonne	03/18/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	11538	Fontbonne	03/19/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	11538	Fontbonne	03/23/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	11538	Fontbonne	03/24/2016	@ Elms		Elms		false		false	-									
+2016	12382	11538	Fontbonne	03/25/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	11538	Fontbonne	03/26/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	11538	Fontbonne	03/26/2016	Southern Vt.@Newton, MA		Southern Vt.Newton, MA		false		false	-									
+2016	12382	11538	Fontbonne	04/01/2016	@ Loras		Loras		false		false	-									
+2016	12382	11538	Fontbonne	04/02/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	1111	Greenville	01/16/2016	Brooklyn@St. Louis, MO		BrooklynSt. Louis, MO		false		false	-									
+2016	12382	1111	Greenville	01/16/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	1111	Greenville	01/30/2016	Hannibal-La Grange		Hannibal-La Grange		false		true	-									
+2016	12382	1111	Greenville	02/02/2016	@ Lindenwood (IL)		Lindenwood (IL)		false		false	-									
+2016	12382	1111	Greenville	02/03/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	1111	Greenville	02/12/2016	Carthage		Carthage		false		true	-									
+2016	12382	1111	Greenville	02/13/2016	MSOE		MSOE		false		true	-									
+2016	12382	1111	Greenville	02/19/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	1111	Greenville	02/20/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	1111	Greenville	02/23/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	1111	Greenville	02/26/2016	Rust		Rust		false		true	-									
+2016	12382	1111	Greenville	02/27/2016	Mo. Baptist		Mo. Baptist		false		true	-									
+2016	12382	1111	Greenville	02/27/2016	Rust		Rust		false		true	-									
+2016	12382	1111	Greenville	03/01/2016	Lindenwood (IL)		Lindenwood (IL)		false		true	-									
+2016	12382	1111	Greenville	03/04/2016	Olivet		Olivet		false		true	-									
+2016	12382	1111	Greenville	03/05/2016	Adrian		Adrian		false		true	-									
+2016	12382	1111	Greenville	03/11/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	1111	Greenville	03/12/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	1111	Greenville	03/15/2016	@ Hannibal-La Grange		Hannibal-La Grange		false		false	-									
+2016	12382	1111	Greenville	03/18/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	1111	Greenville	03/19/2016	IIT@Mt. St. Joseph		IITMt. St. Joseph		false		false	-									
+2016	12382	1111	Greenville	03/19/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	1111	Greenville	04/01/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	1111	Greenville	04/02/2016	@ Loras		Loras		false		false	-									
+2016	12382	8398	Hilbert	01/22/2016	Adrian@Springfield, OH		AdrianSpringfield, OH		false		false	-									
+2016	12382	8398	Hilbert	01/23/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	8398	Hilbert	01/23/2016	Olivet@Springfiled, OH, OH		OlivetSpringfiled, OH, OH		false		false	-									
+2016	12382	8398	Hilbert	01/28/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	8398	Hilbert	02/05/2016	D'Youville@Rochester, NY		D'YouvilleRochester, NY		false		false	-									
+2016	12382	8398	Hilbert	02/05/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	8398	Hilbert	02/06/2016	Medaille@Rochester, NY		MedailleRochester, NY		false		false	-									
+2016	12382	8398	Hilbert	02/06/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
+2016	12382	8398	Hilbert	02/13/2016	Wells@Buffalo, NY, NY		WellsBuffalo, NY, NY		false		false	-									
+2016	12382	8398	Hilbert	02/13/2016	Keuka@Buffalo, NY		KeukaBuffalo, NY		false		false	-									
+2016	12382	8398	Hilbert	02/14/2016	SUNY Poly@Buffalo, NY		SUNY PolyBuffalo, NY		false		false	-									
+2016	12382	8398	Hilbert	02/17/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	8398	Hilbert	03/04/2016	Lancaster Bible@Chambersburg, PA		Lancaster BibleChambersburg, PA		false		false	-									
+2016	12382	8398	Hilbert	03/05/2016	@ Wilson		Wilson		false		false	-									
+2016	12382	8398	Hilbert	03/06/2016	Penn St.-Altoona@Chambersburg, PA		Penn St.-AltoonaChambersburg, PA		false		false	-									
+2016	12382	8398	Hilbert	03/12/2016	Keuka@Marcy, NY		KeukaMarcy, NY		false		false	-									
+2016	12382	8398	Hilbert	03/12/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	8398	Hilbert	03/13/2016	Wells@Marcy, NY, NY		WellsMarcy, NY, NY		false		false	-									
+2016	12382	8398	Hilbert	03/15/2016	Medaille		Medaille		false		true	-									
+2016	12382	8398	Hilbert	03/18/2016	Vassar		Vassar		false		true	-									
+2016	12382	8398	Hilbert	03/19/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	8398	Hilbert	03/21/2016	Loras		Loras		false		true	-									
+2016	12382	8398	Hilbert	03/31/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	8398	Hilbert	04/01/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	8398	Hilbert	04/02/2016	Wilson		Wilson		false		true	-									
+2016	12382	8398	Hilbert	04/02/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	8398	Hilbert	04/05/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	292	Hunter	01/14/2016	D'Youville@Union, NJ		D'YouvilleUnion, NJ		false		false	-									
+2016	12382	292	Hunter	01/15/2016	Stevenson@Union, NJ		StevensonUnion, NJ		false		false	-									
+2016	12382	292	Hunter	01/16/2016	Johnson & Wales (RI)@Union, NJ		Johnson & Wales (RI)Union, NJ		false		false	-									
+2016	12382	292	Hunter	01/17/2016	Brooklyn@Union, NJ		BrooklynUnion, NJ		false		false	-									
+2016	12382	292	Hunter	01/20/2016	Cairn		Cairn		false		true	-									
+2016	12382	292	Hunter	01/26/2016	@ NYU		NYU		false		false	-									
+2016	12382	292	Hunter	02/06/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
+2016	12382	292	Hunter	02/06/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	292	Hunter	02/07/2016	TBA@Hoboken, NJ		TBAHoboken, NJ		false		false	-									
+2016	12382	292	Hunter	02/07/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	292	Hunter	02/07/2016	TBA@Hoboken, NJ		TBAHoboken, NJ		false		false	-									
+2016	12382	292	Hunter	02/07/2016	Staten Island@Hoboken, NJ		Staten IslandHoboken, NJ		false		false	-									
+2016	12382	292	Hunter	02/10/2016	CCNY		CCNY		false		true	-									
+2016	12382	292	Hunter	02/13/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	292	Hunter	02/13/2016	Springfield		Springfield		false		true	-									
+2016	12382	292	Hunter	02/15/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	292	Hunter	02/15/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
+2016	12382	292	Hunter	02/18/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	292	Hunter	02/19/2016	SUNY New Paltz@Huntingdon, PA		SUNY New PaltzHuntingdon, PA		false		false	-									
+2016	12382	292	Hunter	02/20/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	292	Hunter	02/20/2016	Nazareth@Huntingdon, PA		NazarethHuntingdon, PA		false		false	-									
+2016	12382	292	Hunter	02/25/2016	John Jay		John Jay		false		true	-									
+2016	12382	292	Hunter	03/01/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	292	Hunter	03/02/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	292	Hunter	03/05/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	292	Hunter	03/05/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	292	Hunter	03/10/2016	Lehman		Lehman		false		true	-									
+2016	12382	292	Hunter	03/12/2016	Vassar		Vassar		false		true	-									
+2016	12382	292	Hunter	03/17/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	292	Hunter	03/22/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	292	Hunter	03/23/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	292	Hunter	03/26/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	292	Hunter	03/26/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	292	Hunter	03/29/2016	Baruch		Baruch		false		true	-									
+2016	12382	321	John Jay	02/06/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	321	John Jay	02/06/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	321	John Jay	02/08/2016	Purchase		Purchase		false		true	-									
+2016	12382	321	John Jay	02/10/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	321	John Jay	02/15/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	321	John Jay	02/15/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	321	John Jay	02/18/2016	CCNY		CCNY		false		true	-									
+2016	12382	321	John Jay	02/20/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	321	John Jay	02/23/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	321	John Jay	02/25/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	321	John Jay	02/27/2016	Lancaster Bible@Jamaica, NY		Lancaster BibleJamaica, NY		false		false	-									
+2016	12382	321	John Jay	02/27/2016	Albertus Magnus@Jamaica, NY		Albertus MagnusJamaica, NY		false		false	-									
+2016	12382	321	John Jay	03/02/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	321	John Jay	03/05/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	321	John Jay	03/05/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	321	John Jay	03/09/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	321	John Jay	03/15/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	321	John Jay	03/17/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	321	John Jay	03/19/2016	Thiel@Harrisonburg, VA		ThielHarrisonburg, VA		false		false	-									
+2016	12382	321	John Jay	03/19/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	321	John Jay	03/22/2016	Baruch		Baruch		false		true	-									
+2016	12382	321	John Jay	03/26/2016	Staten Island@Queens, NY		Staten IslandQueens, NY		false		false	-									
+2016	12382	321	John Jay	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
+2016	12382	321	John Jay	03/29/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	01/14/2016	@ Kean	329	Kean	http://stats.ncaa.org/team/index/12382?org_id=329	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3983666	http://stats.ncaa.org/game/index/3983666?org_id=329
+2016	12382	22626	Johnson & Wales (RI)	01/15/2016	D'Youville@Union, NJ		D'YouvilleUnion, NJ		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	01/16/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	01/19/2016	@ MIT		MIT		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	01/22/2016	Endicott		Endicott		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	01/22/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	01/23/2016	Springfield		Springfield		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	01/23/2016	Cairn		Cairn		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	01/27/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	02/05/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/05/2016	Medaille@Rochester, NY		MedailleRochester, NY		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/06/2016	D'Youville@Rochester, NY		D'YouvilleRochester, NY		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/06/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/11/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/17/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/20/2016	Emerson		Emerson		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	02/20/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	02/22/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/24/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/27/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	03/11/2016	Bard		Bard		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/11/2016	Lesley		Lesley		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/12/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/12/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/15/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	03/22/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Rivier		Rivier		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/29/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/31/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	04/02/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	04/02/2016	Lasell@Emmanuel, MA		LasellEmmanuel, MA		false		false	-									
+2016	12382	325	Juniata	01/22/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	325	Juniata	01/22/2016	Mt. St. Vincent@Elmira, NY		Mt. St. VincentElmira, NY		false		false	-									
+2016	12382	325	Juniata	01/23/2016	Ramapo@Elmira, NY		RamapoElmira, NY		false		false	-									
+2016	12382	325	Juniata	01/29/2016	Carthage@Springfield, OH		CarthageSpringfield, OH		false		false	-									
+2016	12382	325	Juniata	01/30/2016	Mt. St. Joseph@Springfield, OH		Mt. St. JosephSpringfield, OH		false		false	-									
+2016	12382	325	Juniata	01/30/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	325	Juniata	02/05/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	325	Juniata	02/06/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	325	Juniata	02/06/2016	Wells		Wells		false		true	-									
+2016	12382	325	Juniata	02/09/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	325	Juniata	02/12/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	325	Juniata	02/19/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	325	Juniata	02/19/2016	Lasell		Lasell		false		true	-									
+2016	12382	325	Juniata	02/20/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	325	Juniata	02/20/2016	Hunter		Hunter		false		true	-									
+2016	12382	325	Juniata	02/26/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	325	Juniata	02/27/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	325	Juniata	03/04/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	325	Juniata	03/05/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	325	Juniata	03/05/2016	Dominican (IL)@New Paltz, NY		Dominican (IL)New Paltz, NY		false		false	-									
+2016	12382	325	Juniata	03/16/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	325	Juniata	03/18/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	325	Juniata	03/19/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	325	Juniata	03/22/2016	Thiel		Thiel		false		true	-									
+2016	12382	325	Juniata	03/30/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	325	Juniata	04/01/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	325	Juniata	04/02/2016	Cairn		Cairn		false		true	-									
+2016	12382	329	Kean	01/14/2016	Johnson & Wales (RI)	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/index/12382?org_id=22626	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3983666	http://stats.ncaa.org/game/index/3983666?org_id=329
+2016	12382	329	Kean	01/15/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	329	Kean	01/15/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	329	Kean	01/22/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	329	Kean	01/22/2016	Nazareth@Utica, NY		NazarethUtica, NY		false		false	-									
+2016	12382	329	Kean	01/23/2016	Vassar@Utica, NY		VassarUtica, NY		false		false	-									
+2016	12382	329	Kean	01/23/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	329	Kean	01/29/2016	Lasell		Lasell		false		true	-									
+2016	12382	329	Kean	01/30/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	329	Kean	01/30/2016	Rivier		Rivier		false		true	-									
+2016	12382	329	Kean	02/04/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	329	Kean	02/06/2016	Cairn@Riverdale, NY, NY		CairnRiverdale, NY, NY		false		false	-									
+2016	12382	329	Kean	02/10/2016	NYU		NYU		false		true	-									
+2016	12382	329	Kean	02/18/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	329	Kean	02/20/2016	Sage Colleges@Brooklyn, NY		Sage CollegesBrooklyn, NY		false		false	-									
+2016	12382	329	Kean	02/20/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	329	Kean	02/24/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	329	Kean	02/26/2016	Keuka		Keuka		false		true	-									
+2016	12382	329	Kean	02/26/2016	Bard		Bard		false		true	-									
+2016	12382	329	Kean	02/28/2016	Purchase@Jersey City, NJ		PurchaseJersey City, NJ		false		false	-									
+2016	12382	329	Kean	02/28/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	329	Kean	03/03/2016	Sarah Lawrence@Purchase, NY		Sarah LawrencePurchase, NY		false		false	-									
+2016	12382	329	Kean	03/03/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	329	Kean	03/06/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	329	Kean	03/06/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	329	Kean	03/09/2016	Cincinnati Christian@Lake Wales, FL		Cincinnati ChristianLake Wales, FL		false		false	-									
+2016	12382	329	Kean	03/09/2016	@ Warner		Warner		false		false	-									
+2016	12382	329	Kean	03/18/2016	Baruch		Baruch		false		true	-									
+2016	12382	329	Kean	03/20/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	329	Kean	03/20/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	329	Kean	03/23/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	329	Kean	03/23/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	329	Kean	03/30/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	329	Kean	04/02/2016	St. Joseph's (Brkln)@Troy, NY		St. Joseph's (Brkln)Troy, NY		false		false	-									
+2016	12382	329	Kean	04/02/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	1159	Keuka	01/29/2016	Elms		Elms		false		true	-									
+2016	12382	1159	Keuka	01/30/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	1159	Keuka	01/30/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	1159	Keuka	01/31/2016	Purchase		Purchase		false		true	-									
+2016	12382	1159	Keuka	02/13/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	1159	Keuka	02/13/2016	Hilbert@Buffalo, NY		HilbertBuffalo, NY		false		false	-									
+2016	12382	1159	Keuka	02/14/2016	D'Youville@Buffalo, NY		D'YouvilleBuffalo, NY		false		false	-									
+2016	12382	1159	Keuka	02/20/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	1159	Keuka	02/21/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	1159	Keuka	02/21/2016	Wilson		Wilson		false		true	-									
+2016	12382	1159	Keuka	02/26/2016	@ Kean		Kean		false		false	-									
+2016	12382	1159	Keuka	02/27/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	1159	Keuka	02/27/2016	Staten Island@Jersey City, NJ		Staten IslandJersey City, NJ		false		false	-									
+2016	12382	1159	Keuka	03/02/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	1159	Keuka	03/05/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	1159	Keuka	03/09/2016	@ Wells		Wells		false		false	-									
+2016	12382	1159	Keuka	03/12/2016	Hilbert@Marcy, NY		HilbertMarcy, NY		false		false	-									
+2016	12382	1159	Keuka	03/12/2016	D'Youville@Marcy, NY		D'YouvilleMarcy, NY		false		false	-									
+2016	12382	1159	Keuka	03/13/2016	Medaille@Marcy, NY		MedailleMarcy, NY		false		false	-									
+2016	12382	1159	Keuka	03/18/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	1159	Keuka	03/19/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
+2016	12382	1159	Keuka	03/19/2016	Wilson@Altoona, PA		WilsonAltoona, PA		false		false	-									
+2016	12382	1159	Keuka	03/23/2016	Wells		Wells		false		true	-									
+2016	12382	1159	Keuka	03/24/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	1159	Keuka	04/02/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	1164	Lakeland	01/15/2016	Loras		Loras		false		true	-									
+2016	12382	1164	Lakeland	01/15/2016	IIT		IIT		false		true	-									
+2016	12382	1164	Lakeland	01/22/2016	TBA@Thousand Oaks, CA		TBAThousand Oaks, CA		false		false	-									
+2016	12382	1164	Lakeland	01/22/2016	UC Santa Cruz@Cal Lutheran		UC Santa CruzCal Lutheran		false		false	-									
+2016	12382	1164	Lakeland	01/23/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	1164	Lakeland	01/23/2016	TBA@Thousand Oaks, CA		TBAThousand Oaks, CA		false		false	-									
+2016	12382	1164	Lakeland	01/23/2016	NYU@Thousand Oaks, CA		NYUThousand Oaks, CA		false		false	-									
+2016	12382	1164	Lakeland	01/29/2016	@ Loras		Loras		false		false	-									
+2016	12382	1164	Lakeland	01/30/2016	Benedictine (IL)@Dubuque, IA		Benedictine (IL)Dubuque, IA		false		false	-									
+2016	12382	1164	Lakeland	01/30/2016	Calumet Col.@Dubuque, IA		Calumet Col.Dubuque, IA		false		false	-									
+2016	12382	1164	Lakeland	02/05/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	1164	Lakeland	02/06/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	1164	Lakeland	02/06/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	1164	Lakeland	02/12/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	1164	Lakeland	02/13/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	1164	Lakeland	02/17/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	1164	Lakeland	02/27/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	1164	Lakeland	03/04/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	1164	Lakeland	03/05/2016	@ Loras		Loras		false		false	-									
+2016	12382	1164	Lakeland	03/11/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	1164	Lakeland	03/12/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	1164	Lakeland	03/14/2016	Stevenson@Marian, WI		StevensonMarian, WI		false		false	-									
+2016	12382	1164	Lakeland	03/14/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	1164	Lakeland	03/18/2016	MSOE		MSOE		false		true	-									
+2016	12382	1164	Lakeland	03/19/2016	Carthage		Carthage		false		true	-									
+2016	12382	1164	Lakeland	03/23/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	1164	Lakeland	03/23/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	1164	Lakeland	04/01/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	1164	Lakeland	04/02/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	30085	Lancaster Bible	01/20/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	30085	Lancaster Bible	01/21/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	30085	Lancaster Bible	01/23/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	30085	Lancaster Bible	01/23/2016	Marymount (VA)@Hoboken, NJ		Marymount (VA)Hoboken, NJ		false		false	-									
+2016	12382	30085	Lancaster Bible	01/30/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	30085	Lancaster Bible	01/30/2016	Southern Vt.@Langhorne, PA		Southern Vt.Langhorne, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	02/10/2016	Wilson		Wilson		false		true	-									
+2016	12382	30085	Lancaster Bible	02/10/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	30085	Lancaster Bible	02/13/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	30085	Lancaster Bible	02/13/2016	Wilson@Altoona, PA		WilsonAltoona, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	02/17/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	30085	Lancaster Bible	02/17/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	30085	Lancaster Bible	02/20/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	30085	Lancaster Bible	02/21/2016	Wells@Keuka Park, NY		WellsKeuka Park, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	02/21/2016	SUNY Poly@Keuka Park, NY		SUNY PolyKeuka Park, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	02/26/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	30085	Lancaster Bible	02/27/2016	John Jay@Jamaica, NY		John JayJamaica, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	02/27/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	30085	Lancaster Bible	02/27/2016	Albertus Magnus@Jamaica, NY		Albertus MagnusJamaica, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	03/04/2016	Hilbert@Chambersburg, PA		HilbertChambersburg, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/05/2016	D'Youville@Chambersburg, PA		D'YouvilleChambersburg, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/05/2016	Medaille@Chambersburg, PA		MedailleChambersburg, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/12/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	30085	Lancaster Bible	03/12/2016	Wilson		Wilson		false		true	-									
+2016	12382	30085	Lancaster Bible	03/18/2016	SUNY Poly@Altoona, PA		SUNY PolyAltoona, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/19/2016	Wells@Altoona, PA		WellsAltoona, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/19/2016	Keuka@Altoona, PA		KeukaAltoona, PA		false		false	-									
+2016	12382	30085	Lancaster Bible	03/23/2016	Cairn		Cairn		false		true	-									
+2016	12382	30085	Lancaster Bible	04/01/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	04/02/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	30085	Lancaster Bible	04/02/2016	Medaille@Hamburg, NY		MedailleHamburg, NY		false		false	-									
+2016	12382	8486	Lasell	01/22/2016	Springfield@Providence, RI		SpringfieldProvidence, RI		false		false	-									
+2016	12382	8486	Lasell	01/22/2016	Cairn@Providence, RI		CairnProvidence, RI		false		false	-									
+2016	12382	8486	Lasell	01/23/2016	Rutgers-Newark@Providence, RI		Rutgers-NewarkProvidence, RI		false		false	-									
+2016	12382	8486	Lasell	01/23/2016	Endicott@Providence, RI		EndicottProvidence, RI		false		false	-									
+2016	12382	8486	Lasell	01/27/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	8486	Lasell	01/29/2016	@ Kean		Kean		false		false	-									
+2016	12382	8486	Lasell	01/30/2016	Rutgers-Newark@Union, NJ		Rutgers-NewarkUnion, NJ		false		false	-									
+2016	12382	8486	Lasell	01/30/2016	Stevens@Union, NJ		StevensUnion, NJ		false		false	-									
+2016	12382	8486	Lasell	02/02/2016	Emerson		Emerson		false		true	-									
+2016	12382	8486	Lasell	02/06/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	8486	Lasell	02/06/2016	Endicott@Nashua, NH		EndicottNashua, NH		false		false	-									
+2016	12382	8486	Lasell	02/09/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	8486	Lasell	02/13/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	8486	Lasell	02/13/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	8486	Lasell	02/19/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	8486	Lasell	02/20/2016	SUNY New Paltz@Huntingdon, PA		SUNY New PaltzHuntingdon, PA		false		false	-									
+2016	12382	8486	Lasell	02/20/2016	Nazareth@Huntingdon, PA		NazarethHuntingdon, PA		false		false	-									
+2016	12382	8486	Lasell	02/24/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	8486	Lasell	02/27/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	8486	Lasell	02/27/2016	Vassar@Springfield, MA		VassarSpringfield, MA		false		false	-									
+2016	12382	8486	Lasell	03/01/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	8486	Lasell	03/03/2016	Rivier		Rivier		false		true	-									
+2016	12382	8486	Lasell	03/08/2016	MIT		MIT		false		true	-									
+2016	12382	8486	Lasell	03/10/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	8486	Lasell	03/23/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	8486	Lasell	03/24/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	8486	Lasell	03/29/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	8486	Lasell	03/31/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	8486	Lasell	04/02/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	8486	Lasell	04/02/2016	Johnson & Wales (RI)@Emmanuel, MA		Johnson & Wales (RI)Emmanuel, MA		false		false	-									
+2016	12382	279	Lehman	01/31/2016	Mount Ida@Sage, NY		Mount IdaSage, NY		false		false	-									
+2016	12382	279	Lehman	01/31/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	279	Lehman	02/02/2016	@ Bard		Bard		false		false	-									
+2016	12382	279	Lehman	02/03/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	279	Lehman	02/06/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
+2016	12382	279	Lehman	02/06/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	279	Lehman	02/10/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	279	Lehman	02/15/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	279	Lehman	02/15/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	279	Lehman	02/18/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	279	Lehman	02/19/2016	Purchase		Purchase		false		true	-									
+2016	12382	279	Lehman	02/21/2016	New Jersey City@Riverdale, NY		New Jersey CityRiverdale, NY		false		false	-									
+2016	12382	279	Lehman	02/21/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	279	Lehman	02/25/2016	Baruch		Baruch		false		true	-									
+2016	12382	279	Lehman	03/02/2016	John Jay		John Jay		false		true	-									
+2016	12382	279	Lehman	03/05/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
+2016	12382	279	Lehman	03/05/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
+2016	12382	279	Lehman	03/08/2016	Bard		Bard		false		true	-									
+2016	12382	279	Lehman	03/10/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	279	Lehman	03/15/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	279	Lehman	03/16/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	279	Lehman	03/19/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	279	Lehman	03/19/2016	Wentworth@Newton, MA		WentworthNewton, MA		false		false	-									
+2016	12382	279	Lehman	03/22/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	279	Lehman	03/26/2016	Medgar Evers@Jamaica, NY		Medgar EversJamaica, NY		false		false	-									
+2016	12382	279	Lehman	03/26/2016	Staten Island@Queens, NY		Staten IslandQueens, NY		false		false	-									
+2016	12382	279	Lehman	03/29/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	24317	Lesley	02/05/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	24317	Lesley	02/09/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	24317	Lesley	02/13/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	24317	Lesley	02/17/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	24317	Lesley	02/24/2016	Endicott		Endicott		false		true	-									
+2016	12382	24317	Lesley	02/27/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	24317	Lesley	02/27/2016	Mount Ida@Nashua, NH		Mount IdaNashua, NH		false		false	-									
+2016	12382	24317	Lesley	03/01/2016	Newbury		Newbury		false		true	-									
+2016	12382	24317	Lesley	03/09/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	24317	Lesley	03/11/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	24317	Lesley	03/11/2016	New Jersey City@Providence, RI		New Jersey CityProvidence, RI		false		false	-									
+2016	12382	24317	Lesley	03/12/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
+2016	12382	24317	Lesley	03/12/2016	Bard@Providence, RI		BardProvidence, RI		false		false	-									
+2016	12382	24317	Lesley	03/22/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	24317	Lesley	03/23/2016	@ Elms		Elms		false		false	-									
+2016	12382	24317	Lesley	03/25/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	24317	Lesley	03/29/2016	Elms		Elms		false		true	-									
+2016	12382	24317	Lesley	03/31/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	24317	Lesley	04/02/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	364	Loras	01/15/2016	IIT@Plymouth, WI		IITPlymouth, WI		false		false	-									
+2016	12382	364	Loras	01/15/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	364	Loras	01/22/2016	Quincy		Quincy		false		true	-									
+2016	12382	364	Loras	01/24/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	364	Loras	01/24/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	364	Loras	01/29/2016	Briar Cliff (IA)		Briar Cliff (IA)		false		true	-									
+2016	12382	364	Loras	01/29/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	364	Loras	01/30/2016	IIT		IIT		false		true	-									
+2016	12382	364	Loras	01/30/2016	Calumet Col.		Calumet Col.		false		true	-									
+2016	12382	364	Loras	02/05/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	364	Loras	02/06/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	364	Loras	02/12/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	364	Loras	02/19/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	364	Loras	02/20/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	364	Loras	02/26/2016	MSOE		MSOE		false		true	-									
+2016	12382	364	Loras	03/04/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	364	Loras	03/05/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	364	Loras	03/11/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	364	Loras	03/12/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	364	Loras	03/12/2016	Ottawa		Ottawa		false		true	-									
+2016	12382	364	Loras	03/18/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	364	Loras	03/19/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	364	Loras	03/21/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	364	Loras	03/22/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	364	Loras	03/23/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	364	Loras	04/01/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	364	Loras	04/02/2016	Greenville		Greenville		false		true	-									
+2016	12382	398	MIT	01/16/2016	Emerson		Emerson		false		true	-									
+2016	12382	398	MIT	01/16/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	398	MIT	01/19/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	398	MIT	01/21/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	398	MIT	01/26/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	398	MIT	01/29/2016	Bard		Bard		false		true	-									
+2016	12382	398	MIT	01/30/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	398	MIT	01/30/2016	Endicott		Endicott		false		true	-									
+2016	12382	398	MIT	02/02/2016	Newbury		Newbury		false		true	-									
+2016	12382	398	MIT	02/04/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	398	MIT	02/06/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	398	MIT	02/06/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	398	MIT	02/09/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	398	MIT	02/13/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	398	MIT	02/13/2016	NYU@Elmira, NY		NYUElmira, NY		false		false	-									
+2016	12382	398	MIT	02/16/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	398	MIT	02/23/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	398	MIT	02/27/2016	Newbury@Chicopee, MA		NewburyChicopee, MA		false		false	-									
+2016	12382	398	MIT	02/27/2016	@ Elms		Elms		false		false	-									
+2016	12382	398	MIT	03/01/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	398	MIT	03/05/2016	Vassar		Vassar		false		true	-									
+2016	12382	398	MIT	03/05/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	398	MIT	03/08/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	398	MIT	03/10/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	398	MIT	03/12/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	398	MIT	03/15/2016	Elms		Elms		false		true	-									
+2016	12382	398	MIT	04/02/2016	Penn St.-Behrend@Hoboken, NJ		Penn St.-BehrendHoboken, NJ		false		false	-									
+2016	12382	398	MIT	04/02/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	398	MIT	04/05/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	20220	MSOE	01/19/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	20220	MSOE	01/19/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	20220	MSOE	01/26/2016	@ Cardinal Stritch		Cardinal Stritch		false		false	-									
+2016	12382	20220	MSOE	01/29/2016	Cal Lutheran@Springfield, OH		Cal LutheranSpringfield, OH		false		false	-									
+2016	12382	20220	MSOE	01/30/2016	North Central (IL)@Springfield, OH		North Central (IL)Springfield, OH		false		false	-									
+2016	12382	20220	MSOE	01/30/2016	East. Mennonite@Springfield, OH		East. MennoniteSpringfield, OH		false		false	-									
+2016	12382	20220	MSOE	02/05/2016	Olivet		Olivet		false		true	-									
+2016	12382	20220	MSOE	02/06/2016	Adrian		Adrian		false		true	-									
+2016	12382	20220	MSOE	02/07/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	20220	MSOE	02/12/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	20220	MSOE	02/13/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	20220	MSOE	02/19/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	20220	MSOE	02/20/2016	Loras		Loras		false		true	-									
+2016	12382	20220	MSOE	02/26/2016	@ Loras		Loras		false		false	-									
+2016	12382	20220	MSOE	03/01/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	20220	MSOE	03/04/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	20220	MSOE	03/08/2016	Cardinal Stritch		Cardinal Stritch		false		true	-									
+2016	12382	20220	MSOE	03/10/2016	IIT		IIT		false		true	-									
+2016	12382	20220	MSOE	03/13/2016	NYU		NYU		false		true	-									
+2016	12382	20220	MSOE	03/13/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	20220	MSOE	03/18/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	20220	MSOE	03/19/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	20220	MSOE	03/24/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	20220	MSOE	04/01/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	20220	MSOE	04/02/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	1196	Marian (WI)	01/19/2016	Benedictine (IL)@Milwaukee, WI		Benedictine (IL)Milwaukee, WI		false		false	-									
+2016	12382	1196	Marian (WI)	01/19/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	1196	Marian (WI)	01/25/2016	Robert Morris (IL)		Robert Morris (IL)		false		true	-									
+2016	12382	1196	Marian (WI)	01/29/2016	St. Xavier		St. Xavier		false		true	-									
+2016	12382	1196	Marian (WI)	02/05/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	1196	Marian (WI)	02/06/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	1196	Marian (WI)	02/12/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	1196	Marian (WI)	02/13/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	1196	Marian (WI)	02/17/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	1196	Marian (WI)	02/19/2016	@ St. Xavier		St. Xavier		false		false	-									
+2016	12382	1196	Marian (WI)	02/20/2016	@ IIT		IIT		false		false	-									
+2016	12382	1196	Marian (WI)	02/26/2016	IIT		IIT		false		true	-									
+2016	12382	1196	Marian (WI)	03/04/2016	@ Loras		Loras		false		false	-									
+2016	12382	1196	Marian (WI)	03/05/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	1196	Marian (WI)	03/05/2016	Cardinal Stritch@Naperville, IL		Cardinal StritchNaperville, IL		false		false	-									
+2016	12382	1196	Marian (WI)	03/11/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	1196	Marian (WI)	03/12/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	1196	Marian (WI)	03/14/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	1196	Marian (WI)	03/14/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	1196	Marian (WI)	03/18/2016	Carthage		Carthage		false		true	-									
+2016	12382	1196	Marian (WI)	03/19/2016	MSOE		MSOE		false		true	-									
+2016	12382	1196	Marian (WI)	03/23/2016	North Central (IL)@Sheboygan, WI		North Central (IL)Sheboygan, WI		false		false	-									
+2016	12382	1196	Marian (WI)	03/23/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	1196	Marian (WI)	04/01/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	1196	Marian (WI)	04/02/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	394	Marymount (VA)	01/22/2016	@ NJIT		NJIT		false		false	-									
+2016	12382	394	Marymount (VA)	01/23/2016	Lancaster Bible@Hoboken, NJ		Lancaster BibleHoboken, NJ		false		false	-									
+2016	12382	394	Marymount (VA)	01/23/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	394	Marymount (VA)	01/29/2016	Stevens@Union, NJ		StevensUnion, NJ		false		false	-									
+2016	12382	394	Marymount (VA)	01/30/2016	Nazareth@Kean, NJ		NazarethKean, NJ		false		false	-									
+2016	12382	394	Marymount (VA)	01/30/2016	@ Kean		Kean		false		false	-									
+2016	12382	394	Marymount (VA)	02/05/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	394	Marymount (VA)	02/06/2016	Wells@Huntingdon, PA		WellsHuntingdon, PA		false		false	-									
+2016	12382	394	Marymount (VA)	02/06/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	394	Marymount (VA)	02/10/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	394	Marymount (VA)	02/12/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	394	Marymount (VA)	02/13/2016	Bluefield Col.		Bluefield Col.		false		true	-									
+2016	12382	394	Marymount (VA)	02/13/2016	Cairn		Cairn		false		true	-									
+2016	12382	394	Marymount (VA)	02/16/2016	Wilson		Wilson		false		true	-									
+2016	12382	394	Marymount (VA)	02/19/2016	Adrian@Cincinnati, OH		AdrianCincinnati, OH		false		false	-									
+2016	12382	394	Marymount (VA)	02/20/2016	Olivet@Cincinnati, OH		OlivetCincinnati, OH		false		false	-									
+2016	12382	394	Marymount (VA)	02/20/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	394	Marymount (VA)	02/26/2016	@ King (TN)		King (TN)		false		false	-									
+2016	12382	394	Marymount (VA)	02/27/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	394	Marymount (VA)	02/27/2016	Penn St.-Altoona@Harrisonburg, VA		Penn St.-AltoonaHarrisonburg, VA		false		false	-									
+2016	12382	394	Marymount (VA)	03/04/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	394	Marymount (VA)	03/05/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	394	Marymount (VA)	03/12/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	394	Marymount (VA)	03/12/2016	Limestone		Limestone		false		true	-									
+2016	12382	394	Marymount (VA)	03/18/2016	Thiel		Thiel		false		true	-									
+2016	12382	394	Marymount (VA)	03/19/2016	Juniata		Juniata		false		true	-									
+2016	12382	394	Marymount (VA)	03/23/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	394	Marymount (VA)	04/01/2016	@ NYU		NYU		false		false	-									
+2016	12382	394	Marymount (VA)	04/02/2016	@ Bard		Bard		false		false	-									
+2016	12382	394	Marymount (VA)	04/02/2016	CCNY@Annandale on Hudson, NY		CCNYAnnandale on Hudson, NY		false		false	-									
+2016	12382	23725	Medaille	01/29/2016	Elmira@Owings Mills, MD		ElmiraOwings Mills, MD		false		false	-									
+2016	12382	23725	Medaille	01/30/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	23725	Medaille	02/05/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
+2016	12382	23725	Medaille	02/05/2016	Johnson & Wales (RI)@Rochester, NY		Johnson & Wales (RI)Rochester, NY		false		false	-									
+2016	12382	23725	Medaille	02/06/2016	Hilbert@Rochester, NY		HilbertRochester, NY		false		false	-									
+2016	12382	23725	Medaille	02/06/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	23725	Medaille	02/13/2016	Keuka		Keuka		false		true	-									
+2016	12382	23725	Medaille	02/13/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	23725	Medaille	02/17/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	23725	Medaille	02/24/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	23725	Medaille	02/26/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	23725	Medaille	02/26/2016	Carthage@Noboken, NJ		CarthageNoboken, NJ		false		false	-									
+2016	12382	23725	Medaille	02/27/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	23725	Medaille	02/28/2016	Mt. St. Joseph@Erie, PA		Mt. St. JosephErie, PA		false		false	-									
+2016	12382	23725	Medaille	02/28/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	23725	Medaille	03/04/2016	Penn St.-Altoona@Wilson, NY		Penn St.-AltoonaWilson, NY		false		false	-									
+2016	12382	23725	Medaille	03/05/2016	Lancaster Bible@Chambersburg, PA		Lancaster BibleChambersburg, PA		false		false	-									
+2016	12382	23725	Medaille	03/05/2016	@ Wilson		Wilson		false		false	-									
+2016	12382	23725	Medaille	03/12/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	23725	Medaille	03/13/2016	Keuka@Marcy, NY		KeukaMarcy, NY		false		false	-									
+2016	12382	23725	Medaille	03/15/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	23725	Medaille	03/19/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	23725	Medaille	03/19/2016	Vassar		Vassar		false		true	-									
+2016	12382	23725	Medaille	03/24/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	23725	Medaille	03/29/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	23725	Medaille	04/01/2016	Wilson@HAMBURG, NY		WilsonHAMBURG, NY		false		false	-									
+2016	12382	23725	Medaille	04/02/2016	Penn St.-Altoona@hilbert, PA		Penn St.-Altoonahilbert, PA		false		false	-									
+2016	12382	23725	Medaille	04/02/2016	Lancaster Bible@Hamburg, NY		Lancaster BibleHamburg, NY		false		false	-									
+2016	12382	403	Medgar Evers	01/21/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	403	Medgar Evers	02/03/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	403	Medgar Evers	02/06/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	403	Medgar Evers	02/06/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
+2016	12382	403	Medgar Evers	02/10/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	403	Medgar Evers	02/13/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	403	Medgar Evers	02/15/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
+2016	12382	403	Medgar Evers	02/15/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
+2016	12382	403	Medgar Evers	02/18/2016	@ Pratt		Pratt		false		false	-									
+2016	12382	403	Medgar Evers	02/21/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	403	Medgar Evers	02/21/2016	CCNY@New Haven, CT		CCNYNew Haven, CT		false		false	-									
+2016	12382	403	Medgar Evers	02/25/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	403	Medgar Evers	02/26/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	403	Medgar Evers	03/02/2016	Hunter		Hunter		false		true	-									
+2016	12382	403	Medgar Evers	03/04/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	403	Medgar Evers	03/05/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
+2016	12382	403	Medgar Evers	03/05/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	403	Medgar Evers	03/08/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	403	Medgar Evers	03/10/2016	Baruch		Baruch		false		true	-									
+2016	12382	403	Medgar Evers	03/15/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	403	Medgar Evers	03/17/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	403	Medgar Evers	03/19/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	403	Medgar Evers	03/19/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	403	Medgar Evers	03/22/2016	Lehman		Lehman		false		true	-									
+2016	12382	403	Medgar Evers	03/26/2016	Lehman@Jamaica, NY		LehmanJamaica, NY		false		false	-									
+2016	12382	403	Medgar Evers	03/26/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	403	Medgar Evers	03/29/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	403	Medgar Evers	04/01/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	27901	Mount Ida	01/23/2016	Daniel Webster@Rivier, MA		Daniel WebsterRivier, MA		false		false	-									
+2016	12382	27901	Mount Ida	01/23/2016	SUNY New Paltz@Nashua, NH		SUNY New PaltzNashua, NH		false		false	-									
+2016	12382	27901	Mount Ida	01/26/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	27901	Mount Ida	01/31/2016	Lehman@Sage, NY		LehmanSage, NY		false		false	-									
+2016	12382	27901	Mount Ida	01/31/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	27901	Mount Ida	02/04/2016	Elms		Elms		false		true	-									
+2016	12382	27901	Mount Ida	02/06/2016	Vassar		Vassar		false		true	-									
+2016	12382	27901	Mount Ida	02/06/2016	Newbury		Newbury		false		true	-									
+2016	12382	27901	Mount Ida	02/10/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	27901	Mount Ida	02/13/2016	Emmanuel (MA)@Newton, MA		Emmanuel (MA)Newton, MA		false		false	-									
+2016	12382	27901	Mount Ida	02/13/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	27901	Mount Ida	02/16/2016	@ MIT		MIT		false		false	-									
+2016	12382	27901	Mount Ida	02/20/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	27901	Mount Ida	02/20/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
+2016	12382	27901	Mount Ida	02/22/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	27901	Mount Ida	02/24/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	27901	Mount Ida	02/27/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	27901	Mount Ida	02/27/2016	Lesley@Nashua, NH		LesleyNashua, NH		false		false	-									
+2016	12382	27901	Mount Ida	03/03/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	27901	Mount Ida	03/05/2016	Wentworth@Nashua, NH		WentworthNashua, NH		false		false	-									
+2016	12382	27901	Mount Ida	03/05/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	27901	Mount Ida	03/15/2016	Emerson		Emerson		false		true	-									
+2016	12382	27901	Mount Ida	03/19/2016	Lehman		Lehman		false		true	-									
+2016	12382	27901	Mount Ida	03/19/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	27901	Mount Ida	03/22/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	27901	Mount Ida	03/24/2016	Lasell		Lasell		false		true	-									
+2016	12382	27901	Mount Ida	03/26/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	27901	Mount Ida	03/26/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	27901	Mount Ida	03/29/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	27901	Mount Ida	03/31/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	27901	Mount Ida	04/02/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	27901	Mount Ida	04/02/2016	Rivier@New Haven, CT		RivierNew Haven, CT		false		false	-									
+2016	12382	8567	Mt. St. Joseph	01/15/2016	Erskine		Erskine		false		true	-									
+2016	12382	8567	Mt. St. Joseph	01/22/2016	Ramapo@Elmira, NY		RamapoElmira, NY		false		false	-									
+2016	12382	8567	Mt. St. Joseph	01/22/2016	Mt. St. Vincent@Elmira, NY		Mt. St. VincentElmira, NY		false		false	-									
+2016	12382	8567	Mt. St. Joseph	01/23/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	8567	Mt. St. Joseph	01/30/2016	Juniata@Springfield, OH		JuniataSpringfield, OH		false		false	-									
+2016	12382	8567	Mt. St. Joseph	01/30/2016	Cal Lutheran@Springfield, OH		Cal LutheranSpringfield, OH		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/05/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/06/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/06/2016	UC Santa Cruz@Plymouth, WI		UC Santa CruzPlymouth, WI		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/12/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	8567	Mt. St. Joseph	02/13/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	8567	Mt. St. Joseph	02/19/2016	Adrian		Adrian		false		true	-									
+2016	12382	8567	Mt. St. Joseph	02/20/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	8567	Mt. St. Joseph	02/20/2016	Olivet		Olivet		false		true	-									
+2016	12382	8567	Mt. St. Joseph	02/27/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/28/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	8567	Mt. St. Joseph	02/28/2016	Medaille@Erie, PA		MedailleErie, PA		false		false	-									
+2016	12382	8567	Mt. St. Joseph	03/10/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	8567	Mt. St. Joseph	03/11/2016	@ Loras		Loras		false		false	-									
+2016	12382	8567	Mt. St. Joseph	03/12/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	8567	Mt. St. Joseph	03/18/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	8567	Mt. St. Joseph	03/19/2016	IIT		IIT		false		true	-									
+2016	12382	8567	Mt. St. Joseph	03/19/2016	Greenville		Greenville		false		true	-									
+2016	12382	8567	Mt. St. Joseph	03/24/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	8567	Mt. St. Joseph	04/01/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	8567	Mt. St. Joseph	04/02/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/14/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/14/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/14/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/16/2016	Stevens@Newark, NJ		StevensNewark, NJ		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/22/2016	Mt. St. Joseph@Elmira, NY		Mt. St. JosephElmira, NY		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/22/2016	Juniata@Elmira, NY		JuniataElmira, NY		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/23/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	451	Mt. St. Vincent	02/04/2016	@ Kean		Kean		false		false	-									
+2016	12382	451	Mt. St. Vincent	02/06/2016	Cairn		Cairn		false		true	-									
+2016	12382	451	Mt. St. Vincent	02/12/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	451	Mt. St. Vincent	02/16/2016	Vassar		Vassar		false		true	-									
+2016	12382	451	Mt. St. Vincent	02/20/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	451	Mt. St. Vincent	02/20/2016	Ramapo@Jersey City, NJ		RamapoJersey City, NJ		false		false	-									
+2016	12382	451	Mt. St. Vincent	02/21/2016	Lehman		Lehman		false		true	-									
+2016	12382	451	Mt. St. Vincent	02/21/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	451	Mt. St. Vincent	02/28/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	451	Mt. St. Vincent	02/28/2016	Sage Colleges@New York, NY		Sage CollegesNew York, NY		false		false	-									
+2016	12382	451	Mt. St. Vincent	03/02/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	451	Mt. St. Vincent	03/05/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	451	Mt. St. Vincent	03/05/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	451	Mt. St. Vincent	03/16/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	451	Mt. St. Vincent	03/19/2016	Purchase		Purchase		false		true	-									
+2016	12382	451	Mt. St. Vincent	03/19/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	451	Mt. St. Vincent	03/22/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	451	Mt. St. Vincent	03/30/2016	Kean		Kean		false		true	-									
+2016	12382	451	Mt. St. Vincent	04/02/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	451	Mt. St. Vincent	04/03/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	451	Mt. St. Vincent	04/04/2016	Yeshiva@Purchase, NY		YeshivaPurchase, NY		false		false	-									
+2016	12382	479	NYU	01/22/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	479	NYU	01/23/2016	Lakeland@Thousand Oaks, CA		LakelandThousand Oaks, CA		false		false	-									
+2016	12382	479	NYU	01/23/2016	UC Santa Cruz@Thousand Oaks, CA		UC Santa CruzThousand Oaks, CA		false		false	-									
+2016	12382	479	NYU	01/26/2016	Hunter		Hunter		false		true	-									
+2016	12382	479	NYU	02/04/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	479	NYU	02/05/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	479	NYU	02/06/2016	TBA@Springfield, MA		TBASpringfield, MA		false		false	-									
+2016	12382	479	NYU	02/10/2016	@ Kean		Kean		false		false	-									
+2016	12382	479	NYU	02/13/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	479	NYU	02/13/2016	MIT@Elmira, NY		MITElmira, NY		false		false	-									
+2016	12382	479	NYU	02/17/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	479	NYU	02/23/2016	Vassar		Vassar		false		true	-									
+2016	12382	479	NYU	02/25/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	479	NYU	03/02/2016	Stevens		Stevens		false		true	-									
+2016	12382	479	NYU	03/06/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	479	NYU	03/06/2016	Penn St.-Behrend@New Paltz, NY		Penn St.-BehrendNew Paltz, NY		false		false	-									
+2016	12382	479	NYU	03/09/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	479	NYU	03/12/2016	Stevenson@Kenosha, WI		StevensonKenosha, WI		false		false	-									
+2016	12382	479	NYU	03/12/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	479	NYU	03/13/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	479	NYU	03/15/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	479	NYU	03/26/2016	Bard		Bard		false		true	-									
+2016	12382	479	NYU	03/26/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	479	NYU	03/29/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	479	NYU	03/31/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	479	NYU	04/01/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	479	NYU	04/05/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	461	Nazareth	01/22/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
+2016	12382	461	Nazareth	01/22/2016	Elms@Utica, NY		ElmsUtica, NY		false		false	-									
+2016	12382	461	Nazareth	01/23/2016	Wentworth@Marcy, NY		WentworthMarcy, NY		false		false	-									
+2016	12382	461	Nazareth	01/23/2016	Sage Colleges@Marcy, NY		Sage CollegesMarcy, NY		false		false	-									
+2016	12382	461	Nazareth	01/29/2016	Rutgers-Newark@Kean, NJ		Rutgers-NewarkKean, NJ		false		false	-									
+2016	12382	461	Nazareth	01/30/2016	Marymount (VA)@Kean, NJ		Marymount (VA)Kean, NJ		false		false	-									
+2016	12382	461	Nazareth	01/30/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
+2016	12382	461	Nazareth	02/05/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	461	Nazareth	02/05/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	461	Nazareth	02/06/2016	Medaille		Medaille		false		true	-									
+2016	12382	461	Nazareth	02/06/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	461	Nazareth	02/14/2016	Stevens		Stevens		false		true	-									
+2016	12382	461	Nazareth	02/14/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	461	Nazareth	02/19/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	461	Nazareth	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
+2016	12382	461	Nazareth	02/20/2016	Hunter@Huntingdon, PA		HunterHuntingdon, PA		false		false	-									
+2016	12382	461	Nazareth	02/26/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
+2016	12382	461	Nazareth	02/26/2016	Stevenson@Elmira, NY		StevensonElmira, NY		false		false	-									
+2016	12382	461	Nazareth	02/27/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	461	Nazareth	03/02/2016	Keuka		Keuka		false		true	-									
+2016	12382	461	Nazareth	03/05/2016	Vassar@Cambridge, MA		VassarCambridge, MA		false		false	-									
+2016	12382	461	Nazareth	03/05/2016	@ MIT		MIT		false		false	-									
+2016	12382	461	Nazareth	03/09/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	461	Nazareth	03/11/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2016	12382	461	Nazareth	03/12/2016	Ramapo@Santa Cruz, CA, CA		RamapoSanta Cruz, CA, CA		false		false	-									
+2016	12382	461	Nazareth	03/12/2016	Cal Lutheran@Santa Cruz, CA		Cal LutheranSanta Cruz, CA		false		false	-									
+2016	12382	461	Nazareth	03/16/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	461	Nazareth	03/18/2016	Elmira		Elmira		false		true	-									
+2016	12382	461	Nazareth	03/19/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	461	Nazareth	03/19/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	461	Nazareth	03/19/2016	Medaille		Medaille		false		true	-									
+2016	12382	461	Nazareth	03/26/2016	Bard@New York, NY		BardNew York, NY		false		false	-									
+2016	12382	461	Nazareth	03/26/2016	@ NYU		NYU		false		false	-									
+2016	12382	461	Nazareth	03/29/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	461	Nazareth	04/02/2016	Elmira		Elmira		false		true	-									
+2016	12382	461	Nazareth	04/02/2016	@ Elms		Elms		false		false	-									
+2016	12382	319	New Jersey City	01/31/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	319	New Jersey City	01/31/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	319	New Jersey City	01/31/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	319	New Jersey City	02/02/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	319	New Jersey City	02/06/2016	Regis (MA)@Boston, MA		Regis (MA)Boston, MA		false		false	-									
+2016	12382	319	New Jersey City	02/06/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	319	New Jersey City	02/11/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	319	New Jersey City	02/13/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	319	New Jersey City	02/13/2016	Springfield@New York, NY		SpringfieldNew York, NY		false		false	-									
+2016	12382	319	New Jersey City	02/14/2016	Yeshiva@Brooklyn, NY		YeshivaBrooklyn, NY		false		false	-									
+2016	12382	319	New Jersey City	02/14/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	319	New Jersey City	02/20/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	319	New Jersey City	02/20/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	319	New Jersey City	02/21/2016	Lehman@Riverdale, NY		LehmanRiverdale, NY		false		false	-									
+2016	12382	319	New Jersey City	02/21/2016	Sage Colleges@Riverdale, NY		Sage CollegesRiverdale, NY		false		false	-									
+2016	12382	319	New Jersey City	02/24/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	319	New Jersey City	02/25/2016	NYU		NYU		false		true	-									
+2016	12382	319	New Jersey City	02/27/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	319	New Jersey City	02/27/2016	Keuka		Keuka		false		true	-									
+2016	12382	319	New Jersey City	02/28/2016	Purchase		Purchase		false		true	-									
+2016	12382	319	New Jersey City	02/28/2016	Kean		Kean		false		true	-									
+2016	12382	319	New Jersey City	03/02/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	319	New Jersey City	03/05/2016	St. Joseph's (Brkln)@Riverdale , NY		St. Joseph's (Brkln)Riverdale , NY		false		false	-									
+2016	12382	319	New Jersey City	03/05/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	319	New Jersey City	03/11/2016	Lesley@Providence, RI		LesleyProvidence, RI		false		false	-									
+2016	12382	319	New Jersey City	03/11/2016	York (NY)@Providence, RI		York (NY)Providence, RI		false		false	-									
+2016	12382	319	New Jersey City	03/12/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
+2016	12382	319	New Jersey City	03/12/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	319	New Jersey City	03/16/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	319	New Jersey City	03/19/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	319	New Jersey City	03/19/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	319	New Jersey City	03/23/2016	@ Kean		Kean		false		false	-									
+2016	12382	319	New Jersey City	03/30/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	319	New Jersey City	04/02/2016	Ramapo@Yonkers, NY		RamapoYonkers, NY		false		false	-									
+2016	12382	319	New Jersey City	04/02/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	319	New Jersey City	04/07/2016	Pratt		Pratt		false		true	-									
+2016	12382	21772	Newbury	01/27/2016	Lasell		Lasell		false		true	-									
+2016	12382	21772	Newbury	01/29/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	21772	Newbury	01/30/2016	Wells@Marcy, NY		WellsMarcy, NY		false		false	-									
+2016	12382	21772	Newbury	01/30/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	21772	Newbury	02/02/2016	@ MIT		MIT		false		false	-									
+2016	12382	21772	Newbury	02/04/2016	Emerson		Emerson		false		true	-									
+2016	12382	21772	Newbury	02/06/2016	Vassar@Newton, MA		VassarNewton, MA		false		false	-									
+2016	12382	21772	Newbury	02/06/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	21772	Newbury	02/09/2016	Elms		Elms		false		true	-									
+2016	12382	21772	Newbury	02/11/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	21772	Newbury	02/13/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	21772	Newbury	02/18/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	21772	Newbury	02/20/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	21772	Newbury	02/20/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	21772	Newbury	02/22/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	21772	Newbury	02/24/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	21772	Newbury	02/27/2016	@ Elms		Elms		false		false	-									
+2016	12382	21772	Newbury	02/27/2016	MIT@Chicopee, MA		MITChicopee, MA		false		false	-									
+2016	12382	21772	Newbury	03/01/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	21772	Newbury	03/05/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	21772	Newbury	03/17/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	21772	Newbury	03/23/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	21772	Newbury	03/29/2016	Endicott		Endicott		false		true	-									
+2016	12382	21772	Newbury	03/31/2016	Lesley		Lesley		false		true	-									
+2016	12382	492	North Central (IL)	01/24/2016	Loras		Loras		false		true	-									
+2016	12382	492	North Central (IL)	01/24/2016	Benedictine Mesa		Benedictine Mesa		false		true	-									
+2016	12382	492	North Central (IL)	01/26/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	492	North Central (IL)	01/29/2016	East. Mennonite@Springfield, OH		East. MennoniteSpringfield, OH		false		false	-									
+2016	12382	492	North Central (IL)	01/30/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	492	North Central (IL)	01/30/2016	MSOE@Springfield, OH		MSOESpringfield, OH		false		false	-									
+2016	12382	492	North Central (IL)	01/31/2016	Graceland (IA)		Graceland (IA)		false		true	-									
+2016	12382	492	North Central (IL)	02/02/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	492	North Central (IL)	02/06/2016	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
+2016	12382	492	North Central (IL)	02/12/2016	Loras		Loras		false		true	-									
+2016	12382	492	North Central (IL)	02/19/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	492	North Central (IL)	02/20/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	492	North Central (IL)	03/03/2016	Robert Morris (IL)		Robert Morris (IL)		false		true	-									
+2016	12382	492	North Central (IL)	03/04/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	492	North Central (IL)	03/05/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	492	North Central (IL)	03/05/2016	Cardinal Stritch		Cardinal Stritch		false		true	-									
+2016	12382	492	North Central (IL)	03/11/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	492	North Central (IL)	03/12/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	492	North Central (IL)	03/16/2016	@ IIT		IIT		false		false	-									
+2016	12382	492	North Central (IL)	03/18/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	492	North Central (IL)	03/19/2016	@ Adrian		Adrian		false		false	-									
+2016	12382	492	North Central (IL)	03/23/2016	Marian (WI)@Sheboygan, WI		Marian (WI)Sheboygan, WI		false		false	-									
+2016	12382	492	North Central (IL)	03/23/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	492	North Central (IL)	04/01/2016	Greenville		Greenville		false		true	-									
+2016	12382	492	North Central (IL)	04/02/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	525	Olivet	01/22/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	525	Olivet	01/23/2016	Hilbert@Springfiled, OH, OH		HilbertSpringfiled, OH, OH		false		false	-									
+2016	12382	525	Olivet	01/23/2016	Adrian@Springfield, OH		AdrianSpringfield, OH		false		false	-									
+2016	12382	525	Olivet	02/05/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	525	Olivet	02/06/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	525	Olivet	02/12/2016	Marian (WI)		Marian (WI)		false		true	-									
+2016	12382	525	Olivet	02/13/2016	Lakeland		Lakeland		false		true	-									
+2016	12382	525	Olivet	02/19/2016	@ Wittenberg		Wittenberg		false		false	-									
+2016	12382	525	Olivet	02/20/2016	Marymount (VA)@Cincinnati, OH		Marymount (VA)Cincinnati, OH		false		false	-									
+2016	12382	525	Olivet	02/20/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	525	Olivet	03/02/2016	Siena Heights		Siena Heights		false		true	-									
+2016	12382	525	Olivet	03/04/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	525	Olivet	03/05/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	525	Olivet	03/11/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	525	Olivet	03/12/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	525	Olivet	03/16/2016	@ Siena Heights		Siena Heights		false		false	-									
+2016	12382	525	Olivet	03/18/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	525	Olivet	03/19/2016	Loras		Loras		false		true	-									
+2016	12382	525	Olivet	03/26/2016	Trinity Christian		Trinity Christian		false		true	-									
+2016	12382	525	Olivet	03/26/2016	Adrian		Adrian		false		true	-									
+2016	12382	525	Olivet	04/02/2016	Adrian		Adrian		false		true	-									
+2016	12382	25719	Penn St.-Altoona	01/24/2016	Thiel@Erie, PA		ThielErie, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/06/2016	Alderson Broaddus		Alderson Broaddus		false		true	-									
+2016	12382	25719	Penn St.-Altoona	02/12/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	25719	Penn St.-Altoona	02/13/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	25719	Penn St.-Altoona	02/13/2016	Wilson		Wilson		false		true	-									
+2016	12382	25719	Penn St.-Altoona	02/17/2016	Stevenson@Lancaster, PA		StevensonLancaster, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/17/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/20/2016	SUNY Poly@Keuka, NY		SUNY PolyKeuka, NY		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/21/2016	Wells@Keuka, NY		WellsKeuka, NY		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/21/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/27/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	25719	Penn St.-Altoona	02/27/2016	Marymount (VA)@Harrisonburg, VA		Marymount (VA)Harrisonburg, VA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/04/2016	Medaille@Wilson, NY		MedailleWilson, NY		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/06/2016	D'Youville@Chambersburg, PA		D'YouvilleChambersburg, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/06/2016	Hilbert@Chambersburg, PA		HilbertChambersburg, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/12/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/12/2016	Wilson@LANCASTER, PA		WilsonLANCASTER, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	03/18/2016	Keuka		Keuka		false		true	-									
+2016	12382	25719	Penn St.-Altoona	03/19/2016	Wells		Wells		false		true	-									
+2016	12382	25719	Penn St.-Altoona	03/19/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	25719	Penn St.-Altoona	03/23/2016	Loras		Loras		false		true	-									
+2016	12382	25719	Penn St.-Altoona	03/30/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	25719	Penn St.-Altoona	04/01/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	25719	Penn St.-Altoona	04/02/2016	Medaille@hilbert, PA		Medaillehilbert, PA		false		false	-									
+2016	12382	25719	Penn St.-Altoona	04/02/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
+2016	12382	538	Penn St.-Behrend	01/24/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
+2016	12382	538	Penn St.-Behrend	01/24/2016	Thiel		Thiel		false		true	-									
+2016	12382	538	Penn St.-Behrend	01/29/2016	SUNY Poly@Keuka, NY		SUNY PolyKeuka, NY		false		false	-									
+2016	12382	538	Penn St.-Behrend	01/30/2016	Elms@Penn Yan, NY		ElmsPenn Yan, NY		false		false	-									
+2016	12382	538	Penn St.-Behrend	01/30/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	538	Penn St.-Behrend	02/05/2016	IIT		IIT		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/10/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/12/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	538	Penn St.-Behrend	02/20/2016	Vassar		Vassar		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/20/2016	Bard		Bard		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/24/2016	Elmira		Elmira		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/28/2016	Medaille		Medaille		false		true	-									
+2016	12382	538	Penn St.-Behrend	02/28/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	538	Penn St.-Behrend	03/06/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	538	Penn St.-Behrend	03/06/2016	NYU@New Paltz, NY		NYUNew Paltz, NY		false		false	-									
+2016	12382	538	Penn St.-Behrend	03/15/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	538	Penn St.-Behrend	03/17/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	538	Penn St.-Behrend	03/19/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	538	Penn St.-Behrend	03/22/2016	Loras		Loras		false		true	-									
+2016	12382	538	Penn St.-Behrend	03/24/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	538	Penn St.-Behrend	03/29/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	538	Penn St.-Behrend	04/02/2016	MIT@Hoboken, NJ		MITHoboken, NJ		false		false	-									
+2016	12382	538	Penn St.-Behrend	04/02/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	538	Penn St.-Behrend	04/05/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	30029	Purchase	01/25/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	30029	Purchase	01/30/2016	Daniel Webster@Keuka, NY		Daniel WebsterKeuka, NY		false		false	-									
+2016	12382	30029	Purchase	01/30/2016	Elms@Penn Yan, NY		ElmsPenn Yan, NY		false		false	-									
+2016	12382	30029	Purchase	01/31/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	30029	Purchase	01/31/2016	Regis (MA)@Keuka Park, NY		Regis (MA)Keuka Park, NY		false		false	-									
+2016	12382	30029	Purchase	02/04/2016	CCNY		CCNY		false		true	-									
+2016	12382	30029	Purchase	02/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	30029	Purchase	02/06/2016	Bard@Ramapo		BardRamapo		false		false	-									
+2016	12382	30029	Purchase	02/08/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	30029	Purchase	02/12/2016	Pratt		Pratt		false		true	-									
+2016	12382	30029	Purchase	02/13/2016	Ramapo@Troy, NY		RamapoTroy, NY		false		false	-									
+2016	12382	30029	Purchase	02/13/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	30029	Purchase	02/19/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	30029	Purchase	02/21/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	30029	Purchase	02/21/2016	Yeshiva@Bronxville, NY		YeshivaBronxville, NY		false		false	-									
+2016	12382	30029	Purchase	02/28/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	30029	Purchase	02/28/2016	Kean@Jersey City, NJ		KeanJersey City, NJ		false		false	-									
+2016	12382	30029	Purchase	03/03/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	30029	Purchase	03/03/2016	Kean		Kean		false		true	-									
+2016	12382	30029	Purchase	03/06/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	30029	Purchase	03/09/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	30029	Purchase	03/15/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	30029	Purchase	03/19/2016	St. Joseph's (Brkln)@Riverdale, NY		St. Joseph's (Brkln)Riverdale, NY		false		false	-									
+2016	12382	30029	Purchase	03/19/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	30029	Purchase	03/20/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	30029	Purchase	03/30/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	30029	Purchase	04/03/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	30029	Purchase	04/03/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	564	Ramapo	01/22/2016	Mt. St. Joseph@Elmira, NY		Mt. St. JosephElmira, NY		false		false	-									
+2016	12382	564	Ramapo	01/22/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	564	Ramapo	01/23/2016	Juniata@Elmira, NY		JuniataElmira, NY		false		false	-									
+2016	12382	564	Ramapo	01/30/2016	Springfield@Poughkeepsie, NY		SpringfieldPoughkeepsie, NY		false		false	-									
+2016	12382	564	Ramapo	01/30/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	564	Ramapo	02/06/2016	Purchase		Purchase		false		true	-									
+2016	12382	564	Ramapo	02/06/2016	Bard		Bard		false		true	-									
+2016	12382	564	Ramapo	02/10/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	564	Ramapo	02/12/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	564	Ramapo	02/13/2016	Purchase@Troy, NY		PurchaseTroy, NY		false		false	-									
+2016	12382	564	Ramapo	02/13/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	564	Ramapo	02/17/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	564	Ramapo	02/20/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	564	Ramapo	02/20/2016	Mt. St. Vincent@Jersey City, NJ		Mt. St. VincentJersey City, NJ		false		false	-									
+2016	12382	564	Ramapo	02/24/2016	Kean		Kean		false		true	-									
+2016	12382	564	Ramapo	02/27/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	564	Ramapo	02/27/2016	Medaille		Medaille		false		true	-									
+2016	12382	564	Ramapo	02/27/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	564	Ramapo	03/01/2016	Hunter		Hunter		false		true	-									
+2016	12382	564	Ramapo	03/06/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	564	Ramapo	03/06/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	564	Ramapo	03/06/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	564	Ramapo	03/11/2016	Cal Lutheran@Santa Cruz, CA		Cal LutheranSanta Cruz, CA		false		false	-									
+2016	12382	564	Ramapo	03/12/2016	Nazareth@Santa Cruz, CA, CA		NazarethSanta Cruz, CA, CA		false		false	-									
+2016	12382	564	Ramapo	03/12/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2016	12382	564	Ramapo	03/12/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2016	12382	564	Ramapo	03/15/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	564	Ramapo	03/20/2016	Yeshiva@Union, NJ		YeshivaUnion, NJ		false		false	-									
+2016	12382	564	Ramapo	03/20/2016	@ Kean		Kean		false		false	-									
+2016	12382	564	Ramapo	03/22/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	564	Ramapo	03/30/2016	Stevens		Stevens		false		true	-									
+2016	12382	564	Ramapo	04/02/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	564	Ramapo	04/02/2016	New Jersey City@Yonkers, NY		New Jersey CityYonkers, NY		false		false	-									
+2016	12382	564	Ramapo	04/03/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	564	Ramapo	04/05/2016	NYU		NYU		false		true	-									
+2016	12382	569	Regis (MA)	01/21/2016	@ MIT		MIT		false		false	-									
+2016	12382	569	Regis (MA)	01/28/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	569	Regis (MA)	01/30/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	569	Regis (MA)	01/30/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	569	Regis (MA)	01/31/2016	Purchase@Keuka Park, NY		PurchaseKeuka Park, NY		false		false	-									
+2016	12382	569	Regis (MA)	02/06/2016	New Jersey City@Boston, MA		New Jersey CityBoston, MA		false		false	-									
+2016	12382	569	Regis (MA)	02/06/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	569	Regis (MA)	02/09/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	569	Regis (MA)	02/11/2016	Newbury		Newbury		false		true	-									
+2016	12382	569	Regis (MA)	02/13/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	569	Regis (MA)	02/17/2016	Endicott		Endicott		false		true	-									
+2016	12382	569	Regis (MA)	02/20/2016	Rivier		Rivier		false		true	-									
+2016	12382	569	Regis (MA)	02/20/2016	Elms		Elms		false		true	-									
+2016	12382	569	Regis (MA)	02/24/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	569	Regis (MA)	02/27/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	569	Regis (MA)	03/01/2016	Emerson		Emerson		false		true	-									
+2016	12382	569	Regis (MA)	03/03/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	569	Regis (MA)	03/07/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	569	Regis (MA)	03/09/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	569	Regis (MA)	03/15/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	569	Regis (MA)	03/17/2016	@ Elms		Elms		false		false	-									
+2016	12382	569	Regis (MA)	03/19/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	569	Regis (MA)	03/19/2016	CCNY		CCNY		false		true	-									
+2016	12382	569	Regis (MA)	03/23/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	569	Regis (MA)	03/29/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	569	Regis (MA)	04/02/2016	Lesley		Lesley		false		true	-									
+2016	12382	18422	Rivier	01/23/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	18422	Rivier	01/23/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	18422	Rivier	01/29/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
+2016	12382	18422	Rivier	01/30/2016	Stevens@Union, NJ		StevensUnion, NJ		false		false	-									
+2016	12382	18422	Rivier	01/30/2016	@ Kean		Kean		false		false	-									
+2016	12382	18422	Rivier	02/06/2016	MIT		MIT		false		true	-									
+2016	12382	18422	Rivier	02/07/2016	Endicott		Endicott		false		true	-									
+2016	12382	18422	Rivier	02/07/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	18422	Rivier	02/09/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	18422	Rivier	02/11/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	18422	Rivier	02/17/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	18422	Rivier	02/20/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	18422	Rivier	02/20/2016	Elms@Weston, MA		ElmsWeston, MA		false		false	-									
+2016	12382	18422	Rivier	02/26/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	18422	Rivier	02/26/2016	Nazareth@Elmira, NY		NazarethElmira, NY		false		false	-									
+2016	12382	18422	Rivier	02/27/2016	Stevenson@Elmira, NY		StevensonElmira, NY		false		false	-									
+2016	12382	18422	Rivier	02/27/2016	SUNY Poly@Elmira, NY		SUNY PolyElmira, NY		false		false	-									
+2016	12382	18422	Rivier	03/01/2016	Springfield		Springfield		false		true	-									
+2016	12382	18422	Rivier	03/03/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	18422	Rivier	03/05/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	18422	Rivier	03/05/2016	Wentworth		Wentworth		false		true	-									
+2016	12382	18422	Rivier	03/15/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	18422	Rivier	03/17/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	18422	Rivier	03/23/2016	Lasell		Lasell		false		true	-									
+2016	12382	18422	Rivier	03/26/2016	Albertus Magnus@Providence, RI		Albertus MagnusProvidence, RI		false		false	-									
+2016	12382	18422	Rivier	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	18422	Rivier	03/29/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	18422	Rivier	03/31/2016	Emerson		Emerson		false		true	-									
+2016	12382	18422	Rivier	04/02/2016	Mount Ida@New Haven, CT		Mount IdaNew Haven, CT		false		false	-									
+2016	12382	18422	Rivier	04/02/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	586	Rust	01/08/2016	@ Coker	1023	Coker	http://stats.ncaa.org/team/index/12382?org_id=1023	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3980811	http://stats.ncaa.org/game/index/3980811?org_id=1023
+2016	12382	586	Rust	01/30/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	586	Rust	01/30/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	586	Rust	02/06/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	586	Rust	02/06/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	586	Rust	02/20/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	586	Rust	02/26/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	586	Rust	02/27/2016	@ Greenville		Greenville		false		false	-									
+2016	12382	586	Rust	03/19/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	586	Rust	04/08/2016	@ Emmanuel (GA)		Emmanuel (GA)		false		false	-									
+2016	12382	589	Rutgers-Newark	01/16/2016	Stevens		Stevens		false		true	-									
+2016	12382	589	Rutgers-Newark	01/16/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	589	Rutgers-Newark	01/16/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	589	Rutgers-Newark	01/22/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	589	Rutgers-Newark	01/22/2016	Endicott@Providence, RI		EndicottProvidence, RI		false		false	-									
+2016	12382	589	Rutgers-Newark	01/23/2016	Cairn@Providence, RI		CairnProvidence, RI		false		false	-									
+2016	12382	589	Rutgers-Newark	01/23/2016	Lasell@Providence, RI		LasellProvidence, RI		false		false	-									
+2016	12382	589	Rutgers-Newark	01/29/2016	Nazareth@Kean, NJ		NazarethKean, NJ		false		false	-									
+2016	12382	589	Rutgers-Newark	01/30/2016	Wentworth@Union, NJ		WentworthUnion, NJ		false		false	-									
+2016	12382	589	Rutgers-Newark	01/30/2016	Lasell@Union, NJ		LasellUnion, NJ		false		false	-									
+2016	12382	589	Rutgers-Newark	02/02/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	589	Rutgers-Newark	02/06/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	589	Rutgers-Newark	02/09/2016	Cairn		Cairn		false		true	-									
+2016	12382	589	Rutgers-Newark	02/12/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	589	Rutgers-Newark	02/13/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	589	Rutgers-Newark	02/17/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	589	Rutgers-Newark	02/20/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	589	Rutgers-Newark	02/20/2016	Stevens@Staten Island, NY		StevensStaten Island, NY		false		false	-									
+2016	12382	589	Rutgers-Newark	02/26/2016	Juniata		Juniata		false		true	-									
+2016	12382	589	Rutgers-Newark	02/27/2016	Thiel		Thiel		false		true	-									
+2016	12382	589	Rutgers-Newark	03/01/2016	NJIT		NJIT		false		true	-									
+2016	12382	589	Rutgers-Newark	03/04/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	589	Rutgers-Newark	03/05/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	589	Rutgers-Newark	03/22/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	589	Rutgers-Newark	03/25/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	589	Rutgers-Newark	03/29/2016	NYU		NYU		false		true	-									
+2016	12382	589	Rutgers-Newark	04/01/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	589	Rutgers-Newark	04/02/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	475	SUNY New Paltz	01/14/2016	@ P.R.-Bayamon		P.R.-Bayamon		false		false	-									
+2016	12382	475	SUNY New Paltz	01/15/2016	@ P.R.-Rio Piedras		P.R.-Rio Piedras		false		false	-									
+2016	12382	475	SUNY New Paltz	01/16/2016	Turabo@Rio Piedras, PR		TuraboRio Piedras, PR		false		false	-									
+2016	12382	475	SUNY New Paltz	01/16/2016	P.R.-Mayaguez@Rio Piedras, PR		P.R.-MayaguezRio Piedras, PR		false		false	-									
+2016	12382	475	SUNY New Paltz	01/22/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	475	SUNY New Paltz	01/23/2016	Mount Ida@Nashua, NH		Mount IdaNashua, NH		false		false	-									
+2016	12382	475	SUNY New Paltz	01/23/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	475	SUNY New Paltz	01/27/2016	@ Sacred Heart		Sacred Heart		false		false	-									
+2016	12382	475	SUNY New Paltz	02/05/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	475	SUNY New Paltz	02/10/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	475	SUNY New Paltz	02/14/2016	Stevens@Rochester, NY		StevensRochester, NY		false		false	-									
+2016	12382	475	SUNY New Paltz	02/14/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	475	SUNY New Paltz	02/17/2016	@ Bard		Bard		false		false	-									
+2016	12382	475	SUNY New Paltz	02/19/2016	Hunter@Huntingdon, PA		HunterHuntingdon, PA		false		false	-									
+2016	12382	475	SUNY New Paltz	02/20/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	475	SUNY New Paltz	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
+2016	12382	475	SUNY New Paltz	03/02/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	475	SUNY New Paltz	03/05/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	475	SUNY New Paltz	03/05/2016	Juniata		Juniata		false		true	-									
+2016	12382	475	SUNY New Paltz	03/06/2016	NYU		NYU		false		true	-									
+2016	12382	475	SUNY New Paltz	03/06/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	475	SUNY New Paltz	03/09/2016	Springfield		Springfield		false		true	-									
+2016	12382	475	SUNY New Paltz	03/12/2016	MIT		MIT		false		true	-									
+2016	12382	475	SUNY New Paltz	03/19/2016	Cal Lutheran@Rochester, NY		Cal LutheranRochester, NY		false		false	-									
+2016	12382	475	SUNY New Paltz	03/19/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	475	SUNY New Paltz	03/23/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	475	SUNY New Paltz	03/26/2016	Elmira@Poughkeepsie, NY		ElmiraPoughkeepsie, NY		false		false	-									
+2016	12382	475	SUNY New Paltz	03/26/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	475	SUNY New Paltz	03/30/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	475	SUNY New Paltz	04/02/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	9500	SUNY Poly	01/22/2016	Vassar		Vassar		false		true	-									
+2016	12382	9500	SUNY Poly	01/22/2016	Bard		Bard		false		true	-									
+2016	12382	9500	SUNY Poly	01/23/2016	Kean		Kean		false		true	-									
+2016	12382	9500	SUNY Poly	01/23/2016	Elms		Elms		false		true	-									
+2016	12382	9500	SUNY Poly	01/27/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	9500	SUNY Poly	01/29/2016	Penn St.-Behrend@Keuka, NY		Penn St.-BehrendKeuka, NY		false		false	-									
+2016	12382	9500	SUNY Poly	01/30/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	9500	SUNY Poly	01/30/2016	Newbury		Newbury		false		true	-									
+2016	12382	9500	SUNY Poly	02/05/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	9500	SUNY Poly	02/13/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	9500	SUNY Poly	02/13/2016	D'Youville@Buffalo, NY		D'YouvilleBuffalo, NY		false		false	-									
+2016	12382	9500	SUNY Poly	02/14/2016	Hilbert@Buffalo, NY		HilbertBuffalo, NY		false		false	-									
+2016	12382	9500	SUNY Poly	02/20/2016	Penn St.-Altoona@Keuka, NY		Penn St.-AltoonaKeuka, NY		false		false	-									
+2016	12382	9500	SUNY Poly	02/21/2016	Lancaster Bible@Keuka Park, NY		Lancaster BibleKeuka Park, NY		false		false	-									
+2016	12382	9500	SUNY Poly	02/21/2016	Wilson@Keuka, NY		WilsonKeuka, NY		false		false	-									
+2016	12382	9500	SUNY Poly	02/27/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	9500	SUNY Poly	02/27/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
+2016	12382	9500	SUNY Poly	03/01/2016	Wells		Wells		false		true	-									
+2016	12382	9500	SUNY Poly	03/05/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	9500	SUNY Poly	03/06/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	9500	SUNY Poly	03/12/2016	Medaille		Medaille		false		true	-									
+2016	12382	9500	SUNY Poly	03/12/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	9500	SUNY Poly	03/13/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	9500	SUNY Poly	03/18/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
+2016	12382	9500	SUNY Poly	03/19/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	9500	SUNY Poly	03/19/2016	Wilson@ALTOONA, PA		WilsonALTOONA, PA		false		false	-									
+2016	12382	9500	SUNY Poly	03/21/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	9500	SUNY Poly	03/24/2016	@ Wells		Wells		false		false	-									
+2016	12382	9500	SUNY Poly	04/02/2016	Keuka		Keuka		false		true	-									
+2016	12382	11036	Sage Colleges	01/22/2016	Wells@SUNY-Polytechnic Tournament, Marcy, NY		WellsSUNY-Polytechnic Tournament, Marcy, NY		false		false	-									
+2016	12382	11036	Sage Colleges	01/22/2016	Wentworth@Marcy, NY		WentworthMarcy, NY		false		false	-									
+2016	12382	11036	Sage Colleges	01/23/2016	Nazareth@Marcy, NY		NazarethMarcy, NY		false		false	-									
+2016	12382	11036	Sage Colleges	01/23/2016	Elms@Marcy, NY		ElmsMarcy, NY		false		false	-									
+2016	12382	11036	Sage Colleges	01/27/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	11036	Sage Colleges	01/29/2016	Newbury		Newbury		false		true	-									
+2016	12382	11036	Sage Colleges	01/31/2016	Lehman		Lehman		false		true	-									
+2016	12382	11036	Sage Colleges	01/31/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	11036	Sage Colleges	02/06/2016	@ MIT		MIT		false		false	-									
+2016	12382	11036	Sage Colleges	02/07/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	11036	Sage Colleges	02/07/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	11036	Sage Colleges	02/10/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	11036	Sage Colleges	02/13/2016	Purchase		Purchase		false		true	-									
+2016	12382	11036	Sage Colleges	02/13/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	11036	Sage Colleges	02/20/2016	Kean@Brooklyn, NY		KeanBrooklyn, NY		false		false	-									
+2016	12382	11036	Sage Colleges	02/20/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	11036	Sage Colleges	02/21/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	11036	Sage Colleges	02/21/2016	New Jersey City@Riverdale, NY		New Jersey CityRiverdale, NY		false		false	-									
+2016	12382	11036	Sage Colleges	02/24/2016	@ Southern Vt.		Southern Vt.		false		false	-									
+2016	12382	11036	Sage Colleges	02/28/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	11036	Sage Colleges	02/28/2016	Mt. St. Vincent@New York, NY		Mt. St. VincentNew York, NY		false		false	-									
+2016	12382	11036	Sage Colleges	03/02/2016	Vassar		Vassar		false		true	-									
+2016	12382	11036	Sage Colleges	03/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	11036	Sage Colleges	03/06/2016	Yeshiva@Mahwah, NJ		YeshivaMahwah, NJ		false		false	-									
+2016	12382	11036	Sage Colleges	03/19/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	11036	Sage Colleges	03/19/2016	Sarah Lawrence@Jersey City, NJ		Sarah LawrenceJersey City, NJ		false		false	-									
+2016	12382	11036	Sage Colleges	03/20/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	11036	Sage Colleges	03/20/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	11036	Sage Colleges	03/26/2016	Daniel Webster@Springfield, MA		Daniel WebsterSpringfield, MA		false		false	-									
+2016	12382	11036	Sage Colleges	03/26/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	11036	Sage Colleges	03/30/2016	@ Bard		Bard		false		false	-									
+2016	12382	11036	Sage Colleges	04/02/2016	Kean		Kean		false		true	-									
+2016	12382	11036	Sage Colleges	04/02/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	30163	Sarah Lawrence	02/12/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	30163	Sarah Lawrence	02/20/2016	Cooper Union		Cooper Union		false		true	-									
+2016	12382	30163	Sarah Lawrence	02/21/2016	Purchase		Purchase		false		true	-									
+2016	12382	30163	Sarah Lawrence	02/21/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	30163	Sarah Lawrence	02/26/2016	CCNY		CCNY		false		true	-									
+2016	12382	30163	Sarah Lawrence	02/27/2016	St. Joseph's (Brkln)@Mahwah, NJ		St. Joseph's (Brkln)Mahwah, NJ		false		false	-									
+2016	12382	30163	Sarah Lawrence	02/27/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/02/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	30163	Sarah Lawrence	03/03/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/03/2016	Kean@Purchase, NY		KeanPurchase, NY		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/04/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	30163	Sarah Lawrence	03/08/2016	Wittenberg@New York, NY		WittenbergNew York, NY		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/19/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/19/2016	Sage Colleges@Jersey City, NJ		Sage CollegesJersey City, NJ		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/20/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	30163	Sarah Lawrence	03/22/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	30163	Sarah Lawrence	03/23/2016	@ Kean		Kean		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/24/2016	@ Bard		Bard		false		false	-									
+2016	12382	30163	Sarah Lawrence	03/30/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	30163	Sarah Lawrence	04/01/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	30163	Sarah Lawrence	04/02/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	30163	Sarah Lawrence	04/02/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	1379	Southern Vt.	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	1379	Southern Vt.	01/16/2016	Stevens@Newark, NJ		StevensNewark, NJ		false		false	-									
+2016	12382	1379	Southern Vt.	01/23/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	1379	Southern Vt.	01/23/2016	CCNY@Boston, MA		CCNYBoston, MA		false		false	-									
+2016	12382	1379	Southern Vt.	01/26/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	1379	Southern Vt.	01/27/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	1379	Southern Vt.	01/30/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	1379	Southern Vt.	01/30/2016	Lancaster Bible@Langhorne, PA		Lancaster BibleLanghorne, PA		false		false	-									
+2016	12382	1379	Southern Vt.	02/03/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	1379	Southern Vt.	02/09/2016	@ Lesley		Lesley		false		false	-									
+2016	12382	1379	Southern Vt.	02/11/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	1379	Southern Vt.	02/13/2016	Newbury		Newbury		false		true	-									
+2016	12382	1379	Southern Vt.	02/17/2016	Elms		Elms		false		true	-									
+2016	12382	1379	Southern Vt.	02/23/2016	@ MIT		MIT		false		false	-									
+2016	12382	1379	Southern Vt.	02/24/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	1379	Southern Vt.	02/27/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	1379	Southern Vt.	03/01/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	1379	Southern Vt.	03/03/2016	Endicott		Endicott		false		true	-									
+2016	12382	1379	Southern Vt.	03/09/2016	Lesley		Lesley		false		true	-									
+2016	12382	1379	Southern Vt.	03/12/2016	@ Daniel Webster		Daniel Webster		false		false	-									
+2016	12382	1379	Southern Vt.	03/15/2016	@ Bard		Bard		false		false	-									
+2016	12382	1379	Southern Vt.	03/19/2016	@ Regis (MA)		Regis (MA)		false		false	-									
+2016	12382	1379	Southern Vt.	03/19/2016	CCNY@Weston, MA		CCNYWeston, MA		false		false	-									
+2016	12382	1379	Southern Vt.	03/23/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	1379	Southern Vt.	03/26/2016	Fontbonne@Newton, MA		FontbonneNewton, MA		false		false	-									
+2016	12382	1379	Southern Vt.	03/26/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	1379	Southern Vt.	04/02/2016	@ Elms		Elms		false		false	-									
+2016	12382	673	Springfield	01/15/2016	@ Hope Int'l		Hope Int'l		false		false	-									
+2016	12382	673	Springfield	01/16/2016	@ Concordia (CA)		Concordia (CA)		false		false	-									
+2016	12382	673	Springfield	01/16/2016	Hope Int'l@Irvine, CA		Hope Int'lIrvine, CA		false		false	-									
+2016	12382	673	Springfield	01/22/2016	Lasell@Providence, RI		LasellProvidence, RI		false		false	-									
+2016	12382	673	Springfield	01/22/2016	Cairn@Providence, RI		CairnProvidence, RI		false		false	-									
+2016	12382	673	Springfield	01/23/2016	Endicott@Providence, RI		EndicottProvidence, RI		false		false	-									
+2016	12382	673	Springfield	01/23/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	673	Springfield	01/30/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	673	Springfield	01/30/2016	Ramapo@Poughkeepsie, NY		RamapoPoughkeepsie, NY		false		false	-									
+2016	12382	673	Springfield	02/02/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	673	Springfield	02/05/2016	NYU		NYU		false		true	-									
+2016	12382	673	Springfield	02/06/2016	TBA		TBA		false		true	-									
+2016	12382	673	Springfield	02/09/2016	Rivier		Rivier		false		true	-									
+2016	12382	673	Springfield	02/13/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	673	Springfield	02/13/2016	New Jersey City@New York, NY		New Jersey CityNew York, NY		false		false	-									
+2016	12382	673	Springfield	02/17/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	673	Springfield	02/20/2016	Endicott		Endicott		false		true	-									
+2016	12382	673	Springfield	02/20/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	673	Springfield	02/24/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	673	Springfield	02/27/2016	Vassar		Vassar		false		true	-									
+2016	12382	673	Springfield	02/27/2016	Lasell		Lasell		false		true	-									
+2016	12382	673	Springfield	03/01/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	673	Springfield	03/04/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	673	Springfield	03/09/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	673	Springfield	03/26/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	673	Springfield	03/26/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	673	Springfield	04/01/2016	Baruch		Baruch		false		true	-									
+2016	12382	673	Springfield	04/02/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	673	Springfield	04/05/2016	MIT		MIT		false		true	-									
+2016	12382	673	Springfield	04/09/2016	@ NJIT		NJIT		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/03/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/08/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/12/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/14/2016	Yeshiva		Yeshiva		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/14/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/16/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/20/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/20/2016	Kean		Kean		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/27/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/27/2016	Sarah Lawrence@Mahwah, NJ		Sarah LawrenceMahwah, NJ		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/02/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/05/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/05/2016	New Jersey City@Riverdale , NY		New Jersey CityRiverdale , NY		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/06/2016	Purchase		Purchase		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/08/2016	@ Medgar Evers		Medgar Evers		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/10/2016	Pratt		Pratt		false		true	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/19/2016	Purchase@Riverdale, NY		PurchaseRiverdale, NY		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/19/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/22/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/30/2016	@ Pratt		Pratt		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	04/02/2016	Kean@Troy, NY		KeanTroy, NY		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	04/02/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	04/03/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	675	Staten Island	02/06/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	675	Staten Island	02/06/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	675	Staten Island	02/07/2016	Hunter@Hoboken, NJ		HunterHoboken, NJ		false		false	-									
+2016	12382	675	Staten Island	02/07/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	675	Staten Island	02/10/2016	Lehman		Lehman		false		true	-									
+2016	12382	675	Staten Island	02/15/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	675	Staten Island	02/15/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	675	Staten Island	02/16/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	675	Staten Island	02/18/2016	Baruch		Baruch		false		true	-									
+2016	12382	675	Staten Island	02/20/2016	Rust		Rust		false		true	-									
+2016	12382	675	Staten Island	02/20/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	675	Staten Island	02/25/2016	Pratt		Pratt		false		true	-									
+2016	12382	675	Staten Island	02/27/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	675	Staten Island	02/27/2016	Keuka@Jersey City, NJ		KeukaJersey City, NJ		false		false	-									
+2016	12382	675	Staten Island	03/02/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	675	Staten Island	03/05/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	675	Staten Island	03/05/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
+2016	12382	675	Staten Island	03/09/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	675	Staten Island	03/10/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	675	Staten Island	03/15/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	675	Staten Island	03/17/2016	Hunter		Hunter		false		true	-									
+2016	12382	675	Staten Island	03/19/2016	Rust		Rust		false		true	-									
+2016	12382	675	Staten Island	03/19/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	675	Staten Island	03/22/2016	@ CCNY		CCNY		false		false	-									
+2016	12382	675	Staten Island	03/26/2016	John Jay@Queens, NY		John JayQueens, NY		false		false	-									
+2016	12382	675	Staten Island	03/26/2016	Lehman@Queens, NY		LehmanQueens, NY		false		false	-									
+2016	12382	675	Staten Island	03/29/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	679	Stevens	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	679	Stevens	01/16/2016	Southern Vt.@Newark, NJ		Southern Vt.Newark, NJ		false		false	-									
+2016	12382	679	Stevens	01/16/2016	Mt. St. Vincent@Newark, NJ		Mt. St. VincentNewark, NJ		false		false	-									
+2016	12382	679	Stevens	01/23/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	679	Stevens	01/23/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	679	Stevens	01/29/2016	Marymount (VA)@Union, NJ		Marymount (VA)Union, NJ		false		false	-									
+2016	12382	679	Stevens	01/30/2016	Lasell@Union, NJ		LasellUnion, NJ		false		false	-									
+2016	12382	679	Stevens	01/30/2016	Rivier@Union, NJ		RivierUnion, NJ		false		false	-									
+2016	12382	679	Stevens	02/05/2016	@ Sacred Heart		Sacred Heart		false		false	-									
+2016	12382	679	Stevens	02/07/2016	Hunter		Hunter		false		true	-									
+2016	12382	679	Stevens	02/07/2016	Staten Island		Staten Island		false		true	-									
+2016	12382	679	Stevens	02/10/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	679	Stevens	02/14/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	679	Stevens	02/14/2016	SUNY New Paltz@Rochester, NY		SUNY New PaltzRochester, NY		false		false	-									
+2016	12382	679	Stevens	02/17/2016	NYU		NYU		false		true	-									
+2016	12382	679	Stevens	02/20/2016	Rutgers-Newark@Staten Island, NY		Rutgers-NewarkStaten Island, NY		false		false	-									
+2016	12382	679	Stevens	02/21/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	679	Stevens	02/24/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	679	Stevens	02/26/2016	Medaille		Medaille		false		true	-									
+2016	12382	679	Stevens	02/26/2016	Carthage		Carthage		false		true	-									
+2016	12382	679	Stevens	02/27/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	679	Stevens	03/02/2016	@ NYU		NYU		false		false	-									
+2016	12382	679	Stevens	03/05/2016	Elmira@Annandale-on-Hudson, NY		ElmiraAnnandale-on-Hudson, NY		false		false	-									
+2016	12382	679	Stevens	03/05/2016	@ Bard		Bard		false		false	-									
+2016	12382	679	Stevens	03/06/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	679	Stevens	03/08/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	679	Stevens	03/16/2016	Juniata		Juniata		false		true	-									
+2016	12382	679	Stevens	03/30/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	679	Stevens	04/02/2016	MIT		MIT		false		true	-									
+2016	12382	679	Stevens	04/02/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	21852	Stevenson	01/14/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	21852	Stevenson	01/15/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	21852	Stevenson	01/15/2016	@ Kean		Kean		false		false	-									
+2016	12382	21852	Stevenson	01/30/2016	Medaille		Medaille		false		true	-									
+2016	12382	21852	Stevenson	01/30/2016	Elmira		Elmira		false		true	-									
+2016	12382	21852	Stevenson	02/05/2016	Cairn		Cairn		false		true	-									
+2016	12382	21852	Stevenson	02/06/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	21852	Stevenson	02/10/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	21852	Stevenson	02/12/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	21852	Stevenson	02/13/2016	@ Thiel		Thiel		false		false	-									
+2016	12382	21852	Stevenson	02/17/2016	Penn St.-Altoona@Lancaster, PA		Penn St.-AltoonaLancaster, PA		false		false	-									
+2016	12382	21852	Stevenson	02/17/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	21852	Stevenson	02/19/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	21852	Stevenson	02/20/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	21852	Stevenson	02/20/2016	Endicott@Springfield, MA		EndicottSpringfield, MA		false		false	-									
+2016	12382	21852	Stevenson	02/24/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	21852	Stevenson	02/26/2016	Nazareth@Elmira, NY		NazarethElmira, NY		false		false	-									
+2016	12382	21852	Stevenson	02/27/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	21852	Stevenson	02/27/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
+2016	12382	21852	Stevenson	03/04/2016	Juniata		Juniata		false		true	-									
+2016	12382	21852	Stevenson	03/05/2016	Thiel		Thiel		false		true	-									
+2016	12382	21852	Stevenson	03/10/2016	Wittenberg@Cincinnati, OH		WittenbergCincinnati, OH		false		false	-									
+2016	12382	21852	Stevenson	03/10/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2016	12382	21852	Stevenson	03/12/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	21852	Stevenson	03/12/2016	NYU@Kenosha, WI		NYUKenosha, WI		false		false	-									
+2016	12382	21852	Stevenson	03/13/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	21852	Stevenson	03/14/2016	Lakeland@Marian, WI		LakelandMarian, WI		false		false	-									
+2016	12382	21852	Stevenson	03/14/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	21852	Stevenson	03/23/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	21852	Stevenson	03/25/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	21852	Stevenson	03/30/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	707	Thiel	01/24/2016	Penn St.-Altoona@Erie, PA		Penn St.-AltoonaErie, PA		false		false	-									
+2016	12382	707	Thiel	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	707	Thiel	01/30/2016	Elmira@Owings Mills, MD		ElmiraOwings Mills, MD		false		false	-									
+2016	12382	707	Thiel	01/30/2016	TBA@Owings Mills, MD		TBAOwings Mills, MD		false		false	-									
+2016	12382	707	Thiel	02/05/2016	Marymount (VA)		Marymount (VA)		false		true	-									
+2016	12382	707	Thiel	02/06/2016	East. Mennonite		East. Mennonite		false		true	-									
+2016	12382	707	Thiel	02/09/2016	Juniata		Juniata		false		true	-									
+2016	12382	707	Thiel	02/13/2016	Stevenson		Stevenson		false		true	-									
+2016	12382	707	Thiel	02/26/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	707	Thiel	02/27/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	707	Thiel	03/05/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	707	Thiel	03/17/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	707	Thiel	03/18/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	707	Thiel	03/19/2016	John Jay@Harrisonburg, VA		John JayHarrisonburg, VA		false		false	-									
+2016	12382	707	Thiel	03/19/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	707	Thiel	03/22/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	707	Thiel	04/01/2016	Cairn		Cairn		false		true	-									
+2016	12382	707	Thiel	04/02/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2016	12382	113	UC Santa Cruz	01/08/2016	Holy Names	30175	Holy Names	http://stats.ncaa.org/team/index/12382?org_id=30175	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3983509	http://stats.ncaa.org/game/index/3983509?org_id=113
+2016	12382	113	UC Santa Cruz	01/09/2016	Benedictine Mesa		Benedictine Mesa		false		true	-									
+2016	12382	113	UC Santa Cruz	01/22/2016	Lakeland@Cal Lutheran		LakelandCal Lutheran		false		false	-									
+2016	12382	113	UC Santa Cruz	01/23/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	113	UC Santa Cruz	01/23/2016	NYU@Thousand Oaks, CA		NYUThousand Oaks, CA		false		false	-									
+2016	12382	113	UC Santa Cruz	02/04/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	113	UC Santa Cruz	02/05/2016	@ Dominican (IL)		Dominican (IL)		false		false	-									
+2016	12382	113	UC Santa Cruz	02/06/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	113	UC Santa Cruz	02/06/2016	Mt. St. Joseph@Plymouth, WI		Mt. St. JosephPlymouth, WI		false		false	-									
+2016	12382	113	UC Santa Cruz	02/07/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	113	UC Santa Cruz	02/07/2016	Benedictine (IL)@Milwaukee, WI		Benedictine (IL)Milwaukee, WI		false		false	-									
+2016	12382	113	UC Santa Cruz	02/11/2016	Hope Int'l		Hope Int'l		false		true	-									
+2016	12382	113	UC Santa Cruz	02/19/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	113	UC Santa Cruz	02/20/2016	Elmira@Thousand Oaks, CA		ElmiraThousand Oaks, CA		false		false	-									
+2016	12382	113	UC Santa Cruz	02/20/2016	Benedictine Mesa@Cal Lutheran		Benedictine MesaCal Lutheran		false		false	-									
+2016	12382	113	UC Santa Cruz	02/26/2016	@ Holy Names		Holy Names		false		false	-									
+2016	12382	113	UC Santa Cruz	03/06/2016	Elmira@Hoboken, NJ		ElmiraHoboken, NJ		false		false	-									
+2016	12382	113	UC Santa Cruz	03/06/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	113	UC Santa Cruz	03/11/2016	Nazareth		Nazareth		false		true	-									
+2016	12382	113	UC Santa Cruz	03/12/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	113	UC Santa Cruz	03/12/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	113	UC Santa Cruz	03/12/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	113	UC Santa Cruz	03/21/2016	@ Hope Int'l		Hope Int'l		false		false	-									
+2016	12382	113	UC Santa Cruz	03/22/2016	@ Concordia (CA)		Concordia (CA)		false		false	-									
+2016	12382	113	UC Santa Cruz	04/01/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	737	Vassar	01/22/2016	Wentworth@Utica, NY		WentworthUtica, NY		false		false	-									
+2016	12382	737	Vassar	01/22/2016	@ Unity		Unity		false		false	-									
+2016	12382	737	Vassar	01/22/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	737	Vassar	01/23/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	737	Vassar	01/23/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
+2016	12382	737	Vassar	01/30/2016	Ramapo		Ramapo		false		true	-									
+2016	12382	737	Vassar	01/30/2016	Springfield		Springfield		false		true	-									
+2016	12382	737	Vassar	02/03/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	737	Vassar	02/06/2016	Newbury@Newton, MA		NewburyNewton, MA		false		false	-									
+2016	12382	737	Vassar	02/06/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	737	Vassar	02/10/2016	Stevens		Stevens		false		true	-									
+2016	12382	737	Vassar	02/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	737	Vassar	02/20/2016	Bard@Erie, PA		BardErie, PA		false		false	-									
+2016	12382	737	Vassar	02/20/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
+2016	12382	737	Vassar	02/23/2016	@ NYU		NYU		false		false	-									
+2016	12382	737	Vassar	02/27/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	737	Vassar	02/27/2016	Lasell@Springfield, MA		LasellSpringfield, MA		false		false	-									
+2016	12382	737	Vassar	03/02/2016	@ Sage Colleges		Sage Colleges		false		false	-									
+2016	12382	737	Vassar	03/05/2016	@ MIT		MIT		false		false	-									
+2016	12382	737	Vassar	03/05/2016	Nazareth@Cambridge, MA		NazarethCambridge, MA		false		false	-									
+2016	12382	737	Vassar	03/09/2016	Baruch		Baruch		false		true	-									
+2016	12382	737	Vassar	03/12/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	737	Vassar	03/18/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
+2016	12382	737	Vassar	03/18/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	737	Vassar	03/19/2016	@ Medaille		Medaille		false		false	-									
+2016	12382	737	Vassar	03/19/2016	@ TBA		TBA		false		false	-									
+2016	12382	737	Vassar	03/23/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	737	Vassar	03/26/2016	Elmira		Elmira		false		true	-									
+2016	12382	737	Vassar	03/26/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	737	Vassar	03/31/2016	NYU		NYU		false		true	-									
+2016	12382	737	Vassar	04/02/2016	Wells		Wells		false		true	-									
+2016	12382	737	Vassar	04/02/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	761	Wells	01/22/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
+2016	12382	761	Wells	01/22/2016	Sage Colleges@SUNY-Polytechnic Tournament, Marcy, NY		Sage CollegesSUNY-Polytechnic Tournament, Marcy, NY		false		false	-									
+2016	12382	761	Wells	01/23/2016	Vassar@Utica, NY		VassarUtica, NY		false		false	-									
+2016	12382	761	Wells	01/23/2016	Bard@Utica, NY		BardUtica, NY		false		false	-									
+2016	12382	761	Wells	01/30/2016	Regis (MA)@Utica, NY		Regis (MA)Utica, NY		false		false	-									
+2016	12382	761	Wells	01/30/2016	Newbury@Marcy, NY		NewburyMarcy, NY		false		false	-									
+2016	12382	761	Wells	01/31/2016	Daniel Webster		Daniel Webster		false		true	-									
+2016	12382	761	Wells	02/06/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	761	Wells	02/06/2016	Marymount (VA)@Huntingdon, PA		Marymount (VA)Huntingdon, PA		false		false	-									
+2016	12382	761	Wells	02/13/2016	D'Youville@Buffalo, NY		D'YouvilleBuffalo, NY		false		false	-									
+2016	12382	761	Wells	02/13/2016	Hilbert@Buffalo, NY, NY		HilbertBuffalo, NY, NY		false		false	-									
+2016	12382	761	Wells	02/20/2016	Wilson		Wilson		false		true	-									
+2016	12382	761	Wells	02/21/2016	Lancaster Bible@Keuka Park, NY		Lancaster BibleKeuka Park, NY		false		false	-									
+2016	12382	761	Wells	02/21/2016	Penn St.-Altoona@Keuka, NY		Penn St.-AltoonaKeuka, NY		false		false	-									
+2016	12382	761	Wells	03/01/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	761	Wells	03/06/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	761	Wells	03/09/2016	Keuka		Keuka		false		true	-									
+2016	12382	761	Wells	03/12/2016	D'Youville@Aurora, NY		D'YouvilleAurora, NY		false		false	-									
+2016	12382	761	Wells	03/13/2016	Hilbert@Marcy, NY, NY		HilbertMarcy, NY, NY		false		false	-									
+2016	12382	761	Wells	03/18/2016	Wilson		Wilson		false		true	-									
+2016	12382	761	Wells	03/19/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	761	Wells	03/19/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
+2016	12382	761	Wells	03/23/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	761	Wells	03/24/2016	SUNY Poly		SUNY Poly		false		true	-									
+2016	12382	761	Wells	04/02/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	762	Wentworth	01/22/2016	Vassar@Utica, NY		VassarUtica, NY		false		false	-									
+2016	12382	762	Wentworth	01/22/2016	Sage Colleges@Marcy, NY		Sage CollegesMarcy, NY		false		false	-									
+2016	12382	762	Wentworth	01/23/2016	Bard@Utica, NY		BardUtica, NY		false		false	-									
+2016	12382	762	Wentworth	01/23/2016	Nazareth@Marcy, NY		NazarethMarcy, NY		false		false	-									
+2016	12382	762	Wentworth	01/26/2016	MIT		MIT		false		true	-									
+2016	12382	762	Wentworth	01/28/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	762	Wentworth	01/30/2016	Rutgers-Newark@Union, NJ		Rutgers-NewarkUnion, NJ		false		false	-									
+2016	12382	762	Wentworth	01/30/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
+2016	12382	762	Wentworth	02/03/2016	@ Endicott		Endicott		false		false	-									
+2016	12382	762	Wentworth	02/06/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	762	Wentworth	02/06/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	762	Wentworth	02/09/2016	Lasell		Lasell		false		true	-									
+2016	12382	762	Wentworth	02/11/2016	Rivier		Rivier		false		true	-									
+2016	12382	762	Wentworth	02/20/2016	Daniel Webster@Brookline, MA		Daniel WebsterBrookline, MA		false		false	-									
+2016	12382	762	Wentworth	02/20/2016	@ Newbury		Newbury		false		false	-									
+2016	12382	762	Wentworth	02/24/2016	Springfield		Springfield		false		true	-									
+2016	12382	762	Wentworth	02/27/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2016	12382	762	Wentworth	03/03/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2016	12382	762	Wentworth	03/05/2016	Mount Ida@Nashua, NH		Mount IdaNashua, NH		false		false	-									
+2016	12382	762	Wentworth	03/05/2016	@ Rivier		Rivier		false		false	-									
+2016	12382	762	Wentworth	03/10/2016	@ MIT		MIT		false		false	-									
+2016	12382	762	Wentworth	03/17/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
+2016	12382	762	Wentworth	03/19/2016	Lehman@Newton, MA		LehmanNewton, MA		false		false	-									
+2016	12382	762	Wentworth	03/19/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	762	Wentworth	03/22/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	762	Wentworth	03/26/2016	Emerson		Emerson		false		true	-									
+2016	12382	762	Wentworth	03/29/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
+2016	12382	762	Wentworth	03/31/2016	@ Lasell		Lasell		false		false	-									
+2016	12382	762	Wentworth	04/02/2016	@ Emerson		Emerson		false		false	-									
+2016	12382	12973	Wilson	02/10/2016	East. Mennonite@Lancaster, PA		East. MennoniteLancaster, PA		false		false	-									
+2016	12382	12973	Wilson	02/10/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	12973	Wilson	02/13/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	12973	Wilson	02/13/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
+2016	12382	12973	Wilson	02/16/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
+2016	12382	12973	Wilson	02/20/2016	Wells		Wells		false		true	-									
+2016	12382	12973	Wilson	02/21/2016	SUNY Poly@Keuka, NY		SUNY PolyKeuka, NY		false		false	-									
+2016	12382	12973	Wilson	02/21/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	12973	Wilson	02/27/2016	Bard		Bard		false		true	-									
+2016	12382	12973	Wilson	03/04/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	12973	Wilson	03/05/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	12973	Wilson	03/05/2016	Medaille		Medaille		false		true	-									
+2016	12382	12973	Wilson	03/12/2016	@ Lancaster Bible		Lancaster Bible		false		false	-									
+2016	12382	12973	Wilson	03/12/2016	Penn St.-Altoona@LANCASTER, PA		Penn St.-AltoonaLANCASTER, PA		false		false	-									
+2016	12382	12973	Wilson	03/18/2016	Wells		Wells		false		true	-									
+2016	12382	12973	Wilson	03/19/2016	Keuka@Altoona, PA		KeukaAltoona, PA		false		false	-									
+2016	12382	12973	Wilson	03/19/2016	SUNY Poly@ALTOONA, PA		SUNY PolyALTOONA, PA		false		false	-									
+2016	12382	12973	Wilson	04/01/2016	Medaille@HAMBURG, NY		MedailleHAMBURG, NY		false		false	-									
+2016	12382	12973	Wilson	04/02/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	12973	Wilson	04/02/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
+2016	12382	806	Wittenberg	01/22/2016	Olivet		Olivet		false		true	-									
+2016	12382	806	Wittenberg	01/23/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	806	Wittenberg	01/23/2016	Adrian		Adrian		false		true	-									
+2016	12382	806	Wittenberg	01/29/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	806	Wittenberg	01/30/2016	North Central (IL)		North Central (IL)		false		true	-									
+2016	12382	806	Wittenberg	01/30/2016	Juniata		Juniata		false		true	-									
+2016	12382	806	Wittenberg	02/05/2016	@ Lakeland		Lakeland		false		false	-									
+2016	12382	806	Wittenberg	02/06/2016	@ Marian (WI)		Marian (WI)		false		false	-									
+2016	12382	806	Wittenberg	02/12/2016	Dominican (IL)		Dominican (IL)		false		true	-									
+2016	12382	806	Wittenberg	02/13/2016	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2016	12382	806	Wittenberg	02/19/2016	Olivet		Olivet		false		true	-									
+2016	12382	806	Wittenberg	02/20/2016	Adrian		Adrian		false		true	-									
+2016	12382	806	Wittenberg	03/06/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	806	Wittenberg	03/06/2016	@ Wells		Wells		false		false	-									
+2016	12382	806	Wittenberg	03/07/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	806	Wittenberg	03/08/2016	Sarah Lawrence@New York, NY		Sarah LawrenceNew York, NY		false		false	-									
+2016	12382	806	Wittenberg	03/08/2016	@ Yeshiva		Yeshiva		false		false	-									
+2016	12382	806	Wittenberg	03/10/2016	Stevenson@Cincinnati, OH		StevensonCincinnati, OH		false		false	-									
+2016	12382	806	Wittenberg	03/11/2016	@ North Central (IL)		North Central (IL)		false		false	-									
+2016	12382	806	Wittenberg	03/12/2016	@ Loras		Loras		false		false	-									
+2016	12382	806	Wittenberg	03/18/2016	Greenville		Greenville		false		true	-									
+2016	12382	806	Wittenberg	03/19/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	806	Wittenberg	03/24/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
+2016	12382	806	Wittenberg	04/01/2016	@ MSOE		MSOE		false		false	-									
+2016	12382	806	Wittenberg	04/02/2016	@ Carthage		Carthage		false		false	-									
+2016	12382	814	Yeshiva	01/31/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	814	Yeshiva	01/31/2016	York (NY)@Jersey City, NJJ, NJ		York (NY)Jersey City, NJJ, NJ		false		false	-									
+2016	12382	814	Yeshiva	01/31/2016	Brooklyn@Jersey City, NJ		BrooklynJersey City, NJ		false		false	-									
+2016	12382	814	Yeshiva	02/03/2016	@ Lehman		Lehman		false		false	-									
+2016	12382	814	Yeshiva	02/11/2016	@ Pratt		Pratt		false		false	-									
+2016	12382	814	Yeshiva	02/14/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
+2016	12382	814	Yeshiva	02/14/2016	New Jersey City@Brooklyn, NY		New Jersey CityBrooklyn, NY		false		false	-									
+2016	12382	814	Yeshiva	02/18/2016	Kean		Kean		false		true	-									
+2016	12382	814	Yeshiva	02/21/2016	Purchase@Bronxville, NY		PurchaseBronxville, NY		false		false	-									
+2016	12382	814	Yeshiva	02/21/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
+2016	12382	814	Yeshiva	02/24/2016	Bard		Bard		false		true	-									
+2016	12382	814	Yeshiva	02/28/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
+2016	12382	814	Yeshiva	02/28/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	814	Yeshiva	03/02/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	814	Yeshiva	03/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	814	Yeshiva	03/06/2016	Sage Colleges@Mahwah, NJ		Sage CollegesMahwah, NJ		false		false	-									
+2016	12382	814	Yeshiva	03/08/2016	Wittenberg		Wittenberg		false		true	-									
+2016	12382	814	Yeshiva	03/16/2016	@ Webb Inst.		Webb Inst.		false		false	-									
+2016	12382	814	Yeshiva	03/20/2016	@ Kean		Kean		false		false	-									
+2016	12382	814	Yeshiva	03/20/2016	Ramapo@Union, NJ		RamapoUnion, NJ		false		false	-									
+2016	12382	814	Yeshiva	03/27/2016	Pratt		Pratt		false		true	-									
+2016	12382	814	Yeshiva	03/30/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
+2016	12382	814	Yeshiva	04/03/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	814	Yeshiva	04/04/2016	Mt. St. Vincent@Purchase, NY		Mt. St. VincentPurchase, NY		false		false	-									
+2016	12382	2730	York (NY)	01/29/2016	Cairn		Cairn		false		true	-									
+2016	12382	2730	York (NY)	01/31/2016	Yeshiva@Jersey City, NJJ, NJ		YeshivaJersey City, NJJ, NJ		false		false	-									
+2016	12382	2730	York (NY)	01/31/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	2730	York (NY)	02/06/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	02/06/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	02/10/2016	@ Baruch		Baruch		false		false	-									
+2016	12382	2730	York (NY)	02/15/2016	@ John Jay		John Jay		false		false	-									
+2016	12382	2730	York (NY)	02/18/2016	@ Hunter		Hunter		false		false	-									
+2016	12382	2730	York (NY)	02/20/2016	Mount Ida@New York, NY		Mount IdaNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	02/21/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	2730	York (NY)	02/25/2016	@ Brooklyn		Brooklyn		false		false	-									
+2016	12382	2730	York (NY)	02/27/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	2730	York (NY)	02/27/2016	Lancaster Bible		Lancaster Bible		false		true	-									
+2016	12382	2730	York (NY)	03/02/2016	@ Staten Island		Staten Island		false		false	-									
+2016	12382	2730	York (NY)	03/05/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	03/05/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	03/06/2016	@ Kean		Kean		false		false	-									
+2016	12382	2730	York (NY)	03/09/2016	@ NYU		NYU		false		false	-									
+2016	12382	2730	York (NY)	03/11/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
+2016	12382	2730	York (NY)	03/11/2016	New Jersey City@Providence, RI		New Jersey CityProvidence, RI		false		false	-									
+2016	12382	2730	York (NY)	03/12/2016	Bard@Providence, RI		BardProvidence, RI		false		false	-									
+2016	12382	2730	York (NY)	03/12/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	2730	York (NY)	03/15/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	2730	York (NY)	03/15/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	2730	York (NY)	03/17/2016	John Jay		John Jay		false		true	-									
+2016	12382	2730	York (NY)	03/23/2016	Vassar		Vassar		false		true	-									
+2016	12382	2730	York (NY)	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
+2016	12382	2730	York (NY)	03/26/2016	Hunter		Hunter		false		true	-									
+2016	12382	2730	York (NY)	03/29/2016	Lehman		Lehman		false		true	-									

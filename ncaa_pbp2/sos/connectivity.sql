@@ -14,7 +14,7 @@ left join ncaa_pbp.teams o
   on (o.team_id,o.year)=(r.opponent_id,r.year)
 where
     t.division<=o.division
-and r.year between 2012 and 2015
+and r.year between 2012 and 2016
 and r.team_won is not null
 group by r.year,t.division,o.division
 order by r.year,t.division,o.division;

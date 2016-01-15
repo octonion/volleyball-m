@@ -1,0 +1,57 @@
+year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
+2016	12382	934	Alderson Broaddus	-	Opponent Totals	-	-	-	-	3	 	33	11	64	0.344	32	3	11	22	 	 	18	2	45.0	 	1
+2016	12382	77	BYU	-	Opponent Totals	-	-	-	-	4	 	43	22	107	0.196	41	7	22	32	5	 	16	1	58.0	1	1
+2016	12382	47	Ball St.	-	Totals	-	-	-	-	10	 	113	43	252	0.278	108	9	38	76	8	1	56	4	151.0	2	3
+2016	12382	47	Ball St.	-	Opponent Totals	-	-	-	-	10	 	121	64	276	0.207	112	8	36	87	9	7	18	4	145.0	3	3
+2016	12382	15646	Barton	-	Totals	-	-	-	-	5	 	61	23	138	0.275	58	4	17	42	8	2	10	2	72.0	 	1
+2016	12382	15646	Barton	-	Opponent Totals	-	-	-	-	5	 	60	17	126	0.341	53	7	21	45	3	 	18	 	76.0	 	1
+2016	12382	101	CSUN	-	Totals	-	-	-	-	17	 	205	66	391	0.355	189	32	86	108	14	8	64	4	277.0	1	5
+2016	12382	101	CSUN	-	Opponent Totals	-	-	-	-	17	 	156	89	375	0.179	144	14	68	95	32	5	46	1	198.0	2	5
+2016	12382	30135	California Baptist	-	Totals	-	-	-	-	15	 	157	60	335	0.290	149	25	61	91	58	6	53	3	214.5	1	4
+2016	12382	30135	California Baptist	-	Opponent Totals	-	-	-	-	15	 	164	77	361	0.241	150	26	61	95	25	7	42	3	218.0	 	4
+2016	12382	1013	Charleston (WV)	-	Totals	-	-	-	-	9	 	84	48	223	0.161	76	8	47	43	16	1	28	5	107.0	1	3
+2016	12382	1013	Charleston (WV)	-	Opponent Totals	-	-	-	-	9	 	110	31	197	0.401	98	16	29	75	8	6	20	5	142.0	1	3
+2016	12382	30199	Concordia (CA)	-	Opponent Totals	-	-	-	-	12	 	123	65	322	0.180	115	15	49	91	21	3	52	10	167.0	2	4
+2016	12382	248	George Mason	-	Opponent Totals	-	-	-	-	10	 	114	31	219	0.379	104	17	46	53	7	2	48	9	157.0	2	3
+2016	12382	1104	Grand Canyon	-	Opponent Totals	-	-	-	-	3	 	30	18	82	0.146	27	5	6	23	9	 	8	3	39.0	 	1
+2016	12382	275	Harvard	-	Totals	-	-	-	-	11	 	126	48	301	0.259	119	17	39	106	13	5	42	5	169.0	1	3
+2016	12382	275	Harvard	-	Opponent Totals	-	-	-	-	11	 	125	53	303	0.238	117	14	33	101	16	3	29	3	156.5	1	3
+2016	12382	277	Hawaii	-	Opponent Totals	-	-	-	-	9	 	88	39	233	0.210	84	4	27	62	18	5	25	8	109.5	1	3
+2016	12382	30175	Holy Names	-	Totals	-	-	-	-	6	 	44	29	144	0.104	38	7	21	40	11	1	16	7	60.0	1	2
+2016	12382	30175	Holy Names	-	Opponent Totals	-	-	-	-	6	 	82	37	169	0.266	73	11	27	54	7	3	15	2	103.5	1	2
+2016	12382	30051	King (TN)	-	Totals	-	-	-	-	9	 	65	46	225	0.084	63	3	21	51	20	4	21	2	82.5	1	3
+2016	12382	30051	King (TN)	-	Opponent Totals	-	-	-	-	9	 	134	31	232	0.444	126	21	33	95	2	2	39	1	176.5	 	3
+2016	12382	354	Lewis	-	Totals	-	-	-	-	15	 	182	66	393	0.295	173	19	48	137	21	3	59	7	233.5	4	4
+2016	12382	354	Lewis	-	Opponent Totals	-	-	-	-	15	 	163	79	420	0.200	153	21	51	116	19	4	56	4	216.0	2	4
+2016	12382	1174	Limestone	-	Totals	-	-	-	-	5	 	61	33	148	0.189	59	4	19	50	5	2	11	1	72.5	 	1
+2016	12382	1174	Limestone	-	Opponent Totals	-	-	-	-	5	 	58	34	152	0.158	57	5	19	47	4	8	16	 	79.0	 	1
+2016	12382	30136	Lindenwood (MO)	-	Totals	-	-	-	-	9	 	88	59	236	0.123	80	8	43	60	13	3	22	2	110.0	1	3
+2016	12382	30136	Lindenwood (MO)	-	Opponent Totals	-	-	-	-	9	 	105	34	211	0.336	100	13	39	71	8	2	38	4	139.0	1	3
+2016	12382	99	Long Beach St.	-	Opponent Totals	-	-	-	-	7	 	70	35	184	0.190	65	4	28	40	10	6	12	3	86.0	 	2
+2016	12382	371	Loyola Chicago	-	Totals	-	-	-	-	16	 	186	90	432	0.222	177	19	80	121	20	3	88	3	252.0	3	4
+2016	12382	371	Loyola Chicago	-	Opponent Totals	-	-	-	-	16	 	178	88	420	0.214	174	20	61	117	19	9	71	10	242.5	1	4
+2016	12382	1245	Mount Olive	-	Totals	-	-	-	-	3	 	43	10	79	0.418	41	4	14	25	3	2	16	 	57.0	1	1
+2016	12382	1245	Mount Olive	-	Opponent Totals	-	-	-	-	3	 	34	15	77	0.247	29	3	12	23	4	1	5	3	40.5	 	1
+2016	12382	471	NJIT	-	Totals	-	-	-	-	10	 	97	52	238	0.189	90	9	39	66	25	2	22	1	119.0	1	3
+2016	12382	471	NJIT	-	Opponent Totals	-	-	-	-	10	 	120	37	236	0.352	113	25	48	74	41	3	44	4	170.0	 	3
+2016	12382	9223	North Greenville	-	Totals	-	-	-	-	5	 	58	34	152	0.158	57	5	19	47	4	8	16	 	79.0	 	1
+2016	12382	9223	North Greenville	-	Opponent Totals	-	-	-	-	5	 	61	33	148	0.189	59	4	19	50	5	2	11	1	72.5	 	1
+2016	12382	518	Ohio St.	-	Totals	-	-	-	-	3	 	38	12	75	0.347	35	8	15	19	3	 	13	 	52.5	 	1
+2016	12382	518	Ohio St.	-	Opponent Totals	-	-	-	-	3	 	26	14	66	0.182	25	3	14	22	8	2	12	 	37.0	 	1
+2016	12382	539	Penn St.	-	Totals	-	-	-	-	11	 	135	74	308	0.198	129	11	39	74	14	6	46	6	175.0	 	3
+2016	12382	539	Penn St.	-	Opponent Totals	-	-	-	-	11	 	137	56	287	0.282	129	14	51	72	11	2	59	2	182.5	1	3
+2016	12382	541	Pepperdine	-	Totals	-	-	-	-	3	 	33	8	58	0.431	29	11	14	17	2	 	16	2	52.0	 	1
+2016	12382	541	Pepperdine	-	Opponent Totals	-	-	-	-	3	 	22	18	66	0.061	21	2	13	15	11	 	10	2	29.0	 	1
+2016	12382	542	Pfeiffer	-	Totals	-	-	-	-	5	 	66	22	128	0.344	65	6	22	34	7	 	20	5	82.0	 	1
+2016	12382	542	Pfeiffer	-	Opponent Totals	-	-	-	-	5	 	51	28	126	0.183	50	7	14	33	6	3	10	1	66.0	1	1
+2016	12382	554	Princeton	-	Opponent Totals	-	-	-	-	3	 	38	12	75	0.347	35	8	15	19	3	 	13	 	52.5	 	1
+2016	12382	561	Quincy	-	Totals	-	-	-	-	14	 	149	68	329	0.246	135	16	52	87	25	9	37	4	192.5	1	3
+2016	12382	561	Quincy	-	Opponent Totals	-	-	-	-	14	 	159	65	332	0.283	149	25	54	93	16	7	41	3	211.5	 	3
+2016	12382	590	Sacred Heart	-	Totals	-	-	-	-	12	 	119	61	276	0.210	115	11	44	90	20	7	29	3	151.5	1	3
+2016	12382	590	Sacred Heart	-	Opponent Totals	-	-	-	-	12	 	146	52	301	0.312	135	20	56	81	11	2	45	2	190.5	3	3
+2016	12382	600	Saint Francis (PA)	-	Opponent Totals	-	-	-	-	8	 	104	33	217	0.327	99	8	31	67	11	4	26	2	129.0	1	2
+2016	12382	657	Southern California	-	Opponent Totals	-	-	-	-	3	 	46	18	101	0.277	43	4	14	30	4	2	10	1	57.0	 	1
+2016	12382	674	Stanford	-	Opponent Totals	-	-	-	-	3	 	32	15	77	0.221	31	 	13	18	5	 	12	2	38.0	 	1
+2016	12382	109	UC Irvine	-	Opponent Totals	-	-	-	-	8	 	87	38	190	0.258	83	6	35	57	12	3	33	7	112.5	3	2
+2016	12382	112	UC San Diego	-	Opponent Totals	-	-	-	-	6	 	71	28	153	0.281	68	11	24	48	13	2	19	6	93.5	1	2
+2016	12382	110	UCLA	-	Opponent Totals	-	-	-	-	8	 	72	47	165	0.152	70	7	31	33	15	3	23	5	93.5	 	2

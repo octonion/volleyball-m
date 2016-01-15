@@ -1,0 +1,951 @@
+year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+2016	12382	2798	Albertus Magnus	17	1544731.0	Filkins, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544731.0	6-3	Jr	0	0
+2016	12382	2798	Albertus Magnus	11	1422689.0	Spilka, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422689.0	6-0	Sr	0	0
+2016	12382	2798	Albertus Magnus	2	1644629.0	Stoll, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644629.0	5-10	So	0	0
+2016	12382	2798	Albertus Magnus	8	1550573.0	Taylor, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1550573.0	5-6	Jr	0	0
+2016	12382	2798	Albertus Magnus	19	1422690.0	Tharau, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422690.0	6-0	Sr	0	0
+2016	12382	2798	Albertus Magnus	3	1543590.0	Turner, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543590.0	6-0	Jr	0	0
+2016	12382	2798	Albertus Magnus	10	1644630.0	Woodcox, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644630.0	6-1	Sr	0	0
+2016	12382	962	Bard	9	1527478.0	Adams, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527478.0	6-1	Sr	0	0
+2016	12382	962	Bard	8		Adams-Keane, Gabe		6-2	Fr	0	0
+2016	12382	962	Bard	5	1422085.0	Bernier-Chen, Kai	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422085.0	6-1	Sr	0	0
+2016	12382	962	Bard	11	1650900.0	Briggs, Stefan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650900.0	6-2	So	0	0
+2016	12382	962	Bard	6	1422086.0	Gagne, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422086.0	5-11	Sr	0	0
+2016	12382	962	Bard	13	1527480.0	McDonald, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527480.0	6-7	Jr	0	0
+2016	12382	962	Bard	4		Ohn Myint, Nyi Nyi		5-10	So	0	0
+2016	12382	962	Bard	10		Riley, Orlando		6-0	Fr	0	0
+2016	12382	962	Bard	24	1650914.0	Robertson, Troy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650914.0	5-10	Sr	0	0
+2016	12382	962	Bard	12	1527479.0	Sheikh, Mahir	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527479.0	5-10	Jr	0	0
+2016	12382	962	Bard	1	1653486.0	Skular, Miroslav	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653486.0	6-0	So	0	0
+2016	12382	962	Bard	19	1422090.0	Small, Jesse	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422090.0	6-0	Sr	0	0
+2016	12382	962	Bard	27	1650902.0	Zowaski, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650902.0	5-11	So	0	0
+2016	12382	58	Baruch	15	1428219.0	Ambro, Brady	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428219.0	6-2	Sr	0	0
+2016	12382	58	Baruch	2	1649740.0	Carter, Braden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649740.0	6-9	Jr	0	0
+2016	12382	58	Baruch	7	1536438.0	Choi, Man Wai	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536438.0	6-0	Sr	0	0
+2016	12382	58	Baruch	1	1428216.0	Coniglio, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428216.0	6-3	Sr	0	0
+2016	12382	58	Baruch	5	1649742.0	Higgs, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649742.0	6-0	Sr	0	0
+2016	12382	58	Baruch	13	1652915.0	Malo, Yanni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652915.0	6-4	Sr	0	0
+2016	12382	58	Baruch	6	1649743.0	Mareschal Rudin, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649743.0	6-4	So	0	0
+2016	12382	58	Baruch	9	1536437.0	Murphy, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536437.0	6-2	Jr	0	0
+2016	12382	58	Baruch	10	1428218.0	Standring, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428218.0	6-1	Sr	0	0
+2016	12382	296	Benedictine (IL)	10	1640019.0	Gibaldo, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640019.0	6-6	So	0	0
+2016	12382	296	Benedictine (IL)	4	1640021.0	Glover, Sterling	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640021.0	5-11	So	0	0
+2016	12382	296	Benedictine (IL)	14	1640016.0	Kerber, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640016.0	6-6	So	0	0
+2016	12382	296	Benedictine (IL)	6	1640023.0	Krasich, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640023.0	5-9	So	0	0
+2016	12382	296	Benedictine (IL)	9	1640020.0	Loeding, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640020.0	6-5	So	0	0
+2016	12382	296	Benedictine (IL)	18	1640025.0	Mahida, Yajuvendra	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640025.0	5-5	So	0	0
+2016	12382	296	Benedictine (IL)	3	1640018.0	Mathews, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640018.0	6-1	So	0	0
+2016	12382	296	Benedictine (IL)	11		Mazurek, Kacper		6-3	Fr	0	0
+2016	12382	296	Benedictine (IL)	16	1640024.0	Moran, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640024.0	6-2	So	0	0
+2016	12382	296	Benedictine (IL)	15		Moua, Josh		5-7	Fr	0	0
+2016	12382	296	Benedictine (IL)	12		Mueller, Jon		6-6	Sr	0	0
+2016	12382	296	Benedictine (IL)	5	1640014.0	Riemer, Markus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640014.0	6-2	So	0	0
+2016	12382	296	Benedictine (IL)	13		Spagnolo, Jeff		5-11	Fr	0	0
+2016	12382	296	Benedictine (IL)	17	1640017.0	Stein, Lewis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640017.0	6-6	So	0	0
+2016	12382	296	Benedictine (IL)	7	1640022.0	Thompson, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640022.0	6-2	So	0	0
+2016	12382	296	Benedictine (IL)	2		Valentini, Jonathan		6-0	Fr	0	0
+2016	12382	296	Benedictine (IL)	1		VanStedum, Kyle		6-5	Fr	0	0
+2016	12382	296	Benedictine (IL)	8	1640027.0	Villarreal, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640027.0	6-1	So	0	0
+2016	12382	79	Brooklyn	21	1647865.0	Bautista, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1647865.0	5-6	So	0	0
+2016	12382	79	Brooklyn	15	1653257.0	Chen, Antonio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653257.0	5-11	Jr	0	0
+2016	12382	79	Brooklyn	16	1647863.0	Choudhary, Moaz Ali	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1647863.0	6-3	So	0	0
+2016	12382	79	Brooklyn	17	1649236.0	Feng, Dickson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649236.0	5-10	So	0	0
+2016	12382	79	Brooklyn	4	1667277.0	Lichtenstein, Shalom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1667277.0	5-6	Jr	0	0
+2016	12382	79	Brooklyn	10	1657322.0	Miranda, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657322.0	6-4	So	0	0
+2016	12382	79	Brooklyn	20		Ohanian, Hosep		6-6	Fr	0	0
+2016	12382	79	Brooklyn	13		Perez, Flavio		5-11	Fr	0	0
+2016	12382	79	Brooklyn	1	1647860.0	Rivera, Yeiky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1647860.0	5-7	So	0	0
+2016	12382	79	Brooklyn	14		Titus, Vaughn		6-4	Fr	0	0
+2016	12382	79	Brooklyn	11		Yoo, Patrick		5-8	Jr	0	0
+2016	12382	79	Brooklyn	9		Zachariah, Sayuj		6-2	Fr	0	0
+2016	12382	79	Brooklyn	3	1653256.0	Zhao, Rudy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653256.0	6-0	So	0	0
+2016	12382	480	CCNY	3	1650798.0	Bello, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650798.0	5-9	So	0	0
+2016	12382	480	CCNY	9	1538459.0	Boychuk, Oleksandr	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538459.0	5-7	Jr	0	0
+2016	12382	480	CCNY	8	1650801.0	Campbell, Marvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650801.0	5-9	So	0	0
+2016	12382	480	CCNY	7	1650800.0	Cham, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650800.0	5-9	So	0	0
+2016	12382	480	CCNY	11	1650802.0	Chen, Albert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650802.0	5-10	So	0	0
+2016	12382	480	CCNY	2	1538466.0	Mendoza, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538466.0	5-11	Jr	0	0
+2016	12382	480	CCNY	15	1538465.0	Pascual, Leonel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538465.0	6-1	Sr	0	0
+2016	12382	480	CCNY	4	1544728.0	Quoc, Cuong	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544728.0	5-5	Sr	0	0
+2016	12382	480	CCNY	12	1650799.0	Smalley, Alec	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650799.0	6-1	So	0	0
+2016	12382	480	CCNY	13	1650803.0	Thinley, Tenzin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650803.0	5-10	So	0	0
+2016	12382	480	CCNY	16	1650804.0	Vega, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650804.0	5-7	So	0	0
+2016	12382	480	CCNY	17	1666012.0	Veras, Leudy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1666012.0	5-10	Jr	0	0
+2016	12382	480	CCNY	14	1656192.0	Yin, Jeffrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1656192.0	5-10	Sr	0	0
+2016	12382	1305	Cairn	11	1427760.0	Colson, Randall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427760.0	6-3	Sr	0	0
+2016	12382	1305	Cairn	4	1427762.0	Emond, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427762.0	6-3	Sr	0	0
+2016	12382	1305	Cairn	12	1649530.0	Godshall, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649530.0	6-3	So	0	0
+2016	12382	1305	Cairn	2	1649528.0	Lower, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649528.0	6-3	So	0	0
+2016	12382	1305	Cairn	10	1649529.0	Willits, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649529.0	6-4	So	0	0
+2016	12382	1305	Cairn	7	1544732.0	Winters, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544732.0	6-4	Sr	0	0
+2016	12382	121	Carthage	8	1429607.0	Adamczyk, Scotty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429607.0	6-2	Sr	0	0
+2016	12382	121	Carthage	24		Allen, Tony		5-11	Fr	0	0
+2016	12382	121	Carthage	9	1533931.0	Bolan, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533931.0	5-10	Jr	0	0
+2016	12382	121	Carthage	16	1639790.0	Bongratz, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639790.0	6-5	So	0	0
+2016	12382	121	Carthage	3	1430498.0	Craft, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430498.0	6-3	Sr	0	0
+2016	12382	121	Carthage	2		Dobrowolski, Dan		6-0	Fr	0	0
+2016	12382	121	Carthage	14		Drobenko, Zach		6-5	Fr	0	0
+2016	12382	121	Carthage	5	1639793.0	Figueroa, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639793.0	6-0	So	0	0
+2016	12382	121	Carthage	7	1533938.0	Hansen, Marc	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533938.0	6-3	Jr	0	0
+2016	12382	121	Carthage	22	1639795.0	Landgraf, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639795.0	6-5	So	0	0
+2016	12382	121	Carthage	6	1639794.0	Lillig, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639794.0	6-7	So	0	0
+2016	12382	121	Carthage	13	1533933.0	Paull, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533933.0	6-9	Jr	0	0
+2016	12382	121	Carthage	4		Reinsel, Matt		6-3	Fr	0	0
+2016	12382	121	Carthage	11	1533932.0	Saieg, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533932.0	6-4	Jr	0	0
+2016	12382	121	Carthage	15	1533934.0	Shields, Griffin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533934.0	6-8	Jr	0	0
+2016	12382	121	Carthage	12	1429608.0	Tulacka, J.P.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429608.0	6-5	Sr	0	0
+2016	12382	121	Carthage	17		Walsh, Evan		6-6	Fr	0	0
+2016	12382	23624	Cazenovia	5	1541441.0	Ali, Salat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541441.0	-	So	0	0
+2016	12382	23624	Cazenovia	3	1541440.0	Badji, Ibrahima	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541440.0	-	So	0	0
+2016	12382	23624	Cazenovia	1	1541439.0	Bitz, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541439.0	-	So	0	0
+2016	12382	23624	Cazenovia	11	1541442.0	Delgado, Marcos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541442.0	-	So	0	0
+2016	12382	23624	Cazenovia	10	1426884.0	Felittle, Alec	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426884.0	6-1	Sr	0	0
+2016	12382	23624	Cazenovia	15	1426888.0	Purcell, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426888.0	6-0	Sr	0	0
+2016	12382	23624	Cazenovia	8	1426890.0	Scholefield, Conor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426890.0	6-3	Sr	0	0
+2016	12382	1059	D'Youville	15		Bochacki, Zachery		6-2	Fr	0	0
+2016	12382	1059	D'Youville	16	1428955.0	Busha, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428955.0	6-3	Sr	0	0
+2016	12382	1059	D'Youville	7	1428951.0	Cawthorn, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428951.0	6-1	Sr	0	0
+2016	12382	1059	D'Youville	9		Kilijanski, Ryan		6-1	Fr	0	0
+2016	12382	1059	D'Youville	11	1640064.0	Krass, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640064.0	6-4	So	0	0
+2016	12382	1059	D'Youville	10	1428954.0	Loos, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428954.0	6-6	Sr	0	0
+2016	12382	1059	D'Youville	17	1536782.0	McMahon, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536782.0	6-1	Jr	0	0
+2016	12382	1059	D'Youville	6		Singer, Evan		6-4	Sr	0	0
+2016	12382	1059	D'Youville	8	1640066.0	Tetreault, Brock	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640066.0	6-2	So	0	0
+2016	12382	1059	D'Youville	12	1640062.0	Zeiger, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640062.0	6-0	So	0	0
+2016	12382	2691	Daniel Webster	2	1661163.0	Albricoles, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661163.0	-	Fr	0	0
+2016	12382	2691	Daniel Webster	8	1667116.0	Bianca, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1667116.0	-	Fr	0	0
+2016	12382	2691	Daniel Webster	9	1430419.0	Chen, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430419.0	5-6	Sr	0	0
+2016	12382	2691	Daniel Webster	5	1430418.0	Frias, Ariel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430418.0	5-9	Sr	0	0
+2016	12382	2691	Daniel Webster	22	1430421.0	Howdeshell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430421.0	5-11	Sr	0	0
+2016	12382	2691	Daniel Webster	24	1430422.0	Kenney, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430422.0	5-8	Sr	0	0
+2016	12382	2691	Daniel Webster	1	1430416.0	Little, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430416.0	6-2	Sr	0	0
+2016	12382	2691	Daniel Webster	24	1666301.0	Lord, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1666301.0	-	Fr	0	0
+2016	12382	2691	Daniel Webster	21	1430420.0	Mason, Darrien	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430420.0	6-6	Sr	0	0
+2016	12382	2691	Daniel Webster	7	1653485.0	Reyes, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653485.0	-	Fr	0	0
+2016	12382	2691	Daniel Webster	3	1653484.0	Somero, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653484.0	-	Fr	0	0
+2016	12382	2691	Daniel Webster	2	1430417.0	Vargas, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430417.0	6-3	Sr	0	0
+2016	12382	1332	Dominican (IL)	15	1642667.0	Bobrowski, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642667.0	6-2	So	0	0
+2016	12382	1332	Dominican (IL)	5	1531337.0	Costa, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531337.0	5-11	Jr	0	0
+2016	12382	1332	Dominican (IL)	8	1531340.0	Coyne, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531340.0	6-3	Jr	0	0
+2016	12382	1332	Dominican (IL)	4	1531336.0	DeMarco, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531336.0	5-9	Jr	0	0
+2016	12382	1332	Dominican (IL)	11	1531351.0	Janusz, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531351.0	6-4	Jr	0	0
+2016	12382	1332	Dominican (IL)	19	1642668.0	Karalius, Edvinas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642668.0	6-5	So	0	0
+2016	12382	1332	Dominican (IL)	10	1531342.0	Marchese, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531342.0	5-11	Jr	0	0
+2016	12382	1332	Dominican (IL)	22	1642669.0	McFarland, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642669.0	6-2	So	0	0
+2016	12382	1332	Dominican (IL)	7	1531339.0	Mead, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531339.0	5-11	Jr	0	0
+2016	12382	1332	Dominican (IL)	2	1531334.0	Nevrly, Brooks	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531334.0	5-9	Jr	0	0
+2016	12382	1332	Dominican (IL)	6	1531338.0	Royko, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531338.0	6-3	Jr	0	0
+2016	12382	1332	Dominican (IL)	1	1531333.0	Schuneman, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531333.0	6-0	Jr	0	0
+2016	12382	1332	Dominican (IL)	14	1531353.0	Sinn, Zachery	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531353.0	6-3	Jr	0	0
+2016	12382	1332	Dominican (IL)	12	1531352.0	Slonek, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531352.0	6-4	Jr	0	0
+2016	12382	1332	Dominican (IL)	17	1531354.0	Solbrig, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531354.0	6-6	Jr	0	0
+2016	12382	1332	Dominican (IL)	9	1531341.0	Spangler, Aidan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531341.0	6-4	Jr	0	0
+2016	12382	1332	Dominican (IL)	23	1642670.0	Spicer, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642670.0	6-2	So	0	0
+2016	12382	1332	Dominican (IL)	20	1531356.0	Spry, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531356.0	6-4	Jr	0	0
+2016	12382	1332	Dominican (IL)	13	1642671.0	Timreck, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642671.0	6-5	So	0	0
+2016	12382	1332	Dominican (IL)	18	1531355.0	Vlassov, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531355.0	6-4	Jr	0	0
+2016	12382	203	East. Mennonite	1	1537272.0	Brigham, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537272.0	6-2	Jr	0	0
+2016	12382	203	East. Mennonite	5	1644272.0	Buller, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644272.0	5-10	So	0	0
+2016	12382	203	East. Mennonite	15	1644277.0	Callahan, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644277.0	6-1	So	0	0
+2016	12382	203	East. Mennonite	16	1644278.0	Durren, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644278.0	6-5	So	0	0
+2016	12382	203	East. Mennonite	4	1644271.0	Frey, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644271.0	5-7	So	0	0
+2016	12382	203	East. Mennonite	10	1537275.0	Guiciardi, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537275.0	5-11	Jr	0	0
+2016	12382	203	East. Mennonite	9	1644274.0	Kreider, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644274.0	5-11	So	0	0
+2016	12382	203	East. Mennonite	2	1644270.0	Long, Russell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644270.0	6-1	So	0	0
+2016	12382	203	East. Mennonite	11	1644276.0	Lutz, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644276.0	6-8	So	0	0
+2016	12382	203	East. Mennonite	8	1644275.0	Reist, Jesse	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644275.0	6-3	Sr	0	0
+2016	12382	203	East. Mennonite	3	1644273.0	Spanka, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644273.0	6-0	So	0	0
+2016	12382	203	East. Mennonite	12	1427835.0	Spriggs, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427835.0	6-2	Sr	0	0
+2016	12382	213	Elmira	20	1650856.0	BUffum, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650856.0	-	Fr	0	0
+2016	12382	213	Elmira	19	1650885.0	Bryk, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650885.0	-	Fr	0	0
+2016	12382	213	Elmira	2	1426047.0	Ellison, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426047.0	6-1	Sr	0	0
+2016	12382	213	Elmira	4	1650855.0	Faccio, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650855.0	6-1	Sr	0	0
+2016	12382	213	Elmira	1	1537385.0	Garcia Ramos, Felix	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537385.0	5-11	Sr	0	0
+2016	12382	213	Elmira	10	1426046.0	Griffin, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426046.0	6-4	Sr	0	0
+2016	12382	213	Elmira	18	1426051.0	Johnson, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426051.0	6-6	Sr	0	0
+2016	12382	213	Elmira	8	1537386.0	Kawecki, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537386.0	6-0	Jr	0	0
+2016	12382	213	Elmira	6	1426048.0	Kuhn, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426048.0	6-5	Sr	0	0
+2016	12382	213	Elmira	7	1650857.0	Lamparter, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650857.0	-	Fr	0	0
+2016	12382	213	Elmira	4	1426049.0	Rose, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426049.0	6-0	Sr	0	0
+2016	12382	532	Elms	10	1536583.0	Arroyo, Cristian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536583.0	5-11	Sr	0	0
+2016	12382	532	Elms	14	1650892.0	Bondarovsky, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650892.0	6-4	So	0	0
+2016	12382	532	Elms	3	1428802.0	Conklin, Roger	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428802.0	5-8	Sr	0	0
+2016	12382	532	Elms	2	1655298.0	Crowe, Qua'Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655298.0	6-0	Jr	0	0
+2016	12382	532	Elms	13	1536586.0	DeCosmos, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536586.0	6-4	Jr	0	0
+2016	12382	532	Elms	12	1536585.0	Dimanche, Dervin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536585.0	6-1	Jr	0	0
+2016	12382	532	Elms	9	1650891.0	Fry, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650891.0	6-0	So	0	0
+2016	12382	532	Elms	4	1665771.0	Kuyuzov, Misha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1665771.0	6-0	Sr	0	0
+2016	12382	532	Elms	6	1655299.0	Peters, Kahlil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655299.0	6-3	So	0	0
+2016	12382	532	Elms	8	1650890.0	Reis Levy, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650890.0	6-6	So	0	0
+2016	12382	532	Elms	1	1536581.0	Sirois, Joey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536581.0	5-10	Jr	0	0
+2016	12382	214	Emerson	7	1541410.0	Afoa, Stanson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541410.0	-	So	0	0
+2016	12382	214	Emerson	10	1429853.0	Carr, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429853.0	6-1	Sr	0	0
+2016	12382	214	Emerson	1	1429852.0	Frapech, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429852.0	6-2	Sr	0	0
+2016	12382	214	Emerson	18	1543591.0	Gorenc, Dimitri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543591.0	-	So	0	0
+2016	12382	214	Emerson	17	1429854.0	Gross, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429854.0	5-9	Sr	0	0
+2016	12382	214	Emerson	21	1430499.0	Hillman, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430499.0	6-0	Sr	0	0
+2016	12382	214	Emerson	1	1652936.0	Kim, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652936.0	-	Fr	0	0
+2016	12382	214	Emerson	11b		Langlois, Ryan		5-10	Sr	0	0
+2016	12382	214	Emerson	12	1429850.0	McGonigle, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429850.0	6-2	Sr	0	0
+2016	12382	214	Emerson	8	1541411.0	McIntyre, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541411.0	-	So	0	0
+2016	12382	214	Emerson	13	1541412.0	Morgan, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541412.0	-	So	0	0
+2016	12382	214	Emerson	15	1445447.0	O'Hare, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1445447.0	6-2	Sr	0	0
+2016	12382	214	Emerson	18	1670837.0	Pinckney, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1670837.0	-	Fr	0	0
+2016	12382	214	Emerson	7	1650887.0	Regan, Stig	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650887.0	-	Fr	0	0
+2016	12382	214	Emerson	10	1650888.0	Rusk, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650888.0	-	Fr	0	0
+2016	12382	214	Emerson	22	1429851.0	Wiley, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429851.0	6-2	Sr	0	0
+2016	12382	215	Emmanuel (MA)	3		Durgin, Tim		6-1	Fr	0	0
+2016	12382	215	Emmanuel (MA)	5		English, Erik		6-1	Fr	0	0
+2016	12382	215	Emmanuel (MA)	7	1431854.0	Felix, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431854.0	6-3	Sr	0	0
+2016	12382	215	Emmanuel (MA)	4	1431853.0	Gallegos, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431853.0	5-10	Sr	0	0
+2016	12382	215	Emmanuel (MA)	21	1431861.0	Hess, Julian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431861.0	6-5	Sr	0	0
+2016	12382	215	Emmanuel (MA)	11	1431855.0	Jordan, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431855.0	6-2	Sr	0	0
+2016	12382	215	Emmanuel (MA)	6	1663570.0	Manchester, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1663570.0	6-3	So	0	0
+2016	12382	215	Emmanuel (MA)	15	1431857.0	McGarry, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431857.0	6-4	Sr	0	0
+2016	12382	215	Emmanuel (MA)	2		Orsley, Kevin		6-2	Fr	0	0
+2016	12382	215	Emmanuel (MA)	1		Parks, Elijah		5-9	Fr	0	0
+2016	12382	215	Emmanuel (MA)	13	1526981.0	Rojas, Jorge	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526981.0	6-3	Jr	0	0
+2016	12382	215	Emmanuel (MA)	8		Saladrigas, Andres		5-11	Fr	0	0
+2016	12382	215	Emmanuel (MA)	9		Silva, Alex		6-6	Fr	0	0
+2016	12382	215	Emmanuel (MA)	16	1637840.0	Wingard, Barrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637840.0	6-5	Sr	0	0
+2016	12382	8981	Endicott	10	1546168.0	Little, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1546168.0	6-4	Sr	0	0
+2016	12382	8981	Endicott	5	1421651.0	Osborne, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421651.0	6-1	Sr	0	0
+2016	12382	8981	Endicott	12	1637694.0	Patel, Amar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637694.0	6-0	So	0	0
+2016	12382	8981	Endicott	4	1637695.0	Riorden, Troy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637695.0	6-1	So	0	0
+2016	12382	8981	Endicott	22	1421652.0	Seaver, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421652.0	6-2	Sr	0	0
+2016	12382	8981	Endicott	13	1546170.0	Sutherland, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1546170.0	6-4	Jr	0	0
+2016	12382	8981	Endicott	3	1421653.0	Tayek, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421653.0	6-3	Sr	0	0
+2016	12382	8981	Endicott	17	1546169.0	Toth, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1546169.0	6-4	Sr	0	0
+2016	12382	8981	Endicott	23	1421654.0	Wasik, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421654.0	6-5	Sr	0	0
+2016	12382	8981	Endicott	9	1551478.0	Willgoos, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1551478.0	6-1	Jr	0	0
+2016	12382	11538	Fontbonne	6		Eades, Josh		5-11	Fr	0	0
+2016	12382	11538	Fontbonne	21		Grote, Gabe		6-2	Fr	0	0
+2016	12382	11538	Fontbonne	5		Hadzisalihovic, Emir		6-7	Fr	0	0
+2016	12382	11538	Fontbonne	13		Kowalewski, Aaron		6-5	Fr	0	0
+2016	12382	11538	Fontbonne	1	1637548.0	Lendy, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637548.0	6-2	So	0	0
+2016	12382	11538	Fontbonne	22	1637549.0	Lendy, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637549.0	6-2	So	0	0
+2016	12382	11538	Fontbonne	4		Novalic, Nedim		6-3	So	0	0
+2016	12382	11538	Fontbonne	9	1533003.0	Pelker, Zachary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533003.0	6-3	Jr	0	0
+2016	12382	11538	Fontbonne	8	1637551.0	Pitaro, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637551.0	6-2	So	0	0
+2016	12382	11538	Fontbonne	33	1637552.0	Sauermann, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637552.0	6-5	So	0	0
+2016	12382	11538	Fontbonne	17		Schwartze, Brendon		6-3	So	0	0
+2016	12382	11538	Fontbonne	2	1419943.0	Stika, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1419943.0	5-8	Sr	0	0
+2016	12382	11538	Fontbonne	11		Vorva, TJ		6-8	Fr	0	0
+2016	12382	8398	Hilbert	12		Gabamonte, Trevor		6-0	Fr	0	0
+2016	12382	8398	Hilbert	3	1533372.0	Heftka, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533372.0	6-1	Jr	0	0
+2016	12382	8398	Hilbert	14		Henry, Brandon		5-10	Fr	0	0
+2016	12382	8398	Hilbert	1	1649041.0	Kane, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649041.0	6-1	So	0	0
+2016	12382	8398	Hilbert	9	1649044.0	Makowski, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649044.0	5-10	So	0	0
+2016	12382	8398	Hilbert	13	1649045.0	Moscato, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649045.0	6-3	So	0	0
+2016	12382	8398	Hilbert	10		Podgorny, Michael		6-2	Fr	0	0
+2016	12382	8398	Hilbert	2	1649042.0	Schwab, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649042.0	5-8	So	0	0
+2016	12382	8398	Hilbert	7	1423790.0	Schwab, Korey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423790.0	6-2	Sr	0	0
+2016	12382	8398	Hilbert	6		Sieczkarek, Tyler		6-3	Fr	0	0
+2016	12382	292	Hunter	8	1650863.0	Cassidy, Benjamin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650863.0	6-3	So	0	0
+2016	12382	292	Hunter	11	1542872.0	Crusinberry, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542872.0	6-2	Jr	0	0
+2016	12382	292	Hunter	4	1651070.0	Dobrogowski, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1651070.0	6-3	So	0	0
+2016	12382	292	Hunter	13		Hogan, Blake		6-3	Fr	0	0
+2016	12382	292	Hunter	7	1650862.0	Kohler, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650862.0	6-3	Jr	0	0
+2016	12382	292	Hunter	5		Lopez, Manfred		6-1	Jr	0	0
+2016	12382	292	Hunter	3		Lumentut, Glen		5-10	Fr	0	0
+2016	12382	292	Hunter	2	1662885.0	Muir, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1662885.0	5-5	So	0	0
+2016	12382	292	Hunter	9	1650864.0	Rerick, Austen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650864.0	5-10	So	0	0
+2016	12382	292	Hunter	6	1541413.0	Sanchez, Nicolas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541413.0	5-6	Jr	0	0
+2016	12382	292	Hunter	10	1541414.0	Tarquinio, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541414.0	6-5	Jr	0	0
+2016	12382	292	Hunter	1	1650865.0	Zukowski, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650865.0	5-8	So	0	0
+2016	12382	321	John Jay	13	1431322.0	Anderson, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431322.0	6-1	Sr	0	0
+2016	12382	321	John Jay	12	1547904.0	Cintron, Carmelo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1547904.0	5-9	Jr	0	0
+2016	12382	321	John Jay	5	1657630.0	DeJesus, Juan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657630.0	5-9	So	0	0
+2016	12382	321	John Jay	4	1659996.0	Dolores, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1659996.0	5-10	So	0	0
+2016	12382	321	John Jay	15	1554382.0	Jordan, Kendal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554382.0	-	So	0	0
+2016	12382	321	John Jay	21	1431323.0	Palleschi, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431323.0	6-4	Sr	0	0
+2016	12382	321	John Jay	6	1657631.0	Santana, Alexander	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657631.0	6-0	So	0	0
+2016	12382	321	John Jay	1	1661732.0	Wu, Gary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661732.0	5-8	So	0	0
+2016	12382	321	John Jay	2	1657628.0	Yeung, Ivan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657628.0	5-10	So	0	0
+2016	12382	22626	Johnson & Wales (RI)	9	1650859.0	Baker, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650859.0	6-5	Jr	3	0
+2016	12382	22626	Johnson & Wales (RI)	6	1538143.0	Bueno, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538143.0	5-10	Jr	0	0
+2016	12382	22626	Johnson & Wales (RI)	10	1650860.0	Chang, Kanila	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650860.0	4-0	So	3	0
+2016	12382	22626	Johnson & Wales (RI)	5	1750194.0	Crust, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750194.0	6-0	So	3	0
+2016	12382	22626	Johnson & Wales (RI)	20	1424361.0	Eva, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424361.0	6-5	Sr	3	0
+2016	12382	22626	Johnson & Wales (RI)	18		Galvan, Simon		6-9	So	0	0
+2016	12382	22626	Johnson & Wales (RI)	12	1750196.0	Kelley, Donovan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750196.0	6-9	Fr	3	0
+2016	12382	22626	Johnson & Wales (RI)	8	1424359.0	Kennedy, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424359.0	6-2	Sr	3	0
+2016	12382	22626	Johnson & Wales (RI)	16		LaVasseur, Matt		6-5	Fr	0	0
+2016	12382	22626	Johnson & Wales (RI)	3	1670001.0	Lindner, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1670001.0	6-2	So	0	0
+2016	12382	22626	Johnson & Wales (RI)	7	1538146.0	MacKnight, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538146.0	6-3	Jr	3	0
+2016	12382	22626	Johnson & Wales (RI)	14	1650866.0	Malone, Raheem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650866.0	6-5	Sr	0	0
+2016	12382	22626	Johnson & Wales (RI)	13	1558323.0	Malone, Rakeem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1558323.0	6-4	Sr	0	0
+2016	12382	22626	Johnson & Wales (RI)	17	1750199.0	Nadjari, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750199.0	6-0	Fr	1	0
+2016	12382	22626	Johnson & Wales (RI)	19	1750201.0	Ponce, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750201.0	6-4	Fr	3	0
+2016	12382	22626	Johnson & Wales (RI)	11	1750195.0	Rhee, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750195.0	6-0	Fr	2	0
+2016	12382	22626	Johnson & Wales (RI)	4	1650868.0	Schloss, Ethan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650868.0	6-0	So	0	0
+2016	12382	22626	Johnson & Wales (RI)	1	1750193.0	Seda, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750193.0	6-0	Fr	3	0
+2016	12382	22626	Johnson & Wales (RI)	2	1538147.0	Steigerwald, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538147.0	6-3	Jr	0	0
+2016	12382	22626	Johnson & Wales (RI)	15		Viera, Angelo		6-5	Sr	0	0
+2016	12382	325	Juniata	09	1423305.0	Albert, Chad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423305.0	6-5	Sr	0	0
+2016	12382	325	Juniata	7	1665706.0	Bender, Mahlon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1665706.0	6-7	So	0	0
+2016	12382	325	Juniata	13	1423307.0	Elias, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423307.0	6-1	Sr	0	0
+2016	12382	325	Juniata	1	1650886.0	Heron, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650886.0	5-11	So	0	0
+2016	12382	325	Juniata	16	1529078.0	Keisling, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529078.0	6-4	Jr	0	0
+2016	12382	325	Juniata	15	1529079.0	Keuper, Jim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529079.0	6-6	Jr	0	0
+2016	12382	325	Juniata	12	1423522.0	Kinnebrew, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423522.0	6-2	Sr	0	0
+2016	12382	325	Juniata	14	1665707.0	Knapp, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1665707.0	6-3	So	0	0
+2016	12382	325	Juniata	2	1651111.0	Looper, Quinn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1651111.0	5-11	Jr	0	0
+2016	12382	325	Juniata	20	1529082.0	Seeley, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529082.0	6-8	Jr	0	0
+2016	12382	325	Juniata	19	1423309.0	Shelton, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423309.0	6-4	Sr	0	0
+2016	12382	325	Juniata	10	1529080.0	Spiess, Avery	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529080.0	6-4	Jr	0	0
+2016	12382	325	Juniata	8	1651112.0	Vasinko, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1651112.0	6-2	So	0	0
+2016	12382	329	Kean	9	1641202.0	Barrow, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641202.0	6-3	So	0	0
+2016	12382	329	Kean	4	1641200.0	Breslin, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641200.0	5-7	So	3	0
+2016	12382	329	Kean	24		Buseski, Nicholas		6-8	Fr	0	0
+2016	12382	329	Kean	13	1641204.0	Evans, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641204.0	6-2	So	3	0
+2016	12382	329	Kean	17	1641206.0	Fischer, Bill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641206.0	6-0	So	3	0
+2016	12382	329	Kean	22		Garbowski, Kamil		6-6	Fr	0	0
+2016	12382	329	Kean	19	1755777.0	Jones, Chadd	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1755777.0	6-9	Fr	1	0
+2016	12382	329	Kean	3	1641199.0	Kauffman, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641199.0	6-4	So	3	0
+2016	12382	329	Kean	23		Kostin, Maxim		6-4	Fr	0	0
+2016	12382	329	Kean	1		Lynne, Zach		5-6	Fr	0	0
+2016	12382	329	Kean	5		McIntyre, Nick		6-0	Fr	0	0
+2016	12382	329	Kean	20		Mercadante, Nico		6-1	Fr	0	0
+2016	12382	329	Kean	18	1427441.0	Rosario, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427441.0	6-2	Sr	3	0
+2016	12382	329	Kean	2	1641198.0	Schrank, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641198.0	6-0	So	3	0
+2016	12382	329	Kean	7	1641201.0	Taylor, Shayron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641201.0	6-5	So	0	0
+2016	12382	329	Kean	10	1641205.0	Warner, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641205.0	6-6	So	3	0
+2016	12382	329	Kean	26	1755782.0	Zamudio, Victor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1755782.0	6-2	So	1	0
+2016	12382	1159	Keuka	16	1542377.0	Avery, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542377.0	-	So	0	0
+2016	12382	1159	Keuka	1	1650905.0	Brill, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650905.0	-	Fr	0	0
+2016	12382	1159	Keuka	5	1426358.0	Campbell, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426358.0	6-3	Sr	0	0
+2016	12382	1159	Keuka	17	1650910.0	Cantando, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650910.0	-	Fr	0	0
+2016	12382	1159	Keuka	4	1426363.0	Colon, Emmanuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426363.0	5-9	Sr	0	0
+2016	12382	1159	Keuka	14	1650909.0	Corcoran, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650909.0	-	Fr	0	0
+2016	12382	1159	Keuka	21	1426359.0	Ferruzza, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426359.0	6-2	Sr	0	0
+2016	12382	1159	Keuka	15	1657490.0	Gail, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657490.0	-	Fr	0	0
+2016	12382	1159	Keuka	11	1426361.0	Hinman, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426361.0	5-11	Sr	0	0
+2016	12382	1159	Keuka	9	1542375.0	Hosken, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542375.0	-	So	0	0
+2016	12382	1159	Keuka	12	1650908.0	Jackson, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650908.0	-	Fr	0	0
+2016	12382	1159	Keuka	14	1542376.0	Kucko, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542376.0	-	So	0	0
+2016	12382	1159	Keuka	9	1650907.0	Lyon, Cooper	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650907.0	5-10	Sr	0	0
+2016	12382	1159	Keuka	8	1426362.0	Makin, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426362.0	6-0	Sr	0	0
+2016	12382	1159	Keuka	6	1542374.0	Mitu, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542374.0	-	So	0	0
+2016	12382	1159	Keuka	7	1426369.0	Mooring, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426369.0	6-2	Sr	0	0
+2016	12382	1159	Keuka	6	1650906.0	Riley, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650906.0	-	Fr	0	0
+2016	12382	1159	Keuka	13	1426368.0	Rydzynski, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426368.0	6-0	Sr	0	0
+2016	12382	1159	Keuka	2	1542498.0	Simmons, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542498.0	-	So	0	0
+2016	12382	1159	Keuka	1	1543610.0	Sprague, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543610.0	-	So	0	0
+2016	12382	1164	Lakeland	24	1527590.0	Bolda, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527590.0	6-2	Jr	0	0
+2016	12382	1164	Lakeland	5		Cecere, Andrew		5-7	Jr	0	0
+2016	12382	1164	Lakeland	18		Coleman, Tali		6-4	Fr	0	0
+2016	12382	1164	Lakeland	12		Cotterman, Noah		6-4	Fr	0	0
+2016	12382	1164	Lakeland	29	1527592.0	Frahm, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527592.0	6-1	Jr	0	0
+2016	12382	1164	Lakeland	20		Frankel, Ryan		5-6	Fr	0	0
+2016	12382	1164	Lakeland	8		Hunter, Dakota		6-2	Fr	0	0
+2016	12382	1164	Lakeland	10	1527580.0	Krogstad, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527580.0	6-1	Sr	0	0
+2016	12382	1164	Lakeland	22		Levitt, J.T.		5-9	Fr	0	0
+2016	12382	1164	Lakeland	1	1527573.0	Matijevic, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527573.0	5-11	Jr	0	0
+2016	12382	1164	Lakeland	4		Mertler, Addison		5-11	Fr	0	0
+2016	12382	1164	Lakeland	15	1527584.0	Nawa, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527584.0	6-2	Jr	0	0
+2016	12382	1164	Lakeland	11	1643459.0	Perry, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643459.0	6-1	So	0	0
+2016	12382	1164	Lakeland	19	1527586.0	Puccini, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527586.0	6-3	Jr	0	0
+2016	12382	1164	Lakeland	2		Quiroz, Michael		5-11	Fr	0	0
+2016	12382	1164	Lakeland	14	1527583.0	Robbins, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527583.0	6-3	Jr	0	0
+2016	12382	1164	Lakeland	27	1527591.0	Stolz, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527591.0	6-4	Jr	0	0
+2016	12382	1164	Lakeland	3	1643458.0	Takahashi, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643458.0	5-4	So	0	0
+2016	12382	1164	Lakeland	16		Williams, Desmond		6-0	Fr	0	0
+2016	12382	30085	Lancaster Bible	10	1655309.0	Bendo, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655309.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	3	1650871.0	Bigley, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650871.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	7	1531709.0	Forsythe, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531709.0	6-1	Jr	0	0
+2016	12382	30085	Lancaster Bible	18	1430550.0	Leonard, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430550.0	6-0	Sr	0	0
+2016	12382	30085	Lancaster Bible	14	1653413.0	Mack, Sha'Quan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653413.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	4	1650872.0	Stoltzfus, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650872.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	15	1650874.0	Strite, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650874.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	12	1650884.0	Vargas, Freddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650884.0	-	Fr	0	0
+2016	12382	30085	Lancaster Bible	6	1650873.0	Woelkers, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650873.0	-	Fr	0	0
+2016	12382	8486	Lasell	15	1434374.0	Caruso, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1434374.0	6-2	Sr	0	0
+2016	12382	8486	Lasell	18	1541409.0	Davis, Tristan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541409.0	6-6	Jr	0	0
+2016	12382	8486	Lasell	9	1650359.0	Do, Phu	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650359.0	5-4	So	0	0
+2016	12382	8486	Lasell	6	1541406.0	Glenn, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541406.0	6-0	Sr	0	0
+2016	12382	8486	Lasell	10	1650367.0	Gold, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650367.0	6-0	Sr	0	0
+2016	12382	8486	Lasell	16	1434371.0	Jackson, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1434371.0	6-0	Sr	0	0
+2016	12382	8486	Lasell	11	1541407.0	MacDonald, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541407.0	6-2	Jr	0	0
+2016	12382	8486	Lasell	2	1650358.0	Moule, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650358.0	6-1	So	0	0
+2016	12382	8486	Lasell	17	1541408.0	Vautrin, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541408.0	6-3	Sr	0	0
+2016	12382	8486	Lasell	12	1434373.0	Whitman, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1434373.0	6-2	Sr	0	0
+2016	12382	279	Lehman	2	1650789.0	Bautista, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650789.0	5-9	So	0	0
+2016	12382	279	Lehman	99	1653411.0	Diaz, Emmanuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653411.0	4-0	Fr	0	0
+2016	12382	279	Lehman	7	1443053.0	Jimenez, Ramon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1443053.0	6-0	Sr	0	0
+2016	12382	279	Lehman	6	1538132.0	Lino, Jaleel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538132.0	5-11	Sr	0	0
+2016	12382	279	Lehman	11	1659994.0	Nunez, Henry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1659994.0	5-9	So	0	0
+2016	12382	279	Lehman	4	1650792.0	Ortiz, Emmanuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650792.0	5-7	So	0	0
+2016	12382	279	Lehman	8	1538131.0	Perez, Roberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538131.0	5-10	Sr	0	0
+2016	12382	279	Lehman	5	1650791.0	Segura, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650791.0	6-1	So	0	0
+2016	12382	279	Lehman	3	1650790.0	Ventura Diaz, Roberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650790.0	6-0	So	0	0
+2016	12382	24317	Lesley	5	1546172.0	Baker, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1546172.0	-	So	0	0
+2016	12382	24317	Lesley	12	1666302.0	Barletta, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1666302.0	-	Fr	0	0
+2016	12382	24317	Lesley	10	1554380.0	Berreondo, Herbin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554380.0	-	So	0	0
+2016	12382	24317	Lesley	8	1663569.0	Bonilla-Guevara, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1663569.0	-	Fr	0	0
+2016	12382	24317	Lesley	2	1542526.0	Buford, Dexter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542526.0	-	So	0	0
+2016	12382	24317	Lesley	6	1537726.0	Burns, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537726.0	6-3	Jr	0	0
+2016	12382	24317	Lesley	4	1652937.0	Cherry, Jess	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652937.0	-	Fr	0	0
+2016	12382	24317	Lesley	15	1558995.0	DiDomenico, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1558995.0	-	So	0	0
+2016	12382	24317	Lesley	4	1554379.0	Howard, Marcel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554379.0	-	So	0	0
+2016	12382	24317	Lesley	10	1650904.0	Hulteen, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650904.0	-	Fr	0	0
+2016	12382	24317	Lesley	17	1661733.0	Jackson, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661733.0	-	Fr	0	0
+2016	12382	24317	Lesley	4	1546171.0	Johansen, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1546171.0	-	So	0	0
+2016	12382	24317	Lesley	11	1423517.0	Lukas, Makenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423517.0	5-8	Sr	0	0
+2016	12382	24317	Lesley	5	1650903.0	O'Connor, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650903.0	-	Fr	0	0
+2016	12382	24317	Lesley	12	1537731.0	Richardson, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537731.0	5-10	Sr	0	0
+2016	12382	24317	Lesley	3	1542527.0	Shah, Aqib	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542527.0	-	So	0	0
+2016	12382	24317	Lesley	2	1537729.0	Slaby, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537729.0	6-0	Jr	0	0
+2016	12382	24317	Lesley	3	1537730.0	Steevens, Forrest	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537730.0	5-8	Sr	0	0
+2016	12382	24317	Lesley	7	1423520.0	Sutton, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423520.0	5-7	Sr	0	0
+2016	12382	24317	Lesley	9	1537727.0	Ulacco, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537727.0	5-9	Jr	0	0
+2016	12382	364	Loras	3	1642253.0	Anderson, Blair	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642253.0	5-11	So	0	0
+2016	12382	364	Loras	19		Budz, Jeffrey		6-1	Fr	0	0
+2016	12382	364	Loras	18		Chudzik, Jake		6-4	Fr	0	0
+2016	12382	364	Loras	12	1642262.0	Combs, Jimmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642262.0	6-4	So	0	0
+2016	12382	364	Loras	2		Delgado, Anthony		6-0	Fr	0	0
+2016	12382	364	Loras	8		Galvan, Ryan		6-3	Fr	0	0
+2016	12382	364	Loras	7	1642257.0	Kasprzak, Dawid	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642257.0	6-4	So	0	0
+2016	12382	364	Loras	6		Kinney, Greg		6-2	Fr	0	0
+2016	12382	364	Loras	1	1642251.0	Krasich, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642251.0	5-8	So	0	0
+2016	12382	364	Loras	20		Kraus, Paul		6-3	Jr	0	0
+2016	12382	364	Loras	17		Kuchenbecker, Austin		6-4	Fr	0	0
+2016	12382	364	Loras	25		Lopez Morales, Alfredo		5-8	Fr	0	0
+2016	12382	364	Loras	10	1642260.0	Marquez, Shayne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642260.0	5-4	So	0	0
+2016	12382	364	Loras	22		Miller, Aaron		6-2	Fr	0	0
+2016	12382	364	Loras	23		Morgan, Nadir		6-6	Fr	0	0
+2016	12382	364	Loras	24		Paige, Chris		5-8	Fr	0	0
+2016	12382	364	Loras	14		Peters, Leo		6-6	Fr	0	0
+2016	12382	364	Loras	5		Rodriguez, Martin		5-11	Fr	0	0
+2016	12382	364	Loras	15	1642265.0	Ross, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642265.0	6-2	So	0	0
+2016	12382	364	Loras	9	1642259.0	Zacok, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1642259.0	6-2	So	0	0
+2016	12382	364	Loras	21		Zirzow, Eric		6-1	Fr	0	0
+2016	12382	398	MIT	2	1416879.0	Chang, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416879.0	5-9	Sr	0	0
+2016	12382	398	MIT	12		Dong, Yize		6-2	Fr	0	0
+2016	12382	398	MIT	5	1532085.0	Fulay, Suyash	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532085.0	5-8	Jr	0	0
+2016	12382	398	MIT	10		Gasparich, Jacob		6-5	Fr	0	0
+2016	12382	398	MIT	3		Hall, Parker		5-10	Fr	0	0
+2016	12382	398	MIT	15	1637608.0	Hall, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637608.0	6-6	So	0	0
+2016	12382	398	MIT	7		Huang, Aaron		6-3	Fr	0	0
+2016	12382	398	MIT	16		Kaufman, Skyler		6-9	Fr	0	0
+2016	12382	398	MIT	9	1532088.0	Krasuski, Martin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532088.0	6-4	Jr	0	0
+2016	12382	398	MIT	4	1532086.0	Kropp, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532086.0	6-3	Jr	0	0
+2016	12382	398	MIT	6	1637604.0	Leech, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637604.0	6-1	So	0	0
+2016	12382	398	MIT	13	1532089.0	Lucier, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532089.0	6-0	Jr	0	0
+2016	12382	398	MIT	11		Reilly, Matt		6-2	Fr	0	0
+2016	12382	398	MIT	17		Smith, Tavish		6-5	So	0	0
+2016	12382	398	MIT	14		Timberman, Steven		6-5	Fr	0	0
+2016	12382	20220	MSOE	3		Bornemann, Jonathan		6-0	Fr	0	0
+2016	12382	20220	MSOE	11	1538152.0	Boyk, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538152.0	6-3	Jr	0	0
+2016	12382	20220	MSOE	15	1645471.0	Clarke, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645471.0	6-6	So	0	0
+2016	12382	20220	MSOE	4	1430082.0	Donovan, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430082.0	5-11	Sr	0	0
+2016	12382	20220	MSOE	1	1430086.0	Dougherty, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430086.0	5-10	Sr	0	0
+2016	12382	20220	MSOE	5		Guzewski, Dylan		5-10	Fr	0	0
+2016	12382	20220	MSOE	2	1645467.0	Holland, Bryant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645467.0	6-0	So	0	0
+2016	12382	20220	MSOE	7	1538151.0	Humpal, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538151.0	6-4	Jr	0	0
+2016	12382	20220	MSOE	10		Jones, Brian		6-3	Fr	0	0
+2016	12382	20220	MSOE	9	1645472.0	Krisik, Quin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645472.0	6-1	So	0	0
+2016	12382	20220	MSOE	13	1645483.0	Krupski, Ed	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645483.0	6-2	Sr	0	0
+2016	12382	20220	MSOE	14	1645476.0	Miller, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645476.0	6-3	So	0	0
+2016	12382	20220	MSOE	12	1645482.0	Naughton, Neil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645482.0	6-7	So	0	0
+2016	12382	20220	MSOE	18		Rafalo, Paul		6-7	Fr	0	0
+2016	12382	20220	MSOE	6	1645468.0	Runyon, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645468.0	5-8	Fr	0	0
+2016	12382	20220	MSOE	8	1645474.0	Schober, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645474.0	6-4	So	0	0
+2016	12382	20220	MSOE	16	1645473.0	Stealey, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645473.0	6-4	So	0	0
+2016	12382	20220	MSOE	20		Stermer, Colton		6-5	Fr	0	0
+2016	12382	1196	Marian (WI)	4		Barnett, Tyler		5-10	Fr	0	0
+2016	12382	1196	Marian (WI)	3		Dittman, Joey		6-0	Fr	0	0
+2016	12382	1196	Marian (WI)	1		Godfroy, Michael		6-0	Fr	0	0
+2016	12382	1196	Marian (WI)	10		Johnson, Rashid		5-10	Fr	0	0
+2016	12382	1196	Marian (WI)	12		Jones, Thomas		6-0	Fr	0	0
+2016	12382	1196	Marian (WI)	5		Kegel, Taylor		6-2	Fr	0	0
+2016	12382	1196	Marian (WI)	2		Liberski, Cullen		5-6	Fr	0	0
+2016	12382	1196	Marian (WI)	6		Lindsay, Steven		6-0	Fr	0	0
+2016	12382	1196	Marian (WI)	9		Sattersten, Jon		6-5	Fr	0	0
+2016	12382	1196	Marian (WI)	11		Smallpage, Jon		6-5	Fr	0	0
+2016	12382	1196	Marian (WI)	7		Walter, Ben		6-0	Fr	0	0
+2016	12382	1196	Marian (WI)	8		Wendels, Aaron		6-4	So	0	0
+2016	12382	394	Marymount (VA)	6	1649748.0	Bratke, Erich	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649748.0	5-11	So	0	0
+2016	12382	394	Marymount (VA)	11	1649749.0	Caudell, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649749.0	6-3	So	0	0
+2016	12382	394	Marymount (VA)	5	1649747.0	Choate, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649747.0	6-2	So	0	0
+2016	12382	394	Marymount (VA)	18	1649751.0	Clark, Graham	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649751.0	6-7	So	0	0
+2016	12382	394	Marymount (VA)	2	1649744.0	Johannson, Albert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649744.0	6-1	So	0	0
+2016	12382	394	Marymount (VA)	17	1529538.0	Ksiazkiewicz, Tomasz	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529538.0	6-6	Jr	0	0
+2016	12382	394	Marymount (VA)	2	1668798.0	Lionette, C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1668798.0	-	Fr	0	0
+2016	12382	394	Marymount (VA)	8	1529532.0	Lionette, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529532.0	6-0	Jr	0	0
+2016	12382	394	Marymount (VA)	4	1649746.0	Pawlicki, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649746.0	6-0	So	0	0
+2016	12382	394	Marymount (VA)	14	1649750.0	Steranka, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649750.0	6-8	So	0	0
+2016	12382	394	Marymount (VA)	3	1649745.0	Wiechecki, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649745.0	6-4	So	0	0
+2016	12382	23725	Medaille	2	1650923.0	Bloomberg, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650923.0	6-7	Jr	0	0
+2016	12382	23725	Medaille	5	1650924.0	Clark, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650924.0	6-5	So	0	0
+2016	12382	23725	Medaille	1	1540643.0	Crosby, Calvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540643.0	6-6	Jr	0	0
+2016	12382	23725	Medaille	14	1433805.0	Hacherl, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1433805.0	5-8	Sr	0	0
+2016	12382	23725	Medaille	10	1433807.0	Hagerty, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1433807.0	6-5	Sr	0	0
+2016	12382	23725	Medaille	8	1650925.0	Hill, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650925.0	6-2	So	0	0
+2016	12382	23725	Medaille	13	1650926.0	Lotocki, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650926.0	6-0	So	0	0
+2016	12382	23725	Medaille	16	1436753.0	McKelvey, Pete	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1436753.0	6-3	Sr	0	0
+2016	12382	23725	Medaille	17	1433806.0	Schneider, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1433806.0	6-2	Sr	0	0
+2016	12382	403	Medgar Evers	6	1550571.0	Bonhomme, Ronald	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1550571.0	5-10	Jr	0	0
+2016	12382	403	Medgar Evers	8	1444081.0	Chance, Jamal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1444081.0	6-4	Sr	0	0
+2016	12382	403	Medgar Evers	15		Clarke, Cecil		5-11	So	0	0
+2016	12382	403	Medgar Evers	15	1665056.0	Clarke, Cecil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1665056.0	5-11	So	0	0
+2016	12382	403	Medgar Evers	11	1652931.0	Flemius, Kedric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652931.0	6-4	So	0	0
+2016	12382	403	Medgar Evers	3	1666788.0	Miller, Shaquille	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1666788.0	-	Fr	0	0
+2016	12382	403	Medgar Evers	20	1544727.0	Montgomery, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544727.0	5-7	Jr	0	0
+2016	12382	403	Medgar Evers	16	1652930.0	Ofuya, Omasanjuwa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652930.0	6-6	So	0	0
+2016	12382	403	Medgar Evers	7	1444084.0	Ramos Munoz, Adiel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1444084.0	5-7	Sr	0	0
+2016	12382	403	Medgar Evers	12	1544725.0	Seda, Angel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544725.0	6-2	Jr	0	0
+2016	12382	403	Medgar Evers	9	1652929.0	Williams, Denzel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652929.0	6-3	So	0	0
+2016	12382	27901	Mount Ida	9	1429421.0	Ames, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429421.0	5-10	Sr	0	0
+2016	12382	27901	Mount Ida	18	1649666.0	Barclay, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649666.0	5-10	So	0	0
+2016	12382	27901	Mount Ida	7	1537209.0	Brindamour, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537209.0	6-0	Jr	0	0
+2016	12382	27901	Mount Ida	8	1537210.0	Flemming, Gylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537210.0	5-11	Sr	0	0
+2016	12382	27901	Mount Ida	5	1649667.0	Griffenkranz, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649667.0	6-1	Jr	0	0
+2016	12382	27901	Mount Ida	4	1537212.0	McCullough, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537212.0	5-5	Sr	0	0
+2016	12382	27901	Mount Ida	10	1429426.0	Miranda, Dennis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429426.0	6-0	Sr	0	0
+2016	12382	27901	Mount Ida	2	1537214.0	Shaw, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537214.0	5-8	Jr	0	0
+2016	12382	27901	Mount Ida	20	1429427.0	Wessel, Jimmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429427.0	5-11	Sr	0	0
+2016	12382	8567	Mt. St. Joseph	21	1637819.0	Ales, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637819.0	5-11	So	0	0
+2016	12382	8567	Mt. St. Joseph	7	1526311.0	Bimbrich, Toby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526311.0	6-5	Sr	0	0
+2016	12382	8567	Mt. St. Joseph	16	1637818.0	Bradley, Darien	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637818.0	6-0	So	0	0
+2016	12382	8567	Mt. St. Joseph	22		Chisholm, Andrew		6-11	So	0	0
+2016	12382	8567	Mt. St. Joseph	6	1526310.0	Cooper, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526310.0	6-4	Jr	0	0
+2016	12382	8567	Mt. St. Joseph	12	1637821.0	Herdeman, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637821.0	5-11	So	0	0
+2016	12382	8567	Mt. St. Joseph	10		Holt, Ben		6-7	Fr	0	0
+2016	12382	8567	Mt. St. Joseph	8	1526312.0	Kuebler, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526312.0	5-11	Jr	0	0
+2016	12382	8567	Mt. St. Joseph	11	1526314.0	Lehmann, Lyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526314.0	6-1	Jr	0	0
+2016	12382	8567	Mt. St. Joseph	20	1637822.0	Neiheisel, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637822.0	6-5	Sr	0	0
+2016	12382	8567	Mt. St. Joseph	17	1526313.0	Planek, Richie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526313.0	6-3	Jr	0	0
+2016	12382	8567	Mt. St. Joseph	3		Siemer, Kevin		6-3	Fr	0	0
+2016	12382	8567	Mt. St. Joseph	4	1637815.0	Storc, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637815.0	6-5	So	0	0
+2016	12382	8567	Mt. St. Joseph	15	1637817.0	Swanson, Darrel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637817.0	6-0	So	0	0
+2016	12382	8567	Mt. St. Joseph	2	1526308.0	Vohland, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526308.0	6-4	Jr	0	0
+2016	12382	8567	Mt. St. Joseph	14	1637816.0	Williams, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637816.0	6-1	So	0	0
+2016	12382	8567	Mt. St. Joseph	18		Zureick, C.J.		6-7	So	0	0
+2016	12382	451	Mt. St. Vincent	10	1649804.0	Baluyot, Nathaniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649804.0	5-9	So	0	0
+2016	12382	451	Mt. St. Vincent	4		Beck, Tim		6-0	So	0	0
+2016	12382	451	Mt. St. Vincent	2	1537733.0	Cucullu, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537733.0	6-4	Jr	0	0
+2016	12382	451	Mt. St. Vincent	15	1649802.0	Dickover, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649802.0	5-11	So	0	0
+2016	12382	451	Mt. St. Vincent	12		Goldberg, Patrick		6-1	Jr	0	0
+2016	12382	451	Mt. St. Vincent	6	1649799.0	O'Connor, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649799.0	6-2	So	0	0
+2016	12382	451	Mt. St. Vincent	11	1649800.0	Skoblar, Neven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649800.0	6-3	So	0	0
+2016	12382	451	Mt. St. Vincent	22		Smith, Owen		6-3	So	0	0
+2016	12382	451	Mt. St. Vincent	9		Steiger, Jordan		6-0	Fr	0	0
+2016	12382	479	NYU	19	1417750.0	Benson, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417750.0	6-3	Sr	0	0
+2016	12382	479	NYU	16	1417751.0	Bueno, Phil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417751.0	6-3	Sr	0	0
+2016	12382	479	NYU	2	1527241.0	Chiu, Derrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527241.0	6-0	Jr	0	0
+2016	12382	479	NYU	14	1637843.0	Corbett, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637843.0	6-5	So	0	0
+2016	12382	479	NYU	22		Fauntleroy, Tristan		6-4	So	0	0
+2016	12382	479	NYU	6	1527242.0	Getz, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527242.0	6-1	Jr	0	0
+2016	12382	479	NYU	33	1527243.0	Henriquez, Jerry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527243.0	6-1	Jr	0	0
+2016	12382	479	NYU	11	1527244.0	Holway, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527244.0	5-11	Sr	0	0
+2016	12382	479	NYU	25	1637845.0	Jazgarski, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637845.0	6-3	So	0	0
+2016	12382	479	NYU	24	1527245.0	Klein, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527245.0	6-2	Jr	0	0
+2016	12382	479	NYU	4	1637846.0	Kopenhefer, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637846.0	6-0	So	0	0
+2016	12382	479	NYU	17	1527246.0	Kozloski, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527246.0	6-5	Jr	0	0
+2016	12382	479	NYU	15	1417753.0	LaPorte, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417753.0	6-5	Sr	0	0
+2016	12382	479	NYU	20	1417754.0	Lauer, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417754.0	6-5	Sr	0	0
+2016	12382	479	NYU	21	1527248.0	Leahy, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527248.0	6-5	Jr	0	0
+2016	12382	479	NYU	1	1527249.0	Merrick, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527249.0	6-2	Jr	0	0
+2016	12382	479	NYU	3	1637847.0	Oxnard, Benjamin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637847.0	5-8	So	0	0
+2016	12382	479	NYU	10	1637848.0	Rivera, Jaime	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637848.0	6-0	So	0	0
+2016	12382	479	NYU	7	1417756.0	Sharp, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417756.0	5-10	Sr	0	0
+2016	12382	479	NYU	18	1417757.0	Steiner, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417757.0	6-4	Sr	0	0
+2016	12382	479	NYU	12	1527250.0	Tan, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527250.0	6-3	Jr	0	0
+2016	12382	479	NYU	8	1637849.0	Zhu, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637849.0	6-3	So	0	0
+2016	12382	461	Nazareth	11	1421881.0	Beeman, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421881.0	6-2	Sr	0	0
+2016	12382	461	Nazareth	15	1643712.0	Bittker, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643712.0	6-4	So	0	0
+2016	12382	461	Nazareth	9	1421876.0	Every, Coulton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421876.0	6-6	Sr	0	0
+2016	12382	461	Nazareth	5	1421874.0	Hieb, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421874.0	6-5	Sr	0	0
+2016	12382	461	Nazareth	1	1643710.0	Kemp, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643710.0	6-1	So	0	0
+2016	12382	461	Nazareth	4	1421877.0	Levermore, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421877.0	6-5	Sr	0	0
+2016	12382	461	Nazareth	7	1421879.0	Mahan, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421879.0	6-6	Sr	0	0
+2016	12382	461	Nazareth	12	1421880.0	McCarty, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421880.0	6-2	Sr	0	0
+2016	12382	461	Nazareth	2	1421873.0	Randolph, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421873.0	6-3	Sr	0	0
+2016	12382	461	Nazareth	6	1540189.0	Sarneckis, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540189.0	6-3	Jr	0	0
+2016	12382	461	Nazareth	3	1643711.0	Stroh, Pat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643711.0	6-4	So	0	0
+2016	12382	461	Nazareth	19	1643713.0	Wittorff, Kane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643713.0	6-4	Jr	0	0
+2016	12382	461	Nazareth	13	1421878.0	Zyburt, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421878.0	6-6	Sr	0	0
+2016	12382	319	New Jersey City	17	1652195.0	Bryan, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652195.0	6-5	So	0	0
+2016	12382	319	New Jersey City	13	1430400.0	Casillas, Jordon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430400.0	5-10	Sr	0	0
+2016	12382	319	New Jersey City	5	1430393.0	Castro, Raymel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430393.0	6-1	Sr	0	0
+2016	12382	319	New Jersey City	7	1532217.0	Coure, Sheldon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532217.0	6-2	Jr	0	0
+2016	12382	319	New Jersey City	6	1652190.0	Ghant, Andre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652190.0	6-3	So	0	0
+2016	12382	319	New Jersey City	9	1652191.0	Leon, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652191.0	6-0	So	0	0
+2016	12382	319	New Jersey City	2	1652188.0	Maldonado, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652188.0	6-0	So	0	0
+2016	12382	319	New Jersey City	11	1652192.0	Poh, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652192.0	6-2	Sr	0	0
+2016	12382	319	New Jersey City	3	1652189.0	Rezki, Tijani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652189.0	6-0	So	0	0
+2016	12382	319	New Jersey City	12	1652193.0	Safavi, Arthur	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652193.0	6-0	So	0	0
+2016	12382	319	New Jersey City	16	1652194.0	Sorrell, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652194.0	6-6	So	0	0
+2016	12382	319	New Jersey City	10	1430394.0	Tribbett, Kendall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430394.0	6-3	Sr	0	0
+2016	12382	319	New Jersey City	8	1430398.0	Wilcox, Daque	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430398.0	6-3	Sr	0	0
+2016	12382	21772	Newbury	1		Aranda, Luis		5-10	Fr	0	0
+2016	12382	21772	Newbury	5	1640870.0	Brown-Rose, Xavier	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640870.0	6-0	So	0	0
+2016	12382	21772	Newbury	4		Cruz, Cesar		5-7	Fr	0	0
+2016	12382	21772	Newbury	11	1533619.0	Fox, Nile	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533619.0	6-2	Jr	0	0
+2016	12382	21772	Newbury	20	1640875.0	Holihan, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640875.0	6-4	So	0	0
+2016	12382	21772	Newbury	3		Kaufman, Zach		5-9	Fr	0	0
+2016	12382	21772	Newbury	2		Paige, Khalil		6-4	Jr	0	0
+2016	12382	21772	Newbury	10	1640873.0	Robidoux, Wade	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640873.0	6-4	So	0	0
+2016	12382	21772	Newbury	6	1640871.0	Thorne, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640871.0	6-2	So	0	0
+2016	12382	21772	Newbury	13	1533620.0	Watson, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533620.0	6-3	Sr	0	0
+2016	12382	21772	Newbury	9		Whitehead, Skyelar		6-8	Fr	0	0
+2016	12382	25719	Penn St.-Altoona	9	1650585.0	Bannister, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650585.0	6-4	So	0	0
+2016	12382	25719	Penn St.-Altoona	18	1650589.0	Bury, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650589.0	6-6	So	0	0
+2016	12382	25719	Penn St.-Altoona	20	1540649.0	Byers, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540649.0	6-2	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	8	1544730.0	Collado, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544730.0	5-11	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	4	1650582.0	Fay, J.P.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650582.0	5-9	So	0	0
+2016	12382	25719	Penn St.-Altoona	13	1543592.0	Godfrey, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543592.0	6-3	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	19	1540648.0	Graham, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540648.0	6-4	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	16	1650587.0	Huey, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650587.0	6-2	So	0	0
+2016	12382	25719	Penn St.-Altoona	17	1650588.0	Knepp, Ethan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650588.0	6-0	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	6	1650583.0	Lee, Zachary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650583.0	5-8	So	0	0
+2016	12382	25719	Penn St.-Altoona	15	1650586.0	Lorah, Justis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650586.0	5-6	So	0	0
+2016	12382	25719	Penn St.-Altoona	14	1429899.0	McGarvey, Branden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429899.0	5-10	Sr	0	0
+2016	12382	25719	Penn St.-Altoona	3	1650581.0	Perino, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650581.0	5-7	Jr	0	0
+2016	12382	25719	Penn St.-Altoona	2	1429892.0	Stitt, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429892.0	5-10	Sr	0	0
+2016	12382	25719	Penn St.-Altoona	7	1650584.0	Zeckowski, Jarod	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650584.0	6-1	So	0	0
+2016	12382	538	Penn St.-Behrend	7	1532921.0	Farabaugh, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532921.0	6-2	Jr	0	0
+2016	12382	538	Penn St.-Behrend	15	1650929.0	Kaplon, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650929.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	18	1532925.0	Lippert, JT	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532925.0	5-11	Jr	0	0
+2016	12382	538	Penn St.-Behrend	2	1532918.0	Miller, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532918.0	5-9	Jr	0	0
+2016	12382	538	Penn St.-Behrend	12	1650928.0	Mueller, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650928.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	10	1532922.0	Munk, Trenton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532922.0	6-7	Jr	0	0
+2016	12382	538	Penn St.-Behrend	5	1662439.0	Nosal, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1662439.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	4	1430509.0	Oertly, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430509.0	6-4	Sr	0	0
+2016	12382	538	Penn St.-Behrend	8	1650911.0	Price, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650911.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	9	1650912.0	Robida, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650912.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	14	1430511.0	Theiss, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430511.0	6-2	Sr	0	0
+2016	12382	538	Penn St.-Behrend	11	1650913.0	Vanderhoof, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650913.0	-	Fr	0	0
+2016	12382	538	Penn St.-Behrend	3	1532919.0	Vazquez, Antonio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532919.0	6-2	Jr	0	0
+2016	12382	538	Penn St.-Behrend	13	1532923.0	Vensel, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532923.0	6-0	Jr	0	0
+2016	12382	481	Polytechnic (NY)	3	1424631.0	Ahsan, Munib	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424631.0	5-9	Sr	0	0
+2016	12382	481	Polytechnic (NY)	6	1439865.0	Boni, Massimo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1439865.0	5-9	Sr	0	0
+2016	12382	481	Polytechnic (NY)	7	1424630.0	Galani, Eijaz	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424630.0	6-1	Sr	0	0
+2016	12382	481	Polytechnic (NY)	7	1543571.0	Goachen, Bennet	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543571.0	-	So	0	0
+2016	12382	481	Polytechnic (NY)	1	1424632.0	Liang, Heming	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424632.0	5-8	Sr	0	0
+2016	12382	481	Polytechnic (NY)	5	1543570.0	Ormaeche, Giovani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543570.0	-	So	0	0
+2016	12382	481	Polytechnic (NY)	3	1543568.0	Piazzola, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543568.0	-	So	0	0
+2016	12382	481	Polytechnic (NY)	4	1431327.0	Simon, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1431327.0	6-0	Sr	0	0
+2016	12382	481	Polytechnic (NY)	11	1543572.0	Song, Yong	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543572.0	-	So	0	0
+2016	12382	481	Polytechnic (NY)	10	1543569.0	Teed, Griffin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543569.0	-	So	0	0
+2016	12382	481	Polytechnic (NY)	10	1424634.0	Tsui, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424634.0	5-8	Sr	0	0
+2016	12382	30029	Purchase	6	1539502.0	Carges, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539502.0	6-1	Jr	0	0
+2016	12382	30029	Purchase	15	1539503.0	Damerell, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539503.0	6-3	Jr	0	0
+2016	12382	30029	Purchase	4	1645074.0	Egbert, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645074.0	6-1	Sr	0	0
+2016	12382	30029	Purchase	5	1655297.0	Frascati, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655297.0	-	Fr	0	0
+2016	12382	30029	Purchase	25	1539501.0	Lokke, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539501.0	5-11	Sr	0	0
+2016	12382	30029	Purchase	7	1539499.0	McCarthy, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539499.0	5-10	Sr	0	0
+2016	12382	30029	Purchase	9		Pearl, Timothy		6-2	So	0	0
+2016	12382	30029	Purchase	11	1645075.0	Rapp, Griffin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645075.0	5-10	So	0	0
+2016	12382	30029	Purchase	3	1539500.0	Schwab, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539500.0	6-3	Jr	0	0
+2016	12382	30029	Purchase	18	1645073.0	Tang, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645073.0	5-7	So	0	0
+2016	12382	30029	Purchase	1	1645066.0	Williams, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645066.0	5-8	So	0	0
+2016	12382	564	Ramapo	9	1532452.0	Amos, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532452.0	6-4	Jr	0	0
+2016	12382	564	Ramapo	8	1532451.0	Brandow, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532451.0	6-3	Jr	0	0
+2016	12382	564	Ramapo	12	1532454.0	Carey, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532454.0	6-2	Jr	0	0
+2016	12382	564	Ramapo	17	1532456.0	Casci, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532456.0	6-2	Jr	0	0
+2016	12382	564	Ramapo	7	1429002.0	Desavousges, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429002.0	6-2	Sr	0	0
+2016	12382	564	Ramapo	1	1646210.0	Feigeles, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646210.0	5-11	So	0	0
+2016	12382	564	Ramapo	16	1646215.0	Fitzsimmons, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646215.0	6-5	So	0	0
+2016	12382	564	Ramapo	4	1646213.0	Goldberg, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646213.0	6-1	So	0	0
+2016	12382	564	Ramapo	22	1646216.0	Ljusic, Petko	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646216.0	6-10	So	0	0
+2016	12382	564	Ramapo	21	1532458.0	MacDonald, Kurt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532458.0	5-9	Jr	0	0
+2016	12382	564	Ramapo	10	1532453.0	Matreale, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532453.0	6-5	Jr	0	0
+2016	12382	564	Ramapo	13	1532455.0	Petty, Ajhon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532455.0	6-8	Jr	0	0
+2016	12382	564	Ramapo	3	1646212.0	Shickora, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646212.0	6-3	So	0	0
+2016	12382	564	Ramapo	5	1646214.0	Tavernier, Moe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646214.0	6-6	So	0	0
+2016	12382	564	Ramapo	18	1532457.0	Weissman, Alec	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532457.0	6-2	Jr	0	0
+2016	12382	564	Ramapo	2	1646211.0	Wixted, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646211.0	6-2	So	0	0
+2016	12382	569	Regis (MA)	6	1640895.0	Aquirre, Marcos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640895.0	6-2	So	0	0
+2016	12382	569	Regis (MA)	18		Beimel, Drew		6-1	Fr	0	0
+2016	12382	569	Regis (MA)	23	1532968.0	Bisnett, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532968.0	6-2	Jr	0	0
+2016	12382	569	Regis (MA)	3	1640894.0	Cho, Jaey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640894.0	6-0	So	0	0
+2016	12382	569	Regis (MA)	14	1640898.0	Conte, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640898.0	6-2	So	0	0
+2016	12382	569	Regis (MA)	15		Fitta, Christopher		5-9	So	0	0
+2016	12382	569	Regis (MA)	99	1532971.0	Fuentes, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532971.0	5-8	Jr	0	0
+2016	12382	569	Regis (MA)	11	1532972.0	Hanrahan, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532972.0	5-10	Jr	0	0
+2016	12382	569	Regis (MA)	2	1640893.0	Krahl, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640893.0	6-5	So	0	0
+2016	12382	569	Regis (MA)	19		Lyons, DJ		6-4	Fr	0	0
+2016	12382	569	Regis (MA)	7		Ramos, Jeff		5-10	So	0	0
+2016	12382	569	Regis (MA)	0	1532973.0	Rosas, Renato	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532973.0	5-6	Sr	0	0
+2016	12382	569	Regis (MA)	16	1532969.0	Santiago, Manny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532969.0	6-0	Jr	0	0
+2016	12382	569	Regis (MA)	10		Sindoni, Zach		6-0	Jr	0	0
+2016	12382	569	Regis (MA)	13	1430335.0	Stone, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430335.0	6-0	Sr	0	0
+2016	12382	569	Regis (MA)	8	1640896.0	Tordoff, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640896.0	6-0	Jr	0	0
+2016	12382	18422	Rivier	11	1657634.0	Andler, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657634.0	-	Fr	0	0
+2016	12382	18422	Rivier	15	1532071.0	Blank, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532071.0	6-0	Jr	0	0
+2016	12382	18422	Rivier	4	1653487.0	Bucklin, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653487.0	-	Fr	0	0
+2016	12382	18422	Rivier	37	1430727.0	Hadder, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430727.0	6-0	Sr	0	0
+2016	12382	18422	Rivier	12	1653488.0	Heckler, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653488.0	-	Fr	0	0
+2016	12382	18422	Rivier	26	1432829.0	Hovnanian, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1432829.0	5-9	Sr	0	0
+2016	12382	18422	Rivier	23	1532073.0	LaSance, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532073.0	6-0	Jr	0	0
+2016	12382	18422	Rivier	06	1440725.0	Moody, Kegan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1440725.0	6-0	Sr	0	0
+2016	12382	18422	Rivier	02	1430490.0	Ochoa, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430490.0	6-0	Sr	0	0
+2016	12382	18422	Rivier	04	1532069.0	Ortiz, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532069.0	6-0	Jr	0	0
+2016	12382	18422	Rivier	11	1532070.0	Villarroel, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532070.0	5-8	Jr	0	0
+2016	12382	18422	Rivier	21	1532072.0	Wolski, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532072.0	6-3	Jr	0	0
+2016	12382	586	Rust	8	1544235.0	Brinker, Quemell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544235.0	-	So	0	0
+2016	12382	586	Rust	8	1671367.0	Brinkley, Clarence	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1671367.0	-	Fr	0	0
+2016	12382	586	Rust	10	1650920.0	Connley, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650920.0	-	Fr	0	0
+2016	12382	586	Rust	3	1652254.0	Crosby, Jamarcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1652254.0	-	Fr	3	0
+2016	12382	586	Rust	15	1650921.0	Duncan, Carmoted	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650921.0	-	Fr	0	0
+2016	12382	586	Rust	5	1753919.0	Fartheree, Kelone	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753919.0	-	N/A	2	0
+2016	12382	586	Rust	7	1650918.0	Gill, Derrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650918.0	-	Fr	0	0
+2016	12382	586	Rust	3	1753918.0	Haediman, Nakeveon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753918.0	-	N/A	2	0
+2016	12382	586	Rust	98		Hair, Courtney		5-10	Sr	0	0
+2016	12382	586	Rust	13	1418584.0	Huggins, Razeem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418584.0	6-5	Sr	0	0
+2016	12382	586	Rust	6	1449218.0	Huggins, Rakeel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1449218.0	-	Jr	0	0
+2016	12382	586	Rust	10	1544237.0	Jackson, Rashawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544237.0	-	So	0	0
+2016	12382	586	Rust	3	1544234.0	Jackson, Nathaniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544234.0	-	So	0	0
+2016	12382	586	Rust	2	1418580.0	James, Shamall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418580.0	6-1	Sr	0	0
+2016	12382	586	Rust	14	1418579.0	James, Jamal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418579.0	6-6	Sr	0	0
+2016	12382	586	Rust	10	1418578.0	Lasica, Boyan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418578.0	6-3	Sr	0	0
+2016	12382	586	Rust	22		Lawson`, Keenen		6-3	Sr	0	0
+2016	12382	586	Rust	9	1753920.0	McBride, Markel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753920.0	-	N/A	1	0
+2016	12382	586	Rust	10	1753921.0	McKinley, Jadarrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753921.0	-	N/A	3	0
+2016	12382	586	Rust	8	1650919.0	Noel, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650919.0	-	Fr	0	0
+2016	12382	586	Rust	24	1418583.0	Otero, Orlando	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418583.0	5-9	Sr	0	0
+2016	12382	586	Rust	20	1418582.0	Perinon, Makeem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418582.0	5-11	Sr	0	0
+2016	12382	586	Rust	7	1418585.0	Peter, Edward	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418585.0	6-2	Sr	0	0
+2016	12382	586	Rust	1	1753916.0	Pierre, Gino	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753916.0	-	N/A	3	0
+2016	12382	586	Rust	0	1753915.0	Powell, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753915.0	-	N/A	3	0
+2016	12382	586	Rust	6	1650917.0	Quinn, Clarence	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650917.0	-	Fr	3	0
+2016	12382	586	Rust	15	1544236.0	Richmond, Armond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544236.0	-	So	0	0
+2016	12382	586	Rust	8		Scruggs, Kevin		5-6	Sr	0	0
+2016	12382	586	Rust	2	1753917.0	Silas, Zicais	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753917.0	-	N/A	3	0
+2016	12382	586	Rust	18	1418581.0	Sneed, Timothy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418581.0	6-3	Sr	0	0
+2016	12382	586	Rust	2	1650916.0	Townsend, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650916.0	-	Fr	0	0
+2016	12382	586	Rust	55	1418576.0	Young, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418576.0	6-2	Sr	0	0
+2016	12382	589	Rutgers-Newark	19	1643560.0	Albert, Harrison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643560.0	5-10	Jr	0	0
+2016	12382	589	Rutgers-Newark	9	1532147.0	Alvarez, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532147.0	6-2	Jr	0	0
+2016	12382	589	Rutgers-Newark	4	1643555.0	Bruno, Francisco	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643555.0	6-2	So	0	0
+2016	12382	589	Rutgers-Newark	18	1643559.0	Chemin, Douglas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643559.0	6-1	So	0	0
+2016	12382	589	Rutgers-Newark	13	1420332.0	Chidsey, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420332.0	6-4	Sr	0	0
+2016	12382	589	Rutgers-Newark	6	1420327.0	Collins, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420327.0	5-10	Sr	0	0
+2016	12382	589	Rutgers-Newark	16	1643558.0	Crumlish, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643558.0	6-1	So	0	0
+2016	12382	589	Rutgers-Newark	14	1532149.0	Fredricks, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532149.0	6-1	Jr	0	0
+2016	12382	589	Rutgers-Newark	7	1643556.0	Gutowski, Dom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643556.0	6-6	So	0	0
+2016	12382	589	Rutgers-Newark	3	1420331.0	Kopacz, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420331.0	6-0	Sr	0	0
+2016	12382	589	Rutgers-Newark	15	1532150.0	Kuti, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532150.0	6-3	Jr	0	0
+2016	12382	589	Rutgers-Newark	10	1420324.0	McCandless, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420324.0	6-3	Sr	0	0
+2016	12382	589	Rutgers-Newark	8	1532146.0	Mendez, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532146.0	6-1	Jr	0	0
+2016	12382	589	Rutgers-Newark	17	1420334.0	Mintzer, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420334.0	6-3	Sr	0	0
+2016	12382	589	Rutgers-Newark	23	1420330.0	Nguyen, Quocmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420330.0	5-8	Sr	0	0
+2016	12382	589	Rutgers-Newark	11	1643557.0	Pieper, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643557.0	6-5	So	0	0
+2016	12382	589	Rutgers-Newark	1	1643554.0	Sandy, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643554.0	6-2	So	0	0
+2016	12382	475	SUNY New Paltz	2	1641486.0	Bonilla, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641486.0	6-0	So	0	0
+2016	12382	475	SUNY New Paltz	18	1538140.0	Borfitz, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538140.0	6-6	Jr	0	0
+2016	12382	475	SUNY New Paltz	14	1641509.0	Cohen, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641509.0	6-4	So	0	0
+2016	12382	475	SUNY New Paltz	16	1641510.0	Cole, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641510.0	6-4	So	0	0
+2016	12382	475	SUNY New Paltz	13	1641511.0	Denoncourt, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641511.0	6-6	So	0	0
+2016	12382	475	SUNY New Paltz	1	1641514.0	Escobar, Yorman	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641514.0	6-1	So	0	0
+2016	12382	475	SUNY New Paltz	9	1538139.0	Fishman, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538139.0	6-1	Sr	0	0
+2016	12382	475	SUNY New Paltz	5	1538135.0	Gassert, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538135.0	6-1	Jr	0	0
+2016	12382	475	SUNY New Paltz	4		Goldberg, Matt		6-1	So	0	0
+2016	12382	475	SUNY New Paltz	11	1424571.0	Husmann, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424571.0	6-5	Sr	0	0
+2016	12382	475	SUNY New Paltz	15	1641512.0	Kennedy, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641512.0	6-3	So	0	0
+2016	12382	475	SUNY New Paltz	8	1424570.0	Lilley, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424570.0	6-1	Sr	0	0
+2016	12382	475	SUNY New Paltz	7	1424569.0	Nardone, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424569.0	5-11	Sr	0	0
+2016	12382	475	SUNY New Paltz	19		Norman, Joe		6-9	Jr	0	0
+2016	12382	475	SUNY New Paltz	6	1538138.0	Roessler, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538138.0	6-5	Jr	0	0
+2016	12382	475	SUNY New Paltz	3	1424574.0	Smith, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1424574.0	6-5	Sr	0	0
+2016	12382	475	SUNY New Paltz	20		Smith, Nick		6-3	Fr	0	0
+2016	12382	475	SUNY New Paltz	12		Tuttle, Eric		6-5	Fr	0	0
+2016	12382	475	SUNY New Paltz	10	1538136.0	Woessner, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538136.0	6-5	Jr	0	0
+2016	12382	9500	SUNY Poly	13	1426835.0	Davids, Alan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426835.0	6-4	Sr	0	0
+2016	12382	9500	SUNY Poly	15	1646356.0	Goggin, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646356.0	6-5	So	0	0
+2016	12382	9500	SUNY Poly	08	1646353.0	Grable, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646353.0	6-4	So	0	0
+2016	12382	9500	SUNY Poly	12	1542373.0	Hagen, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542373.0	6-4	Jr	0	0
+2016	12382	9500	SUNY Poly	04	1646352.0	Kasza, Piotr	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1646352.0	6-0	So	0	0
+2016	12382	9500	SUNY Poly	3	1542370.0	Nilsen, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1542370.0	6-2	Jr	0	0
+2016	12382	9500	SUNY Poly	2	1426839.0	O'Connor, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426839.0	5-8	Sr	0	0
+2016	12382	11036	Sage Colleges	11	1650623.0	Cecchi, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650623.0	6-0	So	0	0
+2016	12382	11036	Sage Colleges	5		Cook, Tyler		6-2	Fr	0	0
+2016	12382	11036	Sage Colleges	9		Fabrykiewicz, Peter		5-9	Sr	0	0
+2016	12382	11036	Sage Colleges	3	1650621.0	Fitzpatrick, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650621.0	5-11	So	0	0
+2016	12382	11036	Sage Colleges	7	1650622.0	Guyton, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650622.0	6-4	So	0	0
+2016	12382	11036	Sage Colleges	12		Karl, Zachary		6-0	Fr	0	0
+2016	12382	11036	Sage Colleges	6		Laverty, Austin		6-1	Fr	0	0
+2016	12382	11036	Sage Colleges	1	1538345.0	MacArthur, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538345.0	6-1	Jr	0	0
+2016	12382	11036	Sage Colleges	10		Seybolt, River		6-0	Fr	0	0
+2016	12382	11036	Sage Colleges	2		Tejada, Melvin		6-1	So	0	0
+2016	12382	30163	Sarah Lawrence	7	1526647.0	Carroll, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526647.0	6-0	Sr	0	0
+2016	12382	30163	Sarah Lawrence	98		Efstratudakis, Nikos		6-1	Jr	0	0
+2016	12382	30163	Sarah Lawrence	14	1661634.0	Gamboa, Isaac	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661634.0	6-2	So	0	0
+2016	12382	30163	Sarah Lawrence	15	1661635.0	Hasl, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661635.0	6-2	So	0	0
+2016	12382	30163	Sarah Lawrence	1	1526643.0	Heftel, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526643.0	5-7	Jr	0	0
+2016	12382	30163	Sarah Lawrence	12	1540535.0	Martinez, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540535.0	6-1	Sr	0	0
+2016	12382	30163	Sarah Lawrence	10	1661636.0	McAlevy, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661636.0	6-0	So	0	0
+2016	12382	30163	Sarah Lawrence	8	1544411.0	Sankaran, Amit	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544411.0	6-4	Jr	0	0
+2016	12382	30163	Sarah Lawrence	4	1661638.0	Warke, Richie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1661638.0	5-11	So	0	0
+2016	12382	30163	Sarah Lawrence	3	1526644.0	Zhu, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526644.0	5-8	Jr	0	0
+2016	12382	1379	Southern Vt.	17	1650480.0	Logan, Daveon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650480.0	6-2	Sr	0	0
+2016	12382	1379	Southern Vt.	2	1537206.0	Olivares, Elmer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537206.0	5-11	Jr	0	0
+2016	12382	1379	Southern Vt.	79	1650125.0	Ramirez, Stewart	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650125.0	6-4	So	0	0
+2016	12382	673	Springfield	3		De La Espriella, Billy		6-6	So	0	0
+2016	12382	673	Springfield	9	1526375.0	Ermi, Shaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526375.0	6-4	Jr	0	0
+2016	12382	673	Springfield	17	1637807.0	Evans, Tucker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637807.0	6-0	So	0	0
+2016	12382	673	Springfield	4	1526371.0	Garcia Rubio, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526371.0	6-2	Jr	0	0
+2016	12382	673	Springfield	15		Irizarry, Eli		6-2	Fr	0	0
+2016	12382	673	Springfield	8	1637806.0	Irizarry Feliciano, Joseth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637806.0	6-4	So	0	0
+2016	12382	673	Springfield	18		Jasuta, Kyle		6-4	Fr	0	0
+2016	12382	673	Springfield	16	1421918.0	Johnson, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421918.0	6-3	Sr	0	0
+2016	12382	673	Springfield	1	1526370.0	Mattson, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526370.0	6-7	Jr	0	0
+2016	12382	673	Springfield	12		Neary, Mike		6-6	Fr	0	0
+2016	12382	673	Springfield	7	1637808.0	Padilla Ayala, Ricardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637808.0	6-1	So	0	0
+2016	12382	673	Springfield	13	1421920.0	Rable, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421920.0	6-1	Fr	0	0
+2016	12382	673	Springfield	6	1637810.0	Rodriguez, Jonothan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637810.0	6-6	Fr	0	0
+2016	12382	673	Springfield	5	1637804.0	Vega, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637804.0	6-0	Jr	0	0
+2016	12382	673	Springfield	10	1526374.0	Weedon, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526374.0	6-5	Jr	0	0
+2016	12382	673	Springfield	11		Welsh-White, Julian		6-7	Sr	0	0
+2016	12382	673	Springfield	2	1421919.0	Woods, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421919.0	6-2	Sr	0	0
+2016	12382	673	Springfield	14	1526376.0	Zuvich, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526376.0	6-7	Jr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	15	1448843.0	Delacruz, Clyde	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1448843.0	6-3	Sr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	1	1653482.0	Henderson, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653482.0	5-8	So	0	0
+2016	12382	30072	St. Joseph's (Brkln)	7	1550572.0	Kennedy, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1550572.0	5-10	Jr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	12	1436257.0	Kostikas, Taso	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1436257.0	6-0	Sr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	4	1439724.0	Martinez, Norrin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1439724.0	5-10	Sr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	5	1436256.0	Sanna, Jessup	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1436256.0	6-0	Sr	0	0
+2016	12382	30072	St. Joseph's (Brkln)	3	1653483.0	Syta, Jakub	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653483.0	6-1	So	0	0
+2016	12382	675	Staten Island	2	1662436.0	Ali, Zain	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1662436.0	-	Fr	0	0
+2016	12382	675	Staten Island	7	1650931.0	Antonov, Kiril	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650931.0	-	Fr	0	0
+2016	12382	675	Staten Island	1	1650936.0	Barros, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650936.0	-	Fr	0	0
+2016	12382	675	Staten Island	11	1650933.0	Edwardsen, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650933.0	-	Fr	0	0
+2016	12382	675	Staten Island	13	1650934.0	Kubovitskiy, Danil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650934.0	-	Fr	0	0
+2016	12382	675	Staten Island	8	1650932.0	Lei, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650932.0	-	Fr	0	0
+2016	12382	675	Staten Island	3	1650937.0	Ng, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650937.0	-	Fr	0	0
+2016	12382	675	Staten Island	9	1657014.0	Palencia, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657014.0	-	Fr	0	0
+2016	12382	675	Staten Island	15	1650935.0	Sheydvasser, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650935.0	-	Fr	0	0
+2016	12382	675	Staten Island	5	1650930.0	Shin, Song	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650930.0	-	Fr	0	0
+2016	12382	675	Staten Island	12	1651071.0	Stewart, Dewayne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1651071.0	-	Fr	0	0
+2016	12382	675	Staten Island	10	1657015.0	Szumanski, Philip	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657015.0	-	Fr	0	0
+2016	12382	675	Staten Island	6	1657016.0	Tisbe, Ronald	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657016.0	-	Fr	0	0
+2016	12382	679	Stevens	16	1554381.0	Andrade, Felipe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554381.0	-	So	0	0
+2016	12382	679	Stevens	8	1650876.0	Bennett, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650876.0	-	Fr	0	0
+2016	12382	679	Stevens	12	1649305.0	Bennett, Etan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649305.0	-	Fr	0	0
+2016	12382	679	Stevens	18	1650875.0	Burrell, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650875.0	-	Fr	0	0
+2016	12382	679	Stevens	20	1421799.0	Carpenter, Alexander	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421799.0	6-8	Sr	0	0
+2016	12382	679	Stevens	5	1421795.0	Ciobotaru, Ayal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421795.0	5-10	Sr	0	0
+2016	12382	679	Stevens	24	1421796.0	Eddins, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421796.0	6-4	Sr	0	0
+2016	12382	679	Stevens	4	1641933.0	Evans, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641933.0	-	Fr	0	0
+2016	12382	679	Stevens	21	1641935.0	Ferriter, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641935.0	-	Fr	0	0
+2016	12382	679	Stevens	16	1650877.0	Friend, Cagan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650877.0	-	Fr	0	0
+2016	12382	679	Stevens	3	1538812.0	Russell, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538812.0	6-1	Jr	0	0
+2016	12382	679	Stevens	15	1641934.0	Seifert, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641934.0	-	Fr	0	0
+2016	12382	679	Stevens	1	1538811.0	Shankweiler, Gabe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538811.0	6-2	Jr	0	0
+2016	12382	679	Stevens	22	1421798.0	Sokol, Derrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421798.0	6-4	Sr	0	0
+2016	12382	679	Stevens	7	1538813.0	Stuart, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538813.0	6-5	Jr	0	0
+2016	12382	679	Stevens	10	1421797.0	Vaughan, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421797.0	6-4	Sr	0	0
+2016	12382	679	Stevens	11	1421800.0	Wright, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421800.0	6-7	Sr	0	0
+2016	12382	21852	Stevenson	17	1650883.0	Allen, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650883.0	-	Fr	0	0
+2016	12382	21852	Stevenson	20	1430387.0	Carter, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430387.0	6-3	Sr	0	0
+2016	12382	21852	Stevenson	05	1430389.0	Dubay, Phil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430389.0	6-0	Sr	0	0
+2016	12382	21852	Stevenson	10	1531773.0	Ellis, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531773.0	6-6	Jr	0	0
+2016	12382	21852	Stevenson	22	1531776.0	Fehrs, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531776.0	5-11	Jr	0	0
+2016	12382	21852	Stevenson	19	1531775.0	Gross, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531775.0	6-1	Jr	0	0
+2016	12382	21852	Stevenson	13	1531774.0	Johnson, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531774.0	6-2	Jr	0	0
+2016	12382	21852	Stevenson	32	1653491.0	Kimenhour, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653491.0	-	Fr	0	0
+2016	12382	21852	Stevenson	11	1653489.0	Klunk, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653489.0	-	Fr	0	0
+2016	12382	21852	Stevenson	04	1430390.0	Pottieger, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430390.0	6-4	Sr	0	0
+2016	12382	21852	Stevenson	09	1531772.0	Santangelo, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531772.0	6-2	Jr	0	0
+2016	12382	21852	Stevenson	11	1430391.0	Schuyler, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430391.0	6-4	Sr	0	0
+2016	12382	21852	Stevenson	12	1653490.0	Van, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653490.0	-	Fr	0	0
+2016	12382	21852	Stevenson	21	1430392.0	Wingert, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430392.0	6-4	Sr	0	0
+2016	12382	707	Thiel	22	1650602.0	Coffy, Jeffrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650602.0	6-2	Jr	0	0
+2016	12382	707	Thiel	23	1650603.0	Emanuel, Duane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650603.0	6-6	Jr	0	0
+2016	12382	707	Thiel	14	1540626.0	Hess, Regan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540626.0	6-4	Jr	0	0
+2016	12382	707	Thiel	5	1670914.0	Mallinger, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1670914.0	-	Fr	0	0
+2016	12382	707	Thiel	4	1543609.0	McNutt, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543609.0	6-3	Jr	0	0
+2016	12382	707	Thiel	17	1540629.0	Patterson, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540629.0	6-1	Jr	0	0
+2016	12382	707	Thiel	12	1540625.0	Paunovich, Thad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540625.0	6-1	Jr	0	0
+2016	12382	707	Thiel	13	1559356.0	Roche, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1559356.0	6-0	Jr	0	0
+2016	12382	707	Thiel	16	1540628.0	Rombach, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1540628.0	5-8	Jr	0	0
+2016	12382	707	Thiel	6	1650599.0	Valentic, Franjo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650599.0	6-0	So	0	0
+2016	12382	113	UC Santa Cruz	1	1537240.0	Bardeau, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537240.0	5-11	Jr	3	0
+2016	12382	113	UC Santa Cruz	16	1638825.0	Bates, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638825.0	6-3	Sr	0	0
+2016	12382	113	UC Santa Cruz	24		Budwig, Luke		6-1	So	0	0
+2016	12382	113	UC Santa Cruz	9	1638821.0	Campbell, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638821.0	6-6	So	0	0
+2016	12382	113	UC Santa Cruz	8	1752845.0	Cascio, Raymond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1752845.0	6-6	Fr	3	0
+2016	12382	113	UC Santa Cruz	13		Chen, Kolya		6-0	Fr	0	0
+2016	12382	113	UC Santa Cruz	17		Donohoe, Kyle		6-3	Fr	0	0
+2016	12382	113	UC Santa Cruz	19		Fortner, Justin		6-6	Fr	0	0
+2016	12382	113	UC Santa Cruz	12	1537243.0	Gamboa, Gino	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537243.0	6-2	Jr	1	0
+2016	12382	113	UC Santa Cruz	18		Harris, Shad		6-5	So	0	0
+2016	12382	113	UC Santa Cruz	22	1638826.0	Hiroto, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638826.0	5-8	So	3	0
+2016	12382	113	UC Santa Cruz	15	1537326.0	Howard, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537326.0	6-5	Jr	3	0
+2016	12382	113	UC Santa Cruz	11	1638823.0	Kittle, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638823.0	6-2	So	3	0
+2016	12382	113	UC Santa Cruz	10	1638822.0	Manley, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638822.0	6-5	So	1	0
+2016	12382	113	UC Santa Cruz	2	1638818.0	McLaughlin, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638818.0	6-2	So	3	0
+2016	12382	113	UC Santa Cruz	5	1638820.0	Merchen, Lake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638820.0	6-3	So	3	0
+2016	12382	113	UC Santa Cruz	6		Metz, Ryan		5-10	Fr	0	0
+2016	12382	113	UC Santa Cruz	23		Mitchell, Tobin		6-1	Fr	0	0
+2016	12382	113	UC Santa Cruz	21	1427530.0	Reyes, Jorges	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427530.0	6-5	Sr	3	0
+2016	12382	113	UC Santa Cruz	4	1638819.0	Rutan, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638819.0	6-5	Sr	1	0
+2016	12382	113	UC Santa Cruz	7	1752844.0	Santos, Jonothan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1752844.0	5-9	Fr	2	0
+2016	12382	737	Vassar	8	1539637.0	Choquette, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539637.0	6-2	Jr	0	0
+2016	12382	737	Vassar	6	1539636.0	Cimorelli, Trey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539636.0	5-8	Jr	0	0
+2016	12382	737	Vassar	7		Diehl, George		6-4	Fr	0	0
+2016	12382	737	Vassar	5		Gibbs, Austin		5-9	Fr	0	0
+2016	12382	737	Vassar	3		Halberg, Daniel		5-11	Fr	0	0
+2016	12382	737	Vassar	9	1423230.0	Halberg, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423230.0	6-2	Sr	0	0
+2016	12382	737	Vassar	13	1639356.0	Knigge, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639356.0	6-7	So	0	0
+2016	12382	737	Vassar	11	1423226.0	Kriz, Reno	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423226.0	6-3	Sr	0	0
+2016	12382	737	Vassar	15	1639357.0	Lee, Zechariah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639357.0	6-2	So	0	0
+2016	12382	737	Vassar	14	1539638.0	Lizana, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539638.0	6-1	Jr	0	0
+2016	12382	737	Vassar	17	1639359.0	Manley, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639359.0	6-1	So	0	0
+2016	12382	737	Vassar	1	1539635.0	Rutledge, Quinn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539635.0	6-1	Jr	0	0
+2016	12382	737	Vassar	10	1539640.0	Zarchen, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1539640.0	5-6	Jr	0	0
+2016	12382	761	Wells	14	1541472.0	Battey, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541472.0	6-5	Jr	0	0
+2016	12382	761	Wells	2	1650894.0	Battumur, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650894.0	5-9	So	0	0
+2016	12382	761	Wells	2	1657627.0	Bayly, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657627.0	-	Fr	0	0
+2016	12382	761	Wells	15	1650898.0	Bogarowski, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650898.0	6-2	So	0	0
+2016	12382	761	Wells	4	1430424.0	Farruggia, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430424.0	6-1	Sr	0	0
+2016	12382	761	Wells	6	1650897.0	Hartman, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650897.0	5-11	So	0	0
+2016	12382	761	Wells	12	1541471.0	Kaylor, Liam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541471.0	-	So	0	0
+2016	12382	761	Wells	4	1650895.0	Litvin, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650895.0	5-11	So	0	0
+2016	12382	761	Wells	1	1650893.0	Perdicho, Brannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650893.0	6-1	So	0	0
+2016	12382	761	Wells	11	1430427.0	Podczasy, J.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430427.0	6-2	Sr	0	0
+2016	12382	761	Wells	5	1650896.0	Ruhl, J.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650896.0	5-8	So	0	0
+2016	12382	762	Wentworth	7	1536615.0	Cooke, Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536615.0	6-1	Jr	0	0
+2016	12382	762	Wentworth	23	1641381.0	Grevers, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641381.0	6-7	So	0	0
+2016	12382	762	Wentworth	6	1536616.0	Hansen, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536616.0	6-6	Jr	0	0
+2016	12382	762	Wentworth	3	1641378.0	McPeek, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641378.0	5-8	So	0	0
+2016	12382	762	Wentworth	4	1423370.0	Motyl, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423370.0	5-9	Sr	0	0
+2016	12382	762	Wentworth	11	1641380.0	Mullen, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641380.0	6-0	So	0	0
+2016	12382	762	Wentworth	10	1423373.0	Newhouse, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423373.0	5-7	Sr	0	0
+2016	12382	762	Wentworth	5	1641379.0	Oshman, Ollie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641379.0	6-7	So	0	0
+2016	12382	762	Wentworth	20	1536618.0	Potts, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536618.0	6-8	Jr	0	0
+2016	12382	762	Wentworth	9	1536619.0	Reed, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536619.0	6-2	Jr	0	0
+2016	12382	762	Wentworth	12	1536620.0	Ritter, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536620.0	6-1	Jr	0	0
+2016	12382	762	Wentworth	2	1641377.0	Roat, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641377.0	6-4	So	0	0
+2016	12382	762	Wentworth	1	1536621.0	Rogachefsky, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1536621.0	5-10	Jr	0	0
+2016	12382	762	Wentworth	24	1641382.0	Sabin, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641382.0	6-5	So	0	0
+2016	12382	814	Yeshiva	23	1654679.0	Benichou, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1654679.0	5-11	Jr	0	0
+2016	12382	814	Yeshiva	3	1430447.0	Dabah, Jorge	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430447.0	5-10	Sr	0	0
+2016	12382	814	Yeshiva	2	1654677.0	Goldstein, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1654677.0	5-7	Sr	0	0
+2016	12382	814	Yeshiva	34	1654680.0	Marks, Tuvia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1654680.0	6-5	Jr	0	0
+2016	12382	814	Yeshiva	15	1547905.0	Miller, Kolya	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1547905.0	6-0	Sr	0	0
+2016	12382	814	Yeshiva	8	1654676.0	Moradi, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1654676.0	6-0	So	0	0
+2016	12382	814	Yeshiva	21	1654678.0	Shedlo, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1654678.0	6-4	Jr	0	0
+2016	12382	814	Yeshiva	18	1551480.0	Teller, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1551480.0	6-4	Sr	0	0
+2016	12382	814	Yeshiva	1	1543581.0	Zaks, Hirschy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543581.0	5-5	Jr	0	0
+2016	12382	2730	York (NY)	6	1538097.0	Adams, Randy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538097.0	5-10	Jr	0	0
+2016	12382	2730	York (NY)	12	1538100.0	Andre, Knudson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538100.0	6-1	Jr	0	0
+2016	12382	2730	York (NY)	9	1538098.0	Celis, Jeffrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538098.0	5-11	Jr	0	0
+2016	12382	2730	York (NY)	4	1538095.0	DeJesus, Jaquan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538095.0	5-5	Jr	0	0
+2016	12382	2730	York (NY)	7	1655311.0	Duvert, Moise	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655311.0	-	Fr	0	0
+2016	12382	2730	York (NY)	15	1655312.0	Feliz, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655312.0	-	Fr	0	0
+2016	12382	2730	York (NY)	13	1650880.0	George, Akeem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650880.0	-	Fr	0	0
+2016	12382	2730	York (NY)	12	1653412.0	Hass, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653412.0	-	Fr	0	0
+2016	12382	2730	York (NY)	11	1650915.0	Lyttle, Neko	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650915.0	-	Fr	0	0
+2016	12382	2730	York (NY)	10	1657632.0	Manji, Adil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657632.0	-	Fr	0	0
+2016	12382	2730	York (NY)	16	1657633.0	Mohammed, Elbarbary.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1657633.0	-	Fr	0	0
+2016	12382	2730	York (NY)	13	1538101.0	Raza, Habib	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538101.0	6-0	Jr	0	0
+2016	12382	2730	York (NY)	10	1538099.0	Segarra, Isaiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538099.0	5-6	Jr	0	0
+2016	12382	2730	York (NY)	4	1650882.0	Singh, Manprit	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650882.0	-	Fr	0	0
+2016	12382	2730	York (NY)	5	1538096.0	Singh, Paramivir	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538096.0	5-7	Jr	0	0
+2016	12382	2730	York (NY)	9	1650879.0	Soliman, Androw	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650879.0	-	Fr	0	0
+2016	12382	2730	York (NY)	2	1650878.0	Tapia, Frederis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650878.0	-	Fr	0	0
+2016	12382	2730	York (NY)	11	1430668.0	Thomas, Avinash	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1430668.0	5-11	Sr	0	0
+2016	12382	2730	York (NY)	3	1650881.0	Webb, Anson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650881.0	-	Fr	0	0

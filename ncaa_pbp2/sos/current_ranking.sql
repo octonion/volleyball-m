@@ -34,7 +34,7 @@ join ncaa_pbp._factors o
   on (o.parameter,o.level::integer)=('o_div',t.division)
 join ncaa_pbp._factors d
   on (d.parameter,d.level::integer)=('d_div',t.division)
-where sf.year in (2015)
+where sf.year in (2016)
 order by str desc);
 
 select

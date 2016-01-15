@@ -1,0 +1,9 @@
+year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
+2016	12382	22626	Johnson & Wales (RI)	-	Totals	-	-	-	-	3	 	33	24	100	0.090	31	2	10	44	1	2	8	4	41.0	4	1
+2016	12382	22626	Johnson & Wales (RI)	-	Opponent Totals	-	-	-	-	3	 	33	16	98	0.173	31	1	5	35	2	2	11	6	41.5	2	1
+2016	12382	329	Kean	-	Totals	-	-	-	-	3	 	33	16	98	0.173	31	1	5	35	2	2	11	6	41.5	2	1
+2016	12382	329	Kean	-	Opponent Totals	-	-	-	-	3	 	33	24	100	0.090	31	2	10	44	1	2	8	4	41.0	4	1
+2016	12382	586	Rust	-	Totals	-	-	-	-	3	 	1	13	25	-0.480	1	 	4	3	29	 	 	 	1.0	3	 
+2016	12382	586	Rust	-	Opponent Totals	-	-	-	-	3	 	25	4	32	0.656	21	29	8	10	 	1	2	 	56.0	 	1
+2016	12382	113	UC Santa Cruz	-	Totals	-	-	-	-	3	 	44	20	78	0.308	43	7	16	13	1	1	8	1	56.0	 	1
+2016	12382	113	UC Santa Cruz	-	Opponent Totals	-	-	-	-	3	 	21	14	62	0.113	16	1	6	14	7	 	12	2	28.0	1	1
