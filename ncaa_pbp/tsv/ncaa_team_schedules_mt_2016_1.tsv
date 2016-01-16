@@ -1,7 +1,7 @@
 year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	opponent_url	neutral_site	neutral_location	home_game	score_string	team_won	score	exempt	team_score	opponent_score	overtime	overtime_periods	game_id	game_url
 2016	12382	934	Alderson Broaddus	01/08/2016	@ IPFW		IPFW		false		false	-									
 2016	12382	934	Alderson Broaddus	01/09/2016	@ Ball St.	47	Ball St.	http://stats.ncaa.org/team/index/12382?org_id=47	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3980812	http://stats.ncaa.org/game/index/3980812?org_id=47
-2016	12382	934	Alderson Broaddus	01/15/2016	@ East. Mennonite		East. Mennonite		false		false	-									
+2016	12382	934	Alderson Broaddus	01/15/2016	@ East. Mennonite	203	East. Mennonite	http://stats.ncaa.org/team/index/12382?org_id=203	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3985692	http://stats.ncaa.org/game/index/3985692?org_id=203
 2016	12382	934	Alderson Broaddus	01/22/2016	@ Sacred Heart		Sacred Heart		false		false	-									
 2016	12382	934	Alderson Broaddus	01/23/2016	@ Harvard		Harvard		false		false	-									
 2016	12382	934	Alderson Broaddus	01/30/2016	@ Belmont Abbey		Belmont Abbey		false		false	-									
@@ -102,8 +102,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	15646	Barton	04/12/2016	Pfeiffer		Pfeiffer		false		true	-									
 2016	12382	2683	Belmont Abbey	01/15/2016	@ St. Andrews		St. Andrews		false		false	-									
 2016	12382	2683	Belmont Abbey	01/21/2016	@ Emmanuel (GA)		Emmanuel (GA)		false		false	-									
-2016	12382	2683	Belmont Abbey	01/29/2016	King (TN)		King (TN)		false		true	-									
 2016	12382	2683	Belmont Abbey	01/29/2016	St. Andrews		St. Andrews		false		true	-									
+2016	12382	2683	Belmont Abbey	01/29/2016	King (TN)		King (TN)		false		true	-									
 2016	12382	2683	Belmont Abbey	01/30/2016	Alderson Broaddus		Alderson Broaddus		false		true	-									
 2016	12382	2683	Belmont Abbey	01/30/2016	Lees-McRae		Lees-McRae		false		true	-									
 2016	12382	2683	Belmont Abbey	02/02/2016	Pfeiffer		Pfeiffer		false		true	-									
@@ -116,8 +116,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	2683	Belmont Abbey	02/27/2016	@ Limestone		Limestone		false		false	-									
 2016	12382	2683	Belmont Abbey	03/07/2016	Quincy@Lexington, KY		QuincyLexington, KY		false		false	-									
 2016	12382	2683	Belmont Abbey	03/07/2016	King (TN)@Lexington, KY		King (TN)Lexington, KY		false		false	-									
-2016	12382	2683	Belmont Abbey	03/08/2016	Graceland (IA)@Lexington, KY		Graceland (IA)Lexington, KY		false		false	-									
 2016	12382	2683	Belmont Abbey	03/08/2016	Alderson Broaddus@Lexington, KY		Alderson BroaddusLexington, KY		false		false	-									
+2016	12382	2683	Belmont Abbey	03/08/2016	Graceland (IA)@Lexington, KY		Graceland (IA)Lexington, KY		false		false	-									
 2016	12382	2683	Belmont Abbey	03/15/2016	@ Pfeiffer		Pfeiffer		false		false	-									
 2016	12382	2683	Belmont Abbey	03/18/2016	Charleston (WV)		Charleston (WV)		false		true	-									
 2016	12382	2683	Belmont Abbey	03/19/2016	Limestone		Limestone		false		true	-									
@@ -156,8 +156,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	101	CSUN	04/02/2016	@ Pepperdine		Pepperdine		false		false	-									
 2016	12382	101	CSUN	04/07/2016	@ UC Irvine		UC Irvine		false		false	-									
 2016	12382	101	CSUN	04/09/2016	@ UC San Diego		UC San Diego		false		false	-									
-2016	12382	30135	California Baptist	01/08/2016	Quincy @ Santa Barbara, CA	561	Quincy	http://stats.ncaa.org/team/index/12382?org_id=561	true	Santa Barbara, CA	true	W 3 - 2	true	3 - 2	false	3	2	false		3981339	http://stats.ncaa.org/game/index/3981339?org_id=561
 2016	12382	30135	California Baptist	01/08/2016	NJIT @ Santa Barbara, Calif	471	NJIT	http://stats.ncaa.org/team/index/12382?org_id=471	true	Santa Barbara, Calif	true	W 3 - 1	true	3 - 1	false	3	1	false		3982503	http://stats.ncaa.org/game/index/3982503?org_id=471
+2016	12382	30135	California Baptist	01/08/2016	Quincy @ Santa Barbara, CA	561	Quincy	http://stats.ncaa.org/team/index/12382?org_id=561	true	Santa Barbara, CA	true	W 3 - 2	true	3 - 2	false	3	2	false		3981339	http://stats.ncaa.org/game/index/3981339?org_id=561
 2016	12382	30135	California Baptist	01/09/2016	Lindenwood (MO) @ Santa Barbara, Calif	30136	Lindenwood (MO)	http://stats.ncaa.org/team/index/12382?org_id=30136	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		3980814	http://stats.ncaa.org/game/index/3980814?org_id=30136
 2016	12382	30135	California Baptist	01/13/2016	@ CSUN	101	CSUN	http://stats.ncaa.org/team/index/12382?org_id=101	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3983563	http://stats.ncaa.org/game/index/3983563?org_id=101
 2016	12382	30135	California Baptist	01/15/2016	@ Long Beach St.		Long Beach St.		false		false	-									
@@ -167,8 +167,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30135	California Baptist	01/30/2016	Pepperdine		Pepperdine		false		true	-									
 2016	12382	30135	California Baptist	02/03/2016	@ UC Irvine		UC Irvine		false		false	-									
 2016	12382	30135	California Baptist	02/05/2016	@ UC San Diego		UC San Diego		false		false	-									
-2016	12382	30135	California Baptist	02/06/2016	Concordia (CA)		Concordia (CA)		false		true	-									
 2016	12382	30135	California Baptist	02/06/2016	Holy Names		Holy Names		false		true	-									
+2016	12382	30135	California Baptist	02/06/2016	Concordia (CA)		Concordia (CA)		false		true	-									
 2016	12382	30135	California Baptist	02/10/2016	Long Beach St.		Long Beach St.		false		true	-									
 2016	12382	30135	California Baptist	02/12/2016	CSUN		CSUN		false		true	-									
 2016	12382	30135	California Baptist	02/19/2016	BYU		BYU		false		true	-									
@@ -242,8 +242,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	1023	Coker	04/09/2016	Belmont Abbey		Belmont Abbey		false		true	-									
 2016	12382	30199	Concordia (CA)	12/30/2015	@ UC Irvine		UC Irvine		false		false	-									
 2016	12382	30199	Concordia (CA)	12/31/2015	SAIT Poly (CAN)		SAIT Poly (CAN)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3977030	http://stats.ncaa.org/game/index/3977030?org_id=30199
-2016	12382	30199	Concordia (CA)	01/02/2016	King's U. (CAN)		King's U. (CAN)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3977048	http://stats.ncaa.org/game/index/3977048?org_id=30199
 2016	12382	30199	Concordia (CA)	01/02/2016	Regina (CAN)		Regina (CAN)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3977031	http://stats.ncaa.org/game/index/3977031?org_id=30199
+2016	12382	30199	Concordia (CA)	01/02/2016	King's U. (CAN)		King's U. (CAN)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3977048	http://stats.ncaa.org/game/index/3977048?org_id=30199
 2016	12382	30199	Concordia (CA)	01/04/2016	Charleston (WV)	1013	Charleston (WV)	http://stats.ncaa.org/team/index/12382?org_id=1013	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3978910	http://stats.ncaa.org/game/index/3978910?org_id=30199
 2016	12382	30199	Concordia (CA)	01/10/2016	@ Pepperdine	541	Pepperdine	http://stats.ncaa.org/team/index/12382?org_id=541	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3980844	http://stats.ncaa.org/game/index/3980844?org_id=30199
 2016	12382	30199	Concordia (CA)	01/16/2016	Springfield		Springfield		false		true	-									
@@ -261,7 +261,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30199	Concordia (CA)	03/22/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
 2016	12382	30199	Concordia (CA)	03/31/2016	@ Hope Int'l		Hope Int'l		false		false	-									
 2016	12382	30199	Concordia (CA)	04/08/2016	@ Grand Canyon		Grand Canyon		false		false	-									
-2016	12382	30193	Emmanuel (GA)	01/15/2016	@ King (TN)		King (TN)		false		false	-									
+2016	12382	30193	Emmanuel (GA)	01/15/2016	@ King (TN)	30051	King (TN)	http://stats.ncaa.org/team/index/12382?org_id=30051	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3985682	http://stats.ncaa.org/game/index/3985682?org_id=30051
 2016	12382	30193	Emmanuel (GA)	01/16/2016	@ Lees-McRae		Lees-McRae		false		false	-									
 2016	12382	30193	Emmanuel (GA)	01/19/2016	North Greenville		North Greenville		false		true	-									
 2016	12382	30193	Emmanuel (GA)	01/21/2016	Belmont Abbey		Belmont Abbey		false		true	-									
@@ -313,7 +313,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	248	George Mason	01/05/2016	UCLA	110	UCLA	http://stats.ncaa.org/team/index/12382?org_id=110	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3978911	http://stats.ncaa.org/game/index/3978911?org_id=248
 2016	12382	248	George Mason	01/08/2016	UC Irvine @ Provo, Utah	109	UC Irvine	http://stats.ncaa.org/team/index/12382?org_id=109	true	Provo, Utah	true	L 0 - 3	false	0 - 3	false	0	3	false		3980833	http://stats.ncaa.org/game/index/3980833?org_id=109
 2016	12382	248	George Mason	01/09/2016	@ BYU	77	BYU	http://stats.ncaa.org/team/index/12382?org_id=77	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3980840	http://stats.ncaa.org/game/index/3980840?org_id=77
-2016	12382	248	George Mason	01/15/2016	@ Ohio St.		Ohio St.		false		false	-									
+2016	12382	248	George Mason	01/15/2016	@ Ohio St.	518	Ohio St.	http://stats.ncaa.org/team/index/12382?org_id=518	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3985649	http://stats.ncaa.org/game/index/3985649?org_id=518
 2016	12382	248	George Mason	01/16/2016	@ Charleston (WV)		Charleston (WV)		false		false	-									
 2016	12382	248	George Mason	01/29/2016	IPFW		IPFW		false		true	-									
 2016	12382	248	George Mason	01/30/2016	Ball St.		Ball St.		false		true	-									
@@ -339,9 +339,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	248	George Mason	04/16/2016	Penn St.		Penn St.		false		true	-									
 2016	12382	1104	Grand Canyon	01/08/2016	@ Hope Int'l		Hope Int'l		false		false	-									
 2016	12382	1104	Grand Canyon	01/09/2016	@ UC San Diego	112	UC San Diego	http://stats.ncaa.org/team/index/12382?org_id=112	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3980843	http://stats.ncaa.org/game/index/3980843?org_id=112
-2016	12382	1104	Grand Canyon	01/15/2016	Holy Names		Holy Names		false		true	-									
-2016	12382	1104	Grand Canyon	01/16/2016	UC Merced		UC Merced		false		true	-									
+2016	12382	1104	Grand Canyon	01/15/2016	@ Holy Names		Holy Names		false		false	-									
 2016	12382	1104	Grand Canyon	01/16/2016	Holy Names		Holy Names		false		true	-									
+2016	12382	1104	Grand Canyon	01/16/2016	UC Merced		UC Merced		false		true	-									
 2016	12382	1104	Grand Canyon	01/21/2016	@ Hawaii		Hawaii		false		false	-									
 2016	12382	1104	Grand Canyon	01/22/2016	@ Hawaii		Hawaii		false		false	-									
 2016	12382	1104	Grand Canyon	01/29/2016	@ Lewis		Lewis		false		false	-									
@@ -424,10 +424,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30175	Holy Names	01/23/2016	UC San Diego		UC San Diego		false		true	-									
 2016	12382	30175	Holy Names	01/24/2016	UC Merced		UC Merced		false		true	-									
 2016	12382	30175	Holy Names	02/05/2016	@ Hope Int'l		Hope Int'l		false		false	-									
-2016	12382	30175	Holy Names	02/06/2016	Concordia (CA)@Riverside, CA		Concordia (CA)Riverside, CA		false		false	-									
 2016	12382	30175	Holy Names	02/06/2016	@ California Baptist		California Baptist		false		false	-									
-2016	12382	30175	Holy Names	02/20/2016	@ UC San Diego		UC San Diego		false		false	-									
+2016	12382	30175	Holy Names	02/06/2016	Concordia (CA)@Riverside, CA		Concordia (CA)Riverside, CA		false		false	-									
 2016	12382	30175	Holy Names	02/20/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
+2016	12382	30175	Holy Names	02/20/2016	@ UC San Diego		UC San Diego		false		false	-									
 2016	12382	30175	Holy Names	02/21/2016	@ UC Merced		UC Merced		false		false	-									
 2016	12382	30175	Holy Names	02/26/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
 2016	12382	30175	Holy Names	03/08/2016	@ NJIT		NJIT		false		false	-									
@@ -467,7 +467,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30051	King (TN)	01/07/2016	@ Hawaii	277	Hawaii	http://stats.ncaa.org/team/index/12382?org_id=277	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3978936	http://stats.ncaa.org/game/index/3978936?org_id=277
 2016	12382	30051	King (TN)	01/08/2016	Lewis @ Honolulu, Hawai'i	354	Lewis	http://stats.ncaa.org/team/index/12382?org_id=354	true	Honolulu, Hawai'i	true	L 0 - 3	false	0 - 3	false	0	3	false		3979168	http://stats.ncaa.org/game/index/3979168?org_id=30051
 2016	12382	30051	King (TN)	01/10/2016	Harvard @ Honolulu, HI	275	Harvard	http://stats.ncaa.org/team/index/12382?org_id=275	true	Honolulu, HI	true	L 0 - 3	false	0 - 3	false	0	3	false		3980796	http://stats.ncaa.org/game/index/3980796?org_id=30051
-2016	12382	30051	King (TN)	01/15/2016	Emmanuel (GA)		Emmanuel (GA)		false		true	-									
+2016	12382	30051	King (TN)	01/15/2016	Emmanuel (GA)	30193	Emmanuel (GA)	http://stats.ncaa.org/team/index/12382?org_id=30193	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3985682	http://stats.ncaa.org/game/index/3985682?org_id=30051
 2016	12382	30051	King (TN)	01/22/2016	East. Mennonite		East. Mennonite		false		true	-									
 2016	12382	30051	King (TN)	01/27/2016	@ Lees-McRae		Lees-McRae		false		false	-									
 2016	12382	30051	King (TN)	01/29/2016	@ Belmont Abbey		Belmont Abbey		false		false	-									
@@ -481,8 +481,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30051	King (TN)	02/26/2016	Marymount (VA)		Marymount (VA)		false		true	-									
 2016	12382	30051	King (TN)	03/01/2016	@ Erskine		Erskine		false		false	-									
 2016	12382	30051	King (TN)	03/04/2016	@ Emmanuel (GA)		Emmanuel (GA)		false		false	-									
-2016	12382	30051	King (TN)	03/07/2016	Graceland (IA)@Lexington, KY		Graceland (IA)Lexington, KY		false		false	-									
 2016	12382	30051	King (TN)	03/07/2016	Belmont Abbey@Lexington, KY		Belmont AbbeyLexington, KY		false		false	-									
+2016	12382	30051	King (TN)	03/07/2016	Graceland (IA)@Lexington, KY		Graceland (IA)Lexington, KY		false		false	-									
 2016	12382	30051	King (TN)	03/08/2016	Alderson Broaddus@Lexington, KY		Alderson BroaddusLexington, KY		false		false	-									
 2016	12382	30051	King (TN)	03/08/2016	Quincy@Lexington, KY		QuincyLexington, KY		false		false	-									
 2016	12382	30051	King (TN)	03/12/2016	@ Saint Francis (PA)		Saint Francis (PA)		false		false	-									
@@ -689,14 +689,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	1245	Mount Olive	03/05/2016	CSUN@University Park, PA		CSUNUniversity Park, PA		false		false	-									
 2016	12382	1245	Mount Olive	03/13/2016	@ Ball St.		Ball St.		false		false	-									
 2016	12382	1245	Mount Olive	03/22/2016	@ Belmont Abbey		Belmont Abbey		false		false	-									
-2016	12382	1245	Mount Olive	03/26/2016	Alderson Broaddus		Alderson Broaddus		false		true	-									
 2016	12382	1245	Mount Olive	03/26/2016	Erskine		Erskine		false		true	-									
+2016	12382	1245	Mount Olive	03/26/2016	Alderson Broaddus		Alderson Broaddus		false		true	-									
 2016	12382	1245	Mount Olive	04/01/2016	North Greenville		North Greenville		false		true	-									
 2016	12382	1245	Mount Olive	04/02/2016	Emmanuel (GA)		Emmanuel (GA)		false		true	-									
 2016	12382	1245	Mount Olive	04/05/2016	Barton		Barton		false		true	-									
 2016	12382	1245	Mount Olive	04/08/2016	@ Lees-McRae		Lees-McRae		false		false	-									
-2016	12382	1245	Mount Olive	04/09/2016	@ Pfeiffer		Pfeiffer		false		false	-									
 2016	12382	1245	Mount Olive	04/09/2016	@ King (TN)		King (TN)		false		false	-									
+2016	12382	1245	Mount Olive	04/09/2016	@ Pfeiffer		Pfeiffer		false		false	-									
 2016	12382	471	NJIT	01/08/2016	California Baptist @ Santa Barbara, Calif	30135	California Baptist	http://stats.ncaa.org/team/index/12382?org_id=30135	true	Santa Barbara, Calif	true	L 1 - 3	false	1 - 3	false	1	3	false		3982503	http://stats.ncaa.org/game/index/3982503?org_id=471
 2016	12382	471	NJIT	01/08/2016	@ UC Santa Barbara	104	UC Santa Barbara	http://stats.ncaa.org/team/index/12382?org_id=104	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3980808	http://stats.ncaa.org/game/index/3980808?org_id=104
 2016	12382	471	NJIT	01/09/2016	CSUN @ Santa Barbara, Calif	101	CSUN	http://stats.ncaa.org/team/index/12382?org_id=101	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		3980841	http://stats.ncaa.org/game/index/3980841?org_id=101
@@ -738,8 +738,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	9223	North Greenville	02/23/2016	@ King (TN)		King (TN)		false		false	-									
 2016	12382	9223	North Greenville	02/27/2016	Coker		Coker		false		true	-									
 2016	12382	9223	North Greenville	03/02/2016	@ Pfeiffer		Pfeiffer		false		false	-									
-2016	12382	9223	North Greenville	03/08/2016	Bluefield Col.		Bluefield Col.		false		true	-									
 2016	12382	9223	North Greenville	03/08/2016	Charleston (WV)		Charleston (WV)		false		true	-									
+2016	12382	9223	North Greenville	03/08/2016	Bluefield Col.		Bluefield Col.		false		true	-									
 2016	12382	9223	North Greenville	03/15/2016	@ St. Andrews		St. Andrews		false		false	-									
 2016	12382	9223	North Greenville	03/18/2016	@ Coker		Coker		false		false	-									
 2016	12382	9223	North Greenville	03/22/2016	Emmanuel (GA)		Emmanuel (GA)		false		true	-									
@@ -749,9 +749,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	9223	North Greenville	04/06/2016	@ Lees-McRae		Lees-McRae		false		false	-									
 2016	12382	9223	North Greenville	04/09/2016	Limestone		Limestone		false		true	-									
 2016	12382	518	Ohio St.	01/05/2016	@ Princeton	554	Princeton	http://stats.ncaa.org/team/index/12382?org_id=554	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3978914	http://stats.ncaa.org/game/index/3978914?org_id=554
-2016	12382	518	Ohio St.	01/07/2016	UCLA@State College, PA		UCLAState College, PA		false		false	-									
-2016	12382	518	Ohio St.	01/08/2016	Southern California@State College, PA		Southern CaliforniaState College, PA		false		false	-									
-2016	12382	518	Ohio St.	01/15/2016	George Mason		George Mason		false		true	-									
+2016	12382	518	Ohio St.	01/07/2016	UCLA	110	UCLA	http://stats.ncaa.org/team/index/12382?org_id=110	false		true	-									
+2016	12382	518	Ohio St.	01/08/2016	Southern California	657	Southern California	http://stats.ncaa.org/team/index/12382?org_id=657	false		true	-									
+2016	12382	518	Ohio St.	01/15/2016	George Mason	248	George Mason	http://stats.ncaa.org/team/index/12382?org_id=248	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3985649	http://stats.ncaa.org/game/index/3985649?org_id=518
 2016	12382	518	Ohio St.	01/16/2016	Erskine		Erskine		false		true	-									
 2016	12382	518	Ohio St.	01/22/2016	Coker		Coker		false		true	-									
 2016	12382	518	Ohio St.	01/23/2016	Pfeiffer		Pfeiffer		false		true	-									
@@ -775,7 +775,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	518	Ohio St.	04/05/2016	Penn St.		Penn St.		false		true	-									
 2016	12382	518	Ohio St.	04/09/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-									
 2016	12382	518	Ohio St.	04/10/2016	Quincy		Quincy		false		true	-									
-2016	12382	2682	P.R.-Bayamon	01/14/2016	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
+2016	12382	2682	P.R.-Bayamon	01/14/2016	SUNY New Paltz	475	SUNY New Paltz	http://stats.ncaa.org/team/index/12382?org_id=475	false		true	-									
+2016	12382	2716	P.R.-Rio Piedras	01/15/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	539	Penn St.	01/07/2016	Southern California	657	Southern California	http://stats.ncaa.org/team/index/12382?org_id=657	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3979031	http://stats.ncaa.org/game/index/3979031?org_id=539
 2016	12382	539	Penn St.	01/08/2016	UCLA	110	UCLA	http://stats.ncaa.org/team/index/12382?org_id=110	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3979236	http://stats.ncaa.org/game/index/3979236?org_id=539
 2016	12382	539	Penn St.	01/14/2016	@ Loyola Chicago	371	Loyola Chicago	http://stats.ncaa.org/team/index/12382?org_id=371	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3983949	http://stats.ncaa.org/game/index/3983949?org_id=371
@@ -790,8 +791,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	539	Penn St.	02/20/2016	Princeton		Princeton		false		true	-									
 2016	12382	539	Penn St.	02/26/2016	Charleston (WV)		Charleston (WV)		false		true	-									
 2016	12382	539	Penn St.	02/27/2016	George Mason		George Mason		false		true	-									
-2016	12382	539	Penn St.	03/04/2016	CSUN		CSUN		false		true	-									
 2016	12382	539	Penn St.	03/04/2016	Long Beach St.		Long Beach St.		false		true	-									
+2016	12382	539	Penn St.	03/04/2016	CSUN		CSUN		false		true	-									
 2016	12382	539	Penn St.	03/05/2016	Long Beach St.		Long Beach St.		false		true	-									
 2016	12382	539	Penn St.	03/18/2016	Saint Francis (PA)		Saint Francis (PA)		false		true	-									
 2016	12382	539	Penn St.	03/19/2016	Ohio St.		Ohio St.		false		true	-									
@@ -875,7 +876,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	561	Quincy	01/08/2016	California Baptist @ Santa Barbara, CA	30135	California Baptist	http://stats.ncaa.org/team/index/12382?org_id=30135	true	Santa Barbara, CA	true	L 2 - 3	false	2 - 3	false	2	3	false		3981339	http://stats.ncaa.org/game/index/3981339?org_id=561
 2016	12382	561	Quincy	01/08/2016	@ UC Santa Barbara	104	UC Santa Barbara	http://stats.ncaa.org/team/index/12382?org_id=104	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3980832	http://stats.ncaa.org/game/index/3980832?org_id=104
 2016	12382	561	Quincy	01/09/2016	Long Beach St. @ Santa Barbara, Calif	99	Long Beach St.	http://stats.ncaa.org/team/index/12382?org_id=99	true	Santa Barbara, Calif	true	L 1 - 3	false	1 - 3	false	1	3	false		3981277	http://stats.ncaa.org/game/index/3981277?org_id=99
-2016	12382	561	Quincy	01/15/2016	Carthage		Carthage		false		true	-									
+2016	12382	561	Quincy	01/15/2016	Carthage	121	Carthage	http://stats.ncaa.org/team/index/12382?org_id=121	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3985715	http://stats.ncaa.org/game/index/3985715?org_id=561
 2016	12382	561	Quincy	01/22/2016	@ Loras		Loras		false		false	-									
 2016	12382	561	Quincy	01/22/2016	@ Culver-Stockton		Culver-Stockton		false		false	-									
 2016	12382	561	Quincy	01/23/2016	Ottawa@Canton, MO		OttawaCanton, MO		false		false	-									
@@ -965,7 +966,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	600	Saint Francis (PA)	04/15/2016	@ George Mason		George Mason		false		false	-									
 2016	12382	600	Saint Francis (PA)	04/16/2016	@ Charleston (WV)		Charleston (WV)		false		false	-									
 2016	12382	657	Southern California	01/07/2016	@ Penn St.	539	Penn St.	http://stats.ncaa.org/team/index/12382?org_id=539	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3979031	http://stats.ncaa.org/game/index/3979031?org_id=539
-2016	12382	657	Southern California	01/08/2016	Ohio St.@State College, PA		Ohio St.State College, PA		false		false	-									
+2016	12382	657	Southern California	01/08/2016	Ohio St.	518	Ohio St.	http://stats.ncaa.org/team/index/12382?org_id=518	false		true	-									
 2016	12382	657	Southern California	01/15/2016	@ CSUN		CSUN		false		false	-									
 2016	12382	657	Southern California	01/16/2016	@ Long Beach St.		Long Beach St.		false		false	-									
 2016	12382	657	Southern California	01/21/2016	UC Santa Barbara		UC Santa Barbara		false		true	-									
@@ -1101,7 +1102,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	104	UC Santa Barbara	04/06/2016	Pepperdine		Pepperdine		false		true	-									
 2016	12382	104	UC Santa Barbara	04/09/2016	Stanford		Stanford		false		true	-									
 2016	12382	110	UCLA	01/05/2016	@ George Mason	248	George Mason	http://stats.ncaa.org/team/index/12382?org_id=248	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3978911	http://stats.ncaa.org/game/index/3978911?org_id=248
-2016	12382	110	UCLA	01/07/2016	Ohio St.@State College, PA		Ohio St.State College, PA		false		false	-									
+2016	12382	110	UCLA	01/07/2016	Ohio St.	518	Ohio St.	http://stats.ncaa.org/team/index/12382?org_id=518	false		true	-									
 2016	12382	110	UCLA	01/08/2016	@ Penn St.	539	Penn St.	http://stats.ncaa.org/team/index/12382?org_id=539	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3979236	http://stats.ncaa.org/game/index/3979236?org_id=539
 2016	12382	110	UCLA	01/15/2016	@ UC Irvine		UC Irvine		false		false	-									
 2016	12382	110	UCLA	01/16/2016	@ UC San Diego		UC San Diego		false		false	-									
