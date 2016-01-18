@@ -1896,3 +1896,28 @@ game_id	section_id	player_id	player_name	player_url	position	minutes_played	fiel
 3986937	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
 3986937	1		Totals		""	3	 	45	9	69	0.522	43	7	14	25	2	2	4	 	56.0	 
 3986937	1		Total Team Blocks: 4.0	
+3987036	0	1526964	Mol, Hendrik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526964	""	4	1	1	 	4	0.250	 	 	1	1	 	 	4	 	3.0	 
+3987036	0	1417446	McKellar, Iain	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417446	""	4	1	7	2	11	0.455	 	1	 	2	 	 	2	1	9.0	 
+3987036	0	1526962	Franciskovic, Jennings	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526962	""	4	1	2	1	4	0.250	50	 	3	1	1	 	3	 	3.5	 
+3987036	0	1417443	Kanetake, Kolby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417443	""	4	 	 	 	 	 	 	 	 	9	 	 	 	 	 	 
+3987036	0	1526961	Fey, Kupono	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526961	""	4	1	8	6	18	0.111	1	 	1	8	2	1	1	 	9.5	 
+3987036	0	1417451	Zarkovic, Sinisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417451	""	4	1	24	4	35	0.571	1	 	5	7	 	 	 	1	24.0	 
+3987036	0	1749494	Van Tilburg, Stijn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749494	""	4	1	15	1	31	0.452	1	1	3	6	 	 	2	1	17.0	 
+3987036	0	1749495	Worsley, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749495	""	3	 	 	 	 	 	1	 	 	 	 	 	 	 	 	 
+3987036	0	1749486	Cowell, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749486	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3987036	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3987036	0		Totals		""	4	 	57	14	103	0.417	54	2	14	34	3	1	12	3	66.0	 
+3987036	0		Total Team Blocks: 7.0	
+3987036	1	1637540	Harriman, Colby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637540	""	4	1	8	7	20	0.050	1	1	4	3	 	 	2	1	10.0	 
+3987036	1	1637539	Wieczorek, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637539	""	4	1	13	6	29	0.241	 	 	3	3	 	 	3	1	14.5	 
+3987036	1	1637541	Stewart, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637541	""	4	1	1	 	3	0.333	36	1	 	3	 	 	1	 	2.5	 
+3987036	1	1749446	Tarantino, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749446	""	4	1	16	4	29	0.414	1	1	2	4	 	 	4	3	19.0	 
+3987036	1	1534266	Penning, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534266	""	4	1	6	 	14	0.429	1	 	 	3	 	 	2	 	7.0	 
+3987036	1	1750262	Carmody, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750262	""	4	1	4	3	9	0.111	 	 	 	2	 	1	6	3	8.0	 
+3987036	1	1749451	Barnes, Weston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749451	""	4	 	 	 	 	 	4	 	 	4	2	 	 	 	 	 
+3987036	1	1534267	States, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534267	""	3	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3987036	1	1526177	Dion-Kindem, Soren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526177	""	2	 	 	 	 	 	1	 	 	 	 	 	 	 	 	 
+3987036	1	1749443	Wexter, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749443	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3987036	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3987036	1		Totals		""	4	 	48	20	104	0.269	44	3	10	22	2	1	18	8	61.0	 
+3987036	1		Total Team Blocks: 10.0	

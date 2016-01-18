@@ -266,7 +266,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	121	Carthage	03/24/2016	MSOE		MSOE		false		true	-									
 2016	12382	121	Carthage	04/01/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2016	12382	121	Carthage	04/02/2016	Wittenberg		Wittenberg		false		true	-									
-2016	12382	1059	D'Youville	01/14/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	1059	D'Youville	01/14/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	1059	D'Youville	01/14/2016	Mt. St. Vincent @ Union, N.J.	451	Mt. St. Vincent	http://stats.ncaa.org/team/index/12382?org_id=451	true	Union, N.J.	true	W 3 - 1	true	3 - 1	false	3	1	false		3985085	http://stats.ncaa.org/game/index/3985085?org_id=451
 2016	12382	1059	D'Youville	01/15/2016	@ Kean	329	Kean	http://stats.ncaa.org/team/index/12382?org_id=329	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3985594	http://stats.ncaa.org/game/index/3985594?org_id=329
 2016	12382	1059	D'Youville	01/15/2016	Johnson & Wales (RI)@Union, NJ		Johnson & Wales (RI)Union, NJ		false		false	-									
@@ -591,9 +591,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	8398	Hilbert	04/02/2016	Wilson		Wilson		false		true	-									
 2016	12382	8398	Hilbert	04/02/2016	Lancaster Bible		Lancaster Bible		false		true	-									
 2016	12382	8398	Hilbert	04/05/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
-2016	12382	292	Hunter	01/14/2016	D'Youville@Union, NJ		D'YouvilleUnion, NJ		false		false	-									
-2016	12382	292	Hunter	01/15/2016	Stevenson@Union, NJ		StevensonUnion, NJ		false		false	-									
-2016	12382	292	Hunter	01/15/2016	Johnson & Wales (RI)@Union, NJ		Johnson & Wales (RI)Union, NJ		false		false	-									
+2016	12382	292	Hunter	01/14/2016	@ D'Youville		D'Youville		false		false	-									
+2016	12382	292	Hunter	01/15/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	292	Hunter	01/15/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
 2016	12382	292	Hunter	01/26/2016	@ NYU		NYU		false		false	-									
 2016	12382	292	Hunter	02/06/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
 2016	12382	292	Hunter	02/06/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
@@ -646,18 +646,18 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	321	John Jay	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
 2016	12382	321	John Jay	03/29/2016	@ Brooklyn		Brooklyn		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	01/14/2016	@ Kean	329	Kean	http://stats.ncaa.org/team/index/12382?org_id=329	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3985608	http://stats.ncaa.org/game/index/3985608?org_id=329
-2016	12382	22626	Johnson & Wales (RI)	01/15/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	01/15/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	01/15/2016	D'Youville@Union, NJ		D'YouvilleUnion, NJ		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	01/19/2016	@ MIT		MIT		false		false	-									
-2016	12382	22626	Johnson & Wales (RI)	01/22/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	01/22/2016	Endicott		Endicott		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	01/22/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	01/23/2016	Springfield		Springfield		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	01/23/2016	Cairn		Cairn		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	01/27/2016	Southern Vt.		Southern Vt.		false		true	-									
-2016	12382	22626	Johnson & Wales (RI)	02/05/2016	Medaille@Rochester, NY		MedailleRochester, NY		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/05/2016	Elmira@Rochester, NY		ElmiraRochester, NY		false		false	-									
-2016	12382	22626	Johnson & Wales (RI)	02/06/2016	@ Nazareth		Nazareth		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/05/2016	Medaille@Rochester, NY		MedailleRochester, NY		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/06/2016	D'Youville@Rochester, NY		D'YouvilleRochester, NY		false		false	-									
+2016	12382	22626	Johnson & Wales (RI)	02/06/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/11/2016	@ Emerson		Emerson		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/17/2016	@ Rivier		Rivier		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/20/2016	Emerson		Emerson		false		true	-									
@@ -665,10 +665,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	22626	Johnson & Wales (RI)	02/22/2016	@ Mount Ida		Mount Ida		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/24/2016	@ Lasell		Lasell		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	02/27/2016	@ Wentworth		Wentworth		false		false	-									
-2016	12382	22626	Johnson & Wales (RI)	03/11/2016	Lesley		Lesley		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	03/11/2016	Bard		Bard		false		true	-									
-2016	12382	22626	Johnson & Wales (RI)	03/12/2016	York (NY)		York (NY)		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/11/2016	Lesley		Lesley		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	03/12/2016	New Jersey City		New Jersey City		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/12/2016	York (NY)		York (NY)		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	03/15/2016	@ Regis (MA)		Regis (MA)		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	03/22/2016	Wentworth		Wentworth		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Albertus Magnus		Albertus Magnus		false		true	-									
@@ -764,8 +764,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	1159	Keuka	03/23/2016	Wells		Wells		false		true	-									
 2016	12382	1159	Keuka	03/24/2016	@ Elmira		Elmira		false		false	-									
 2016	12382	1159	Keuka	04/02/2016	@ SUNY Poly		SUNY Poly		false		false	-									
-2016	12382	1164	Lakeland	01/15/2016	@ IIT		IIT		false		false	-									
 2016	12382	1164	Lakeland	01/15/2016	Loras	364	Loras	http://stats.ncaa.org/team/index/12382?org_id=364	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3985731	http://stats.ncaa.org/game/index/3985731?org_id=1164
+2016	12382	1164	Lakeland	01/15/2016	@ IIT		IIT		false		false	-									
 2016	12382	1164	Lakeland	01/22/2016	TBA@Thousand Oaks, CA		TBAThousand Oaks, CA		false		false	-									
 2016	12382	1164	Lakeland	01/22/2016	UC Santa Cruz@Cal Lutheran		UC Santa CruzCal Lutheran		false		false	-									
 2016	12382	1164	Lakeland	01/23/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
@@ -775,8 +775,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	1164	Lakeland	01/30/2016	Benedictine (IL)@Dubuque, IA		Benedictine (IL)Dubuque, IA		false		false	-									
 2016	12382	1164	Lakeland	01/30/2016	Calumet Col.@Dubuque, IA		Calumet Col.Dubuque, IA		false		false	-									
 2016	12382	1164	Lakeland	02/05/2016	Wittenberg		Wittenberg		false		true	-									
-2016	12382	1164	Lakeland	02/06/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2016	12382	1164	Lakeland	02/06/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
+2016	12382	1164	Lakeland	02/06/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2016	12382	1164	Lakeland	02/12/2016	@ Adrian		Adrian		false		false	-									
 2016	12382	1164	Lakeland	02/13/2016	@ Olivet		Olivet		false		false	-									
 2016	12382	1164	Lakeland	02/17/2016	Marian (WI)		Marian (WI)		false		true	-									
@@ -802,8 +802,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30085	Lancaster Bible	01/21/2016	Medgar Evers		Medgar Evers		false		true	-									
 2016	12382	30085	Lancaster Bible	01/23/2016	Marymount (VA)@Hoboken, NJ		Marymount (VA)Hoboken, NJ		false		false	-									
 2016	12382	30085	Lancaster Bible	01/23/2016	@ Stevens		Stevens		false		false	-									
-2016	12382	30085	Lancaster Bible	01/30/2016	Southern Vt.@Langhorne, PA		Southern Vt.Langhorne, PA		false		false	-									
 2016	12382	30085	Lancaster Bible	01/30/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	30085	Lancaster Bible	01/30/2016	Southern Vt.@Langhorne, PA		Southern Vt.Langhorne, PA		false		false	-									
 2016	12382	30085	Lancaster Bible	02/10/2016	East. Mennonite		East. Mennonite		false		true	-									
 2016	12382	30085	Lancaster Bible	02/10/2016	Wilson		Wilson		false		true	-									
 2016	12382	30085	Lancaster Bible	02/13/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
@@ -811,12 +811,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30085	Lancaster Bible	02/17/2016	Stevenson		Stevenson		false		true	-									
 2016	12382	30085	Lancaster Bible	02/17/2016	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
 2016	12382	30085	Lancaster Bible	02/20/2016	@ Keuka		Keuka		false		false	-									
-2016	12382	30085	Lancaster Bible	02/21/2016	SUNY Poly@Keuka Park, NY		SUNY PolyKeuka Park, NY		false		false	-									
 2016	12382	30085	Lancaster Bible	02/21/2016	Wells@Keuka Park, NY		WellsKeuka Park, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	02/21/2016	SUNY Poly@Keuka Park, NY		SUNY PolyKeuka Park, NY		false		false	-									
 2016	12382	30085	Lancaster Bible	02/26/2016	@ Medgar Evers		Medgar Evers		false		false	-									
-2016	12382	30085	Lancaster Bible	02/27/2016	Albertus Magnus@Jamaica, NY		Albertus MagnusJamaica, NY		false		false	-									
-2016	12382	30085	Lancaster Bible	02/27/2016	@ York (NY)		York (NY)		false		false	-									
 2016	12382	30085	Lancaster Bible	02/27/2016	John Jay@Jamaica, NY		John JayJamaica, NY		false		false	-									
+2016	12382	30085	Lancaster Bible	02/27/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	30085	Lancaster Bible	02/27/2016	Albertus Magnus@Jamaica, NY		Albertus MagnusJamaica, NY		false		false	-									
 2016	12382	30085	Lancaster Bible	03/04/2016	Hilbert@Chambersburg, PA		HilbertChambersburg, PA		false		false	-									
 2016	12382	30085	Lancaster Bible	03/05/2016	Medaille@Chambersburg, PA		MedailleChambersburg, PA		false		false	-									
 2016	12382	30085	Lancaster Bible	03/05/2016	D'Youville@Chambersburg, PA		D'YouvilleChambersburg, PA		false		false	-									
@@ -827,25 +827,25 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30085	Lancaster Bible	03/19/2016	Wells@Altoona, PA		WellsAltoona, PA		false		false	-									
 2016	12382	30085	Lancaster Bible	03/23/2016	Cairn		Cairn		false		true	-									
 2016	12382	30085	Lancaster Bible	04/01/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
-2016	12382	30085	Lancaster Bible	04/02/2016	Medaille@Hamburg, NY		MedailleHamburg, NY		false		false	-									
 2016	12382	30085	Lancaster Bible	04/02/2016	@ Hilbert		Hilbert		false		false	-									
+2016	12382	30085	Lancaster Bible	04/02/2016	Medaille@Hamburg, NY		MedailleHamburg, NY		false		false	-									
 2016	12382	8486	Lasell	01/22/2016	Springfield@Providence, RI		SpringfieldProvidence, RI		false		false	-									
 2016	12382	8486	Lasell	01/22/2016	Cairn@Providence, RI		CairnProvidence, RI		false		false	-									
-2016	12382	8486	Lasell	01/23/2016	Endicott@Providence, RI		EndicottProvidence, RI		false		false	-									
 2016	12382	8486	Lasell	01/23/2016	Rutgers-Newark@Providence, RI		Rutgers-NewarkProvidence, RI		false		false	-									
+2016	12382	8486	Lasell	01/23/2016	Endicott@Providence, RI		EndicottProvidence, RI		false		false	-									
 2016	12382	8486	Lasell	01/27/2016	@ Newbury		Newbury		false		false	-									
 2016	12382	8486	Lasell	01/29/2016	@ Kean		Kean		false		false	-									
-2016	12382	8486	Lasell	01/30/2016	Stevens@Union, NJ		StevensUnion, NJ		false		false	-									
 2016	12382	8486	Lasell	01/30/2016	Rutgers-Newark@Union, NJ		Rutgers-NewarkUnion, NJ		false		false	-									
+2016	12382	8486	Lasell	01/30/2016	Stevens@Union, NJ		StevensUnion, NJ		false		false	-									
 2016	12382	8486	Lasell	02/02/2016	Emerson		Emerson		false		true	-									
 2016	12382	8486	Lasell	02/06/2016	@ Daniel Webster		Daniel Webster		false		false	-									
 2016	12382	8486	Lasell	02/06/2016	Endicott@Nashua, NH		EndicottNashua, NH		false		false	-									
 2016	12382	8486	Lasell	02/09/2016	@ Wentworth		Wentworth		false		false	-									
-2016	12382	8486	Lasell	02/13/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
 2016	12382	8486	Lasell	02/13/2016	Mount Ida		Mount Ida		false		true	-									
+2016	12382	8486	Lasell	02/13/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
 2016	12382	8486	Lasell	02/19/2016	@ Juniata		Juniata		false		false	-									
-2016	12382	8486	Lasell	02/20/2016	Nazareth@Huntingdon, PA		NazarethHuntingdon, PA		false		false	-									
 2016	12382	8486	Lasell	02/20/2016	SUNY New Paltz@Huntingdon, PA		SUNY New PaltzHuntingdon, PA		false		false	-									
+2016	12382	8486	Lasell	02/20/2016	Nazareth@Huntingdon, PA		NazarethHuntingdon, PA		false		false	-									
 2016	12382	8486	Lasell	02/24/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
 2016	12382	8486	Lasell	02/27/2016	@ Springfield		Springfield		false		false	-									
 2016	12382	8486	Lasell	02/27/2016	Vassar@Springfield, MA		VassarSpringfield, MA		false		false	-									
@@ -859,29 +859,29 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	8486	Lasell	03/31/2016	Wentworth		Wentworth		false		true	-									
 2016	12382	8486	Lasell	04/02/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
 2016	12382	8486	Lasell	04/02/2016	Johnson & Wales (RI)@Emmanuel, MA		Johnson & Wales (RI)Emmanuel, MA		false		false	-									
-2016	12382	279	Lehman	01/31/2016	@ Sage Colleges		Sage Colleges		false		false	-									
 2016	12382	279	Lehman	01/31/2016	Mount Ida@Sage, NY		Mount IdaSage, NY		false		false	-									
+2016	12382	279	Lehman	01/31/2016	@ Sage Colleges		Sage Colleges		false		false	-									
 2016	12382	279	Lehman	02/02/2016	@ Bard		Bard		false		false	-									
 2016	12382	279	Lehman	02/03/2016	Yeshiva		Yeshiva		false		true	-									
 2016	12382	279	Lehman	02/06/2016	York (NY)@New York, NY		York (NY)New York, NY		false		false	-									
 2016	12382	279	Lehman	02/06/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
 2016	12382	279	Lehman	02/10/2016	@ Staten Island		Staten Island		false		false	-									
-2016	12382	279	Lehman	02/15/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
 2016	12382	279	Lehman	02/15/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
+2016	12382	279	Lehman	02/15/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
 2016	12382	279	Lehman	02/18/2016	Brooklyn		Brooklyn		false		true	-									
 2016	12382	279	Lehman	02/19/2016	Purchase		Purchase		false		true	-									
-2016	12382	279	Lehman	02/21/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	279	Lehman	02/21/2016	New Jersey City@Riverdale, NY		New Jersey CityRiverdale, NY		false		false	-									
+2016	12382	279	Lehman	02/21/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	279	Lehman	02/25/2016	Baruch		Baruch		false		true	-									
 2016	12382	279	Lehman	03/02/2016	John Jay		John Jay		false		true	-									
-2016	12382	279	Lehman	03/05/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
 2016	12382	279	Lehman	03/05/2016	John Jay@New York, NY		John JayNew York, NY		false		false	-									
+2016	12382	279	Lehman	03/05/2016	Baruch@New York, NY		BaruchNew York, NY		false		false	-									
 2016	12382	279	Lehman	03/08/2016	Bard		Bard		false		true	-									
 2016	12382	279	Lehman	03/10/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	279	Lehman	03/15/2016	@ CCNY		CCNY		false		false	-									
 2016	12382	279	Lehman	03/16/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
-2016	12382	279	Lehman	03/19/2016	Wentworth@Newton, MA		WentworthNewton, MA		false		false	-									
 2016	12382	279	Lehman	03/19/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	279	Lehman	03/19/2016	Wentworth@Newton, MA		WentworthNewton, MA		false		false	-									
 2016	12382	279	Lehman	03/22/2016	@ Medgar Evers		Medgar Evers		false		false	-									
 2016	12382	279	Lehman	03/26/2016	Medgar Evers@Jamaica, NY		Medgar EversJamaica, NY		false		false	-									
 2016	12382	279	Lehman	03/26/2016	Staten Island@Queens, NY		Staten IslandQueens, NY		false		false	-									
@@ -1157,10 +1157,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	8567	Mt. St. Joseph	03/24/2016	@ Wittenberg		Wittenberg		false		false	-									
 2016	12382	8567	Mt. St. Joseph	04/01/2016	@ Carthage		Carthage		false		false	-									
 2016	12382	8567	Mt. St. Joseph	04/02/2016	@ MSOE		MSOE		false		false	-									
-2016	12382	451	Mt. St. Vincent	01/14/2016	D'Youville @ Union, N.J.	1059	D'Youville	http://stats.ncaa.org/team/index/12382?org_id=1059	true	Union, N.J.	true	L 1 - 3	false	1 - 3	false	1	3	false		3985085	http://stats.ncaa.org/game/index/3985085?org_id=451
 2016	12382	451	Mt. St. Vincent	01/14/2016	Stevenson @ Union, N.J.	21852	Stevenson	http://stats.ncaa.org/team/index/12382?org_id=21852	true	Union, N.J.	true	L 0 - 3	false	0 - 3	false	0	3	false		3985093	http://stats.ncaa.org/game/index/3985093?org_id=451
-2016	12382	451	Mt. St. Vincent	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/14/2016	D'Youville @ Union, N.J.	1059	D'Youville	http://stats.ncaa.org/team/index/12382?org_id=1059	true	Union, N.J.	true	L 1 - 3	false	1 - 3	false	1	3	false		3985085	http://stats.ncaa.org/game/index/3985085?org_id=451
 2016	12382	451	Mt. St. Vincent	01/16/2016	@ Stevens		Stevens		false		false	-									
+2016	12382	451	Mt. St. Vincent	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
 2016	12382	451	Mt. St. Vincent	01/16/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	451	Mt. St. Vincent	01/16/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	451	Mt. St. Vincent	01/22/2016	Juniata@Elmira, NY		JuniataElmira, NY		false		false	-									
@@ -1177,8 +1177,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	451	Mt. St. Vincent	02/28/2016	Sage Colleges@New York, NY		Sage CollegesNew York, NY		false		false	-									
 2016	12382	451	Mt. St. Vincent	02/28/2016	@ Yeshiva		Yeshiva		false		false	-									
 2016	12382	451	Mt. St. Vincent	03/02/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
-2016	12382	451	Mt. St. Vincent	03/05/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	451	Mt. St. Vincent	03/05/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	451	Mt. St. Vincent	03/05/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	451	Mt. St. Vincent	03/16/2016	@ Lehman		Lehman		false		false	-									
 2016	12382	451	Mt. St. Vincent	03/19/2016	Purchase		Purchase		false		true	-									
 2016	12382	451	Mt. St. Vincent	03/19/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
@@ -1214,28 +1214,28 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	479	NYU	03/31/2016	@ Vassar		Vassar		false		false	-									
 2016	12382	479	NYU	04/01/2016	Marymount (VA)		Marymount (VA)		false		true	-									
 2016	12382	479	NYU	04/05/2016	@ Ramapo		Ramapo		false		false	-									
-2016	12382	461	Nazareth	01/22/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
 2016	12382	461	Nazareth	01/22/2016	Elms@Utica, NY		ElmsUtica, NY		false		false	-									
+2016	12382	461	Nazareth	01/22/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
 2016	12382	461	Nazareth	01/23/2016	Wentworth@Marcy, NY		WentworthMarcy, NY		false		false	-									
 2016	12382	461	Nazareth	01/23/2016	Sage Colleges@Marcy, NY		Sage CollegesMarcy, NY		false		false	-									
 2016	12382	461	Nazareth	01/29/2016	Rutgers-Newark@Kean, NJ		Rutgers-NewarkKean, NJ		false		false	-									
-2016	12382	461	Nazareth	01/30/2016	Marymount (VA)@Kean, NJ		Marymount (VA)Kean, NJ		false		false	-									
 2016	12382	461	Nazareth	01/30/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
-2016	12382	461	Nazareth	02/05/2016	D'Youville		D'Youville		false		true	-									
+2016	12382	461	Nazareth	01/30/2016	Marymount (VA)@Kean, NJ		Marymount (VA)Kean, NJ		false		false	-									
 2016	12382	461	Nazareth	02/05/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	461	Nazareth	02/05/2016	D'Youville		D'Youville		false		true	-									
 2016	12382	461	Nazareth	02/06/2016	Medaille		Medaille		false		true	-									
 2016	12382	461	Nazareth	02/06/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
-2016	12382	461	Nazareth	02/14/2016	Stevens		Stevens		false		true	-									
 2016	12382	461	Nazareth	02/14/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	461	Nazareth	02/14/2016	Stevens		Stevens		false		true	-									
 2016	12382	461	Nazareth	02/19/2016	@ Juniata		Juniata		false		false	-									
-2016	12382	461	Nazareth	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
 2016	12382	461	Nazareth	02/20/2016	Hunter@Huntingdon, PA		HunterHuntingdon, PA		false		false	-									
-2016	12382	461	Nazareth	02/26/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
+2016	12382	461	Nazareth	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
 2016	12382	461	Nazareth	02/26/2016	Stevenson@Elmira, NY		StevensonElmira, NY		false		false	-									
+2016	12382	461	Nazareth	02/26/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
 2016	12382	461	Nazareth	02/27/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2016	12382	461	Nazareth	03/02/2016	Keuka		Keuka		false		true	-									
-2016	12382	461	Nazareth	03/05/2016	Vassar@Cambridge, MA		VassarCambridge, MA		false		false	-									
 2016	12382	461	Nazareth	03/05/2016	@ MIT		MIT		false		false	-									
+2016	12382	461	Nazareth	03/05/2016	Vassar@Cambridge, MA		VassarCambridge, MA		false		false	-									
 2016	12382	461	Nazareth	03/09/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
 2016	12382	461	Nazareth	03/11/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
 2016	12382	461	Nazareth	03/12/2016	Ramapo@Santa Cruz, CA, CA		RamapoSanta Cruz, CA, CA		false		false	-									
@@ -1245,11 +1245,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	461	Nazareth	03/19/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	461	Nazareth	03/19/2016	Cal Lutheran		Cal Lutheran		false		true	-									
 2016	12382	461	Nazareth	03/19/2016	Medaille		Medaille		false		true	-									
-2016	12382	461	Nazareth	03/26/2016	Bard@New York, NY		BardNew York, NY		false		false	-									
 2016	12382	461	Nazareth	03/26/2016	@ NYU		NYU		false		false	-									
+2016	12382	461	Nazareth	03/26/2016	Bard@New York, NY		BardNew York, NY		false		false	-									
 2016	12382	461	Nazareth	03/29/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
-2016	12382	461	Nazareth	04/02/2016	Elmira		Elmira		false		true	-									
 2016	12382	461	Nazareth	04/02/2016	@ Elms		Elms		false		false	-									
+2016	12382	461	Nazareth	04/02/2016	Elmira		Elmira		false		true	-									
 2016	12382	319	New Jersey City	01/31/2016	Yeshiva		Yeshiva		false		true	-									
 2016	12382	319	New Jersey City	01/31/2016	York (NY)		York (NY)		false		true	-									
 2016	12382	319	New Jersey City	01/31/2016	Brooklyn		Brooklyn		false		true	-									
@@ -1288,8 +1288,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	319	New Jersey City	04/07/2016	Pratt		Pratt		false		true	-									
 2016	12382	21772	Newbury	01/27/2016	Lasell		Lasell		false		true	-									
 2016	12382	21772	Newbury	01/29/2016	@ Sage Colleges		Sage Colleges		false		false	-									
-2016	12382	21772	Newbury	01/30/2016	Wells@Marcy, NY		WellsMarcy, NY		false		false	-									
 2016	12382	21772	Newbury	01/30/2016	@ SUNY Poly		SUNY Poly		false		false	-									
+2016	12382	21772	Newbury	01/30/2016	Wells@Marcy, NY		WellsMarcy, NY		false		false	-									
 2016	12382	21772	Newbury	02/02/2016	@ MIT		MIT		false		false	-									
 2016	12382	21772	Newbury	02/04/2016	Emerson		Emerson		false		true	-									
 2016	12382	21772	Newbury	02/06/2016	Vassar@Newton, MA		VassarNewton, MA		false		false	-									
@@ -1302,8 +1302,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	21772	Newbury	02/20/2016	Wentworth		Wentworth		false		true	-									
 2016	12382	21772	Newbury	02/22/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
 2016	12382	21772	Newbury	02/24/2016	Regis (MA)		Regis (MA)		false		true	-									
-2016	12382	21772	Newbury	02/27/2016	@ Elms		Elms		false		false	-									
 2016	12382	21772	Newbury	02/27/2016	MIT@Chicopee, MA		MITChicopee, MA		false		false	-									
+2016	12382	21772	Newbury	02/27/2016	@ Elms		Elms		false		false	-									
 2016	12382	21772	Newbury	03/01/2016	@ Lesley		Lesley		false		false	-									
 2016	12382	21772	Newbury	03/05/2016	@ Endicott		Endicott		false		false	-									
 2016	12382	21772	Newbury	03/17/2016	@ Daniel Webster		Daniel Webster		false		false	-									
@@ -1336,8 +1336,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	492	North Central (IL)	04/01/2016	Greenville		Greenville		false		true	-									
 2016	12382	492	North Central (IL)	04/02/2016	Fontbonne		Fontbonne		false		true	-									
 2016	12382	525	Olivet	01/22/2016	@ Wittenberg		Wittenberg		false		false	-									
-2016	12382	525	Olivet	01/23/2016	Hilbert@Springfiled, OH, OH		HilbertSpringfiled, OH, OH		false		false	-									
 2016	12382	525	Olivet	01/23/2016	Adrian@Springfield, OH		AdrianSpringfield, OH		false		false	-									
+2016	12382	525	Olivet	01/23/2016	Hilbert@Springfiled, OH, OH		HilbertSpringfiled, OH, OH		false		false	-									
 2016	12382	525	Olivet	02/05/2016	@ MSOE		MSOE		false		false	-									
 2016	12382	525	Olivet	02/06/2016	@ Carthage		Carthage		false		false	-									
 2016	12382	525	Olivet	02/12/2016	Marian (WI)		Marian (WI)		false		true	-									
@@ -1353,8 +1353,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	525	Olivet	03/16/2016	@ Siena Heights		Siena Heights		false		false	-									
 2016	12382	525	Olivet	03/18/2016	North Central (IL)		North Central (IL)		false		true	-									
 2016	12382	525	Olivet	03/19/2016	Loras		Loras		false		true	-									
-2016	12382	525	Olivet	03/26/2016	Trinity Christian		Trinity Christian		false		true	-									
 2016	12382	525	Olivet	03/26/2016	Adrian		Adrian		false		true	-									
+2016	12382	525	Olivet	03/26/2016	Trinity Christian		Trinity Christian		false		true	-									
 2016	12382	525	Olivet	04/02/2016	Adrian		Adrian		false		true	-									
 2016	12382	25719	Penn St.-Altoona	01/24/2016	Thiel@Erie, PA		ThielErie, PA		false		false	-									
 2016	12382	25719	Penn St.-Altoona	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
@@ -1407,13 +1407,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	538	Penn St.-Behrend	04/02/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	538	Penn St.-Behrend	04/05/2016	@ Hilbert		Hilbert		false		false	-									
 2016	12382	30029	Purchase	01/25/2016	Brooklyn		Brooklyn		false		true	-									
-2016	12382	30029	Purchase	01/30/2016	Elms@Penn Yan, NY		ElmsPenn Yan, NY		false		false	-									
 2016	12382	30029	Purchase	01/30/2016	Daniel Webster@Keuka, NY		Daniel WebsterKeuka, NY		false		false	-									
-2016	12382	30029	Purchase	01/31/2016	Regis (MA)@Keuka Park, NY		Regis (MA)Keuka Park, NY		false		false	-									
+2016	12382	30029	Purchase	01/30/2016	Elms@Penn Yan, NY		ElmsPenn Yan, NY		false		false	-									
 2016	12382	30029	Purchase	01/31/2016	@ Keuka		Keuka		false		false	-									
+2016	12382	30029	Purchase	01/31/2016	Regis (MA)@Keuka Park, NY		Regis (MA)Keuka Park, NY		false		false	-									
 2016	12382	30029	Purchase	02/04/2016	CCNY		CCNY		false		true	-									
-2016	12382	30029	Purchase	02/06/2016	Bard@Ramapo		BardRamapo		false		false	-									
 2016	12382	30029	Purchase	02/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	30029	Purchase	02/06/2016	Bard@Ramapo		BardRamapo		false		false	-									
 2016	12382	30029	Purchase	02/08/2016	@ John Jay		John Jay		false		false	-									
 2016	12382	30029	Purchase	02/12/2016	Pratt		Pratt		false		true	-									
 2016	12382	30029	Purchase	02/13/2016	Ramapo@Troy, NY		RamapoTroy, NY		false		false	-									
@@ -1421,8 +1421,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30029	Purchase	02/19/2016	@ Lehman		Lehman		false		false	-									
 2016	12382	30029	Purchase	02/21/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2016	12382	30029	Purchase	02/21/2016	Yeshiva@Bronxville, NY		YeshivaBronxville, NY		false		false	-									
-2016	12382	30029	Purchase	02/28/2016	Kean@Jersey City, NJ		KeanJersey City, NJ		false		false	-									
 2016	12382	30029	Purchase	02/28/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	30029	Purchase	02/28/2016	Kean@Jersey City, NJ		KeanJersey City, NJ		false		false	-									
 2016	12382	30029	Purchase	03/03/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
 2016	12382	30029	Purchase	03/03/2016	Kean		Kean		false		true	-									
 2016	12382	30029	Purchase	03/06/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
@@ -1437,32 +1437,32 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	564	Ramapo	01/22/2016	Mt. St. Joseph@Elmira, NY		Mt. St. JosephElmira, NY		false		false	-									
 2016	12382	564	Ramapo	01/22/2016	@ Elmira		Elmira		false		false	-									
 2016	12382	564	Ramapo	01/23/2016	Juniata@Elmira, NY		JuniataElmira, NY		false		false	-									
-2016	12382	564	Ramapo	01/30/2016	@ Vassar		Vassar		false		false	-									
 2016	12382	564	Ramapo	01/30/2016	Springfield@Poughkeepsie, NY		SpringfieldPoughkeepsie, NY		false		false	-									
-2016	12382	564	Ramapo	02/06/2016	Bard		Bard		false		true	-									
+2016	12382	564	Ramapo	01/30/2016	@ Vassar		Vassar		false		false	-									
 2016	12382	564	Ramapo	02/06/2016	Purchase		Purchase		false		true	-									
+2016	12382	564	Ramapo	02/06/2016	Bard		Bard		false		true	-									
 2016	12382	564	Ramapo	02/10/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	564	Ramapo	02/12/2016	@ Baruch		Baruch		false		false	-									
-2016	12382	564	Ramapo	02/13/2016	@ Sage Colleges		Sage Colleges		false		false	-									
 2016	12382	564	Ramapo	02/13/2016	Purchase@Troy, NY		PurchaseTroy, NY		false		false	-									
+2016	12382	564	Ramapo	02/13/2016	@ Sage Colleges		Sage Colleges		false		false	-									
 2016	12382	564	Ramapo	02/17/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
-2016	12382	564	Ramapo	02/20/2016	Mt. St. Vincent@Jersey City, NJ		Mt. St. VincentJersey City, NJ		false		false	-									
 2016	12382	564	Ramapo	02/20/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	564	Ramapo	02/20/2016	Mt. St. Vincent@Jersey City, NJ		Mt. St. VincentJersey City, NJ		false		false	-									
 2016	12382	564	Ramapo	02/24/2016	Kean		Kean		false		true	-									
-2016	12382	564	Ramapo	02/27/2016	Medaille		Medaille		false		true	-									
 2016	12382	564	Ramapo	02/27/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
+2016	12382	564	Ramapo	02/27/2016	Medaille		Medaille		false		true	-									
 2016	12382	564	Ramapo	02/27/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
 2016	12382	564	Ramapo	03/01/2016	Hunter		Hunter		false		true	-									
+2016	12382	564	Ramapo	03/06/2016	Dominican (IL)		Dominican (IL)		false		true	-									
 2016	12382	564	Ramapo	03/06/2016	Yeshiva		Yeshiva		false		true	-									
 2016	12382	564	Ramapo	03/06/2016	Sage Colleges		Sage Colleges		false		true	-									
-2016	12382	564	Ramapo	03/06/2016	Dominican (IL)		Dominican (IL)		false		true	-									
 2016	12382	564	Ramapo	03/11/2016	Cal Lutheran@Santa Cruz, CA		Cal LutheranSanta Cruz, CA		false		false	-									
 2016	12382	564	Ramapo	03/12/2016	Nazareth@Santa Cruz, CA, CA		NazarethSanta Cruz, CA, CA		false		false	-									
 2016	12382	564	Ramapo	03/12/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
 2016	12382	564	Ramapo	03/12/2016	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
 2016	12382	564	Ramapo	03/15/2016	@ Cal Lutheran		Cal Lutheran		false		false	-									
-2016	12382	564	Ramapo	03/20/2016	@ Kean		Kean		false		false	-									
 2016	12382	564	Ramapo	03/20/2016	Yeshiva@Union, NJ		YeshivaUnion, NJ		false		false	-									
+2016	12382	564	Ramapo	03/20/2016	@ Kean		Kean		false		false	-									
 2016	12382	564	Ramapo	03/22/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
 2016	12382	564	Ramapo	03/30/2016	Stevens		Stevens		false		true	-									
 2016	12382	564	Ramapo	04/02/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
@@ -1471,17 +1471,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	564	Ramapo	04/05/2016	NYU		NYU		false		true	-									
 2016	12382	569	Regis (MA)	01/21/2016	@ MIT		MIT		false		false	-									
 2016	12382	569	Regis (MA)	01/28/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
-2016	12382	569	Regis (MA)	01/30/2016	@ SUNY Poly		SUNY Poly		false		false	-									
 2016	12382	569	Regis (MA)	01/30/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	569	Regis (MA)	01/30/2016	@ SUNY Poly		SUNY Poly		false		false	-									
 2016	12382	569	Regis (MA)	01/31/2016	Purchase@Keuka Park, NY		PurchaseKeuka Park, NY		false		false	-									
-2016	12382	569	Regis (MA)	02/06/2016	@ Wentworth		Wentworth		false		false	-									
 2016	12382	569	Regis (MA)	02/06/2016	New Jersey City@Boston, MA		New Jersey CityBoston, MA		false		false	-									
+2016	12382	569	Regis (MA)	02/06/2016	@ Wentworth		Wentworth		false		false	-									
 2016	12382	569	Regis (MA)	02/09/2016	@ Daniel Webster		Daniel Webster		false		false	-									
 2016	12382	569	Regis (MA)	02/11/2016	Newbury		Newbury		false		true	-									
 2016	12382	569	Regis (MA)	02/13/2016	@ Lesley		Lesley		false		false	-									
 2016	12382	569	Regis (MA)	02/17/2016	Endicott		Endicott		false		true	-									
-2016	12382	569	Regis (MA)	02/20/2016	Elms		Elms		false		true	-									
 2016	12382	569	Regis (MA)	02/20/2016	Rivier		Rivier		false		true	-									
+2016	12382	569	Regis (MA)	02/20/2016	Elms		Elms		false		true	-									
 2016	12382	569	Regis (MA)	02/24/2016	@ Newbury		Newbury		false		false	-									
 2016	12382	569	Regis (MA)	02/27/2016	@ Southern Vt.		Southern Vt.		false		false	-									
 2016	12382	569	Regis (MA)	03/01/2016	Emerson		Emerson		false		true	-									
@@ -1490,8 +1490,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	569	Regis (MA)	03/09/2016	@ John Jay		John Jay		false		false	-									
 2016	12382	569	Regis (MA)	03/15/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
 2016	12382	569	Regis (MA)	03/17/2016	@ Elms		Elms		false		false	-									
-2016	12382	569	Regis (MA)	03/19/2016	CCNY		CCNY		false		true	-									
 2016	12382	569	Regis (MA)	03/19/2016	Southern Vt.		Southern Vt.		false		true	-									
+2016	12382	569	Regis (MA)	03/19/2016	CCNY		CCNY		false		true	-									
 2016	12382	569	Regis (MA)	03/23/2016	Fontbonne		Fontbonne		false		true	-									
 2016	12382	569	Regis (MA)	03/29/2016	Daniel Webster		Daniel Webster		false		true	-									
 2016	12382	569	Regis (MA)	04/02/2016	Lesley		Lesley		false		true	-									
@@ -1573,12 +1573,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	475	SUNY New Paltz	01/27/2016	@ Sacred Heart		Sacred Heart		false		false	-									
 2016	12382	475	SUNY New Paltz	02/05/2016	SUNY Poly		SUNY Poly		false		true	-									
 2016	12382	475	SUNY New Paltz	02/10/2016	@ Ramapo		Ramapo		false		false	-									
-2016	12382	475	SUNY New Paltz	02/14/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	475	SUNY New Paltz	02/14/2016	Stevens@Rochester, NY		StevensRochester, NY		false		false	-									
+2016	12382	475	SUNY New Paltz	02/14/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	475	SUNY New Paltz	02/17/2016	@ Bard		Bard		false		false	-									
 2016	12382	475	SUNY New Paltz	02/19/2016	Hunter@Huntingdon, PA		HunterHuntingdon, PA		false		false	-									
-2016	12382	475	SUNY New Paltz	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
 2016	12382	475	SUNY New Paltz	02/20/2016	@ Juniata		Juniata		false		false	-									
+2016	12382	475	SUNY New Paltz	02/20/2016	Lasell@Huntingdon, PA		LasellHuntingdon, PA		false		false	-									
 2016	12382	475	SUNY New Paltz	03/02/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	475	SUNY New Paltz	03/05/2016	Dominican (IL)		Dominican (IL)		false		true	-									
 2016	12382	475	SUNY New Paltz	03/05/2016	Juniata		Juniata		false		true	-									
@@ -1586,8 +1586,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	475	SUNY New Paltz	03/06/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
 2016	12382	475	SUNY New Paltz	03/09/2016	Springfield		Springfield		false		true	-									
 2016	12382	475	SUNY New Paltz	03/12/2016	MIT		MIT		false		true	-									
-2016	12382	475	SUNY New Paltz	03/19/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	475	SUNY New Paltz	03/19/2016	Cal Lutheran@Rochester, NY		Cal LutheranRochester, NY		false		false	-									
+2016	12382	475	SUNY New Paltz	03/19/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	475	SUNY New Paltz	03/23/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	475	SUNY New Paltz	03/26/2016	Elmira@Poughkeepsie, NY		ElmiraPoughkeepsie, NY		false		false	-									
 2016	12382	475	SUNY New Paltz	03/26/2016	@ Vassar		Vassar		false		false	-									
@@ -1646,8 +1646,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	11036	Sage Colleges	03/02/2016	Vassar		Vassar		false		true	-									
 2016	12382	11036	Sage Colleges	03/06/2016	@ Ramapo		Ramapo		false		false	-									
 2016	12382	11036	Sage Colleges	03/06/2016	Yeshiva@Mahwah, NJ		YeshivaMahwah, NJ		false		false	-									
-2016	12382	11036	Sage Colleges	03/19/2016	Sarah Lawrence@Jersey City, NJ		Sarah LawrenceJersey City, NJ		false		false	-									
 2016	12382	11036	Sage Colleges	03/19/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	11036	Sage Colleges	03/19/2016	Sarah Lawrence@Jersey City, NJ		Sarah LawrenceJersey City, NJ		false		false	-									
 2016	12382	11036	Sage Colleges	03/20/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2016	12382	11036	Sage Colleges	03/20/2016	@ Purchase		Purchase		false		false	-									
 2016	12382	11036	Sage Colleges	03/26/2016	Daniel Webster@Springfield, MA		Daniel WebsterSpringfield, MA		false		false	-									
@@ -1677,14 +1677,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30163	Sarah Lawrence	04/01/2016	@ Medgar Evers		Medgar Evers		false		false	-									
 2016	12382	30163	Sarah Lawrence	04/02/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	30163	Sarah Lawrence	04/02/2016	Ramapo		Ramapo		false		true	-									
-2016	12382	1379	Southern Vt.	01/16/2016	Stevens@Newark, NJ		StevensNewark, NJ		false		false	-									
 2016	12382	1379	Southern Vt.	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	1379	Southern Vt.	01/16/2016	Stevens@Newark, NJ		StevensNewark, NJ		false		false	-									
 2016	12382	1379	Southern Vt.	01/23/2016	@ Emerson		Emerson		false		false	-									
 2016	12382	1379	Southern Vt.	01/23/2016	CCNY@Boston, MA		CCNYBoston, MA		false		false	-									
 2016	12382	1379	Southern Vt.	01/26/2016	Mount Ida		Mount Ida		false		true	-									
 2016	12382	1379	Southern Vt.	01/27/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
-2016	12382	1379	Southern Vt.	01/30/2016	Lancaster Bible@Langhorne, PA		Lancaster BibleLanghorne, PA		false		false	-									
 2016	12382	1379	Southern Vt.	01/30/2016	@ Cairn		Cairn		false		false	-									
+2016	12382	1379	Southern Vt.	01/30/2016	Lancaster Bible@Langhorne, PA		Lancaster BibleLanghorne, PA		false		false	-									
 2016	12382	1379	Southern Vt.	02/03/2016	@ Vassar		Vassar		false		false	-									
 2016	12382	1379	Southern Vt.	02/09/2016	@ Lesley		Lesley		false		false	-									
 2016	12382	1379	Southern Vt.	02/11/2016	@ Endicott		Endicott		false		false	-									
@@ -1740,18 +1740,18 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30072	St. Joseph's (Brkln)	02/14/2016	Yeshiva		Yeshiva		false		true	-									
 2016	12382	30072	St. Joseph's (Brkln)	02/14/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	30072	St. Joseph's (Brkln)	02/16/2016	@ Staten Island		Staten Island		false		false	-									
-2016	12382	30072	St. Joseph's (Brkln)	02/20/2016	Kean		Kean		false		true	-									
 2016	12382	30072	St. Joseph's (Brkln)	02/20/2016	Sage Colleges		Sage Colleges		false		true	-									
-2016	12382	30072	St. Joseph's (Brkln)	02/27/2016	Sarah Lawrence@Mahwah, NJ		Sarah LawrenceMahwah, NJ		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/20/2016	Kean		Kean		false		true	-									
 2016	12382	30072	St. Joseph's (Brkln)	02/27/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	02/27/2016	Sarah Lawrence@Mahwah, NJ		Sarah LawrenceMahwah, NJ		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/02/2016	@ Yeshiva		Yeshiva		false		false	-									
-2016	12382	30072	St. Joseph's (Brkln)	03/05/2016	New Jersey City@Riverdale , NY		New Jersey CityRiverdale , NY		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/05/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/05/2016	New Jersey City@Riverdale , NY		New Jersey CityRiverdale , NY		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/06/2016	Purchase		Purchase		false		true	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/08/2016	@ Medgar Evers		Medgar Evers		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/10/2016	Pratt		Pratt		false		true	-									
-2016	12382	30072	St. Joseph's (Brkln)	03/19/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/19/2016	Purchase@Riverdale, NY		PurchaseRiverdale, NY		false		false	-									
+2016	12382	30072	St. Joseph's (Brkln)	03/19/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/22/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	03/30/2016	@ Pratt		Pratt		false		false	-									
 2016	12382	30072	St. Joseph's (Brkln)	04/02/2016	Kean@Troy, NY		KeanTroy, NY		false		false	-									
@@ -1759,15 +1759,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	30072	St. Joseph's (Brkln)	04/03/2016	Ramapo		Ramapo		false		true	-									
 2016	12382	675	Staten Island	02/06/2016	@ Baruch		Baruch		false		false	-									
 2016	12382	675	Staten Island	02/06/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
-2016	12382	675	Staten Island	02/07/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	675	Staten Island	02/07/2016	Hunter@Hoboken, NJ		HunterHoboken, NJ		false		false	-									
+2016	12382	675	Staten Island	02/07/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	675	Staten Island	02/10/2016	Lehman		Lehman		false		true	-									
-2016	12382	675	Staten Island	02/15/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
 2016	12382	675	Staten Island	02/15/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	675	Staten Island	02/15/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
 2016	12382	675	Staten Island	02/16/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
 2016	12382	675	Staten Island	02/18/2016	Baruch		Baruch		false		true	-									
-2016	12382	675	Staten Island	02/20/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2016	12382	675	Staten Island	02/20/2016	Rust		Rust		false		true	-									
+2016	12382	675	Staten Island	02/20/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2016	12382	675	Staten Island	02/25/2016	Pratt		Pratt		false		true	-									
 2016	12382	675	Staten Island	02/27/2016	@ New Jersey City		New Jersey City		false		false	-									
 2016	12382	675	Staten Island	02/27/2016	Keuka@Jersey City, NJ		KeukaJersey City, NJ		false		false	-									
@@ -1778,15 +1778,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	675	Staten Island	03/10/2016	@ Brooklyn		Brooklyn		false		false	-									
 2016	12382	675	Staten Island	03/15/2016	@ John Jay		John Jay		false		false	-									
 2016	12382	675	Staten Island	03/17/2016	Hunter		Hunter		false		true	-									
-2016	12382	675	Staten Island	03/19/2016	Medgar Evers		Medgar Evers		false		true	-									
 2016	12382	675	Staten Island	03/19/2016	Rust		Rust		false		true	-									
+2016	12382	675	Staten Island	03/19/2016	Medgar Evers		Medgar Evers		false		true	-									
 2016	12382	675	Staten Island	03/22/2016	@ CCNY		CCNY		false		false	-									
 2016	12382	675	Staten Island	03/26/2016	John Jay@Queens, NY		John JayQueens, NY		false		false	-									
 2016	12382	675	Staten Island	03/26/2016	Lehman@Queens, NY		LehmanQueens, NY		false		false	-									
 2016	12382	675	Staten Island	03/29/2016	Medgar Evers		Medgar Evers		false		true	-									
 2016	12382	679	Stevens	01/16/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
-2016	12382	679	Stevens	01/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	679	Stevens	01/16/2016	Southern Vt.@Newark, NJ		Southern Vt.Newark, NJ		false		false	-									
+2016	12382	679	Stevens	01/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	679	Stevens	01/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	679	Stevens	01/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2016	12382	679	Stevens	01/23/2016	Lancaster Bible		Lancaster Bible		false		true	-									
@@ -1804,23 +1804,23 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	679	Stevens	02/20/2016	Rutgers-Newark@Staten Island, NY		Rutgers-NewarkStaten Island, NY		false		false	-									
 2016	12382	679	Stevens	02/21/2016	York (NY)		York (NY)		false		true	-									
 2016	12382	679	Stevens	02/24/2016	New Jersey City		New Jersey City		false		true	-									
-2016	12382	679	Stevens	02/26/2016	Medaille		Medaille		false		true	-									
 2016	12382	679	Stevens	02/26/2016	Carthage		Carthage		false		true	-									
+2016	12382	679	Stevens	02/26/2016	Medaille		Medaille		false		true	-									
 2016	12382	679	Stevens	02/27/2016	@ Baruch		Baruch		false		false	-									
 2016	12382	679	Stevens	03/02/2016	@ NYU		NYU		false		false	-									
-2016	12382	679	Stevens	03/05/2016	Elmira@Annandale-on-Hudson, NY		ElmiraAnnandale-on-Hudson, NY		false		false	-									
 2016	12382	679	Stevens	03/05/2016	@ Bard		Bard		false		false	-									
+2016	12382	679	Stevens	03/05/2016	Elmira@Annandale-on-Hudson, NY		ElmiraAnnandale-on-Hudson, NY		false		false	-									
 2016	12382	679	Stevens	03/06/2016	UC Santa Cruz		UC Santa Cruz		false		true	-									
 2016	12382	679	Stevens	03/08/2016	Dominican (IL)		Dominican (IL)		false		true	-									
 2016	12382	679	Stevens	03/16/2016	Juniata		Juniata		false		true	-									
 2016	12382	679	Stevens	03/30/2016	@ Ramapo		Ramapo		false		false	-									
-2016	12382	679	Stevens	04/02/2016	MIT		MIT		false		true	-									
 2016	12382	679	Stevens	04/02/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2016	12382	679	Stevens	04/02/2016	MIT		MIT		false		true	-									
 2016	12382	21852	Stevenson	01/14/2016	Mt. St. Vincent @ Union, N.J.	451	Mt. St. Vincent	http://stats.ncaa.org/team/index/12382?org_id=451	true	Union, N.J.	true	W 3 - 0	true	3 - 0	false	3	0	false		3985093	http://stats.ncaa.org/game/index/3985093?org_id=451
-2016	12382	21852	Stevenson	01/15/2016	Hunter@Union, NJ		HunterUnion, NJ		false		false	-									
+2016	12382	21852	Stevenson	01/15/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	21852	Stevenson	01/15/2016	@ Kean	329	Kean	http://stats.ncaa.org/team/index/12382?org_id=329	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3985613	http://stats.ncaa.org/game/index/3985613?org_id=329
-2016	12382	21852	Stevenson	01/30/2016	Elmira		Elmira		false		true	-									
 2016	12382	21852	Stevenson	01/30/2016	Medaille		Medaille		false		true	-									
+2016	12382	21852	Stevenson	01/30/2016	Elmira		Elmira		false		true	-									
 2016	12382	21852	Stevenson	02/05/2016	Cairn		Cairn		false		true	-									
 2016	12382	21852	Stevenson	02/06/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2016	12382	21852	Stevenson	02/10/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
@@ -1833,12 +1833,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	21852	Stevenson	02/20/2016	Endicott@Springfield, MA		EndicottSpringfield, MA		false		false	-									
 2016	12382	21852	Stevenson	02/24/2016	@ East. Mennonite		East. Mennonite		false		false	-									
 2016	12382	21852	Stevenson	02/26/2016	Nazareth@Elmira, NY		NazarethElmira, NY		false		false	-									
-2016	12382	21852	Stevenson	02/27/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
 2016	12382	21852	Stevenson	02/27/2016	@ Elmira		Elmira		false		false	-									
+2016	12382	21852	Stevenson	02/27/2016	Rivier@Elmira, NY		RivierElmira, NY		false		false	-									
 2016	12382	21852	Stevenson	03/04/2016	Juniata		Juniata		false		true	-									
 2016	12382	21852	Stevenson	03/05/2016	Thiel		Thiel		false		true	-									
-2016	12382	21852	Stevenson	03/10/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
 2016	12382	21852	Stevenson	03/10/2016	Wittenberg@Cincinnati, OH		WittenbergCincinnati, OH		false		false	-									
+2016	12382	21852	Stevenson	03/10/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
 2016	12382	21852	Stevenson	03/12/2016	@ Carthage		Carthage		false		false	-									
 2016	12382	21852	Stevenson	03/12/2016	NYU@Kenosha, WI		NYUKenosha, WI		false		false	-									
 2016	12382	21852	Stevenson	03/13/2016	@ MSOE		MSOE		false		false	-									
@@ -1849,8 +1849,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	21852	Stevenson	03/30/2016	East. Mennonite		East. Mennonite		false		true	-									
 2016	12382	707	Thiel	01/24/2016	Penn St.-Altoona@Erie, PA		Penn St.-AltoonaErie, PA		false		false	-									
 2016	12382	707	Thiel	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
-2016	12382	707	Thiel	01/30/2016	TBA@Owings Mills, MD		TBAOwings Mills, MD		false		false	-									
 2016	12382	707	Thiel	01/30/2016	Elmira@Owings Mills, MD		ElmiraOwings Mills, MD		false		false	-									
+2016	12382	707	Thiel	01/30/2016	TBA@Owings Mills, MD		TBAOwings Mills, MD		false		false	-									
 2016	12382	707	Thiel	02/05/2016	Marymount (VA)		Marymount (VA)		false		true	-									
 2016	12382	707	Thiel	02/06/2016	East. Mennonite		East. Mennonite		false		true	-									
 2016	12382	707	Thiel	02/09/2016	Juniata		Juniata		false		true	-									
@@ -1860,8 +1860,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	707	Thiel	03/05/2016	@ Stevenson		Stevenson		false		false	-									
 2016	12382	707	Thiel	03/17/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
 2016	12382	707	Thiel	03/18/2016	@ Marymount (VA)		Marymount (VA)		false		false	-									
-2016	12382	707	Thiel	03/19/2016	@ East. Mennonite		East. Mennonite		false		false	-									
 2016	12382	707	Thiel	03/19/2016	John Jay@Harrisonburg, VA		John JayHarrisonburg, VA		false		false	-									
+2016	12382	707	Thiel	03/19/2016	@ East. Mennonite		East. Mennonite		false		false	-									
 2016	12382	707	Thiel	03/22/2016	@ Juniata		Juniata		false		false	-									
 2016	12382	707	Thiel	04/01/2016	Cairn		Cairn		false		true	-									
 2016	12382	707	Thiel	04/02/2016	Rutgers-Newark		Rutgers-Newark		false		true	-									
@@ -1890,26 +1890,26 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	113	UC Santa Cruz	03/21/2016	@ Hope Int'l		Hope Int'l		false		false	-									
 2016	12382	113	UC Santa Cruz	03/22/2016	@ Concordia (CA)		Concordia (CA)		false		false	-									
 2016	12382	113	UC Santa Cruz	04/01/2016	Cal Lutheran		Cal Lutheran		false		true	-									
+2016	12382	737	Vassar	01/22/2016	Wentworth@Utica, NY		WentworthUtica, NY		false		false	-									
 2016	12382	737	Vassar	01/22/2016	@ Unity		Unity		false		false	-									
 2016	12382	737	Vassar	01/22/2016	@ SUNY Poly		SUNY Poly		false		false	-									
-2016	12382	737	Vassar	01/22/2016	Wentworth@Utica, NY		WentworthUtica, NY		false		false	-									
-2016	12382	737	Vassar	01/23/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
 2016	12382	737	Vassar	01/23/2016	Wells@Utica, NY		WellsUtica, NY		false		false	-									
+2016	12382	737	Vassar	01/23/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
 2016	12382	737	Vassar	01/30/2016	Ramapo		Ramapo		false		true	-									
 2016	12382	737	Vassar	01/30/2016	Springfield		Springfield		false		true	-									
 2016	12382	737	Vassar	02/03/2016	Southern Vt.		Southern Vt.		false		true	-									
-2016	12382	737	Vassar	02/06/2016	@ Mount Ida		Mount Ida		false		false	-									
 2016	12382	737	Vassar	02/06/2016	Newbury@Newton, MA		NewburyNewton, MA		false		false	-									
+2016	12382	737	Vassar	02/06/2016	@ Mount Ida		Mount Ida		false		false	-									
 2016	12382	737	Vassar	02/10/2016	Stevens		Stevens		false		true	-									
 2016	12382	737	Vassar	02/16/2016	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
-2016	12382	737	Vassar	02/20/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
 2016	12382	737	Vassar	02/20/2016	Bard@Erie, PA		BardErie, PA		false		false	-									
+2016	12382	737	Vassar	02/20/2016	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
 2016	12382	737	Vassar	02/23/2016	@ NYU		NYU		false		false	-									
 2016	12382	737	Vassar	02/27/2016	@ Springfield		Springfield		false		false	-									
 2016	12382	737	Vassar	02/27/2016	Lasell@Springfield, MA		LasellSpringfield, MA		false		false	-									
 2016	12382	737	Vassar	03/02/2016	@ Sage Colleges		Sage Colleges		false		false	-									
-2016	12382	737	Vassar	03/05/2016	Nazareth@Cambridge, MA		NazarethCambridge, MA		false		false	-									
 2016	12382	737	Vassar	03/05/2016	@ MIT		MIT		false		false	-									
+2016	12382	737	Vassar	03/05/2016	Nazareth@Cambridge, MA		NazarethCambridge, MA		false		false	-									
 2016	12382	737	Vassar	03/09/2016	Baruch		Baruch		false		true	-									
 2016	12382	737	Vassar	03/12/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	737	Vassar	03/18/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
@@ -1917,22 +1917,22 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	737	Vassar	03/19/2016	@ Medaille		Medaille		false		false	-									
 2016	12382	737	Vassar	03/19/2016	@ TBA		TBA		false		false	-									
 2016	12382	737	Vassar	03/23/2016	@ York (NY)		York (NY)		false		false	-									
-2016	12382	737	Vassar	03/26/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	737	Vassar	03/26/2016	Elmira		Elmira		false		true	-									
+2016	12382	737	Vassar	03/26/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	737	Vassar	03/31/2016	NYU		NYU		false		true	-									
 2016	12382	737	Vassar	04/02/2016	Wells		Wells		false		true	-									
 2016	12382	737	Vassar	04/02/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
 2016	12382	761	Wells	01/22/2016	Kean@Utica, NY		KeanUtica, NY		false		false	-									
 2016	12382	761	Wells	01/22/2016	Sage Colleges@SUNY-Polytechnic Tournament, Marcy, NY		Sage CollegesSUNY-Polytechnic Tournament, Marcy, NY		false		false	-									
-2016	12382	761	Wells	01/23/2016	Bard@Utica, NY		BardUtica, NY		false		false	-									
 2016	12382	761	Wells	01/23/2016	Vassar@Utica, NY		VassarUtica, NY		false		false	-									
-2016	12382	761	Wells	01/30/2016	Newbury@Marcy, NY		NewburyMarcy, NY		false		false	-									
+2016	12382	761	Wells	01/23/2016	Bard@Utica, NY		BardUtica, NY		false		false	-									
 2016	12382	761	Wells	01/30/2016	Regis (MA)@Utica, NY		Regis (MA)Utica, NY		false		false	-									
+2016	12382	761	Wells	01/30/2016	Newbury@Marcy, NY		NewburyMarcy, NY		false		false	-									
 2016	12382	761	Wells	01/31/2016	Daniel Webster		Daniel Webster		false		true	-									
-2016	12382	761	Wells	02/06/2016	Marymount (VA)@Huntingdon, PA		Marymount (VA)Huntingdon, PA		false		false	-									
 2016	12382	761	Wells	02/06/2016	@ Juniata		Juniata		false		false	-									
-2016	12382	761	Wells	02/13/2016	Hilbert@Buffalo, NY, NY		HilbertBuffalo, NY, NY		false		false	-									
+2016	12382	761	Wells	02/06/2016	Marymount (VA)@Huntingdon, PA		Marymount (VA)Huntingdon, PA		false		false	-									
 2016	12382	761	Wells	02/13/2016	D'Youville@Buffalo, NY		D'YouvilleBuffalo, NY		false		false	-									
+2016	12382	761	Wells	02/13/2016	Hilbert@Buffalo, NY, NY		HilbertBuffalo, NY, NY		false		false	-									
 2016	12382	761	Wells	02/20/2016	Wilson		Wilson		false		true	-									
 2016	12382	761	Wells	02/21/2016	Lancaster Bible@Keuka Park, NY		Lancaster BibleKeuka Park, NY		false		false	-									
 2016	12382	761	Wells	02/21/2016	Penn St.-Altoona@Keuka, NY		Penn St.-AltoonaKeuka, NY		false		false	-									
@@ -1942,8 +1942,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	761	Wells	03/12/2016	D'Youville@Aurora, NY		D'YouvilleAurora, NY		false		false	-									
 2016	12382	761	Wells	03/13/2016	Hilbert@Marcy, NY, NY		HilbertMarcy, NY, NY		false		false	-									
 2016	12382	761	Wells	03/18/2016	Wilson		Wilson		false		true	-									
-2016	12382	761	Wells	03/19/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
 2016	12382	761	Wells	03/19/2016	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2016	12382	761	Wells	03/19/2016	Lancaster Bible@Altoona, PA		Lancaster BibleAltoona, PA		false		false	-									
 2016	12382	761	Wells	03/23/2016	@ Keuka		Keuka		false		false	-									
 2016	12382	761	Wells	03/24/2016	SUNY Poly		SUNY Poly		false		true	-									
 2016	12382	761	Wells	04/02/2016	@ Vassar		Vassar		false		false	-									
@@ -1953,24 +1953,24 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	762	Wentworth	01/23/2016	Nazareth@Marcy, NY		NazarethMarcy, NY		false		false	-									
 2016	12382	762	Wentworth	01/26/2016	MIT		MIT		false		true	-									
 2016	12382	762	Wentworth	01/28/2016	Albertus Magnus		Albertus Magnus		false		true	-									
-2016	12382	762	Wentworth	01/30/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
 2016	12382	762	Wentworth	01/30/2016	Rutgers-Newark@Union, NJ		Rutgers-NewarkUnion, NJ		false		false	-									
+2016	12382	762	Wentworth	01/30/2016	Baruch@Union, NJ		BaruchUnion, NJ		false		false	-									
 2016	12382	762	Wentworth	02/03/2016	@ Endicott		Endicott		false		false	-									
-2016	12382	762	Wentworth	02/06/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	762	Wentworth	02/06/2016	Regis (MA)		Regis (MA)		false		true	-									
+2016	12382	762	Wentworth	02/06/2016	New Jersey City		New Jersey City		false		true	-									
 2016	12382	762	Wentworth	02/09/2016	Lasell		Lasell		false		true	-									
 2016	12382	762	Wentworth	02/11/2016	Rivier		Rivier		false		true	-									
-2016	12382	762	Wentworth	02/20/2016	@ Newbury		Newbury		false		false	-									
 2016	12382	762	Wentworth	02/20/2016	Daniel Webster@Brookline, MA		Daniel WebsterBrookline, MA		false		false	-									
+2016	12382	762	Wentworth	02/20/2016	@ Newbury		Newbury		false		false	-									
 2016	12382	762	Wentworth	02/24/2016	Springfield		Springfield		false		true	-									
 2016	12382	762	Wentworth	02/27/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
 2016	12382	762	Wentworth	03/03/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
-2016	12382	762	Wentworth	03/05/2016	@ Rivier		Rivier		false		false	-									
 2016	12382	762	Wentworth	03/05/2016	Mount Ida@Nashua, NH		Mount IdaNashua, NH		false		false	-									
+2016	12382	762	Wentworth	03/05/2016	@ Rivier		Rivier		false		false	-									
 2016	12382	762	Wentworth	03/10/2016	@ MIT		MIT		false		false	-									
 2016	12382	762	Wentworth	03/17/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
-2016	12382	762	Wentworth	03/19/2016	@ Mount Ida		Mount Ida		false		false	-									
 2016	12382	762	Wentworth	03/19/2016	Lehman@Newton, MA		LehmanNewton, MA		false		false	-									
+2016	12382	762	Wentworth	03/19/2016	@ Mount Ida		Mount Ida		false		false	-									
 2016	12382	762	Wentworth	03/22/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
 2016	12382	762	Wentworth	03/26/2016	Emerson		Emerson		false		true	-									
 2016	12382	762	Wentworth	03/29/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
@@ -1997,8 +1997,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	12973	Wilson	04/02/2016	@ Hilbert		Hilbert		false		false	-									
 2016	12382	12973	Wilson	04/02/2016	D'Youville@Hamburg, NY		D'YouvilleHamburg, NY		false		false	-									
 2016	12382	806	Wittenberg	01/22/2016	Olivet		Olivet		false		true	-									
-2016	12382	806	Wittenberg	01/23/2016	Adrian		Adrian		false		true	-									
 2016	12382	806	Wittenberg	01/23/2016	Hilbert		Hilbert		false		true	-									
+2016	12382	806	Wittenberg	01/23/2016	Adrian		Adrian		false		true	-									
 2016	12382	806	Wittenberg	01/29/2016	Cal Lutheran		Cal Lutheran		false		true	-									
 2016	12382	806	Wittenberg	01/30/2016	North Central (IL)		North Central (IL)		false		true	-									
 2016	12382	806	Wittenberg	01/30/2016	Juniata		Juniata		false		true	-									
@@ -2011,8 +2011,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	806	Wittenberg	03/06/2016	@ SUNY Poly		SUNY Poly		false		false	-									
 2016	12382	806	Wittenberg	03/06/2016	@ Wells		Wells		false		false	-									
 2016	12382	806	Wittenberg	03/07/2016	@ Brooklyn		Brooklyn		false		false	-									
-2016	12382	806	Wittenberg	03/08/2016	@ Yeshiva		Yeshiva		false		false	-									
 2016	12382	806	Wittenberg	03/08/2016	Sarah Lawrence@New York, NY		Sarah LawrenceNew York, NY		false		false	-									
+2016	12382	806	Wittenberg	03/08/2016	@ Yeshiva		Yeshiva		false		false	-									
 2016	12382	806	Wittenberg	03/10/2016	Stevenson@Cincinnati, OH		StevensonCincinnati, OH		false		false	-									
 2016	12382	806	Wittenberg	03/11/2016	@ North Central (IL)		North Central (IL)		false		false	-									
 2016	12382	806	Wittenberg	03/12/2016	@ Loras		Loras		false		false	-									
@@ -2021,22 +2021,22 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	806	Wittenberg	03/24/2016	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2016	12382	806	Wittenberg	04/01/2016	@ MSOE		MSOE		false		false	-									
 2016	12382	806	Wittenberg	04/02/2016	@ Carthage		Carthage		false		false	-									
-2016	12382	814	Yeshiva	01/31/2016	Brooklyn@Jersey City, NJ		BrooklynJersey City, NJ		false		false	-									
-2016	12382	814	Yeshiva	01/31/2016	York (NY)@Jersey City, NJJ, NJ		York (NY)Jersey City, NJJ, NJ		false		false	-									
 2016	12382	814	Yeshiva	01/31/2016	@ New Jersey City		New Jersey City		false		false	-									
+2016	12382	814	Yeshiva	01/31/2016	York (NY)@Jersey City, NJJ, NJ		York (NY)Jersey City, NJJ, NJ		false		false	-									
+2016	12382	814	Yeshiva	01/31/2016	Brooklyn@Jersey City, NJ		BrooklynJersey City, NJ		false		false	-									
 2016	12382	814	Yeshiva	02/03/2016	@ Lehman		Lehman		false		false	-									
 2016	12382	814	Yeshiva	02/11/2016	@ Pratt		Pratt		false		false	-									
 2016	12382	814	Yeshiva	02/14/2016	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
 2016	12382	814	Yeshiva	02/14/2016	New Jersey City@Brooklyn, NY		New Jersey CityBrooklyn, NY		false		false	-									
 2016	12382	814	Yeshiva	02/18/2016	Kean		Kean		false		true	-									
-2016	12382	814	Yeshiva	02/21/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2016	12382	814	Yeshiva	02/21/2016	Purchase@Bronxville, NY		PurchaseBronxville, NY		false		false	-									
+2016	12382	814	Yeshiva	02/21/2016	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2016	12382	814	Yeshiva	02/24/2016	Bard		Bard		false		true	-									
 2016	12382	814	Yeshiva	02/28/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
 2016	12382	814	Yeshiva	02/28/2016	Sage Colleges		Sage Colleges		false		true	-									
 2016	12382	814	Yeshiva	03/02/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
-2016	12382	814	Yeshiva	03/06/2016	Sage Colleges@Mahwah, NJ		Sage CollegesMahwah, NJ		false		false	-									
 2016	12382	814	Yeshiva	03/06/2016	@ Ramapo		Ramapo		false		false	-									
+2016	12382	814	Yeshiva	03/06/2016	Sage Colleges@Mahwah, NJ		Sage CollegesMahwah, NJ		false		false	-									
 2016	12382	814	Yeshiva	03/08/2016	Wittenberg		Wittenberg		false		true	-									
 2016	12382	814	Yeshiva	03/16/2016	@ Webb Inst.		Webb Inst.		false		false	-									
 2016	12382	814	Yeshiva	03/20/2016	@ Kean		Kean		false		false	-									
@@ -2048,27 +2048,27 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	2730	York (NY)	01/29/2016	Cairn		Cairn		false		true	-									
 2016	12382	2730	York (NY)	01/31/2016	Yeshiva@Jersey City, NJJ, NJ		YeshivaJersey City, NJJ, NJ		false		false	-									
 2016	12382	2730	York (NY)	01/31/2016	@ New Jersey City		New Jersey City		false		false	-									
-2016	12382	2730	York (NY)	02/06/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
 2016	12382	2730	York (NY)	02/06/2016	Medgar Evers@New York, NY		Medgar EversNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	02/06/2016	Lehman@New York, NY		LehmanNew York, NY		false		false	-									
 2016	12382	2730	York (NY)	02/10/2016	@ Baruch		Baruch		false		false	-									
 2016	12382	2730	York (NY)	02/15/2016	@ John Jay		John Jay		false		false	-									
 2016	12382	2730	York (NY)	02/18/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	2730	York (NY)	02/20/2016	Mount Ida@New York, NY		Mount IdaNew York, NY		false		false	-									
 2016	12382	2730	York (NY)	02/21/2016	@ Stevens		Stevens		false		false	-									
 2016	12382	2730	York (NY)	02/25/2016	@ Brooklyn		Brooklyn		false		false	-									
-2016	12382	2730	York (NY)	02/27/2016	Lancaster Bible		Lancaster Bible		false		true	-									
 2016	12382	2730	York (NY)	02/27/2016	Albertus Magnus		Albertus Magnus		false		true	-									
+2016	12382	2730	York (NY)	02/27/2016	Lancaster Bible		Lancaster Bible		false		true	-									
 2016	12382	2730	York (NY)	03/02/2016	@ Staten Island		Staten Island		false		false	-									
-2016	12382	2730	York (NY)	03/05/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
 2016	12382	2730	York (NY)	03/05/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	2730	York (NY)	03/05/2016	Staten Island@New York, NY		Staten IslandNew York, NY		false		false	-									
 2016	12382	2730	York (NY)	03/06/2016	@ Kean		Kean		false		false	-									
 2016	12382	2730	York (NY)	03/09/2016	@ NYU		NYU		false		false	-									
-2016	12382	2730	York (NY)	03/11/2016	New Jersey City@Providence, RI		New Jersey CityProvidence, RI		false		false	-									
 2016	12382	2730	York (NY)	03/11/2016	Emmanuel (MA)@Providence, RI		Emmanuel (MA)Providence, RI		false		false	-									
-2016	12382	2730	York (NY)	03/12/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	2730	York (NY)	03/11/2016	New Jersey City@Providence, RI		New Jersey CityProvidence, RI		false		false	-									
 2016	12382	2730	York (NY)	03/12/2016	Bard@Providence, RI		BardProvidence, RI		false		false	-									
-2016	12382	2730	York (NY)	03/15/2016	@ Purchase		Purchase		false		false	-									
+2016	12382	2730	York (NY)	03/12/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
 2016	12382	2730	York (NY)	03/15/2016	Medgar Evers		Medgar Evers		false		true	-									
+2016	12382	2730	York (NY)	03/15/2016	@ Purchase		Purchase		false		false	-									
 2016	12382	2730	York (NY)	03/17/2016	John Jay		John Jay		false		true	-									
 2016	12382	2730	York (NY)	03/23/2016	Vassar		Vassar		false		true	-									
 2016	12382	2730	York (NY)	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
