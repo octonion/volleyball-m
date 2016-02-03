@@ -3651,3 +3651,790 @@ game_id	section_id	player_id	player_name	player_url	position	minutes_played	fiel
 3995698	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
 3995698	1		Totals		""	3	 	12	12	48	 	11	1	8	12	6	2	 	8	15.0	 
 3995698	1		Total Team Blocks: 2.0	
+3996121	0	1417100	Callaway, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417100	""	3	1/	5	 	7	0.714	1	2	 	 	 	 	2	1	8.0	 
+3996121	0	1640330	Clemens, Royce	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640330	""	3	 	 	 	 	 	 	 	 	5	1	 	 	 	 	 
+3996121	0	1303429	Hammond, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303429	""	3	1/	1	 	1	1.000	39	 	3	5	 	 	 	 	1.0	 
+3996121	0	1640331	McLaren, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640331	""	3	 	 	 	 	 	 	 	2	 	 	 	 	 	 	 
+3996121	0	1529418	Nugent, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529418	""	3	1/	15	5	27	0.370	 	1	1	5	1	 	2	 	17.0	 
+3996121	0	1417098	Sauter, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417098	""	3	1/	8	3	18	0.278	1	 	 	3	 	 	1	 	8.5	 
+3996121	0	1303452	Seifert, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303452	""	3	1/	6	 	8	0.750	 	 	1	 	 	1	2	1	8.0	 
+3996121	0	1529415	Albrecht, Aiden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529415	""	2	 	5	1	11	0.364	1	 	1	4	 	 	1	 	5.5	 
+3996121	0	1417096	Parik, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417096	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996121	0	1529419	Penrose, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529419	""	2	1/	6	5	14	0.071	 	 	3	4	 	 	 	 	6.0	 
+3996121	0	1529417	Gear, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529417	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996121	0		TM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996121	0		Totals		""	3	 	46	14	86	0.372	42	3	11	26	2	1	8	2	54.0	 
+3996121	0		Total Team Blocks: 5.0	
+3996121	1	1640798	Buck, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640798	""	3	1/	7	4	15	0.200	1	1	3	2	1	 	 	 	8.0	 
+3996121	1	1530689	Ford, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1530689	""	3	1/	2	 	2	1.000	29	 	 	3	 	 	 	 	2.0	1
+3996121	1	1749428	Woffindin, Gabe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749428	""	3	 	 	 	 	 	1	 	 	11	 	 	 	 	 	 
+3996121	1	1530690	Hogan, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1530690	""	3	1/	10	4	21	0.286	1	1	1	2	 	 	1	 	11.5	 
+3996121	1	1640807	Kegerreis, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640807	""	3	1/	1	2	5	-0.200	 	 	2	 	 	 	1	 	1.5	 
+3996121	1	1420762	Marshman, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420762	""	3	1/	5	2	12	0.250	 	 	1	 	 	1	 	 	6.0	 
+3996121	1	1640803	Braswell, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640803	""	3	1/	9	4	26	0.192	 	 	1	1	 	 	 	 	9.0	 
+3996121	1	1420763	Frazer, Ray	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420763	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996121	1	1640802	McDonald, Shaughn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640802	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3996121	1		Totals		""	3	 	34	16	81	0.222	32	2	9	20	1	1	2	 	38.0	1
+3996121	1		Total Team Blocks: 2.0	
+3996148	0	1528041	Besson, Adrian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528041	""	3	1/	2	5	11	-0.273	 	 	1	3	4	1	 	 	3.0	 
+3996148	0	1528038	Wellmann, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528038	""	3	 	 	 	 	 	 	 	 	8	 	 	 	 	 	 
+3996148	0	1638189	Sprayberry, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638189	""	3	1/	5	6	19	-0.053	 	 	1	3	1	 	 	 	5.0	 
+3996148	0	1749631	Wheaton, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749631	""	3	1/	5	2	7	0.429	 	 	 	 	 	 	 	1	5.0	 
+3996148	0	1428158	Lychock, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1428158	""	3	1/	5	4	11	0.091	 	 	1	1	 	 	 	1	5.0	 
+3996148	0	1638191	Drooker, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638191	""	3	1/	1	 	6	0.167	23	 	2	6	 	 	 	 	1.0	 
+3996148	0	1670913	DeLong, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1670913	""	3	 	1	2	5	-0.200	 	2	1	1	 	 	 	 	3.0	 
+3996148	0	1638190	Luhmann, Seth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638190	""	3	1/	9	5	26	0.154	1	1	 	1	 	1	 	 	11.0	 
+3996148	0	1749633	Christy, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749633	""	2	 	 	 	 	 	 	1	 	 	 	 	 	 	1.0	 
+3996148	0	1749632	Johnson, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749632	""	1	 	 	 	1	 	 	 	 	 	 	1	 	 	1.0	 
+3996148	0	1528044	Veli, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528044	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996148	0		TEAM		""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996148	0		Totals		""	3	 	28	24	86	0.047	24	4	6	23	5	3	 	2	35.0	 
+3996148	0		Total Team Blocks: 3.0	
+3996148	1	1425988	Sullivan, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425988	""	3	1/	5	 	8	0.625	28	 	1	3	 	2	 	 	7.0	 
+3996148	1	1425985	Buell, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425985	""	3	1/	3	3	7	 	 	 	1	 	 	1	 	1	4.0	 
+3996148	1	1653497	Schaeffer, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653497	""	3	1/	6	3	15	0.200	1	 	2	4	 	1	 	 	7.0	 
+3996148	1	1425983	Lowenhagen, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425983	""	3	1/	3	4	11	-0.091	1	 	1	7	1	1	1	1	4.5	 
+3996148	1	1425984	Snyder, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425984	""	3	1/	7	 	8	0.875	 	2	2	1	 	2	1	 	11.5	 
+3996148	1	1760449	Albrecht, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760449	""	3	1/	15	1	27	0.519	1	3	2	 	 	 	 	 	18.0	 
+3996148	1	1659320	Valentine, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1659320	""	3	 	 	 	 	 	3	 	 	13	3	 	 	 	 	 
+3996148	1		TEAM		""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996148	1		Totals		""	3	 	39	11	76	0.368	34	5	9	28	4	7	2	2	52.0	 
+3996148	1		Total Team Blocks: 8.0	
+3996180	0	1535963	Sydow, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1535963	""	4	1/	5	1	7	0.571	 	 	 	 	2	2	1	1	7.5	 
+3996180	0	1649096	Rutledge, Bret	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649096	""	4	1/	5	6	13	-0.077	 	 	 	 	 	1	2	 	7.0	 
+3996180	0	1649098	Yasalonis, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649098	""	4	1/	2	 	2	1.000	46	 	4	 	 	 	 	2	2.0	 
+3996180	0	1535960	Mann, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1535960	""	4	1/	11	1	16	0.625	1	 	4	1	 	 	2	3	12.0	 
+3996180	0	1649095	Schirman, Peyton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649095	""	4	1/	14	4	32	0.312	 	 	3	5	2	 	1	2	14.5	 
+3996180	0	1429215	Thomas, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429215	""	4	 	 	 	 	 	 	 	 	12	1	 	 	 	 	 
+3996180	0	1753910	Trifunovic, Ivan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753910	""	3	1/	8	1	15	0.467	 	1	1	2	1	 	 	 	9.0	 
+3996180	0	1649093	Poole, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649093	""	3	 	5	2	8	0.375	1	 	2	4	 	 	 	1	5.0	 
+3996180	0	1649094	Hollevoet, Kian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649094	""	2	 	3	3	12	 	 	1	 	1	 	 	 	 	4.0	 
+3996180	0	1753912	van, Hugo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753912	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996180	0		TEAM		""	3	 	 	 	 	 	 	 	 	 	4	 	 	 	 	 
+3996180	0		Totals		""	4	 	53	18	105	0.333	48	2	15	25	10/	3	6	9	61.0	 
+3996180	0		Total Team Blocks: 6.0	
+3996180	1	1641959	Schinzing, Alexander	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641959	""	4	1/	4	 	4	1.000	44	1	1	6	 	 	 	2	5.0	 
+3996180	1	1756508	Arelus, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756508	""	4	1/	7	2	21	0.238	1	3	2	3	1	1	2	 	12.0	 
+3996180	1	1641958	King, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641958	""	4	 	 	1	1	-1.000	2	 	 	7	 	 	 	 	 	 
+3996180	1	1756506	Lawrence, Grayson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756506	""	4	 	 	 	 	 	 	4	 	 	 	 	 	 	4.0	 
+3996180	1	1756511	Childes, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756511	""	4	1/	15	3	27	0.444	1	1	1	6	1	1	 	2	17.0	 
+3996180	1	1641979	Vailu'u, Luuga	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641979	""	4	1/	7	2	14	0.357	 	 	4	 	 	1	3	 	9.5	 
+3996180	1	1641990	McManaway, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641990	""	4	1/	10	1	15	0.600	 	1	3	1	 	1	1	4	12.5	 
+3996180	1	1641976	Rhine, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641976	""	3	 	6	3	15	0.200	 	 	 	4	 	 	2	 	7.0	 
+3996180	1	1756509	Campbell, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756509	""	2	1/	2	2	6	 	 	 	1	1	 	 	 	 	2.0	 
+3996180	1	1756507	Moy, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756507	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3996180	1	1641975	Jenkins, Silas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641975	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996180	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996180	1		Totals		""	4	 	51	14	103	0.359	48	10/	12	29	2	4	8	8	69.0	 
+3996180	1		Total Team Blocks: 8.0	
+3996187	0	1649313	Cartagena, Edgardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649313	""	3	 	1	 	1	1.000	2	 	 	4	1	 	 	 	1.0	 
+3996187	0	1525765	Garchet, Hiago	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525765	""	3	1/	1	 	1	1.000	23	 	1	3	 	 	 	 	1.0	 
+3996187	0	1416804	Niemczewski, Martin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416804	""	3	1/	7	2	15	0.333	1	2	2	6	 	 	 	 	9.0	 
+3996187	0	1525768	Pia, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525768	""	3	1/	4	 	5	0.800	 	 	1	2	 	 	2	 	5.0	 
+3996187	0	1644880	Walsh, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644880	""	3	1/	4	2	8	0.250	 	1	4	 	 	1	 	1	6.0	 
+3996187	0	1644882	Weiler, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644882	""	3	1/	6	1	13	0.385	1	 	1	2	 	 	1	 	6.5	 
+3996187	0	1537149	Scannell, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537149	""	2	 	4	2	8	0.250	 	2	2	1	 	 	1	 	6.5	 
+3996187	0	1525767	Surane, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525767	""	2	1/	4	2	9	0.222	 	 	3	2	 	 	 	 	4.0	 
+3996187	0	1749483	Swartz, Parker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749483	""	2	 	 	 	 	 	1	1	 	 	 	 	 	 	1.0	 
+3996187	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996187	0		Totals		""	3	 	31	9	60	0.367	28	6	14	20	1	1	4	1	40.0	 
+3996187	0		Total Team Blocks: 3.0	
+3996187	1	1637956	Tait, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637956	""	3	1/	 	 	1	 	21	 	1	6	 	 	2	 	1.0	1
+3996187	1	1753054	Wise, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753054	""	3	 	 	 	 	 	1	 	 	3	1	 	 	 	 	1
+3996187	1	1526061	Goodridge, Jabarry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526061	""	3	1/	17	5	29	0.414	 	1	 	2	3	 	4	1	20.0	 
+3996187	1	1637957	Myren, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637957	""	3	1/	1	2	4	-0.250	1	 	2	 	 	 	4	 	3.0	 
+3996187	1	1416333	Robbe, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416333	""	3	1/	2	1	4	0.250	1	 	3	 	 	 	1	1	2.5	 
+3996187	1	1526062	Kowalski, Raymond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526062	""	3	1/	5	5	20	 	 	 	3	3	 	 	 	 	5.0	 
+3996187	1	1753900	Jurko, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753900	""	3	1/	8	8	21	 	1	 	4	1	1	1	 	 	9.0	 
+3996187	1	1526064	Leung, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526064	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996187	1	1753053	Whitaker, Ricardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753053	""	1	 	 	1	1	-1.000	4	 	 	1	 	 	 	 	 	1
+3996187	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996187	1		Totals		""	3	 	33	22	80	0.138	29	1	13	16	6	1	11	2	40.5	3
+3996187	1		Total Team Blocks: 6.5	
+3996214	0	1316157	Sellan, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1316157	""	3	1/	20	6	36	0.389	2	 	1	2	 	 	3	 	21.5	 
+3996214	0	1639073	Stone, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639073	""	3	1/	5	6	18	-0.056	 	2	2	4	 	 	1	 	7.5	 
+3996214	0	1527140	Frazee, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527140	""	3	1/	4	2	7	0.286	1	 	1	1	 	 	5	 	6.5	 
+3996214	0	1527139	Quinones, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527139	""	3	 	 	 	 	 	1	2	1	 	 	 	 	 	2.0	 
+3996214	0	1750343	Schroeder, Graydon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750343	""	3	1/	2	1	7	0.143	 	 	2	 	 	 	4	 	4.0	 
+3996214	0	1421784	Bertran, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421784	""	3	 	 	 	 	 	2	 	 	9	 	 	 	 	 	 
+3996214	0	1750341	Keegan, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750341	""	3	1/	2	 	2	1.000	31	1	1	9	 	1	4	 	6.0	 
+3996214	0	1639071	Price, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639071	""	3	1/	8	3	24	0.208	1	1	3	5	1	 	1	 	9.5	 
+3996214	0	1421822	McNerney, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421822	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996214	0	1750342	Neace, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750342	""	1	 	 	 	2	 	 	 	 	1	 	 	 	 	 	 
+3996214	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996214	0		Totals		""	3	 	41	18	96	0.240	38	6	11	31	1	1	18	 	57.0	 
+3996214	0		Total Team Blocks: 10.0	
+3996214	1	1753908	Barnes, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753908	""	3	1/	3	3	12	 	1	 	1	2	1	 	 	 	3.0	 
+3996214	1	1537186	Edgley, Dom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537186	""	3	1/	2	1	6	0.167	 	 	2	2	 	1	 	 	3.0	 
+3996214	1	1640859	Gomez, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640859	""	3	 	 	 	 	 	1	 	 	10	4	 	 	 	 	 
+3996214	1	1640860	Kollar, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640860	""	3	1/	5	1	13	0.308	 	 	2	1	 	 	2	 	6.0	 
+3996214	1	1538198	Malias, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538198	""	3	1/	6	7	23	-0.043	 	1	2	6	 	 	1	 	7.5	 
+3996214	1	1640861	Negron, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640861	""	3	1/	 	 	 	 	28	 	2	3	1	 	1	 	0.5	 
+3996214	1	1537187	Wilson, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537187	""	3	1/	20	8	41	0.293	1	 	2	3	 	 	 	 	20.0	 
+3996214	1	1752876	Coleman, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1752876	""	2	 	 	 	 	 	3	 	 	 	 	 	 	 	 	 
+3996214	1		Totals		""	3	 	36	20	95	0.168	34	1	11	27	6	1	4	 	40.0	 
+3996214	1		Total Team Blocks: 3.0	
+3996217	0	1526534	Blough, Christy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526534	""	3	1/	1	 	3	0.333	40	 	 	5	 	 	1	 	1.5	 
+3996217	0	1526533	Domecus, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526533	""	3	 	 	 	 	 	2	 	 	10	2	 	 	 	 	 
+3996217	0	1639247	Dorn, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639247	""	3	1/	4	 	6	0.667	 	 	 	 	 	1	 	 	5.0	 
+3996217	0	1639249	Franceschi, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639249	""	3	1/	10	2	16	0.500	 	1	6/	4	 	 	 	 	11.0	 
+3996217	0	1526531	Johnson, Miles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526531	""	3	1/	7	3	17	0.235	 	1	 	3	 	1	 	1	9.0	 
+3996217	0	1639252	Leeson, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639252	""	3	1/	4	 	8	0.500	 	 	2	1	 	 	1	 	4.5	 
+3996217	0	1639254	Szerszen, Nicolas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639254	""	3	1/	19	3	32	0.500	 	2	3	4	 	 	 	 	21.0	1
+3996217	0	1639248	Edwards, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639248	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996217	0	1416722	Judkins, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416722	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996217	0	1301118	Pohlman, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1301118	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996217	0	1749720	Thomas, Sanil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749720	""	1	 	 	 	 	 	1	 	1	 	 	 	 	 	 	 
+3996217	0	1526527	Tublin, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526527	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996217	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996217	0		Totals		""	3	 	45	8	82	0.451	43	4	14	27	3	2	2	1	52.0	1
+3996217	0		Total Team Blocks: 3.0	
+3996217	1	1529778	Chappelle, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529778	""	3	1/	7	1	16	0.375	 	 	3	8	 	1	 	 	8.0	 
+3996217	1	1753365	Coutts, Ty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753365	""	3	1/	1	3	4	-0.500	 	 	 	1	 	 	 	 	1.0	 
+3996217	1	1529780	Fanfulik, Thane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529780	""	3	1/	5	 	5	1.000	22	2	3	6	 	 	1	 	7.5	1
+3996217	1	1429623	Gamache, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429623	""	3	1/	4	1	15	0.200	1	 	2	2	1	 	1	 	4.5	 
+3996217	1	1529781	Kelso, Jarrod	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529781	""	3	1/	4	4	11	 	1	 	2	 	 	 	2	 	5.0	 
+3996217	1	1422123	Lawson, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422123	""	3	1/	8	4	21	0.190	2	1	 	3	 	 	 	 	9.0	 
+3996217	1	1649314	Merk, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649314	""	3	 	 	 	 	 	3	 	 	5	2	 	 	 	 	 
+3996217	1	1753349	Lantz, Craig	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753349	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996217	1	1670912	Sheets, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1670912	""	2	 	1	 	3	0.333	 	 	 	1	 	 	 	1	1.0	 
+3996217	1	1753361	Siebum, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753361	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996217	1	1429622	Thomas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429622	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996217	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996217	1		Totals		""	3	 	30	13	75	0.227	29	3	11	26	4	1	4	1	36.0	1
+3996217	1		Total Team Blocks: 3.0	
+3996247	0	1640108	Engleman, Sky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640108	""	3	 	 	 	 	 	2	 	 	4	2	 	 	 	 	 
+3996247	0	1417888	Lipscombe, Gerrard	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417888	""	3	1/	5	8	28	-0.107	 	1	 	3	 	1	1	 	7.5	 
+3996247	0	1528224	Milstein, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528224	""	3	 	 	 	1	 	19	 	1	4	 	 	1	 	0.5	1
+3996247	0	1640102	Saada, Shalev	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640102	""	3	1/	6	2	18	0.222	 	4	3	2	3	 	1	1	10.5	 
+3996247	0	1640105	Turner, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640105	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996247	0	1417886	Ward, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417886	""	3	1/	8	1	13	0.538	 	 	1	 	 	 	 	 	8.0	 
+3996247	0	1528223	Kaniho, Puna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528223	""	2	1/	 	 	 	 	3	 	 	1	 	 	 	 	 	 
+3996247	0	1640107	King, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640107	""	2	1/	1	3	6	-0.333	 	1	 	1	 	 	1	 	2.5	 
+3996247	0	1528226	Mosher, Cullen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528226	""	2	 	1	2	4	-0.250	 	 	 	1	 	 	 	 	1.0	 
+3996247	0	1759370	Schwob, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1759370	""	2	 	4	 	9	0.444	 	 	 	1	 	 	 	 	4.0	 
+3996247	0	1640104	Mathews, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640104	""	1	1/	 	1	2	-0.500	 	 	 	2	 	 	 	1	 	 
+3996247	0	1758871	Montoya III, Aquiles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1758871	""	1	 	1	 	1	1.000	 	 	1	1	 	 	1	 	1.5	 
+3996247	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996247	0		Totals		""	3	 	26	17	82	0.110	24	6	6	20	6	1	5	2	35.5	1
+3996247	0		Total Team Blocks: 3.5	
+3996247	1	1429727	Fifer, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429727	""	3	1/	2	 	2	1.000	41	 	1	3	 	 	2	1	3.0	 
+3996247	1	1299557	Lilly, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299557	""	3	 	4	1	9	0.333	 	3	2	1	 	 	1	 	7.5	 
+3996247	1	1749850	Moses, Julian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749850	""	3	1/	11	2	17	0.529	 	2	3	5	1	 	1	 	13.5	 
+3996247	1	1749853	Perinar, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749853	""	3	1/	4	3	14	0.071	 	 	1	2	 	 	1	 	4.5	 
+3996247	1	1420434	Schmiegelt, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420434	""	3	1/	4	2	7	0.286	 	 	3	1	 	 	5	 	6.5	 
+3996247	1	1749847	Walenga, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749847	""	3	 	 	 	 	 	1	 	 	12	1	 	 	 	 	1
+3996247	1	1429734	Walsh, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429734	""	3	1/	9	1	11	0.727	 	 	2	1	 	1	2	 	11.0	 
+3996247	1	1637164	Weiskircher, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637164	""	3	1/	11	2	23	0.391	 	1	3	3	2	 	2	 	13.0	 
+3996247	1	1299556	McCall, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299556	""	2	 	 	 	 	 	 	 	1	5	 	 	 	 	 	 
+3996247	1	1749856	Yoshimoto, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749856	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996247	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	2	 	 	 	 	 
+3996247	1		Totals		""	3	 	45	11	83	0.410	42	6	17	33	6	1	14	1	59.0	1
+3996247	1		Total Team Blocks: 8.0	
+3996280	0	1637648	Dagostino, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637648	""	3	 	 	1	1	-1.000	 	 	 	1	 	 	 	 	 	 
+3996280	0	1637649	Enriques, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637649	""	3	 	 	 	 	 	2	 	 	10	 	 	 	 	 	 
+3996280	0	1749775	Ewert, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749775	""	3	1/	7	2	13	0.385	 	 	 	5	1	 	2	 	8.0	 
+3996280	0	1420134	Kaminski, Conrad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420134	""	3	1/	8	1	13	0.538	1	2	3	1	 	 	5	 	12.5	 
+3996280	0	1528696	Rakestraw, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528696	""	3	1/	6	1	10	0.500	1	1	1	 	 	 	3	 	8.5	 
+3996280	0	1420133	Shaw, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420133	""	3	1/	6	 	6	1.000	30	 	3	2	 	 	2	 	7.0	 
+3996280	0	1420135	Stephanus, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420135	""	3	1/	9	2	16	0.438	1	 	1	2	 	 	3	 	10.5	 
+3996280	0	1420136	Vega, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420136	""	3	1/	8	5	20	0.150	1	 	1	1	 	 	3	 	9.5	 
+3996280	0		TEAM		""	2	 	 	 	 	 	 	 	 	 	1	 	 	1	 	 
+3996280	0		Totals		""	3	 	44	12	79	0.405	36	3	9	22	2	 	18	1	56.0	 
+3996280	0		Total Team Blocks: 9.0	
+3996280	1	1528999	Miller, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528999	""	3	1/	6	 	9	0.667	1	 	1	1	 	 	2	 	7.0	 
+3996280	1	1528992	Jackson, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528992	""	3	1/	6	5	14	0.071	1	 	3	2	 	 	2	 	7.0	 
+3996280	1	1749378	Enriques, Emmett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749378	""	3	 	 	 	 	 	1	 	 	2	1	 	 	 	 	 
+3996280	1	1639352	de Diego Garcia, Enrique	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639352	""	3	1/	8	2	15	0.400	1	 	2	 	 	 	3	 	9.5	 
+3996280	1	1417782	DeLyon, Rocky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417782	""	3	1/	11	3	18	0.444	 	1	2	5	1	 	1	 	12.5	 
+3996280	1	1639349	Powell, Roy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639349	""	3	 	4	3	11	0.091	1	1	2	3	1	 	1	 	5.5	 
+3996280	1	1639347	Melcher, Zachary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639347	""	3	1/	 	 	 	 	32	 	 	4	 	 	1	 	0.5	 
+3996280	1	1528997	Burge, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528997	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996280	1	1751048	Vaz, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1751048	""	2	 	2	 	5	0.400	 	 	1	1	 	 	1	1	2.5	 
+3996280	1	1749381	Palos, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749381	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996280	1	1639348	Paul, Rohit	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639348	""	2	1/	4	2	11	0.182	 	 	2	2	 	 	 	 	4.0	 
+3996280	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996280	1		Totals		""	3	 	41	15	83	0.313	37	2	13	20	3	 	11	1	48.5	 
+3996280	1		Total Team Blocks: 5.5	
+3996281	0	1749500	Patch, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749500	""	3	1/	16	 	24	0.667	1	1	3	3	 	 	4	 	19.0	 
+3996281	0	1640867	Sander, Brenden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640867	""	3	1/	7	3	16	0.250	 	1	4	6	4	 	1	 	8.5	 
+3996281	0	1640868	Sikes, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640868	""	3	 	 	 	 	 	1	 	 	9	2	 	 	 	 	 
+3996281	0	1527705	Langlois, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527705	""	3	1/	6	3	20	0.150	 	1	2	3	 	 	 	1	7.0	 
+3996281	0	1303547	Durkin, Leo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303547	""	3	1/	 	 	 	 	31	 	3	1	 	 	 	 	 	 
+3996281	0	1417609	Hatch, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417609	""	3	1/	3	 	5	0.600	 	 	1	3	 	 	3	1	4.5	 
+3996281	0	1303549	Jarman, Price	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303549	""	3	1/	3	 	6	0.500	 	 	 	 	 	 	1	 	3.5	 
+3996281	0	1527703	Dobbert, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527703	""	3	 	 	 	1	 	 	 	 	 	 	 	 	 	 	 
+3996281	0	1527706	Meretev, Kiril	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527706	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996281	0	1417613	Sutton, Robbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417613	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996281	0		Totals		""	3	 	35	6	72	0.403	33	3	14	25	6	 	9	2	42.5	 
+3996281	0		Total Team Blocks: 4.5	
+3996281	1	1423026	Benz, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423026	""	3	1/	2	4	7	-0.286	 	 	3	2	 	 	2	1	3.0	 
+3996281	1	1529860	Dominquez, Reid	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529860	""	3	 	5	5	17	 	1	 	1	4	 	 	 	 	5.0	 
+3996281	1	1529859	Hershko, Tamir	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529859	""	3	1/	10	4	25	0.240	2	3	3	6	 	 	1	 	13.5	 
+3996281	1	1529861	Pikula, Tucker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529861	""	3	 	 	 	 	 	 	 	2	 	 	 	 	 	 	 
+3996281	1	1641151	Ross, Marty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641151	""	3	1/	2	 	3	0.667	 	 	1	1	 	 	1	 	2.5	 
+3996281	1	1316129	Russell, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1316129	""	3	1/	14	6	26	0.308	 	2	5	2	 	 	 	1	16.0	 
+3996281	1	1423027	Saeta, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423027	""	3	 	1	 	1	1.000	18	1	1	3	 	 	 	 	2.0	 
+3996281	1	1753667	Apfelbach, Karl	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753667	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3996281	1	1753668	Chakravorti, Dante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753668	""	2	1/	1	 	1	1.000	11	 	 	2	 	 	1	 	1.5	 
+3996281	1	1423029	Hoffman, Dillon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423029	""	2	 	 	 	 	 	3	 	 	6	2	 	 	 	 	 
+3996281	1	1641152	Hodges, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641152	""	1	1/	1	1	4	 	 	 	1	2	 	 	1	 	1.5	 
+3996281	1	1641150	Parker, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641150	""	1	 	 	 	 	 	 	 	 	1	1	 	 	 	 	 
+3996281	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996281	1		Totals		""	3	 	36	20	84	0.190	35	6	17	30	3	 	6	2	45.0	 
+3996281	1		Total Team Blocks: 3.0	
+3996301	0	1640996	Andrew, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640996	""	3	1/	5	3	11	0.182	 	 	1	1	 	 	3	 	6.5	 
+3996301	0	1421722	Bagnell, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421722	""	3	 	 	 	 	 	 	 	 	3	1	 	 	 	 	 
+3996301	0	1538560	Kennedy, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538560	""	3	1/	1	 	1	1.000	28	2	2	2	 	 	1	 	3.5	 
+3996301	0	1640997	Ratter, Kendall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640997	""	3	1/	4	6	20	-0.100	 	2	5	2	 	 	 	 	6.0	 
+3996301	0	1538558	Schindele-Murayama, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538558	""	3	1/	4	2	8	0.250	 	 	 	 	 	 	 	 	4.0	 
+3996301	0	1751059	Short, Corry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1751059	""	3	 	 	 	 	 	 	 	 	3	 	 	 	 	 	 
+3996301	0	1421723	Stearns, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421723	""	3	1/	9	4	17	0.294	 	 	 	3	 	 	1	 	9.5	 
+3996301	0	1541194	May, Jonah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1541194	""	2	 	 	 	 	 	 	 	1	1	 	 	 	 	 	 
+3996301	0	1421721	Shaw, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421721	""	2	1/	5	5	11	 	1	 	 	 	1	 	 	 	5.0	 
+3996301	0	1641000	Fuerst, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641000	""	1	 	1	1	2	 	 	 	1	 	 	 	 	 	1.0	 
+3996301	0	1538561	Thiemann, Kurt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538561	""	1	 	2	1	5	0.200	 	1	1	 	 	1	2	 	5.0	 
+3996301	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996301	0		Totals		""	3	 	31	22	75	0.120	29	5	11	15	2	1	7	 	40.5	 
+3996301	0		Total Team Blocks: 4.5	
+3996301	1	1643047	Ender, Griffin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643047	""	3	 	 	 	 	 	1	 	 	3	3	 	 	 	 	 
+3996301	1	1643041	Falduti, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643041	""	3	1	10	2	14	0.571	 	 	1	1	 	1	4	 	13.0	 
+3996301	1	1643050	Hammer, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643050	""	3	1	5	3	13	0.154	 	1	1	3	2	 	1	 	6.5	 
+3996301	1	1749513	Lane, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749513	""	3	1	8	 	9	0.889	 	 	2	1	 	 	2	1	9.0	 
+3996301	1	1643037	Moses, Timothy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643037	""	3	1	5	4	13	0.077	 	 	2	5	 	 	 	 	5.0	 
+3996301	1	1643038	Pillon, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643038	""	3	 	 	 	 	 	1	1	2	1	 	 	 	 	1.0	 
+3996301	1	1643049	Predney, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643049	""	3	1	11	3	24	0.333	 	 	4	3	 	 	2	 	12.0	 
+3996301	1	1749514	Rodriguez, Cristian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749514	""	3	1	1	 	2	0.500	37	 	 	 	 	1	4	 	4.0	 
+3996301	1	1643048	Weiser, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1643048	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996301	1	1749512	Kaaa, Isaiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749512	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996301	1	1749511	Howell, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749511	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996301	1		Totals		""	3	 	40	12	75	0.373	39	2	13	17	5	2	13	1	50.5	 
+3996301	1		Total Team Blocks: 8.5	
+3996312	0	1749666	Sato, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749666	""	5	 	 	 	 	 	2	 	 	13	4	 	 	 	 	 
+3996312	0	1637556	Huus, Bjarne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637556	""	5	1/	13	5	35	0.229	4	 	5	8	 	 	 	 	13.0	 
+3996312	0	1418568	Ensing, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418568	""	5	 	 	 	 	 	 	 	2	1	 	 	 	 	 	 
+3996312	0	1749662	Tuaniga, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749662	""	5	1/	2	 	3	0.667	63/	 	5	7	1	 	2	 	3.0	 
+3996312	0	1749661	Ensing, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749661	""	5	1/	12	5	33	0.212	 	 	2	9	 	 	2	1	13.0	 
+3996312	0	1749663	DeFalco, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749663	""	5	1/	27/	10	52/	0.327	1	1	1	14	1	 	3	 	29.5	 
+3996312	0	1299669	Gregory, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299669	""	5	1/	9	 	17	0.529	 	3	5	2	 	 	2	 	13.0	 
+3996312	0	1749664	Lugo-Rodriguez, Amir	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749664	""	3	1/	1	1	10	 	 	 	3	 	 	 	4	 	3.0	 
+3996312	0	1526778	Yould, Bryce	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526778	""	3	 	6	 	10	0.600	 	 	2	2	 	 	1	 	6.5	 
+3996312	0	1299668	Glamack, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299668	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996312	0	1749665	Cannon, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749665	""	3	 	1	 	1	1.000	 	 	1	 	 	 	 	 	1.0	 
+3996312	0	1637557	La Rusch, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637557	""	1	 	 	1	2	-0.500	 	 	 	 	 	 	 	 	 	 
+3996312	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996312	0		Totals		""	5	 	71/	22	163/	0.301	70/	4	26	56	6	 	14	1	82.0/	 
+3996312	0		Total Team Blocks: 7.0	
+3996312	1	1750093	Kingi, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750093	""	5	1/	11	5	32	0.188	2	 	 	10	3	 	2	 	12.0	 
+3996312	1	1531201	Curtis, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531201	""	5	 	 	 	 	 	 	1	1	1	 	 	 	 	1.0	 
+3996312	1	1640989	Drake, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640989	""	5	1/	3	1	8	0.250	2	 	1	 	 	 	8	1	7.0	 
+3996312	1	1418739	Delson, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418739	""	5	1/	14	8	43	0.140	1	2	2	6	 	 	4	 	18.0	 
+3996312	1	1750084	Seif, Jonah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750084	""	5	1/	2	 	5	0.400	40	3	3	15	 	1	1	 	6.5	1
+3996312	1	1750088	Marsh, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750088	""	5	1/	14	8	42	0.143	 	 	 	12	 	 	5	 	16.5	 
+3996312	1	1418737	Boehle, Parker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1418737	""	5	 	 	 	 	 	3	 	 	7	 	 	 	 	 	 
+3996312	1	1305764	Hardy, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1305764	""	5	1/	8	4	16	0.250	 	 	2	 	1	 	3	 	9.5	 
+3996312	1	1640986	Pion, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640986	""	3	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996312	1	1640991	Boehle, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640991	""	3	 	 	 	 	 	 	 	 	6	 	 	 	 	 	 
+3996312	1	1750086	Chavers, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750086	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996312	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996312	1		Totals		""	5	 	52	26	146	0.178	48	6	10	57	4	1	23	1	70.5	1
+3996312	1		Total Team Blocks: 12.5	
+3996315	0	1638241	Greene, Jr., Arvis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638241	""	4	 	1	 	2	0.500	 	 	1	 	 	 	 	 	1.0	 
+3996315	0	1527825	Sakaida, Bradley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527825	""	4	1/	3	3	11	 	 	1	1	5	4	 	2	 	5.0	 
+3996315	0	1638229	Suarez, CJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638229	""	4	 	 	 	 	 	3	 	 	11	1	 	 	 	 	 
+3996315	0	1638243	Starkey, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638243	""	4	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996315	0	1749516	Kalchev, Dimitar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749516	""	4	1/	25	11	45	0.311	 	5	3	3	2	 	1	 	30.5/	 
+3996315	0	1638231	Chance, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638231	""	4	1/	4	2	9	0.222	 	1	2	3	 	 	4	 	7.0	 
+3996315	0	1527827	Ciesla, Jakub	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527827	""	4	1/	12	4	31	0.258	 	 	6	8	1	 	3	1	13.5	 
+3996315	0	1638232	Byers, Josiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1638232	""	4	1/	8	2	14	0.429	 	1	 	3	 	2	2	4/	12.0	 
+3996315	0	1749515	Porter, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749515	""	4	1/	 	 	3	 	47	1	 	3	 	 	2	 	2.0	 
+3996315	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996315	0		Totals		""	4	 	53	22	115	0.270	50	9	14	36	8	2	14	5	71.0	 
+3996315	0		Total Team Blocks: 9.0	
+3996315	1	1749353	Gillett, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749353	""	4	 	 	 	 	 	2	 	 	8	5	 	 	 	 	 
+3996315	1	1531255	Smith, Hagen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531255	""	4	1/	8	 	9	0.889	20	 	 	9	 	 	1	 	8.5	1
+3996315	1	1637111	Arnitz, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637111	""	4	1/	21	5	38	0.421	1	 	3	3	3	 	5	 	23.5	 
+3996315	1	1749357	Ma'a, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749357	""	4	1/	7	2	20	0.250	23	7/	5	6	 	 	4	 	16.0	 
+3996315	1	1531252	Stahl, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531252	""	4	1/	5	 	8	0.625	 	 	2	 	 	 	4	 	7.0	 
+3996315	1	1531251	Martin, Oliver	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531251	""	4	1/	5	2	12	0.250	1	 	1	1	 	 	5	1	7.5	 
+3996315	1	1531250	Fisher, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531250	""	3	 	4	1	13	0.231	1	1	 	5	 	 	3	 	6.5	 
+3996315	1	1637112	Hessenauer, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637112	""	2	 	 	1	1	-1.000	 	 	 	 	 	 	 	 	 	 
+3996315	1	1637110	Hatch, JT	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637110	""	2	1/	3	5	9	-0.222	 	 	1	 	 	 	 	 	3.0	 
+3996315	1	1531249	Bantle, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1531249	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996315	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996315	1		Totals		""	4	 	53	16	110	0.336	48	8	12	32	9	 	22	1	72.0	1
+3996315	1		Total Team Blocks: 11.0	
+3996320	0	1526996	Colbert, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526996	""	3	1/	7	5	22	0.091	1	 	1	4	1	 	 	1	7.0	 
+3996320	0	1749335	Schmidt, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749335	""	3	1/	6	7	16	-0.062	 	 	2	4	2	1	1	 	7.5	 
+3996320	0	1527005	Beamer, Shayne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527005	""	3	1/	5	1	7	0.571	 	 	 	1	1	1	1	 	6.5	 
+3996320	0	1554352	Howard, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554352	""	3	 	 	 	 	 	2	 	 	8	 	 	 	 	 	 
+3996320	0	1637794	Syftestad, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637794	""	3	1/	11	6	26	0.192	 	 	1	4	1	 	2	 	12.0	 
+3996320	0	1637792	Flowers, Alec	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637792	""	2	1/	2	2	6	 	 	 	 	1	 	 	2	 	3.0	 
+3996320	0	1637790	La Mont, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637790	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3996320	0	1637796	Stojcic, Milosh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637796	""	2	1/	2	 	2	1.000	18	 	 	 	 	 	 	 	2.0	 
+3996320	0	1749333	Blaich, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749333	""	2	 	 	1	2	-0.500	11	 	 	1	 	1	 	2	1.0	 
+3996320	0	1527004	Zhu, Bryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527004	""	1	 	1	1	2	 	 	1	2	 	 	 	 	 	2.0	 
+3996320	0	1527007	Rudenko, Kirill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527007	""	1	 	 	1	3	-0.333	 	 	 	 	 	 	 	 	 	 
+3996320	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996320	0		Totals		""	3	 	34	24	86	0.116	32	1	7	23	6	3	6	3	41.0	 
+3996320	0		Total Team Blocks: 6.0	
+3996320	1	1526964	Mol, Hendrik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526964	""	3	1/	5	 	7	0.714	 	1	4	3	 	2	4	1	10.0	 
+3996320	1	1417446	McKellar, Iain	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417446	""	3	1/	3	1	5	0.400	 	3	2	 	 	 	2	 	7.0	 
+3996320	1	1526962	Franciskovic, Jennings	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526962	""	3	1/	5	3	9	0.222	32	 	1	2	 	 	4	 	7.0	 
+3996320	1	1417443	Kanetake, Kolby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417443	""	3	 	 	 	 	 	 	 	 	9	1	 	 	 	 	 
+3996320	1	1417451	Zarkovic, Sinisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417451	""	3	1/	12	2	21	0.476	1	 	1	5	 	 	2	 	13.0	 
+3996320	1	1749495	Worsley, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749495	""	2	 	 	 	 	 	 	 	 	2	 	 	 	 	 	 
+3996320	1	1526961	Fey, Kupono	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526961	""	2	1/	3	2	8	0.125	1	 	1	 	 	 	2	 	4.0	 
+3996320	1	1749494	Van Tilburg, Stijn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749494	""	2	1/	5	1	15	0.267	 	1	 	 	 	 	2	 	7.0	 
+3996320	1	1749492	Rosenmeier, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749492	""	1	 	3	 	5	0.600	2	 	 	1	 	 	 	 	3.0	 
+3996320	1	1749493	Solbrig, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749493	""	1	 	1	 	1	1.000	 	 	 	 	 	 	 	 	1.0	 
+3996320	1	1749488	Frank, Nainoa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749488	""	1	 	1	 	2	0.500	 	1	 	 	 	 	1	 	2.5	 
+3996320	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996320	1		Totals		""	3	 	38	9	73	0.397	36	6	9	22	1	2	17	1	54.5	 
+3996320	1		Total Team Blocks: 10.5	
+3996381	0	1535963	Sydow, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1535963	""	4	1/	5	1	9	0.444	 	 	1	 	 	 	4	 	7.0	 
+3996381	0	1649096	Rutledge, Bret	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649096	""	4	1/	13	1	29	0.414	 	1	4	4	 	 	3	1	15.5	 
+3996381	0	1753912	van, Hugo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753912	""	4	 	 	 	 	 	 	1	2	1	 	 	 	 	1.0	 
+3996381	0	1753910	Trifunovic, Ivan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753910	""	4	1/	8	5	24	0.125	2	 	3	6	1	 	2	 	9.0	 
+3996381	0	1649098	Yasalonis, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649098	""	4	1/	2	 	2	1.000	43	2	3	10	 	1	3	 	6.5	 
+3996381	0	1535960	Mann, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1535960	""	4	1/	7	3	12	0.333	 	1	3	3	 	 	6	 	11.0	 
+3996381	0	1649095	Schirman, Peyton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649095	""	4	1/	14	3	29	0.379	 	 	1	7	2	2	2	 	17.0	2/
+3996381	0	1429215	Thomas, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429215	""	3	 	1	 	2	0.500	 	 	 	10	 	 	 	1	1.0	 
+3996381	0	1759369	Salmon, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1759369	""	2	 	 	 	 	 	 	 	 	6	 	 	 	 	 	1
+3996381	0	1753911	Yeo, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753911	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3996381	0	1534702	Palmatier, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534702	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996381	0		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996381	0		Totals		""	4	 	50	13	107	0.346	45	5	17	48	3	3	20	2	68.0	3
+3996381	0		Total Team Blocks: 13.0	
+3996381	1	1543947	Barbosa, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543947	""	4	1/	10	8	41	0.049	1	 	3	3	2	 	1	 	10.5	 
+3996381	1	1750023	Bonaventure, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750023	""	4	1/	 	2	2	-1.000	38	1	2	1	 	 	 	 	1.0	2/
+3996381	1	1537944	Funk, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537944	""	4	1/	9	2	22	0.318	 	1	1	9	1	 	1	 	10.5	1
+3996381	1	1537939	Fountain, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537939	""	4	1/	5	1	10	0.400	 	1	3	2	 	 	2	 	7.0	 
+3996381	1	1537941	McKnight, Meshach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537941	""	4	 	 	 	2	 	 	 	 	16	1	 	 	 	 	 
+3996381	1	1649309	Diaz, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649309	""	4	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996381	1	1537945	Peruyero, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537945	""	4	1/	3	3	12	 	 	 	3	2	 	1	 	2	4.0	 
+3996381	1	1750024	Cervantes, Gilberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750024	""	3	1/	9	7	22	0.091	 	 	 	4	 	 	 	 	9.0	 
+3996381	1	1544733	Basson, Peter-Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544733	""	1	 	3	1	6	0.333	 	 	1	2	1	 	 	 	3.0	 
+3996381	1		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996381	1		Totals		""	4	 	39	24	117	0.128	39	3	13	39	5	1	4	2	45.0	3
+3996381	1		Total Team Blocks: 3.0	
+3996523	0	1537152	Cabral, Artur	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537152	""	3	1	11	3	19	0.421	 	 	2	2	 	1	6	 	15.0	 
+3996523	0	1649100	Parsons, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649100	""	3	 	 	1	3	-0.333	15	 	3	 	 	 	 	 	 	 
+3996523	0	1753913	Castro, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753913	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996523	0	1758823	Victor, Joao	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1758823	""	3	1	5	6	17	-0.059	1	2	3	7	4	 	1	 	7.5	 
+3996523	0	1537151	Alexander, Leshon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537151	""	3	1	4	2	9	0.222	 	 	1	 	 	 	3	 	5.5	 
+3996523	0	1423069	Flaherty, Liam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423069	""	3	 	 	 	1	 	 	 	 	2	1	 	 	 	 	 
+3996523	0	1423062	Grupe, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423062	""	3	1	3	1	7	0.286	 	 	1	 	 	 	4	 	5.0	 
+3996523	0	1423064	Hansen, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423064	""	3	1	7	4	17	0.176	1	1	2	6	 	 	1	 	8.5	 
+3996523	0	1649110	Bijelic, Aleksa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649110	""	2	1	 	 	2	 	10	 	1	2	 	 	1	 	0.5	 
+3996523	0	1649102	Baker, Gary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649102	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996523	0	1753914	Douglas, Josiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753914	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996523	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996523	0		Totals		""	3	 	30	17	75	0.173	27	3	13	19	6	1	16	 	42.0	 
+3996523	0		Total Team Blocks: 9.0	
+3996523	1	1644872	Savage, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644872	""	3	1/	1	1	2	 	 	2	1	1	 	2	 	 	5.0	 
+3996523	1	1529203	Kretzschmar, Bruno	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529203	""	3	1/	13	8	31	0.161	1	2	3	5	 	1	1	 	16.5	 
+3996523	1	1754461	Latard, Julien	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1754461	""	3	1/	3	 	4	0.750	1	 	2	3	 	1	2	 	5.0	 
+3996523	1	1754464	Rocklein, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1754464	""	3	1/	10	4	19	0.316	1	2	2	3	1	2	1	 	14.5	 
+3996523	1	1644982	Riley, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644982	""	3	1/	5	2	12	0.250	1	 	4	1	 	 	 	 	5.0	 
+3996523	1	1529204	Wanek, Luca	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529204	""	3	1/	5	 	5	1.000	26	 	 	3	 	 	 	 	5.0	 
+3996523	1	1529207	Wildes, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529207	""	3	 	 	 	 	 	3	 	 	7	1	 	 	 	 	 
+3996523	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3996523	1		Totals		""	3	 	37	15	73	0.301	33	6	12	23	3	6	4	 	51.0	 
+3996523	1		Total Team Blocks: 8.0	
+3996531	0	1422460	Blecher, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422460	""	4	1/	 	1	5	-0.200	41	 	1	4	 	 	 	 	 	 
+3996531	0	1749349	Serviat, Hector	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749349	""	4	1/	9	10	32	-0.031	 	 	3	4	 	 	 	1	9.0	 
+3996531	0	1749347	Frank, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749347	""	4	1/	2	3	7	-0.143	 	 	3	 	 	 	 	 	2.0	 
+3996531	0	1534670	Sobel, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534670	""	4	1/	20	10	48	0.208	 	1	4	7	3	2	2	 	24.0	 
+3996531	0	1534666	Freitas, Keenan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534666	""	4	 	 	 	 	 	 	 	 	12	2	 	 	 	 	 
+3996531	0	1534669	Shayka, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534669	""	4	1/	12	9	30	0.100	 	 	1	2	1	1	 	 	13.0	 
+3996531	0	1534667	Klaas, Rudy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534667	""	4	1/	1	2	5	-0.200	 	 	3	 	 	2	2	 	4.0	 
+3996531	0	1534668	Rivera, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534668	""	3	 	 	 	 	 	 	 	1	1	 	 	 	 	 	 
+3996531	0	1749348	Gifford, Levi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749348	""	1	 	 	 	 	 	 	 	1	1	 	 	 	 	 	 
+3996531	0	1655296	Peach, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1655296	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996531	0		TEAM		""	4	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996531	0		Totals		""	4	 	44	35/	127	0.071	41	1	17	31	6	5	4	1	52.0	 
+3996531	0		Total Team Blocks: 7.0	
+3996531	1	1532779	Beyner, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532779	""	4	1/	13	6	27	0.259	2	1	4	9	1	 	 	1	14.0	 
+3996531	1	1425988	Sullivan, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425988	""	4	1/	2	1	4	0.250	38	3	1	7	 	1	 	 	6.0	 
+3996531	1	1425985	Buell, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425985	""	4	1/	3	6	9	-0.333	 	 	3	2	 	4/	2	 	8.0	 
+3996531	1	1653497	Schaeffer, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653497	""	4	1/	1	2	10	-0.100	 	 	1	7	 	1	2	1	3.0	 
+3996531	1	1425984	Snyder, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425984	""	4	1/	6	2	12	0.333	1	1	2	5	 	2	 	1	9.0	 
+3996531	1	1760449	Albrecht, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760449	""	4	1/	19	6	40	0.325	1	1	1	4	 	1	 	1	21.0	 
+3996531	1	1659320	Valentine, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1659320	""	4	 	 	 	 	 	1	 	 	7	 	 	 	 	 	 
+3996531	1	1532775	Nixon, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532775	""	1	 	 	 	1	 	 	 	 	 	 	 	 	 	 	 
+3996531	1		TEAM		""	4	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996531	1		Totals		""	4	 	44	23	103	0.204	43	6	12	41	1	9/	4	4	61.0	 
+3996531	1		Total Team Blocks: 11.0	
+3996962	0	1753171	Arroyo, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753171	""	3	 	 	 	 	 	1	 	 	11	2	 	 	 	 	 
+3996962	0	1653492	Obenda, Besongngem	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653492	""	3	1	10	2	16	0.500	 	1	1	4	3	 	 	 	11.0	 
+3996962	0	1557399	Bowman, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1557399	""	3	1	2	 	2	1.000	 	 	3	1	 	 	 	3	2.0	 
+3996962	0	1557405	Miller, Myles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1557405	""	3	1	4	 	5	0.800	 	 	 	1	 	1	1	 	5.5	 
+3996962	0	1557406	Ruiz, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1557406	""	3	 	5	4	17	0.059	 	 	 	4	 	 	 	1	5.0	 
+3996962	0	1557408	Stapp, A J	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1557408	""	3	1	7	7	18	 	 	1	2	 	 	 	1	 	8.5	 
+3996962	0	1753172	Bravo, Benjamin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753172	""	2	 	 	 	 	 	12	 	 	2	 	 	 	1	 	 
+3996962	0	1557401	Deiter, Kody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1557401	""	2	1	1	 	1	1.000	16	 	2	1	2	 	 	1	1.0	 
+3996962	0	1753175	Glader, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753175	""	2	1	3	3	14	 	 	 	2	2	 	1	 	 	4.0	 
+3996962	0	1753174	Glader, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753174	""	1	 	1	3	5	-0.400	 	 	1	 	 	 	 	 	1.0	 
+3996962	0		TEAM		""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3996962	0		Totals		""	3	 	33	19	78	0.179	29	2	11	26	7	2	2	6	38.0	 
+3996962	0		Total Team Blocks: 3.0	
+3996962	1	1532779	Beyner, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532779	""	3	1/	3	2	6	0.167	 	4	1	 	 	1	 	 	8.0	 
+3996962	1	1532777	Radoszewski, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532777	""	3	 	 	 	 	 	 	 	 	5	 	 	 	 	 	 
+3996962	1	1425988	Sullivan, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425988	""	3	1/	2	2	6	 	29	 	1	3	 	 	 	1	2.0	 
+3996962	1	1653497	Schaeffer, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653497	""	3	1/	6	1	15	0.333	2	 	3	4	 	1	 	 	7.0	 
+3996962	1	1425984	Snyder, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425984	""	3	1/	4	3	12	0.083	 	1	3	2	 	1	 	1	6.0	 
+3996962	1	1760449	Albrecht, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760449	""	3	1/	13	6	28	0.250	2	1	 	7	 	 	 	 	14.0	 
+3996962	1	1532775	Nixon, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532775	""	3	1/	10	1	14	0.643	1	1	5	2	 	1	 	 	12.0	 
+3996962	1		TEAM		""	3	 	 	 	 	 	 	 	 	 	2	 	 	 	 	 
+3996962	1		Totals		""	3	 	38	15	81	0.284	34	7	13	23	2	4	 	2	49.0	 
+3996962	1		Total Team Blocks: 4.0	
+3997086	0	1749341	Brkovic, Aleksa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749341	""	3	1/	13	1	16	0.750	 	4	2	6	2	1	1	1	18.5	 
+3997086	0	1640981	Hyde, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640981	""	3	1/	3	2	6	0.167	 	 	 	2	 	1	1	 	4.5	 
+3997086	0	1532816	Pagliara, Federico	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532816	""	3	1/	1	 	5	0.200	41	1	1	2	 	1	 	1	3.0	 
+3997086	0	1749340	Alameda, Kekaulike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749340	""	3	 	 	 	 	 	1	 	 	5	1	 	 	 	 	 
+3997086	0	1749342	Leary, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749342	""	3	1/	7	1	12	0.500	 	 	3	 	 	1	2	 	9.0	 
+3997086	0	1640984	Tang-Taye, Pierre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640984	""	3	1/	8	3	19	0.263	 	 	2	2	 	3	1	1	11.5	 
+3997086	0	1749344	Mandilaris, Vasilis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749344	""	3	1/	12	 	16	0.750	1	1	2	4	 	 	1	 	13.5	 
+3997086	0	1640983	Lee, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640983	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997086	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3997086	0		Totals		""	3	 	44	7	74	0.500	43	6	11	21	4	7	6	3	60.0	 
+3997086	0		Total Team Blocks: 10.0	
+3997086	1	1641959	Schinzing, Alexander	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641959	""	3	1/	 	 	 	 	29	1	2	4	 	 	 	2	1.0	 
+3997086	1	1756508	Arelus, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756508	""	3	1/	5	3	14	0.143	 	 	1	3	5/	 	 	 	5.0	 
+3997086	1	1641976	Rhine, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641976	""	3	1/	5	3	15	0.133	 	 	1	1	 	1	 	2	6.0	 
+3997086	1	1641958	King, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641958	""	3	 	 	 	 	 	 	 	 	5	 	 	 	 	 	 
+3997086	1	1756511	Childes, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756511	""	3	1/	12	4	21	0.381	1	2	1	4	 	1	 	 	15.0	 
+3997086	1	1641979	Vailu'u, Luuga	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641979	""	3	1/	10	3	21	0.333	 	1	1	2	 	1	 	 	12.0	 
+3997086	1	1641990	McManaway, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1641990	""	3	1/	2	3	9	-0.111	 	 	 	 	 	 	 	 	2.0	 
+3997086	1	1756509	Campbell, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756509	""	2	 	 	1	1	-1.000	 	 	 	1	 	 	 	 	 	 
+3997086	1	1756507	Moy, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756507	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997086	1	1756506	Lawrence, Grayson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1756506	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997086	1	1645971	Jenkins, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1645971	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997086	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3997086	1		Totals		""	3	 	34	17	81	0.210	30	4	8	20	6	3	 	4	41.0	 
+3997086	1		Total Team Blocks: 3.0	
+3997132	0	1749500	Patch, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749500	""	3	1/	17	3	30	0.467	 	 	1	4	 	 	3	 	18.5	 
+3997132	0	1640867	Sander, Brenden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640867	""	3	1/	9	4	16	0.312	 	2	2	3	 	 	1	1	11.5	 
+3997132	0	1640868	Sikes, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640868	""	3	 	 	 	 	 	 	 	 	8	2	 	 	 	 	 
+3997132	0	1527705	Langlois, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527705	""	3	1/	10	2	20	0.400	2	 	 	4	3	1	5	 	13.5	 
+3997132	0	1527706	Meretev, Kiril	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527706	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997132	0	1303547	Durkin, Leo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303547	""	3	1/	1	 	2	0.500	32	1	 	3	 	 	2	 	3.0	1
+3997132	0	1417609	Hatch, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417609	""	3	1/	2	 	5	0.400	2	1	2	 	 	 	3	1	4.5	 
+3997132	0	1303549	Jarman, Price	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1303549	""	3	1/	5	1	12	0.333	1	 	 	 	 	 	4	 	7.0	 
+3997132	0	1417613	Sutton, Robbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417613	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997132	0	1527703	Dobbert, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527703	""	3	 	 	 	 	 	 	 	 	 	 	 	1	 	0.5	 
+3997132	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997132	0		Totals		""	3	 	44	10	85	0.400	37	4	5	22	5	1	19	2	58.5	1
+3997132	0		Total Team Blocks: 10.5	
+3997132	1	1316130	Agopian, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1316130	""	3	1/	8	1	11	0.636	 	1	3	 	 	 	4	1	11.0	 
+3997132	1	1753667	Apfelbach, Karl	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753667	""	3	1/	7	6	15	0.067	1	1	2	4	 	 	1	 	8.5	 
+3997132	1	1423026	Benz, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423026	""	3	1/	3	 	7	0.429	 	 	1	 	 	 	 	 	3.0	 
+3997132	1	1753668	Chakravorti, Dante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753668	""	3	1/	2	1	3	0.333	36	 	1	1	 	 	 	 	2.0	 
+3997132	1	1529859	Hershko, Tamir	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529859	""	3	1/	11	3	24	0.333	 	 	1	5	2	 	2	 	12.0	 
+3997132	1	1423029	Hoffman, Dillon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423029	""	3	 	 	 	 	 	3	 	 	10	 	 	 	 	 	 
+3997132	1	1529861	Pikula, Tucker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529861	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997132	1	1316129	Russell, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1316129	""	3	1/	13	8	28	0.179	 	1	2	3	2	 	1	 	14.5	 
+3997132	1	1423027	Saeta, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1423027	""	3	 	 	 	 	 	 	2	1	2	 	 	 	 	2.0	 
+3997132	1	1529860	Dominquez, Reid	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529860	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3997132	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997132	1		Totals		""	3	 	44	19	88	0.284	40	5	11	26	4	 	8	1	53.0	 
+3997132	1		Total Team Blocks: 4.0	
+3997308	0	1526534	Blough, Christy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526534	""	3	1/	1	1	3	 	28	 	1	3	 	1	 	 	2.0	 
+3997308	0	1526533	Domecus, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526533	""	3	 	 	 	 	 	2	 	 	4	3	 	 	 	 	 
+3997308	0	1639247	Dorn, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639247	""	3	1/	4	1	5	0.600	 	 	1	 	 	 	2	1	5.0	 
+3997308	0	1639248	Edwards, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639248	""	3	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997308	0	1639249	Franceschi, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639249	""	3	1/	6	3	10	0.300	1	2	2	2	1	 	1	 	8.5	 
+3997308	0	1526531	Johnson, Miles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526531	""	3	1/	7	1	17	0.353	 	3	2	1	 	 	1	 	10.5	 
+3997308	0	1639252	Leeson, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639252	""	3	1/	6	 	9	0.667	 	1	2	1	 	 	1	2	7.5	 
+3997308	0	1639254	Szerszen, Nicolas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639254	""	3	1/	11	 	15	0.733	 	1	2	 	1	 	1	 	12.5	 
+3997308	0	1416722	Judkins, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416722	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997308	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997308	0		Totals		""	3	 	35	6	59	0.492	31	7	11	11	5	1	6	3	46.0	 
+3997308	0		Total Team Blocks: 4.0	
+3997308	1	1749635	Brewster, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749635	""	3	1/	 	 	 	 	31	 	1	2	1	 	1	2	0.5	1
+3997308	1	1528884	Duckworth, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528884	""	3	1/	11	4	19	0.368	 	1	2	4	 	 	 	1	12.0	 
+3997308	1	1749636	Hipelius, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749636	""	3	1/	6	2	9	0.444	 	 	3	1	 	 	1	1	6.5	 
+3997308	1	1421966	Moore, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421966	""	3	1/	10	5	21	0.238	1	4	4	1	 	 	 	 	14.0	 
+3997308	1	1639819	Staples, Karsten	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639819	""	3	1/	4	1	6	0.500	 	 	1	 	1	 	2	1	5.0	 
+3997308	1	1639818	Vorderer, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639818	""	3	 	 	 	 	 	1	 	 	7	 	 	 	 	 	 
+3997308	1	1639816	Chard, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639816	""	2	1/	1	3	7	-0.286	 	 	2	 	3	1	2	 	3.0	 
+3997308	1	1639820	Van Dellen, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639820	""	2	 	2	1	3	0.333	 	 	3	 	2	 	 	 	2.0	 
+3997308	1	1639821	Seghezzi, Roman	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639821	""	1	 	 	 	 	 	1	 	 	 	 	 	 	 	 	 
+3997308	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997308	1		Totals		""	3	 	34	16	65	0.277	34	5	16	15	7	1	6	5	43.0	1
+3997308	1		Total Team Blocks: 4.0	
+3997331	0	1649313	Cartagena, Edgardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649313	""	5	 	 	 	3	 	 	 	 	4	2	 	 	 	 	 
+3997331	0	1525765	Garchet, Hiago	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525765	""	5	1/	1	 	1	1.000	28	 	2	2	 	1	1	 	2.5	 
+3997331	0	1525768	Pia, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525768	""	5	1/	2	1	5	0.200	 	 	1	 	 	 	4	 	4.0	 
+3997331	0	1537149	Scannell, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537149	""	5	 	7	2	14	0.357	 	 	2	2	 	 	3	 	8.5	 
+3997331	0	1525767	Surane, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525767	""	5	1/	12	4	28	0.286	 	 	5	4	1	1	4	 	15.0	 
+3997331	0	1749483	Swartz, Parker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749483	""	5	 	1	 	1	1.000	 	3	 	 	 	 	 	 	4.0	 
+3997331	0	1644882	Weiler, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644882	""	5	1/	5	3	14	0.143	 	 	3	4	2	1	1	 	6.5	 
+3997331	0	1653414	Lebryk, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653414	""	3	 	1	 	2	0.500	 	2	2	 	 	 	3	 	4.5	 
+3997331	0	1416804	Niemczewski, Martin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416804	""	2	1/	2	3	12	-0.083	 	 	1	1	 	 	 	 	2.0	 
+3997331	0	1644880	Walsh, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644880	""	2	1/	2	1	5	0.200	 	 	3	 	 	 	2	 	3.0	 
+3997331	0	1749482	Wessel, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749482	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997331	0	1525764	Gross, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525764	""	1	 	 	 	 	 	3	 	 	 	 	 	1	 	0.5	 
+3997331	0	1416803	Lesure, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416803	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997331	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997331	0		Totals		""	5	 	33	14	85	0.224	31	5	21	17	5	3	19	 	50.5	 
+3997331	0		Total Team Blocks: 12.5	
+3997331	1	1753908	Barnes, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753908	""	5	1/	1	5	7	-0.571	 	 	3	8	1	1	2	 	3.0	 
+3997331	1	1537186	Edgley, Dom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537186	""	5	1/	8	2	11	0.545	 	2	4	1	 	 	3	 	11.5	 
+3997331	1	1640859	Gomez, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640859	""	5	 	 	 	1	 	1	 	 	6	4	 	 	 	 	 
+3997331	1	1640860	Kollar, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640860	""	5	1/	7	2	9	0.556	 	1	5	 	 	 	4	 	10.0	 
+3997331	1	1538198	Malias, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1538198	""	5	1/	13	11	32	0.062	 	 	6	9	 	 	1	 	13.5	 
+3997331	1	1640861	Negron, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640861	""	5	1/	 	 	 	 	54	1	6	3	 	 	 	 	1.0	 
+3997331	1	1537187	Wilson, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537187	""	5	1/	29	10	47	0.404	 	1	7/	5	 	 	4	 	32.0	 
+3997331	1		Totals		""	5	 	58	30	107	0.262	55	5	31/	32	5	1	14	 	71.0	 
+3997331	1		Total Team Blocks: 8.0	
+3997338	0	1316157	Sellan, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1316157	""	5	1/	13	10	30	0.100	1	2	6/	7	 	 	2	1	16.0	 
+3997338	0	1527140	Frazee, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527140	""	5	1/	6	2	11	0.364	 	1	3	 	 	 	4	1	9.0	 
+3997338	0	1421784	Bertran, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421784	""	5	 	 	 	 	 	1	 	 	10	 	 	 	 	 	 
+3997338	0	1750341	Keegan, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750341	""	5	1/	4	 	4	1.000	41	1	 	3	 	 	1	1	5.5	3/
+3997338	0	1639071	Price, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639071	""	5	1/	20	5	36	0.417	1	2	1	6	1	 	2	1	23.0	 
+3997338	0	1750342	Neace, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750342	""	4	 	4	1	15	0.200	2	2	4	4	2	 	1	 	6.5	 
+3997338	0	1527139	Quinones, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527139	""	4	 	 	 	 	 	1	1	1	 	 	 	 	 	1.0	 
+3997338	0	1750343	Schroeder, Graydon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750343	""	4	1/	2	3	8	-0.125	 	 	2	 	1	 	1	2	2.5	 
+3997338	0	1421822	McNerney, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421822	""	3	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3997338	0	1639073	Stone, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639073	""	2	1/	3	4	9	-0.111	 	 	1	2	1	 	1	 	3.5	 
+3997338	0	1750338	Fitzgerald, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750338	""	2	 	1	1	3	 	 	1	1	 	 	 	 	 	2.0	 
+3997338	0		TEAM		""	2	 	 	 	 	 	 	 	 	 	2	 	 	 	 	 
+3997338	0		Totals		""	5	 	53	26	116	0.233	47	10	19	33	7	 	12	6/	69.0	3
+3997338	0		Total Team Blocks: 6.0	
+3997338	1	1416335	Thele, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416335	""	5	 	7	2	16	0.312	1	2	1	7	 	 	 	 	9.0	1
+3997338	1	1526061	Goodridge, Jabarry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526061	""	5	1/	20	7	38	0.342	2	1	4	6	4	 	 	 	21.0	 
+3997338	1	1637957	Myren, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637957	""	5	1/	3	 	8	0.375	 	1	2	2	 	1	3	 	6.5	 
+3997338	1	1416333	Robbe, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416333	""	5	1/	3	1	8	0.250	2	 	2	1	 	1	5	1	6.5	 
+3997338	1	1526062	Kowalski, Raymond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526062	""	5	1/	12	2	24	0.417	 	2	5	 	 	 	1	 	14.5	1
+3997338	1	1753053	Whitaker, Ricardo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753053	""	5	1/	 	 	1	 	38	1	1	4	 	 	5	3/	3.5	3/
+3997338	1	1637954	Heckman, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637954	""	5	 	 	 	 	 	2	 	 	9	3	 	 	 	 	 
+3997338	1	1526064	Leung, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526064	""	4	 	 	 	 	 	 	 	1	1	 	 	 	 	 	 
+3997338	1	1753900	Jurko, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753900	""	4	1/	2	2	5	 	 	 	2	 	2	 	2	 	3.0	 
+3997338	1	1637956	Tait, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637956	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997338	1	1753054	Wise, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753054	""	1	 	 	 	 	 	 	 	 	2	 	 	 	 	 	 
+3997338	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3997338	1		Totals		""	5	 	47	14	100	0.330	45	7	18	32	10/	2	16	4	64.0	5/
+3997338	1		Total Team Blocks: 10.0	
+3997340	0	1640108	Engleman, Sky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640108	""	3	 	 	 	 	 	7	 	 	8	1	 	 	 	 	 
+3997340	0	1640107	King, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640107	""	3	1/	6	3	13	0.231	 	 	1	 	 	 	3	2	7.5	 
+3997340	0	1417888	Lipscombe, Gerrard	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417888	""	3	1/	17	2	27	0.556	 	1	4	3	 	 	1	 	18.5	 
+3997340	0	1528224	Milstein, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528224	""	3	1/	1	 	1	1.000	39	1	2	4	 	1	 	 	3.0	 
+3997340	0	1528226	Mosher, Cullen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528226	""	3	 	 	 	 	 	 	1	 	 	 	 	 	 	1.0	 
+3997340	0	1640102	Saada, Shalev	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640102	""	3	1/	13	1	25	0.480	 	2	3	1	1	 	1	1	15.5	1
+3997340	0	1759370	Schwob, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1759370	""	3	1/	8	1	14	0.500	 	 	2	6	 	 	4	 	10.0	 
+3997340	0	1417886	Ward, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417886	""	3	1/	4	1	7	0.429	 	 	1	 	 	 	2	 	5.0	 
+3997340	0	1640105	Turner, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640105	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997340	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997340	0		Totals		""	3	 	49	8	87	0.471	46	5	13	22	2	1	11	3	60.5	1
+3997340	0		Total Team Blocks: 6.5	
+3997340	1	1429727	Fifer, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429727	""	3	1/	 	 	 	 	34	1	1	1	 	 	 	 	1.0	 
+3997340	1	1299557	Lilly, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299557	""	3	 	 	 	 	 	 	1	1	 	 	 	 	 	1.0	 
+3997340	1	1299556	McCall, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1299556	""	3	 	 	2	4	-0.500	 	 	 	2	 	 	 	 	 	 
+3997340	1	1749853	Perinar, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749853	""	3	1/	20	1	32	0.594	 	 	1	5	 	 	 	 	20.0	 
+3997340	1	1420434	Schmiegelt, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420434	""	3	1/	6	 	8	0.750	 	 	1	 	 	 	1	 	6.5	 
+3997340	1	1749847	Walenga, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749847	""	3	 	 	 	 	 	1	 	 	6	3	 	 	 	 	 
+3997340	1	1429734	Walsh, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1429734	""	3	1/	7	1	12	0.500	1	 	2	2	 	 	 	2	7.0	 
+3997340	1	1637164	Weiskircher, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637164	""	3	1/	4	5	13	-0.077	1	 	 	5	 	 	 	 	4.0	 
+3997340	1	1749850	Moses, Julian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749850	""	2	1/	 	2	6	-0.333	 	 	1	2	1	 	 	 	 	 
+3997340	1	1749858	Simmons, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749858	""	2	 	1	 	2	0.500	 	 	1	2	 	 	1	1	1.5	 
+3997340	1	1527167	Beckmann, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527167	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997340	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3997340	1		Totals		""	3	 	38	11	77	0.351	37	2	8	25	5	 	2	3	41.0	 
+3997340	1		Total Team Blocks: 1.0	
+3997444	0	1637540	Harriman, Colby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637540	""	3	1/	7	4	18	0.167	 	 	3	3	1	 	4	 	9.0	 
+3997444	0	1637539	Wieczorek, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637539	""	3	1/	11	2	20	0.450	 	3	4	 	 	 	 	 	14.0	 
+3997444	0	1749446	Tarantino, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749446	""	3	1/	11	1	16	0.625	1	1	3	3	 	 	2	 	13.0	 
+3997444	0	1534266	Penning, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534266	""	3	1/	5	3	11	0.182	 	1	2	 	 	 	1	 	6.5	 
+3997444	0	1749452	Sharp, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749452	""	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997444	0	1526177	Dion-Kindem, Soren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526177	""	3	1/	1	 	1	1.000	35	 	 	6	 	1	1	 	2.5	1
+3997444	0	1750262	Carmody, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750262	""	3	1/	6	1	7	0.714	 	 	 	 	 	1	5	 	9.5	 
+3997444	0	1749451	Barnes, Weston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749451	""	3	 	 	 	 	 	2	 	 	6	 	 	 	 	 	 
+3997444	0	1534267	States, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534267	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997444	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997444	0		Totals		""	3	 	41	11	73	0.411	38	5	13	18	1	2	13	 	54.5	1
+3997444	0		Total Team Blocks: 8.5	
+3997444	1	1749378	Enriques, Emmett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749378	""	3	 	 	 	 	 	1	 	 	2	4	 	 	 	 	1
+3997444	1	1639352	de Diego Garcia, Enrique	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639352	""	3	1/	2	2	6	 	 	 	 	1	 	 	2	 	3.0	 
+3997444	1	1528997	Burge, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528997	""	3	1/	4	1	5	0.600	 	 	1	 	 	 	1	 	4.5	 
+3997444	1	1751048	Vaz, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1751048	""	3	1/	5	3	11	0.182	 	 	4	2	 	 	2	1	6.0	 
+3997444	1	1417782	DeLyon, Rocky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417782	""	3	1/	12	3	25	0.360	 	1	3	6	1	 	 	 	13.0	 
+3997444	1	1639348	Paul, Rohit	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639348	""	3	1/	11	4	22	0.318	 	 	1	5	 	 	1	 	11.5	 
+3997444	1	1639347	Melcher, Zachary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639347	""	3	1/	 	 	 	 	32	 	 	1	 	 	2	 	1.0	 
+3997444	1	1528999	Miller, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528999	""	2	 	2	 	4	0.500	 	 	1	 	 	 	1	 	2.5	 
+3997444	1	1528992	Jackson, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528992	""	2	 	 	2	2	-1.000	1	 	1	 	 	 	 	 	 	 
+3997444	1	1639349	Powell, Roy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639349	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997444	1	1749381	Palos, Luis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749381	""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3997444	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997444	1		Totals		""	3	 	36	15	75	0.280	34	1	13	17	5	 	9	1	41.5	1
+3997444	1		Total Team Blocks: 4.5	
+3997775	0	1749341	Brkovic, Aleksa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749341	""	5	1/	13	7	37	0.162	1	1	1	9	1	1	1	 	15.5	 
+3997775	0	1532816	Pagliara, Federico	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532816	""	5	1/	1	 	1	1.000	59	2	1	7	 	 	2	 	4.0	 
+3997775	0	1749340	Alameda, Kekaulike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749340	""	5	 	 	 	1	 	1	 	 	12	2	 	 	 	 	 
+3997775	0	1749342	Leary, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749342	""	5	1/	7	 	12	0.583	 	1	5	4	 	 	4	2	10.0	 
+3997775	0	1640984	Tang-Taye, Pierre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640984	""	5	1/	21	5	36	0.444	 	1	2	6	1	 	2	 	23.0	 
+3997775	0	1749344	Mandilaris, Vasilis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749344	""	5	1/	16	5	35	0.314	 	 	4	12	 	 	4	 	18.0	 
+3997775	0	1640981	Hyde, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640981	""	4	1/	3	1	8	0.250	 	1	1	 	 	 	4	1	6.0	 
+3997775	0	1532817	Novoa-Miralles, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532817	""	2	 	2	1	3	0.333	 	 	 	 	 	 	 	 	2.0	 
+3997775	0	1640985	Perez, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1640985	""	2	 	1	1	3	 	 	 	1	 	 	 	1	 	1.5	 
+3997775	0		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997775	0		Totals		""	5	 	64	20	136	0.324	61	6	15	50	4	1	18	3	80.0	 
+3997775	0		Total Team Blocks: 10.0	
+3997775	1	1543947	Barbosa, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543947	""	5	1/	19	5	37	0.378	1	 	 	10	1	 	1	 	19.5	1
+3997775	1	1750023	Bonaventure, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750023	""	5	1/	2	 	3	0.667	51	2	3	3	 	1	2	 	6.0	 
+3997775	1	1537944	Funk, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537944	""	5	1/	10	2	33	0.242	 	2	1	4	 	1	2	1	14.0	 
+3997775	1	1537939	Fountain, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537939	""	5	1/	6	2	12	0.333	 	 	2	5	 	 	4	2	8.0	1
+3997775	1	1537941	McKnight, Meshach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537941	""	5	 	 	 	1	 	 	 	 	20/	1	 	 	 	 	 
+3997775	1	1649309	Diaz, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649309	""	5	 	 	 	 	 	1	 	1	2	1	 	 	 	 	 
+3997775	1	1537945	Peruyero, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537945	""	5	1/	8	1	15	0.467	 	 	3	3	 	2	2	2	11.0	 
+3997775	1	1750024	Cervantes, Gilberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750024	""	4	1/	11	7	25	0.160	1	 	1	2	2	 	1	 	11.5	 
+3997775	1	1544733	Basson, Peter-Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544733	""	1	 	 	2	5	-0.400	 	 	1	 	1	 	 	 	 	 
+3997775	1		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997775	1		Totals		""	5	 	56	19	131	0.282	54	4	12	49	6	4	12	5	70.0	2
+3997775	1		Total Team Blocks: 10.0	
+3997886	0	1637792	Flowers, Alec	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637792	""	3	1/	7	1	10	0.600	2	 	1	1	 	 	1	 	7.5	1
+3997886	0	1526996	Colbert, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526996	""	3	1/	19	9	46	0.217	 	 	1	6	1	 	 	 	19.0	 
+3997886	0	1749335	Schmidt, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749335	""	3	1/	9	4	22	0.227	3	 	2	8	2	 	1	 	9.5	 
+3997886	0	1527007	Rudenko, Kirill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527007	""	3	 	 	 	1	 	 	2	 	1	 	 	 	 	2.0	1
+3997886	0	1637796	Stojcic, Milosh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637796	""	3	1/	2	 	3	0.667	33	 	2	8	 	 	2	 	3.0	 
+3997886	0	1527005	Beamer, Shayne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1527005	""	3	1/	4	3	12	0.083	2	 	2	1	 	 	5	1	6.5	 
+3997886	0	1554352	Howard, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1554352	""	3	 	 	 	 	 	2	 	 	5	 	 	 	 	 	 
+3997886	0	1637794	Syftestad, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637794	""	3	1/	7	6	22	0.045	2	 	4	4	 	 	3	1	8.5	 
+3997886	0	1637790	La Mont, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637790	""	2	 	 	 	 	 	 	 	 	1	 	 	 	 	 	 
+3997886	0		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997886	0		Totals		""	3	 	48	23	116	0.216	44	2	12	35	3	 	12	2	56.0	2/
+3997886	0		Total Team Blocks: 6.0	
+3997886	1	1526964	Mol, Hendrik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526964	""	3	1/	3	 	7	0.429	1	 	2	1	 	1	4	 	6.0	 
+3997886	1	1417446	McKellar, Iain	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417446	""	3	1/	3	1	9	0.222	 	1	1	3	 	 	7	 	7.5	 
+3997886	1	1526962	Franciskovic, Jennings	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526962	""	3	1/	1	1	4	 	37	1	2	6	 	 	3	 	3.5	 
+3997886	1	1417443	Kanetake, Kolby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417443	""	3	 	 	 	 	 	1	 	 	15	 	 	 	 	 	 
+3997886	1	1526961	Fey, Kupono	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1526961	""	3	1/	6	4	16	0.125	 	 	 	3	1	 	4	 	8.0	 
+3997886	1	1417451	Zarkovic, Sinisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417451	""	3	1/	21	2	32	0.594	1	 	1	7	1	 	2	 	22.0	 
+3997886	1	1749494	Van Tilburg, Stijn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749494	""	3	1/	6	3	22	0.136	 	1	1	3	 	 	4	 	9.0	 
+3997886	1	1749495	Worsley, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749495	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997886	1		TEAM		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3997886	1		Totals		""	3	 	40	11	90	0.322	40	3	7	38	2	1	24	 	56.0	 
+3997886	1		Total Team Blocks: 13.0	
+3998139	0	1637648	Dagostino, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637648	""	4	 	 	 	 	 	 	 	3	 	 	 	 	 	 	 
+3998139	0	1637649	Enriques, Evan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637649	""	4	 	 	 	 	 	3	 	 	9	 	 	 	 	 	 
+3998139	0	1749775	Ewert, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749775	""	4	1/	11	4	21	0.333	 	 	3	5	1	 	3	 	12.5	 
+3998139	0	1420137	Hayden, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420137	""	4	1/	13	5	31	0.258	3	3	3	6	 	 	3	 	17.5	 
+3998139	0	1420134	Kaminski, Conrad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420134	""	4	1/	10	2	15	0.533	 	 	1	1	 	 	8	 	14.0	 
+3998139	0	1528696	Rakestraw, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1528696	""	4	1/	5	 	12	0.417	 	 	1	3	 	2	3	1	8.5	 
+3998139	0	1420133	Shaw, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420133	""	4	1/	7	 	8	0.875	46	1	3	2	 	 	3	1	9.5	 
+3998139	0	1420136	Vega, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420136	""	3	1/	5	2	15	0.200	1	 	2	4	 	 	1	 	5.5	 
+3998139	0	1763286	Jones, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1763286	""	2	 	4	1	8	0.375	 	1	1	 	 	 	1	 	5.5	 
+3998139	0	1420135	Stephanus, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1420135	""	2	 	 	1	1	-1.000	 	 	 	1	 	 	1	 	0.5	 
+3998139	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3998139	0		Totals		""	4	 	55	15	111	0.360	53	5	17	31	1	2	23	2	73.5	 
+3998139	0		Total Team Blocks: 13.5	
+3998139	1	1417655	Slaught, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417655	""	4	1/	9	5	23	0.174	 	 	1	5	 	1	 	 	10.0	 
+3998139	1	1525925	Benesh, Andy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525925	""	4	1/	5	3	13	0.154	 	 	3	 	 	1	1	 	6.5	 
+3998139	1	1417653	Varni, Brooks	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417653	""	4	 	 	 	 	 	3	 	 	16	1	 	 	 	 	 
+3998139	1	1525924	Yoder, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525924	""	4	1/	 	1	3	-0.333	32	 	 	2	 	 	2	 	1.0	 
+3998139	1	1637021	Rivera, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1637021	""	4	1/	13	9	26	0.154	 	 	2	5	 	 	1	 	13.5	 
+3998139	1	1525926	Yoder, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1525926	""	4	1/	2	3	10	-0.100	1	 	 	4	1	 	1	 	2.5	 
+3998139	1	1417659	Leonard, Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417659	""	4	1/	6	3	17	0.176	 	1	2	1	 	 	3	1	8.5	 
+3998139	1	1417657	Orenic, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1417657	""	2	 	3	2	8	0.125	 	 	 	1	2	 	 	 	3.0	 
+3998139	1	1749388	Lisha, Gert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749388	""	2	 	 	 	2	 	1	 	 	1	 	 	 	 	 	 
+3998139	1	1749386	Moss, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749386	""	1	 	 	 	2	 	 	 	 	 	 	 	 	 	 	 
+3998139	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3998139	1		Totals		""	4	 	38	26	104	0.115	37	1	8	35	5	2	8	1	45.0	 
+3998139	1		Total Team Blocks: 6.0	
+3998215	0		Carlos Rodriguez		""	3	 	 	1	2	-0.500	 	 	 	14	4	 	 	 	 	 
+3998215	0		Felipe Noguiera		""	3	1	 	2	5	-0.400	4	 	 	2	1	 	1	2	0.5	 
+3998215	0		Issac Chavez		""	3	1	 	 	 	 	 	 	1	 	 	1	1	3	1.5	 
+3998215	0		Jordan Ellsworth		""	3	1	2	5	18	-0.167	2	1	 	 	3	 	 	 	3.0	 
+3998215	0		Kevin Jean		""	3	1	 	1	3	-0.333	 	 	 	1	 	 	 	1	 	 
+3998215	0		Leandro Custodio		""	3	1	6	10	27	-0.148	1	 	 	5	1	 	 	 	6.0	 
+3998215	0		Lucas Apolianario		""	3	1	2	2	9	 	3	 	1	5	 	1	 	 	3.0	 
+3998215	0		Daniel Villarte		""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3998215	0		Ricardo Monroy		""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3998215	0		TEAM		""	3	 	 	 	 	 	 	 	 	 	4	 	 	 	 	 
+3998215	0		Totals		""	3	 	10	21	64	-0.172	10	1	4	27	13	2	2	6	14.0	 
+3998215	0		Total Team Blocks: 3.0	
+3998215	1	1760448	Flood, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760448	""	3	1/	9	1	14	0.571	 	3	1	3	 	 	 	 	12.0	 
+3998215	1	1532777	Radoszewski, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532777	""	3	 	 	 	 	 	 	 	 	15	 	 	 	 	 	 
+3998215	1	1425985	Buell, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425985	""	3	1/	8	 	15	0.533	 	1	2	1	 	1	1	 	10.5	 
+3998215	1	1653497	Schaeffer, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653497	""	3	1/	5	2	10	0.300	 	1	1	2	 	 	2	 	7.0	 
+3998215	1	1425984	Snyder, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425984	""	3	1/	8	3	13	0.385	 	2	1	 	 	3	1	1	13.5	 
+3998215	1	1760447	Stewart, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760447	""	3	1/	1	 	4	0.250	29	 	2	3	 	 	 	 	1.0	 
+3998215	1	1532775	Nixon, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532775	""	3	1/	5	4	18	0.056	1	6/	3	7	 	 	 	 	11.0	 
+3998215	1		TEAM		""	3	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3998215	1		Totals		""	3	 	36	10	74	0.351	30	13/	10	31	1	4	4	1	55.0	 
+3998215	1		Total Team Blocks: 6.0	
+3999667	0	1422460	Blecher, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1422460	""	3	1	1	 	1	1.000	23	 	2	3	 	 	 	 	1.0	 
+3999667	0	1749347	Frank, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749347	""	3	1	2	1	6	0.167	 	 	2	 	 	1	2	 	4.0	 
+3999667	0	1534670	Sobel, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534670	""	3	1	13	1	21	0.571	2	 	4	1	2	 	1	 	13.5	 
+3999667	0	1534666	Freitas, Keenan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534666	""	3	 	 	 	 	 	1	 	 	3	4	 	 	 	 	 
+3999667	0	1749348	Gifford, Levi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749348	""	3	1	2	 	3	0.667	 	 	 	1	 	 	 	 	2.0	 
+3999667	0	1534669	Shayka, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534669	""	3	1	9	1	22	0.364	 	2	 	 	3	 	 	 	11.0	 
+3999667	0	1534667	Klaas, Rudy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1534667	""	3	1	2	1	9	0.111	 	 	2	2	 	 	1	 	2.5	 
+3999667	0	1749351	Hamilton, Dominick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1749351	""	2	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3999667	0		TEAM		""	1	 	 	 	 	 	 	 	 	 	2	 	 	 	 	 
+3999667	0		Totals		""	3	 	29	4	62	0.403	26	2	11	10	11	1	4	 	34.0	 
+3999667	0		Total Team Blocks: 3.0	
+3999667	1	1650853	Grandy, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1650853	""	3	1	1	 	1	1.000	40	 	 	4	 	 	 	 	1.0	 
+3999667	1	1753442	Liepert, Johannes	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753442	""	3	 	5	 	7	0.714	 	1	1	 	 	 	1	 	6.5	 
+3999667	1	1421543	Schneck, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421543	""	3	 	 	 	1	 	2	 	 	9	 	 	 	 	 	 
+3999667	1	1421542	Michelau, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421542	""	3	1	12	3	20	0.450	1	5	3	2	1	 	1	 	17.5	 
+3999667	1	1753440	Stanley, Neal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753440	""	3	 	11	 	16	0.688	1	 	2	3	 	 	1	 	11.5	 
+3999667	1	1537148	Perez, Roberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537148	""	3	1	12	2	15	0.667	1	2	1	7	 	 	 	 	14.0	 
+3999667	1	1753443	Sullivan, Keegan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753443	""	2	 	 	1	2	-0.500	 	2	3	 	 	 	 	 	2.0	 
+3999667	1	1421538	Melendez, Omar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1421538	""	2	1	4	 	5	0.800	 	1	2	 	 	 	1	 	5.5	 
+3999667	1	1753445	Brandstetter, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753445	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999667	1	1753441	Cramnitz, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1753441	""	1	 	2	 	2	1.000	 	 	 	 	 	 	 	 	2.0	 
+3999667	1		TEAM		""	1	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3999667	1		Totals		""	3	 	47	6	69	0.594	45	11	12	25	2	 	4	 	60.0	 
+3999667	1		Total Team Blocks: 2.0	
+3999723	0	1533306	Keller, Corbin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1533306	""	5	1	2	2	9	 	1	 	3	4	 	 	 	 	2.0	 
+3999723	0	1639579	Tynski, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639579	""	5	1	5	5	16	 	1	 	2	5	 	 	 	2	5.0	 
+3999723	0	1426579	Diniz, Fabio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1426579	""	5	1	14	3	25	0.440	 	3	6	9	 	1	 	1	18.0	 
+3999723	0	1416606	Lutz, Harrison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416606	""	5	1	1	 	3	0.333	55	2	1	1	 	 	 	 	3.0	 
+3999723	0	1639577	Martinez, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1639577	""	5	1	25	9	52	0.308	1	 	1	13	3	1	 	 	26.0	 
+3999723	0	1416605	Ecklund, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1416605	""	5	 	 	 	 	 	4	 	 	17	1	 	 	 	 	 
+3999723	0	1755807	Beane, Noah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1755807	""	5	 	 	 	 	 	1	 	 	2	 	 	 	 	 	 
+3999723	0	1427405	Hirini, Sonny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1427405	""	5	1	21	9	51	0.235	 	1	6	14	3	4	 	 	26.0	 
+3999723	0	1755806	Cook, Nic	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1755806	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999723	0		TEAM		""	5	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3999723	0		Totals		""	5	 	68	28	156	0.256	63	6	19	65	8	6	 	3	80.0	 
+3999723	0		Total Team Blocks: 6.0	
+3999723	1	1532779	Beyner, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532779	""	5	1	7	3	19	0.211	 	 	1	5	 	3	1	2	10.5	 
+3999723	1	1425988	Sullivan, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425988	""	5	1	1	2	6	-0.167	47	1	2	7	 	 	 	1	2.0	1
+3999723	1	1653497	Schaeffer, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1653497	""	5	1	6	5	24	0.042	1	 	1	5	 	 	 	 	6.0	 
+3999723	1	1425984	Snyder, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1425984	""	5	1	11	1	16	0.625	 	5	6	7	 	3	 	2	19.0	 
+3999723	1	1760449	Albrecht, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760449	""	5	1	26	5	59	0.356	1	2	3	5	 	1	1	 	29.5	 
+3999723	1	1532775	Nixon, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532775	""	5	1	2	4	20	-0.100	 	 	5	6	2	2	 	 	4.0	 
+3999723	1	1659320	Valentine, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1659320	""	5	 	 	 	 	 	2	 	 	19	3	 	 	 	 	 
+3999723	1	1532777	Radoszewski, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1532777	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999723	1	1760448	Flood, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1760448	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999723	1		TEAM		""	5	 	 	 	 	 	 	 	 	 	1	 	 	 	 	 
+3999723	1		Totals		""	5	 	53	20	144	0.229	51	8	18	54	6	9	2	5	71.0	1
+3999723	1		Total Team Blocks: 10.0	
+3999727	0	1644872	Savage, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644872	""	3	1	5	3	17	0.118	 	 	 	7	2	 	1	 	5.5	 
+3999727	0	1529203	Kretzschmar, Bruno	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529203	""	3	1	21	 	32	0.656	1	1	2	 	 	1	 	 	23.0	 
+3999727	0	1644281	Lavner, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644281	""	3	1	1	 	3	0.333	 	 	1	1	 	2	3	 	4.5	 
+3999727	0	1754461	Latard, Julien	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1754461	""	3	1	2	1	8	0.125	1	 	1	3	 	 	1	 	2.5	 
+3999727	0	1754464	Rocklein, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1754464	""	3	1	6	3	16	0.188	 	 	3	4	2	 	 	1	6.0	 
+3999727	0	1644982	Riley, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644982	""	3	1	2	 	3	0.667	33	 	2	 	 	 	3	 	3.5	 
+3999727	0	1529207	Wildes, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529207	""	3	 	 	 	 	 	1	 	 	9	 	 	 	 	 	 
+3999727	0	1529204	Wanek, Luca	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1529204	""	2	 	 	 	1	 	 	 	 	 	 	 	 	 	 	 
+3999727	0	1754462	Lopez, Rafael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1754462	""	2	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999727	0	1644280	Ruiz, Juan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1644280	""	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999727	0		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999727	0		Totals		""	3	 	37	7	80	0.375	36	1	9	24	4	3	8	1	45.0	 
+3999727	0		Total Team Blocks: 7.0	
+3999727	1	1543947	Barbosa, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1543947	""	3	1	14	4	34	0.294	1	2	 	7	 	1	 	1	17.0	 
+3999727	1	1750023	Bonaventure, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750023	""	3	1	2	 	2	1.000	29	1	1	3	 	 	1	 	3.5	 
+3999727	1	1750024	Cervantes, Gilberto	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1750024	""	3	1	3	7	13	-0.308	 	 	 	 	 	 	1	1	3.5	 
+3999727	1	1537944	Funk, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537944	""	3	1	8	4	17	0.235	 	 	2	5	 	 	 	1	8.0	 
+3999727	1	1537939	Fountain, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537939	""	3	1	5	5	11	 	1	 	4	1	 	 	1	1	5.5	 
+3999727	1	1537941	McKnight, Meshach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537941	""	3	 	1	 	2	0.500	2	 	 	10	1	 	 	 	1.0	 
+3999727	1	1537945	Peruyero, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1537945	""	3	1	2	2	7	 	 	1	1	1	 	 	1	1	3.5	 
+3999727	1	1544733	Basson, Peter-Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1544733	""	2	 	 	1	2	-0.500	 	 	 	 	 	 	 	 	 	 
+3999727	1	1649309	Diaz, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12382&stats_player_seq=1649309	""	2	 	 	 	 	 	 	 	 	2	 	 	 	 	 	 
+3999727	1		Maloney, Demetrius		""	1	 	 	 	 	 	 	 	1	 	 	 	 	 	 	 
+3999727	1		Team		""	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+3999727	1		Totals		""	3	 	35	23	88	0.136	33	4	9	29	1	1	4	5	42.0	 
+3999727	1		Total Team Blocks: 3.0	
