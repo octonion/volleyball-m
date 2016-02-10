@@ -24,8 +24,6 @@ base_url = 'http://stats.ncaa.org'
 
 year_division_url = "http://stats.ncaa.org/team/inst_team_list?sport_code=MVB&academic_year=#{year}&division=#{division}&conf_id=-1&schedule_date="
 
-valid_url_substring = "team/index/" ##{year_id}?org_id="
-
 print "\nRetrieving division #{division} teams for #{year} ... "
 
 found_teams = 0
@@ -38,16 +36,16 @@ doc.search("a").each do |link|
 
   # Valid team URLs
 
-  if (link_url).include?(valid_url_substring)
+  if (link_url =~ /^\/team\/\d/)
 
     # NCAA year_id
 
-    parameters = link_url.split("/")[-1]
-    year_id = parameters.split("?")[0]
+    parameters = link_url.split("/")
+    year_id = parameters[-1]
 
     # NCAA team_id
 
-    team_id = parameters.split("=")[1]
+    team_id = parameters[-2]
 
     # NCAA team name
 

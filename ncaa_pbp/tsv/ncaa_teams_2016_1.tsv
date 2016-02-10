@@ -1,47 +1,47 @@
 year	year_id	division	team_id	team_name	team_url
-2016	12382	1	934	Alderson Broaddus	http://stats.ncaa.org/team/index/12382?org_id=934
-2016	12382	1	77	BYU	http://stats.ncaa.org/team/index/12382?org_id=77
-2016	12382	1	47	Ball St.	http://stats.ncaa.org/team/index/12382?org_id=47
-2016	12382	1	15646	Barton	http://stats.ncaa.org/team/index/12382?org_id=15646
-2016	12382	1	2683	Belmont Abbey	http://stats.ncaa.org/team/index/12382?org_id=2683
-2016	12382	1	101	CSUN	http://stats.ncaa.org/team/index/12382?org_id=101
-2016	12382	1	30135	California Baptist	http://stats.ncaa.org/team/index/12382?org_id=30135
-2016	12382	1	1013	Charleston (WV)	http://stats.ncaa.org/team/index/12382?org_id=1013
-2016	12382	1	1023	Coker	http://stats.ncaa.org/team/index/12382?org_id=1023
-2016	12382	1	30199	Concordia (CA)	http://stats.ncaa.org/team/index/12382?org_id=30199
-2016	12382	1	30193	Emmanuel (GA)	http://stats.ncaa.org/team/index/12382?org_id=30193
-2016	12382	1	1072	Erskine	http://stats.ncaa.org/team/index/12382?org_id=1072
-2016	12382	1	248	George Mason	http://stats.ncaa.org/team/index/12382?org_id=248
-2016	12382	1	1104	Grand Canyon	http://stats.ncaa.org/team/index/12382?org_id=1104
-2016	12382	1	275	Harvard	http://stats.ncaa.org/team/index/12382?org_id=275
-2016	12382	1	277	Hawaii	http://stats.ncaa.org/team/index/12382?org_id=277
-2016	12382	1	30175	Holy Names	http://stats.ncaa.org/team/index/12382?org_id=30175
-2016	12382	1	308	IPFW	http://stats.ncaa.org/team/index/12382?org_id=308
-2016	12382	1	30051	King (TN)	http://stats.ncaa.org/team/index/12382?org_id=30051
-2016	12382	1	13302	Lees-McRae	http://stats.ncaa.org/team/index/12382?org_id=13302
-2016	12382	1	354	Lewis	http://stats.ncaa.org/team/index/12382?org_id=354
-2016	12382	1	1174	Limestone	http://stats.ncaa.org/team/index/12382?org_id=1174
-2016	12382	1	30136	Lindenwood (MO)	http://stats.ncaa.org/team/index/12382?org_id=30136
-2016	12382	1	99	Long Beach St.	http://stats.ncaa.org/team/index/12382?org_id=99
-2016	12382	1	371	Loyola Chicago	http://stats.ncaa.org/team/index/12382?org_id=371
-2016	12382	1	30138	McKendree	http://stats.ncaa.org/team/index/12382?org_id=30138
-2016	12382	1	1245	Mount Olive	http://stats.ncaa.org/team/index/12382?org_id=1245
-2016	12382	1	471	NJIT	http://stats.ncaa.org/team/index/12382?org_id=471
-2016	12382	1	9223	North Greenville	http://stats.ncaa.org/team/index/12382?org_id=9223
-2016	12382	1	518	Ohio St.	http://stats.ncaa.org/team/index/12382?org_id=518
-2016	12382	1	2682	P.R.-Bayamon	http://stats.ncaa.org/team/index/12382?org_id=2682
-2016	12382	1	24361	P.R.-Mayaguez	http://stats.ncaa.org/team/index/12382?org_id=24361
-2016	12382	1	2716	P.R.-Rio Piedras	http://stats.ncaa.org/team/index/12382?org_id=2716
-2016	12382	1	539	Penn St.	http://stats.ncaa.org/team/index/12382?org_id=539
-2016	12382	1	541	Pepperdine	http://stats.ncaa.org/team/index/12382?org_id=541
-2016	12382	1	542	Pfeiffer	http://stats.ncaa.org/team/index/12382?org_id=542
-2016	12382	1	554	Princeton	http://stats.ncaa.org/team/index/12382?org_id=554
-2016	12382	1	561	Quincy	http://stats.ncaa.org/team/index/12382?org_id=561
-2016	12382	1	590	Sacred Heart	http://stats.ncaa.org/team/index/12382?org_id=590
-2016	12382	1	600	Saint Francis (PA)	http://stats.ncaa.org/team/index/12382?org_id=600
-2016	12382	1	657	Southern California	http://stats.ncaa.org/team/index/12382?org_id=657
-2016	12382	1	674	Stanford	http://stats.ncaa.org/team/index/12382?org_id=674
-2016	12382	1	109	UC Irvine	http://stats.ncaa.org/team/index/12382?org_id=109
-2016	12382	1	112	UC San Diego	http://stats.ncaa.org/team/index/12382?org_id=112
-2016	12382	1	104	UC Santa Barbara	http://stats.ncaa.org/team/index/12382?org_id=104
-2016	12382	1	110	UCLA	http://stats.ncaa.org/team/index/12382?org_id=110
+2016	12382	1	934	Alderson Broaddus	http://stats.ncaa.org/team/934/12382
+2016	12382	1	77	BYU	http://stats.ncaa.org/team/77/12382
+2016	12382	1	47	Ball St.	http://stats.ncaa.org/team/47/12382
+2016	12382	1	15646	Barton	http://stats.ncaa.org/team/15646/12382
+2016	12382	1	2683	Belmont Abbey	http://stats.ncaa.org/team/2683/12382
+2016	12382	1	101	CSUN	http://stats.ncaa.org/team/101/12382
+2016	12382	1	30135	California Baptist	http://stats.ncaa.org/team/30135/12382
+2016	12382	1	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/12382
+2016	12382	1	1023	Coker	http://stats.ncaa.org/team/1023/12382
+2016	12382	1	30199	Concordia (CA)	http://stats.ncaa.org/team/30199/12382
+2016	12382	1	30193	Emmanuel (GA)	http://stats.ncaa.org/team/30193/12382
+2016	12382	1	1072	Erskine	http://stats.ncaa.org/team/1072/12382
+2016	12382	1	248	George Mason	http://stats.ncaa.org/team/248/12382
+2016	12382	1	1104	Grand Canyon	http://stats.ncaa.org/team/1104/12382
+2016	12382	1	275	Harvard	http://stats.ncaa.org/team/275/12382
+2016	12382	1	277	Hawaii	http://stats.ncaa.org/team/277/12382
+2016	12382	1	30175	Holy Names	http://stats.ncaa.org/team/30175/12382
+2016	12382	1	308	IPFW	http://stats.ncaa.org/team/308/12382
+2016	12382	1	30051	King (TN)	http://stats.ncaa.org/team/30051/12382
+2016	12382	1	13302	Lees-McRae	http://stats.ncaa.org/team/13302/12382
+2016	12382	1	354	Lewis	http://stats.ncaa.org/team/354/12382
+2016	12382	1	1174	Limestone	http://stats.ncaa.org/team/1174/12382
+2016	12382	1	30136	Lindenwood (MO)	http://stats.ncaa.org/team/30136/12382
+2016	12382	1	99	Long Beach St.	http://stats.ncaa.org/team/99/12382
+2016	12382	1	371	Loyola Chicago	http://stats.ncaa.org/team/371/12382
+2016	12382	1	30138	McKendree	http://stats.ncaa.org/team/30138/12382
+2016	12382	1	1245	Mount Olive	http://stats.ncaa.org/team/1245/12382
+2016	12382	1	471	NJIT	http://stats.ncaa.org/team/471/12382
+2016	12382	1	9223	North Greenville	http://stats.ncaa.org/team/9223/12382
+2016	12382	1	518	Ohio St.	http://stats.ncaa.org/team/518/12382
+2016	12382	1	2682	P.R.-Bayamon	http://stats.ncaa.org/team/2682/12382
+2016	12382	1	24361	P.R.-Mayaguez	http://stats.ncaa.org/team/24361/12382
+2016	12382	1	2716	P.R.-Rio Piedras	http://stats.ncaa.org/team/2716/12382
+2016	12382	1	539	Penn St.	http://stats.ncaa.org/team/539/12382
+2016	12382	1	541	Pepperdine	http://stats.ncaa.org/team/541/12382
+2016	12382	1	542	Pfeiffer	http://stats.ncaa.org/team/542/12382
+2016	12382	1	554	Princeton	http://stats.ncaa.org/team/554/12382
+2016	12382	1	561	Quincy	http://stats.ncaa.org/team/561/12382
+2016	12382	1	590	Sacred Heart	http://stats.ncaa.org/team/590/12382
+2016	12382	1	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/12382
+2016	12382	1	657	Southern California	http://stats.ncaa.org/team/657/12382
+2016	12382	1	674	Stanford	http://stats.ncaa.org/team/674/12382
+2016	12382	1	109	UC Irvine	http://stats.ncaa.org/team/109/12382
+2016	12382	1	112	UC San Diego	http://stats.ncaa.org/team/112/12382
+2016	12382	1	104	UC Santa Barbara	http://stats.ncaa.org/team/104/12382
+2016	12382	1	110	UCLA	http://stats.ncaa.org/team/110/12382

@@ -11,8 +11,8 @@ year = ARGV[0].to_i
 division = ARGV[1].to_i
 
 base_sleep = 0
-sleep_increment = 3
-retries = 4
+sleep_increment = 2
+retries = 3
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
@@ -51,9 +51,9 @@ ncaa_teams.each do |team|
 
   players_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr[position()>1]'
+  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+  stat_url = "http://stats.ncaa.org/team/#{team_id}/stats/#{year_id}"
 
   print "Sleep #{sleep_time} ... "
   sleep sleep_time

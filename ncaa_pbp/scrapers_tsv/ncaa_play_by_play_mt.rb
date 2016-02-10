@@ -27,7 +27,8 @@ end
 events = ["Leaves Game","Enters Game","Defensive Rebound","Commits Foul","made Free Throw","Assist","Turnover","missed Three Point Jumper","Offensive Rebound","missed Two Point Jumper","made Layup","missed Layup","Steal","made Two Point Jumper","made Three Point Jumper","missed Free Throw","Blocked Shot","Deadball Rebound","30 Second Timeout","Media Timeout","Team Timeout","made Dunk","20 Second Timeout","Timeout","made Tip In","missed Tip In","missed Dunk","made","missed","missed Deadball"]
 
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
-periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
+#periods_xpath = '//*[@id="contentarea"]/table[1]/tr[position()>1]'
+periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'  
 
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
                                "r",
@@ -197,8 +198,8 @@ game_ids.each_slice(gpt).with_index do |ids,i|
             if not(link.nil?)
               link_url = link.attributes["href"].text
               team_url = base_url+link_url
-              parameters = link_url.split("/")[-1]
-              team_id = parameters.split("=")[1]
+              parameters = link_url.split("/")
+              team_id = parameters[-2]
             end
 #            section += [team_id, team_name, team_url]
           else
