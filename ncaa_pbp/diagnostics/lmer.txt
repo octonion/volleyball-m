@@ -1,6 +1,6 @@
-[1] 37868     9
+[1] 38556     9
 [1] TRUE
-[1] 37868     6
+[1] 38556     6
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: binomial  ( logit )
@@ -8,19 +8,19 @@ Formula: cbind(team_score, opponent_score) ~ year + field + o_div + d_div +
     (1 | offense) + (1 | defense)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
-190456.91 190550.87 -95217.46 190434.91     37857 
+193864.07 193958.23 -96921.04 193842.07     38545 
 Random effects:
  Groups  Name        Std.Dev.
- offense (Intercept) 0.2885  
- defense (Intercept) 0.2885  
-Number of obs: 37868, groups:  offense, 481; defense, 481
+ offense (Intercept) 0.295   
+ defense (Intercept) 0.295   
+Number of obs: 38556, groups:  offense, 481; defense, 481
 Fixed Effects:
       (Intercept)           year2013           year2014           year2015  
-       -3.742e-02         -7.377e-09         -7.082e-09         -7.619e-09  
+       -3.750e-02          1.292e-08          1.236e-08          1.333e-08  
          year2016       fieldneutral  fieldoffense_home             o_div3  
-        6.691e-10          3.742e-02          7.485e-02         -4.895e-01  
+        4.337e-09          3.750e-02          7.500e-02         -4.908e-01  
            d_div3  
-        4.895e-01  
+        4.908e-01  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: binomial  ( logit )
@@ -30,29 +30,29 @@ Formula: cbind(team_score, opponent_score) ~ year + field + o_div + d_div +
 Control: glmerControl(optimizer = "nloptwrap")
 
      AIC      BIC   logLik deviance df.resid 
-190456.9 190550.9 -95217.5 190434.9    37857 
+193864.1 193958.2 -96921.0 193842.1    38545 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.3350 -0.5743  0.0000  0.5743  4.3350 
+-4.3341 -0.5747  0.0000  0.5747  4.3341 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- offense (Intercept) 0.08325  0.2885  
- defense (Intercept) 0.08325  0.2885  
-Number of obs: 37868, groups:  offense, 481; defense, 481
+ offense (Intercept) 0.08705  0.295   
+ defense (Intercept) 0.08705  0.295   
+Number of obs: 38556, groups:  offense, 481; defense, 481
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)       -3.742e-02  6.854e-02  -0.546    0.585    
-year2013          -7.377e-09  8.299e-02   0.000    1.000    
-year2014          -7.082e-09  8.262e-02   0.000    1.000    
-year2015          -7.619e-09  8.251e-02   0.000    1.000    
-year2016           6.691e-10  8.200e-02   0.000    1.000    
-fieldneutral       3.742e-02  4.799e-03   7.799 6.26e-15 ***
-fieldoffense_home  7.485e-02  3.665e-03  20.424  < 2e-16 ***
-o_div3            -4.895e-01  3.061e-02 -15.989  < 2e-16 ***
-d_div3             4.895e-01  3.061e-02  15.989  < 2e-16 ***
+(Intercept)       -3.750e-02  7.006e-02  -0.535    0.593    
+year2013           1.292e-08  8.483e-02   0.000    1.000    
+year2014           1.236e-08  8.445e-02   0.000    1.000    
+year2015           1.333e-08  8.435e-02   0.000    1.000    
+year2016           4.337e-09  8.379e-02   0.000    1.000    
+fieldneutral       3.750e-02  4.762e-03   7.875 3.41e-15 ***
+fieldoffense_home  7.500e-02  3.634e-03  20.636  < 2e-16 ***
+o_div3            -4.908e-01  3.116e-02 -15.753  < 2e-16 ***
+d_div3             4.908e-01  3.116e-02  15.753  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -61,15 +61,15 @@ Correlation of Fixed Effects:
 year2013    -0.825                                                 
 year2014    -0.829  0.769                                          
 year2015    -0.830  0.771  0.776                                   
-year2016    -0.835  0.777  0.782  0.784                            
-fieldneutrl -0.013 -0.003 -0.001 -0.001 -0.003                     
-fildffns_hm -0.027  0.000  0.000  0.000  0.000  0.382              
-o_div3       0.000 -0.188 -0.192 -0.194 -0.198 -0.008  0.014       
-d_div3       0.000 -0.188 -0.192 -0.194 -0.198 -0.019 -0.014 -0.147
+year2016    -0.836  0.778  0.782  0.784                            
+fieldneutrl -0.013 -0.003 -0.001 -0.001 -0.002                     
+fildffns_hm -0.026  0.000  0.000  0.000  0.000  0.382              
+o_div3       0.000 -0.189 -0.192 -0.195 -0.199 -0.008  0.014       
+d_div3       0.000 -0.189 -0.192 -0.195 -0.199 -0.019 -0.014 -0.140
 Analysis of Variance Table
       Df Sum Sq Mean Sq F value
 year   4   0.00    0.00    0.00
-field  2 433.49  216.75  216.74
-o_div  1 190.23  190.23  190.23
-d_div  1 255.65  255.65  255.65
+field  2 442.25  221.13  221.13
+o_div  1 187.08  187.08  187.08
+d_div  1 248.16  248.16  248.16
 [1] TRUE
