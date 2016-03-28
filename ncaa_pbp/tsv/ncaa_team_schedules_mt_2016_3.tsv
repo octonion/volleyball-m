@@ -17,7 +17,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	4	Adrian	03/12/2016	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4056376	http://stats.ncaa.org/game/index/4056376?org_id=4
 2016	12382	4	Adrian	03/18/2016	Loras		Loras		false		true	-									
 2016	12382	4	Adrian	03/19/2016	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4067667	http://stats.ncaa.org/game/index/4067667?org_id=492
-2016	12382	4	Adrian	03/26/2016	@ Olivet		Olivet		false		false	-									
+2016	12382	4	Adrian	03/26/2016	@ Olivet		Olivet	http://stats.ncaa.org/team/525/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4081086	http://stats.ncaa.org/game/index/4081086?org_id=525
 2016	12382	4	Adrian	04/01/2016	IIT		IIT		false		true	-									
 2016	12382	4	Adrian	04/02/2016	@ Olivet		Olivet		false		false	-									
 2016	12382	2798	Albertus Magnus	01/28/2016	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3995696	http://stats.ncaa.org/game/index/3995696?org_id=762
@@ -35,8 +35,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	2798	Albertus Magnus	03/19/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4067618	http://stats.ncaa.org/game/index/4067618?org_id=214
 2016	12382	2798	Albertus Magnus	03/19/2016	Emmanuel (MA) @ Emerson		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	true	Emerson	true	L 1 - 3	false	1 - 3	false	1	3	false		4067981	http://stats.ncaa.org/game/index/4067981?org_id=2798
 2016	12382	2798	Albertus Magnus	03/22/2016	@ Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4073995	http://stats.ncaa.org/game/index/4073995?org_id=2798
-2016	12382	2798	Albertus Magnus	03/26/2016	Rivier@Providence, RI		RivierProvidence, RI		false		false	-									
-2016	12382	2798	Albertus Magnus	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	2798	Albertus Magnus	03/26/2016	Rivier @ Providence, RI		Rivier	http://stats.ncaa.org/team/18422/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4079324	http://stats.ncaa.org/game/index/4079324?org_id=2798
+2016	12382	2798	Albertus Magnus	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4079439	http://stats.ncaa.org/game/index/4079439?org_id=22626
 2016	12382	2798	Albertus Magnus	03/29/2016	Wentworth		Wentworth		false		true	-									
 2016	12382	2798	Albertus Magnus	03/31/2016	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
 2016	12382	2798	Albertus Magnus	04/02/2016	Mount Ida		Mount Ida		false		true	-									
@@ -67,8 +67,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	962	Bard	03/19/2016	Daniel Webster @ Chicopee, Mass.		Daniel Webster	http://stats.ncaa.org/team/2691/12382	true	Chicopee, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4068613	http://stats.ncaa.org/game/index/4068613?org_id=962
 2016	12382	962	Bard	03/19/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4071459	http://stats.ncaa.org/game/index/4071459?org_id=532
 2016	12382	962	Bard	03/24/2016	Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4076978	http://stats.ncaa.org/game/index/4076978?org_id=962
-2016	12382	962	Bard	03/26/2016	Nazareth@New York, NY		NazarethNew York, NY		false		false	-									
 2016	12382	962	Bard	03/26/2016	@ NYU		NYU		false		false	-									
+2016	12382	962	Bard	03/26/2016	Nazareth @ Brooklyn, N.Y.		Nazareth	http://stats.ncaa.org/team/461/12382	true	Brooklyn, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4079522	http://stats.ncaa.org/game/index/4079522?org_id=461
 2016	12382	962	Bard	03/30/2016	Sage Colleges		Sage Colleges		false		true	-									
 2016	12382	962	Bard	04/01/2016	Brooklyn		Brooklyn		false		true	-									
 2016	12382	962	Bard	04/02/2016	Marymount (VA)		Marymount (VA)		false		true	-									
@@ -96,8 +96,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	58	Baruch	03/17/2016	CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4065501	http://stats.ncaa.org/game/index/4065501?org_id=58
 2016	12382	58	Baruch	03/18/2016	@ Kean		Kean	http://stats.ncaa.org/team/329/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4067147	http://stats.ncaa.org/game/index/4067147?org_id=329
 2016	12382	58	Baruch	03/22/2016	@ John Jay		John Jay	http://stats.ncaa.org/team/321/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4073885	http://stats.ncaa.org/game/index/4073885?org_id=321
-2016	12382	58	Baruch	03/26/2016	John Jay@Jamaica, NY		John JayJamaica, NY		false		false	-									
-2016	12382	58	Baruch	03/26/2016	York (NY)@Jamaica, NY		York (NY)Jamaica, NY		false		false	-									
+2016	12382	58	Baruch	03/26/2016	John Jay @ Jamaica, NY		John Jay	http://stats.ncaa.org/team/321/12382	true	Jamaica, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4081048	http://stats.ncaa.org/game/index/4081048?org_id=58
+2016	12382	58	Baruch	03/26/2016	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4079950	http://stats.ncaa.org/game/index/4079950?org_id=2730
 2016	12382	58	Baruch	03/29/2016	@ Hunter		Hunter		false		false	-									
 2016	12382	58	Baruch	03/30/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	58	Baruch	04/01/2016	@ Springfield		Springfield		false		false	-									
@@ -130,8 +130,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	79	Brooklyn	01/16/2016	Greenville @ St. Louis, Mo.		Greenville	http://stats.ncaa.org/team/1111/12382	true	St. Louis, Mo.	true	L 0 - 3	false	0 - 3	false	0	3	false		3987342	http://stats.ncaa.org/game/index/3987342?org_id=79
 2016	12382	79	Brooklyn	01/16/2016	@ Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3986889	http://stats.ncaa.org/game/index/3986889?org_id=11538
 2016	12382	79	Brooklyn	01/28/2016	@ Purchase		Purchase	http://stats.ncaa.org/team/30029/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3998980	http://stats.ncaa.org/game/index/3998980?org_id=30029
-2016	12382	79	Brooklyn	01/31/2016	Yeshiva @ Jersey City, NJ		Yeshiva	http://stats.ncaa.org/team/814/12382	true	Jersey City, NJ	true	W 3 - 0	true	3 - 0	false	3	0	false		3997727	http://stats.ncaa.org/game/index/3997727?org_id=79
 2016	12382	79	Brooklyn	01/31/2016	@ New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3997726	http://stats.ncaa.org/game/index/3997726?org_id=319
+2016	12382	79	Brooklyn	01/31/2016	Yeshiva @ Jersey City, NJ		Yeshiva	http://stats.ncaa.org/team/814/12382	true	Jersey City, NJ	true	W 3 - 0	true	3 - 0	false	3	0	false		3997727	http://stats.ncaa.org/game/index/3997727?org_id=79
 2016	12382	79	Brooklyn	02/03/2016	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4000441	http://stats.ncaa.org/game/index/4000441?org_id=79
 2016	12382	79	Brooklyn	02/06/2016	@ Baruch		Baruch	http://stats.ncaa.org/team/58/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4002917	http://stats.ncaa.org/game/index/4002917?org_id=58
 2016	12382	79	Brooklyn	02/06/2016	Lehman @ New York, NY		Lehman	http://stats.ncaa.org/team/279/12382	true	New York, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4003843	http://stats.ncaa.org/game/index/4003843?org_id=279
@@ -151,7 +151,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	79	Brooklyn	03/22/2016	Hunter		Hunter	http://stats.ncaa.org/team/292/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4073864	http://stats.ncaa.org/game/index/4073864?org_id=79
 2016	12382	79	Brooklyn	03/24/2016	@ John Jay		John Jay	http://stats.ncaa.org/team/321/12382	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4076964	http://stats.ncaa.org/game/index/4076964?org_id=321
 2016	12382	79	Brooklyn	03/26/2016	@ Medgar Evers		Medgar Evers		false		false	-									
-2016	12382	79	Brooklyn	03/26/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
+2016	12382	79	Brooklyn	03/26/2016	CCNY @ Jamaica, NY		CCNY	http://stats.ncaa.org/team/480/12382	true	Jamaica, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4079859	http://stats.ncaa.org/game/index/4079859?org_id=79
+2016	12382	79	Brooklyn	03/26/2016	Medgar Evers @ Jamaica, N.Y.		Medgar Evers	http://stats.ncaa.org/team/403/12382	true	Jamaica, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4080269	http://stats.ncaa.org/game/index/4080269?org_id=79
 2016	12382	79	Brooklyn	03/29/2016	John Jay		John Jay		false		true	-									
 2016	12382	79	Brooklyn	04/01/2016	@ Bard		Bard		false		false	-									
 2016	12382	480	CCNY	01/23/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3991801	http://stats.ncaa.org/game/index/3991801?org_id=214
@@ -176,8 +177,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	480	CCNY	03/19/2016	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4068102	http://stats.ncaa.org/game/index/4068102?org_id=569
 2016	12382	480	CCNY	03/22/2016	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4074276	http://stats.ncaa.org/game/index/4074276?org_id=480
 2016	12382	480	CCNY	03/24/2016	@ Mt. St. Vincent		Mt. St. Vincent	http://stats.ncaa.org/team/451/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4076975	http://stats.ncaa.org/game/index/4076975?org_id=451
-2016	12382	480	CCNY	03/26/2016	Hunter@New York, NY		HunterNew York, NY		false		false	-									
-2016	12382	480	CCNY	03/26/2016	Brooklyn@New York, NY		BrooklynNew York, NY		false		false	-									
+2016	12382	480	CCNY	03/26/2016	Hunter @ Jamaica, New York		Hunter	http://stats.ncaa.org/team/292/12382	true	Jamaica, New York	true	L 0 - 3	false	0 - 3	false	0	3	false		4080516	http://stats.ncaa.org/game/index/4080516?org_id=292
+2016	12382	480	CCNY	03/26/2016	Brooklyn @ Jamaica, NY		Brooklyn	http://stats.ncaa.org/team/79/12382	true	Jamaica, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4079859	http://stats.ncaa.org/game/index/4079859?org_id=79
 2016	12382	480	CCNY	04/02/2016	@ Bard		Bard		false		false	-									
 2016	12382	480	CCNY	04/02/2016	Marymount (VA)@Annandale on Hudson, NY		Marymount (VA)Annandale on Hudson, NY		false		false	-									
 2016	12382	1305	Cairn	01/29/2016	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3997718	http://stats.ncaa.org/game/index/3997718?org_id=2730
@@ -304,8 +305,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	2691	Daniel Webster	03/17/2016	Newbury		Newbury	http://stats.ncaa.org/team/21772/12382	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4065564	http://stats.ncaa.org/game/index/4065564?org_id=2691
 2016	12382	2691	Daniel Webster	03/19/2016	Bard @ Chicopee, Mass.		Bard	http://stats.ncaa.org/team/962/12382	true	Chicopee, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4068613	http://stats.ncaa.org/game/index/4068613?org_id=962
 2016	12382	2691	Daniel Webster	03/19/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4070276	http://stats.ncaa.org/game/index/4070276?org_id=532
-2016	12382	2691	Daniel Webster	03/26/2016	@ Springfield		Springfield		false		false	-									
-2016	12382	2691	Daniel Webster	03/26/2016	Sage Colleges@Springfield, MA		Sage CollegesSpringfield, MA		false		false	-									
+2016	12382	2691	Daniel Webster	03/26/2016	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4079310	http://stats.ncaa.org/game/index/4079310?org_id=673
+2016	12382	2691	Daniel Webster	03/26/2016	Sage Colleges @ Springfield, Mass.		Sage Colleges	http://stats.ncaa.org/team/11036/12382	true	Springfield, Mass.	true	W 3 - 2	true	3 - 2	false	3	2	false		4081122	http://stats.ncaa.org/game/index/4081122?org_id=2691
 2016	12382	2691	Daniel Webster	03/29/2016	@ Regis (MA)		Regis (MA)		false		false	-									
 2016	12382	2691	Daniel Webster	04/02/2016	Endicott		Endicott		false		true	-									
 2016	12382	1332	Dominican (IL)	01/21/2016	St. Xavier		St. Xavier		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3989817	http://stats.ncaa.org/game/index/3989817?org_id=1332
@@ -384,8 +385,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	213	Elmira	03/18/2016	Medaille @ Nazareth College		Medaille	http://stats.ncaa.org/team/23725/12382	true	Nazareth College	true	W 3 - 2	true	3 - 2	false	3	2	false		4067314	http://stats.ncaa.org/game/index/4067314?org_id=213
 2016	12382	213	Elmira	03/19/2016	Cal Lutheran @ Nazareth College		Cal Lutheran	http://stats.ncaa.org/team/105/12382	true	Nazareth College	true	W 3 - 2	true	3 - 2	false	3	2	false		4068406	http://stats.ncaa.org/game/index/4068406?org_id=213
 2016	12382	213	Elmira	03/24/2016	Keuka		Keuka	http://stats.ncaa.org/team/1159/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4076967	http://stats.ncaa.org/game/index/4076967?org_id=213
-2016	12382	213	Elmira	03/26/2016	SUNY New Paltz@Poughkeepsie, NY		SUNY New PaltzPoughkeepsie, NY		false		false	-									
-2016	12382	213	Elmira	03/26/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	213	Elmira	03/26/2016	SUNY New Paltz @ Poughkeepsie, NY		SUNY New Paltz	http://stats.ncaa.org/team/475/12382	true	Poughkeepsie, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4080016	http://stats.ncaa.org/game/index/4080016?org_id=475
+2016	12382	213	Elmira	03/26/2016	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12382	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4079306	http://stats.ncaa.org/game/index/4079306?org_id=737
 2016	12382	213	Elmira	04/02/2016	Alderson Broaddus@Rochester, NY		Alderson BroaddusRochester, NY		false		false	-									
 2016	12382	213	Elmira	04/02/2016	@ Nazareth		Nazareth		false		false	-									
 2016	12382	532	Elms	01/22/2016	Nazareth @ Marcy, N.Y.		Nazareth	http://stats.ncaa.org/team/461/12382	true	Marcy, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		3993701	http://stats.ncaa.org/game/index/3993701?org_id=532
@@ -412,7 +413,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	532	Elms	03/19/2016	Bard		Bard	http://stats.ncaa.org/team/962/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4071459	http://stats.ncaa.org/game/index/4071459?org_id=532
 2016	12382	532	Elms	03/19/2016	Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4070276	http://stats.ncaa.org/game/index/4070276?org_id=532
 2016	12382	532	Elms	03/23/2016	Lesley		Lesley	http://stats.ncaa.org/team/24317/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4075799	http://stats.ncaa.org/game/index/4075799?org_id=532
-2016	12382	532	Elms	03/24/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	532	Elms	03/24/2016	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4081049	http://stats.ncaa.org/game/index/4081049?org_id=532
 2016	12382	532	Elms	03/29/2016	@ Lesley		Lesley		false		false	-									
 2016	12382	532	Elms	04/02/2016	Nazareth		Nazareth		false		true	-									
 2016	12382	214	Emerson	01/16/2016	Daniel Webster @ Cambridge, Mass.		Daniel Webster	http://stats.ncaa.org/team/2691/12382	true	Cambridge, Mass.	true	L 1 - 3	false	1 - 3	false	1	3	false		3987984	http://stats.ncaa.org/game/index/3987984?org_id=214
@@ -435,7 +436,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	214	Emerson	03/19/2016	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4068091	http://stats.ncaa.org/game/index/4068091?org_id=214
 2016	12382	214	Emerson	03/19/2016	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4067618	http://stats.ncaa.org/game/index/4067618?org_id=214
 2016	12382	214	Emerson	03/22/2016	Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4073820	http://stats.ncaa.org/game/index/4073820?org_id=214
-2016	12382	214	Emerson	03/26/2016	@ Wentworth		Wentworth		false		false	-									
+2016	12382	214	Emerson	03/26/2016	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4079336	http://stats.ncaa.org/game/index/4079336?org_id=762
 2016	12382	214	Emerson	03/29/2016	Lasell		Lasell		false		true	-									
 2016	12382	214	Emerson	03/31/2016	@ Rivier		Rivier		false		false	-									
 2016	12382	214	Emerson	04/02/2016	Wentworth		Wentworth		false		true	-									
@@ -514,12 +515,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	11538	Fontbonne	03/18/2016	@ Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4067221	http://stats.ncaa.org/game/index/4067221?org_id=8567
 2016	12382	11538	Fontbonne	03/19/2016	@ Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12382	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4070297	http://stats.ncaa.org/game/index/4070297?org_id=806
 2016	12382	11538	Fontbonne	03/23/2016	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4075536	http://stats.ncaa.org/game/index/4075536?org_id=569
-2016	12382	11538	Fontbonne	03/24/2016	@ Elms		Elms		false		false	-									
-2016	12382	11538	Fontbonne	03/25/2016	@ Lesley		Lesley		false		false	-									
-2016	12382	11538	Fontbonne	03/25/2016	@ Lesley		Lesley		false		false	-									
-2016	12382	11538	Fontbonne	03/25/2016	@ Lesley		Lesley		false		false	-									
-2016	12382	11538	Fontbonne	03/26/2016	Newbury@Newton, MA		NewburyNewton, MA		false		false	-									
-2016	12382	11538	Fontbonne	03/26/2016	@ Mount Ida		Mount Ida		false		false	-									
+2016	12382	11538	Fontbonne	03/24/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4081049	http://stats.ncaa.org/game/index/4081049?org_id=532
+2016	12382	11538	Fontbonne	03/25/2016	@ Lesley		Lesley	http://stats.ncaa.org/team/24317/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4081050	http://stats.ncaa.org/game/index/4081050?org_id=24317
+2016	12382	11538	Fontbonne	03/26/2016	@ Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4081052	http://stats.ncaa.org/game/index/4081052?org_id=27901
+2016	12382	11538	Fontbonne	03/26/2016	Newbury @ Newton, Mass.		Newbury	http://stats.ncaa.org/team/21772/12382	true	Newton, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4080585	http://stats.ncaa.org/game/index/4080585?org_id=11538
 2016	12382	11538	Fontbonne	04/01/2016	@ Loras		Loras		false		false	-									
 2016	12382	11538	Fontbonne	04/02/2016	@ North Central (IL)		North Central (IL)		false		false	-									
 2016	12382	1111	Greenville	01/16/2016	Brooklyn @ St. Louis, Mo.		Brooklyn	http://stats.ncaa.org/team/79/12382	true	St. Louis, Mo.	true	W 3 - 0	true	3 - 0	false	3	0	false		3987342	http://stats.ncaa.org/game/index/3987342?org_id=79
@@ -600,14 +599,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	292	Hunter	03/17/2016	@ Staten Island		Staten Island	http://stats.ncaa.org/team/675/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4065532	http://stats.ncaa.org/game/index/4065532?org_id=675
 2016	12382	292	Hunter	03/22/2016	@ Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4073864	http://stats.ncaa.org/game/index/4073864?org_id=79
 2016	12382	292	Hunter	03/23/2016	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4076426	http://stats.ncaa.org/game/index/4076426?org_id=292
-2016	12382	292	Hunter	03/26/2016	CCNY@New York, NY		CCNYNew York, NY		false		false	-									
-2016	12382	292	Hunter	03/26/2016	@ York (NY)		York (NY)		false		false	-									
+2016	12382	292	Hunter	03/26/2016	CCNY @ Jamaica, New York		CCNY	http://stats.ncaa.org/team/480/12382	true	Jamaica, New York	true	W 3 - 0	true	3 - 0	false	3	0	false		4080516	http://stats.ncaa.org/game/index/4080516?org_id=292
+2016	12382	292	Hunter	03/26/2016	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4079373	http://stats.ncaa.org/game/index/4079373?org_id=2730
 2016	12382	292	Hunter	03/29/2016	Baruch		Baruch		false		true	-									
 2016	12382	321	John Jay	02/06/2016	CCNY @ New York, NY		CCNY	http://stats.ncaa.org/team/480/12382	true	New York, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4006478	http://stats.ncaa.org/game/index/4006478?org_id=321
 2016	12382	321	John Jay	02/06/2016	Hunter @ Baruch		Hunter	http://stats.ncaa.org/team/292/12382	true	Baruch	true	L 0 - 3	false	0 - 3	false	0	3	false		4014213	http://stats.ncaa.org/game/index/4014213?org_id=292
 2016	12382	321	John Jay	02/10/2016	Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4008440	http://stats.ncaa.org/game/index/4008440?org_id=321
-2016	12382	321	John Jay	02/15/2016	York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4013419	http://stats.ncaa.org/game/index/4013419?org_id=321
 2016	12382	321	John Jay	02/15/2016	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4013716	http://stats.ncaa.org/game/index/4013716?org_id=321
+2016	12382	321	John Jay	02/15/2016	York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4013419	http://stats.ncaa.org/game/index/4013419?org_id=321
 2016	12382	321	John Jay	02/18/2016	CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4020020	http://stats.ncaa.org/game/index/4020020?org_id=321
 2016	12382	321	John Jay	02/20/2016	Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4020064	http://stats.ncaa.org/game/index/4020064?org_id=321
 2016	12382	321	John Jay	02/23/2016	@ Cairn		Cairn	http://stats.ncaa.org/team/1305/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4026061	http://stats.ncaa.org/game/index/4026061?org_id=1305
@@ -625,8 +624,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	321	John Jay	03/19/2016	Thiel @ Harrisonburg, Va.		Thiel	http://stats.ncaa.org/team/707/12382	true	Harrisonburg, Va.	true	L 0 - 3	false	0 - 3	false	0	3	false		4068305	http://stats.ncaa.org/game/index/4068305?org_id=707
 2016	12382	321	John Jay	03/22/2016	Baruch		Baruch	http://stats.ncaa.org/team/58/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4073885	http://stats.ncaa.org/game/index/4073885?org_id=321
 2016	12382	321	John Jay	03/24/2016	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4076964	http://stats.ncaa.org/game/index/4076964?org_id=321
-2016	12382	321	John Jay	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
-2016	12382	321	John Jay	03/26/2016	Staten Island@Queens, NY		Staten IslandQueens, NY		false		false	-									
+2016	12382	321	John Jay	03/26/2016	Baruch @ Jamaica, NY		Baruch	http://stats.ncaa.org/team/58/12382	true	Jamaica, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4081048	http://stats.ncaa.org/game/index/4081048?org_id=58
+2016	12382	321	John Jay	03/26/2016	Staten Island @ Jamaica, NY		Staten Island	http://stats.ncaa.org/team/675/12382	true	Jamaica, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4080590	http://stats.ncaa.org/game/index/4080590?org_id=321
 2016	12382	321	John Jay	03/29/2016	@ Brooklyn		Brooklyn		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	01/14/2016	@ Kean		Kean	http://stats.ncaa.org/team/329/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3985608	http://stats.ncaa.org/game/index/3985608?org_id=329
 2016	12382	22626	Johnson & Wales (RI)	01/15/2016	Hunter @ Union, N.J.		Hunter	http://stats.ncaa.org/team/292/12382	true	Union, N.J.	true	W 3 - 0	true	3 - 0	false	3	0	false		3987338	http://stats.ncaa.org/game/index/3987338?org_id=292
@@ -652,8 +651,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	22626	Johnson & Wales (RI)	03/15/2016	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4062112	http://stats.ncaa.org/game/index/4062112?org_id=569
 2016	12382	22626	Johnson & Wales (RI)	03/18/2016	@ Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4067134	http://stats.ncaa.org/game/index/4067134?org_id=22626
 2016	12382	22626	Johnson & Wales (RI)	03/22/2016	Wentworth		Wentworth	http://stats.ncaa.org/team/762/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4073949	http://stats.ncaa.org/game/index/4073949?org_id=22626
-2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Albertus Magnus		Albertus Magnus		false		true	-									
-2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Rivier		Rivier		false		true	-									
+2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4079439	http://stats.ncaa.org/game/index/4079439?org_id=22626
+2016	12382	22626	Johnson & Wales (RI)	03/26/2016	Rivier		Rivier	http://stats.ncaa.org/team/18422/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4079272	http://stats.ncaa.org/game/index/4079272?org_id=22626
 2016	12382	22626	Johnson & Wales (RI)	03/29/2016	Mount Ida		Mount Ida		false		true	-									
 2016	12382	22626	Johnson & Wales (RI)	03/31/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2016	12382	22626	Johnson & Wales (RI)	04/02/2016	Lasell@Emmanuel, MA		LasellEmmanuel, MA		false		false	-									
@@ -846,25 +845,23 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	279	Lehman	03/15/2016	@ CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4062164	http://stats.ncaa.org/game/index/4062164?org_id=480
 2016	12382	279	Lehman	03/16/2016	Mt. St. Vincent		Mt. St. Vincent	http://stats.ncaa.org/team/451/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4063703	http://stats.ncaa.org/game/index/4063703?org_id=279
 2016	12382	279	Lehman	03/22/2016	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4073940	http://stats.ncaa.org/game/index/4073940?org_id=403
-2016	12382	279	Lehman	03/26/2016	Staten Island@Queens, NY		Staten IslandQueens, NY		false		false	-									
-2016	12382	279	Lehman	03/26/2016	Medgar Evers@Jamaica, NY		Medgar EversJamaica, NY		false		false	-									
+2016	12382	279	Lehman	03/26/2016	Staten Island @ Jamaica, NY		Staten Island	http://stats.ncaa.org/team/675/12382	true	Jamaica, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4081051	http://stats.ncaa.org/game/index/4081051?org_id=279
+2016	12382	279	Lehman	03/26/2016	Medgar Evers @ Jamaica, NY		Medgar Evers	http://stats.ncaa.org/team/403/12382	true	Jamaica, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4079839	http://stats.ncaa.org/game/index/4079839?org_id=403
 2016	12382	279	Lehman	03/29/2016	@ York (NY)		York (NY)		false		false	-									
 2016	12382	24317	Lesley	02/05/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4004250	http://stats.ncaa.org/game/index/4004250?org_id=214
 2016	12382	24317	Lesley	02/13/2016	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4011808	http://stats.ncaa.org/game/index/4011808?org_id=24317
 2016	12382	24317	Lesley	02/17/2016	Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4016120	http://stats.ncaa.org/game/index/4016120?org_id=24317
 2016	12382	24317	Lesley	02/24/2016	Endicott		Endicott	http://stats.ncaa.org/team/8981/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4027377	http://stats.ncaa.org/game/index/4027377?org_id=24317
-2016	12382	24317	Lesley	02/27/2016	Mount Ida @ Nashua, NH		Mount Ida	http://stats.ncaa.org/team/27901/12382	true	Nashua, NH	true	L 0 - 3	false	0 - 3	false	0	3	false		4030700	http://stats.ncaa.org/game/index/4030700?org_id=27901
 2016	12382	24317	Lesley	02/27/2016	@ Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4030657	http://stats.ncaa.org/game/index/4030657?org_id=2691
+2016	12382	24317	Lesley	02/27/2016	Mount Ida @ Nashua, NH		Mount Ida	http://stats.ncaa.org/team/27901/12382	true	Nashua, NH	true	L 0 - 3	false	0 - 3	false	0	3	false		4030700	http://stats.ncaa.org/game/index/4030700?org_id=27901
 2016	12382	24317	Lesley	03/01/2016	Newbury		Newbury	http://stats.ncaa.org/team/21772/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4037278	http://stats.ncaa.org/game/index/4037278?org_id=24317
 2016	12382	24317	Lesley	03/11/2016	New Jersey City @ Providence, RI		New Jersey City	http://stats.ncaa.org/team/319/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4055642	http://stats.ncaa.org/game/index/4055642?org_id=24317
 2016	12382	24317	Lesley	03/11/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4056036	http://stats.ncaa.org/game/index/4056036?org_id=22626
-2016	12382	24317	Lesley	03/12/2016	Bard @ Providence, RI		Bard	http://stats.ncaa.org/team/962/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4056375	http://stats.ncaa.org/game/index/4056375?org_id=962
 2016	12382	24317	Lesley	03/12/2016	Emmanuel (MA) @ Providence, RI		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4056462	http://stats.ncaa.org/game/index/4056462?org_id=24317
+2016	12382	24317	Lesley	03/12/2016	Bard @ Providence, RI		Bard	http://stats.ncaa.org/team/962/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4056375	http://stats.ncaa.org/game/index/4056375?org_id=962
 2016	12382	24317	Lesley	03/22/2016	@ Endicott		Endicott	http://stats.ncaa.org/team/8981/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4073914	http://stats.ncaa.org/game/index/4073914?org_id=24317
 2016	12382	24317	Lesley	03/23/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4075799	http://stats.ncaa.org/game/index/4075799?org_id=532
-2016	12382	24317	Lesley	03/25/2016	@ Fontbonne		Fontbonne		false		false	-									
-2016	12382	24317	Lesley	03/25/2016	@ Fontbonne		Fontbonne		false		false	-									
-2016	12382	24317	Lesley	03/25/2016	@ Fontbonne		Fontbonne		false		false	-									
+2016	12382	24317	Lesley	03/25/2016	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4081050	http://stats.ncaa.org/game/index/4081050?org_id=24317
 2016	12382	24317	Lesley	03/29/2016	Elms		Elms		false		true	-									
 2016	12382	24317	Lesley	03/31/2016	@ Newbury		Newbury		false		false	-									
 2016	12382	24317	Lesley	04/02/2016	@ Regis (MA)		Regis (MA)		false		false	-									
@@ -1038,25 +1035,26 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	403	Medgar Evers	02/06/2016	Hunter @ New York N.Y		Hunter	http://stats.ncaa.org/team/292/12382	true	New York N.Y	true	L 0 - 3	false	0 - 3	false	0	3	false		4044779	http://stats.ncaa.org/game/index/4044779?org_id=403
 2016	12382	403	Medgar Evers	02/10/2016	@ John Jay		John Jay	http://stats.ncaa.org/team/321/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4008440	http://stats.ncaa.org/game/index/4008440?org_id=321
 2016	12382	403	Medgar Evers	02/13/2016	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4010562	http://stats.ncaa.org/game/index/4010562?org_id=403
-2016	12382	403	Medgar Evers	02/15/2016	Baruch @ New York, N.Y.		Baruch	http://stats.ncaa.org/team/58/12382	true	New York, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4013690	http://stats.ncaa.org/game/index/4013690?org_id=58
 2016	12382	403	Medgar Evers	02/15/2016	Staten Island @ New York, NY		Staten Island	http://stats.ncaa.org/team/675/12382	true	New York, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4014044	http://stats.ncaa.org/game/index/4014044?org_id=675
+2016	12382	403	Medgar Evers	02/15/2016	Baruch @ New York, N.Y.		Baruch	http://stats.ncaa.org/team/58/12382	true	New York, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4013690	http://stats.ncaa.org/game/index/4013690?org_id=58
 2016	12382	403	Medgar Evers	02/18/2016	@ Pratt		Pratt		false		false	L 1 - 3	false	1 - 3	false	1	3	false		4018513	http://stats.ncaa.org/game/index/4018513?org_id=403
 2016	12382	403	Medgar Evers	02/21/2016	@ Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4022185	http://stats.ncaa.org/game/index/4022185?org_id=2798
 2016	12382	403	Medgar Evers	02/25/2016	CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4029077	http://stats.ncaa.org/game/index/4029077?org_id=403
 2016	12382	403	Medgar Evers	02/26/2016	Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4032672	http://stats.ncaa.org/game/index/4032672?org_id=403
 2016	12382	403	Medgar Evers	03/02/2016	Hunter		Hunter	http://stats.ncaa.org/team/292/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4038796	http://stats.ncaa.org/game/index/4038796?org_id=403
 2016	12382	403	Medgar Evers	03/04/2016	@ Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4042029	http://stats.ncaa.org/game/index/4042029?org_id=30163
-2016	12382	403	Medgar Evers	03/05/2016	John Jay @ New York, N.Y.		John Jay	http://stats.ncaa.org/team/321/12382	true	New York, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4047678	http://stats.ncaa.org/game/index/4047678?org_id=321
 2016	12382	403	Medgar Evers	03/05/2016	CCNY @ New York, N.Y.		CCNY	http://stats.ncaa.org/team/480/12382	true	New York, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4044783	http://stats.ncaa.org/game/index/4044783?org_id=480
+2016	12382	403	Medgar Evers	03/05/2016	John Jay @ New York, N.Y.		John Jay	http://stats.ncaa.org/team/321/12382	true	New York, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4047678	http://stats.ncaa.org/game/index/4047678?org_id=321
 2016	12382	403	Medgar Evers	03/08/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4050253	http://stats.ncaa.org/game/index/4050253?org_id=403
 2016	12382	403	Medgar Evers	03/10/2016	Baruch		Baruch	http://stats.ncaa.org/team/58/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4054170	http://stats.ncaa.org/game/index/4054170?org_id=403
 2016	12382	403	Medgar Evers	03/15/2016	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4062099	http://stats.ncaa.org/game/index/4062099?org_id=2730
 2016	12382	403	Medgar Evers	03/17/2016	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4065742	http://stats.ncaa.org/game/index/4065742?org_id=403
-2016	12382	403	Medgar Evers	03/19/2016	Rust		Rust	http://stats.ncaa.org/team/586/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4070233	http://stats.ncaa.org/game/index/4070233?org_id=403
 2016	12382	403	Medgar Evers	03/19/2016	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4068655	http://stats.ncaa.org/game/index/4068655?org_id=403
+2016	12382	403	Medgar Evers	03/19/2016	Rust		Rust	http://stats.ncaa.org/team/586/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4070233	http://stats.ncaa.org/game/index/4070233?org_id=403
 2016	12382	403	Medgar Evers	03/22/2016	Lehman		Lehman	http://stats.ncaa.org/team/279/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4073940	http://stats.ncaa.org/game/index/4073940?org_id=403
-2016	12382	403	Medgar Evers	03/26/2016	Lehman@Jamaica, NY		LehmanJamaica, NY		false		false	-									
 2016	12382	403	Medgar Evers	03/26/2016	Brooklyn		Brooklyn		false		true	-									
+2016	12382	403	Medgar Evers	03/26/2016	Lehman @ Jamaica, NY		Lehman	http://stats.ncaa.org/team/279/12382	true	Jamaica, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4079839	http://stats.ncaa.org/game/index/4079839?org_id=403
+2016	12382	403	Medgar Evers	03/26/2016	Brooklyn @ Jamaica, N.Y.		Brooklyn	http://stats.ncaa.org/team/79/12382	true	Jamaica, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4080269	http://stats.ncaa.org/game/index/4080269?org_id=79
 2016	12382	403	Medgar Evers	03/29/2016	@ Staten Island		Staten Island		false		false	-									
 2016	12382	403	Medgar Evers	04/01/2016	Sarah Lawrence		Sarah Lawrence		false		true	-									
 2016	12382	27901	Mount Ida	01/23/2016	Daniel Webster @ Nashua, N.H.		Daniel Webster	http://stats.ncaa.org/team/2691/12382	true	Nashua, N.H.	true	L 1 - 3	false	1 - 3	false	1	3	false		3991785	http://stats.ncaa.org/game/index/3991785?org_id=2691
@@ -1073,8 +1071,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	27901	Mount Ida	02/20/2016	York (NY) @ New York, NY		York (NY)	http://stats.ncaa.org/team/2730/12382	true	New York, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4022541	http://stats.ncaa.org/game/index/4022541?org_id=2730
 2016	12382	27901	Mount Ida	02/20/2016	@ John Jay		John Jay	http://stats.ncaa.org/team/321/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4020064	http://stats.ncaa.org/game/index/4020064?org_id=321
 2016	12382	27901	Mount Ida	02/24/2016	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4027175	http://stats.ncaa.org/game/index/4027175?org_id=27901
-2016	12382	27901	Mount Ida	02/27/2016	@ Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4030658	http://stats.ncaa.org/game/index/4030658?org_id=2691
 2016	12382	27901	Mount Ida	02/27/2016	Lesley @ Nashua, NH		Lesley	http://stats.ncaa.org/team/24317/12382	true	Nashua, NH	true	W 3 - 0	true	3 - 0	false	3	0	false		4030700	http://stats.ncaa.org/game/index/4030700?org_id=27901
+2016	12382	27901	Mount Ida	02/27/2016	@ Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4030658	http://stats.ncaa.org/game/index/4030658?org_id=2691
 2016	12382	27901	Mount Ida	03/03/2016	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4042621	http://stats.ncaa.org/game/index/4042621?org_id=27901
 2016	12382	27901	Mount Ida	03/05/2016	Wentworth @ Nashua, N.H.		Wentworth	http://stats.ncaa.org/team/762/12382	true	Nashua, N.H.	true	L 0 - 3	false	0 - 3	false	0	3	false		4043235	http://stats.ncaa.org/game/index/4043235?org_id=762
 2016	12382	27901	Mount Ida	03/05/2016	@ Rivier		Rivier	http://stats.ncaa.org/team/18422/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4043175	http://stats.ncaa.org/game/index/4043175?org_id=18422
@@ -1083,11 +1081,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	27901	Mount Ida	03/19/2016	Wentworth		Wentworth	http://stats.ncaa.org/team/762/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4068317	http://stats.ncaa.org/game/index/4068317?org_id=27901
 2016	12382	27901	Mount Ida	03/22/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4073820	http://stats.ncaa.org/game/index/4073820?org_id=214
 2016	12382	27901	Mount Ida	03/24/2016	Lasell		Lasell	http://stats.ncaa.org/team/8486/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4076953	http://stats.ncaa.org/game/index/4076953?org_id=27901
-2016	12382	27901	Mount Ida	03/26/2016	Fontbonne		Fontbonne		false		true	-									
+2016	12382	27901	Mount Ida	03/26/2016	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4081052	http://stats.ncaa.org/game/index/4081052?org_id=27901
+2016	12382	27901	Mount Ida	03/26/2016	Newbury		Newbury	http://stats.ncaa.org/team/21772/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4080092	http://stats.ncaa.org/game/index/4080092?org_id=21772
 2016	12382	27901	Mount Ida	03/29/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
 2016	12382	27901	Mount Ida	03/31/2016	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
-2016	12382	27901	Mount Ida	04/02/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2016	12382	27901	Mount Ida	04/02/2016	Rivier@New Haven, CT		RivierNew Haven, CT		false		false	-									
+2016	12382	27901	Mount Ida	04/02/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2016	12382	8567	Mt. St. Joseph	01/15/2016	Erskine		Erskine	http://stats.ncaa.org/team/1072/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3987378	http://stats.ncaa.org/game/index/3987378?org_id=8567
 2016	12382	8567	Mt. St. Joseph	01/22/2016	Ramapo @ Elmira, NY		Ramapo	http://stats.ncaa.org/team/564/12382	true	Elmira, NY	true	W 3 - 2	true	3 - 2	false	3	2	false		3991777	http://stats.ncaa.org/game/index/3991777?org_id=564
 2016	12382	8567	Mt. St. Joseph	01/22/2016	Mt. St. Vincent @ Elmira, NY		Mt. St. Vincent	http://stats.ncaa.org/team/451/12382	true	Elmira, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		3991797	http://stats.ncaa.org/game/index/3991797?org_id=8567
@@ -1199,7 +1198,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	461	Nazareth	03/18/2016	Cal Lutheran		Cal Lutheran	http://stats.ncaa.org/team/105/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4066860	http://stats.ncaa.org/game/index/4066860?org_id=461
 2016	12382	461	Nazareth	03/19/2016	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4067934	http://stats.ncaa.org/game/index/4067934?org_id=461
 2016	12382	461	Nazareth	03/26/2016	@ NYU		NYU		false		false	-									
-2016	12382	461	Nazareth	03/26/2016	Bard@New York, NY		BardNew York, NY		false		false	-									
+2016	12382	461	Nazareth	03/26/2016	Bard @ Brooklyn, N.Y.		Bard	http://stats.ncaa.org/team/962/12382	true	Brooklyn, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4079522	http://stats.ncaa.org/game/index/4079522?org_id=461
 2016	12382	461	Nazareth	03/29/2016	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
 2016	12382	461	Nazareth	04/02/2016	@ Elms		Elms		false		false	-									
 2016	12382	461	Nazareth	04/02/2016	Elmira		Elmira		false		true	-									
@@ -1241,8 +1240,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	319	New Jersey City	04/07/2016	Pratt		Pratt		false		true	-									
 2016	12382	21772	Newbury	01/27/2016	Lasell		Lasell	http://stats.ncaa.org/team/8486/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3994658	http://stats.ncaa.org/game/index/3994658?org_id=8486
 2016	12382	21772	Newbury	01/29/2016	@ Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12382	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3996142	http://stats.ncaa.org/game/index/3996142?org_id=11036
-2016	12382	21772	Newbury	01/30/2016	Wells @ Marcy, N.Y.		Wells	http://stats.ncaa.org/team/761/12382	true	Marcy, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		3999941	http://stats.ncaa.org/game/index/3999941?org_id=21772
 2016	12382	21772	Newbury	01/30/2016	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3999940	http://stats.ncaa.org/game/index/3999940?org_id=21772
+2016	12382	21772	Newbury	01/30/2016	Wells @ Marcy, N.Y.		Wells	http://stats.ncaa.org/team/761/12382	true	Marcy, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		3999941	http://stats.ncaa.org/game/index/3999941?org_id=21772
 2016	12382	21772	Newbury	02/02/2016	@ MIT		MIT	http://stats.ncaa.org/team/398/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3999684	http://stats.ncaa.org/game/index/3999684?org_id=398
 2016	12382	21772	Newbury	02/04/2016	Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4002281	http://stats.ncaa.org/game/index/4002281?org_id=21772
 2016	12382	21772	Newbury	02/06/2016	Vassar @ Newton, Mass.		Vassar	http://stats.ncaa.org/team/737/12382	true	Newton, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4003464	http://stats.ncaa.org/game/index/4003464?org_id=21772
@@ -1250,16 +1249,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	21772	Newbury	02/09/2016	Elms		Elms	http://stats.ncaa.org/team/532/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4006835	http://stats.ncaa.org/game/index/4006835?org_id=532
 2016	12382	21772	Newbury	02/11/2016	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4008632	http://stats.ncaa.org/game/index/4008632?org_id=569
 2016	12382	21772	Newbury	02/18/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4018222	http://stats.ncaa.org/game/index/4018222?org_id=214
-2016	12382	21772	Newbury	02/20/2016	Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4020660	http://stats.ncaa.org/game/index/4020660?org_id=2691
 2016	12382	21772	Newbury	02/20/2016	Wentworth		Wentworth	http://stats.ncaa.org/team/762/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4020519	http://stats.ncaa.org/game/index/4020519?org_id=21772
+2016	12382	21772	Newbury	02/20/2016	Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4020660	http://stats.ncaa.org/game/index/4020660?org_id=2691
 2016	12382	21772	Newbury	02/22/2016	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4024713	http://stats.ncaa.org/game/index/4024713?org_id=21772
 2016	12382	21772	Newbury	02/24/2016	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4027236	http://stats.ncaa.org/game/index/4027236?org_id=569
-2016	12382	21772	Newbury	02/27/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4032741	http://stats.ncaa.org/game/index/4032741?org_id=532
 2016	12382	21772	Newbury	02/27/2016	MIT @ Chicopee, Mass.		MIT	http://stats.ncaa.org/team/398/12382	true	Chicopee, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4034298	http://stats.ncaa.org/game/index/4034298?org_id=398
+2016	12382	21772	Newbury	02/27/2016	@ Elms		Elms	http://stats.ncaa.org/team/532/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4032741	http://stats.ncaa.org/game/index/4032741?org_id=532
 2016	12382	21772	Newbury	03/01/2016	@ Lesley		Lesley	http://stats.ncaa.org/team/24317/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4037278	http://stats.ncaa.org/game/index/4037278?org_id=24317
 2016	12382	21772	Newbury	03/05/2016	@ Endicott		Endicott	http://stats.ncaa.org/team/8981/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4042749	http://stats.ncaa.org/game/index/4042749?org_id=21772
 2016	12382	21772	Newbury	03/17/2016	@ Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4065564	http://stats.ncaa.org/game/index/4065564?org_id=2691
-2016	12382	21772	Newbury	03/26/2016	Fontbonne@Newton, MA		FontbonneNewton, MA		false		false	-									
+2016	12382	21772	Newbury	03/26/2016	Fontbonne @ Newton, Mass.		Fontbonne	http://stats.ncaa.org/team/11538/12382	true	Newton, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4080585	http://stats.ncaa.org/game/index/4080585?org_id=11538
+2016	12382	21772	Newbury	03/26/2016	@ Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4080092	http://stats.ncaa.org/game/index/4080092?org_id=21772
 2016	12382	21772	Newbury	03/29/2016	Endicott		Endicott		false		true	-									
 2016	12382	21772	Newbury	03/31/2016	Lesley		Lesley		false		true	-									
 2016	12382	492	North Central (IL)	01/24/2016	Loras		Loras	http://stats.ncaa.org/team/364/12382	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3991643	http://stats.ncaa.org/game/index/3991643?org_id=492
@@ -1304,8 +1304,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	525	Olivet	03/16/2016	@ Siena Heights		Siena Heights		false		false	L 0 - 3	false	0 - 3	false	0	3	false		4063688	http://stats.ncaa.org/game/index/4063688?org_id=525
 2016	12382	525	Olivet	03/18/2016	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4067337	http://stats.ncaa.org/game/index/4067337?org_id=525
 2016	12382	525	Olivet	03/19/2016	Loras		Loras	http://stats.ncaa.org/team/364/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4068215	http://stats.ncaa.org/game/index/4068215?org_id=525
-2016	12382	525	Olivet	03/26/2016	Trinity Christian		Trinity Christian		false		true	-									
-2016	12382	525	Olivet	03/26/2016	Adrian		Adrian		false		true	-									
+2016	12382	525	Olivet	03/26/2016	Trinity Christian		Trinity Christian		false		true	L 0 - 3	false	0 - 3	false	0	3	false		4081085	http://stats.ncaa.org/game/index/4081085?org_id=525
+2016	12382	525	Olivet	03/26/2016	Adrian		Adrian	http://stats.ncaa.org/team/4/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4081086	http://stats.ncaa.org/game/index/4081086?org_id=525
 2016	12382	525	Olivet	04/02/2016	Adrian		Adrian		false		true	-									
 2016	12382	25719	Penn St.-Altoona	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3992175	http://stats.ncaa.org/game/index/3992175?org_id=25719
 2016	12382	25719	Penn St.-Altoona	01/24/2016	Thiel @ Erie, Pa.		Thiel	http://stats.ncaa.org/team/707/12382	true	Erie, Pa.	true	W 3 - 1	true	3 - 1	false	3	1	false		3991760	http://stats.ncaa.org/game/index/3991760?org_id=707
@@ -1467,8 +1467,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	18422	Rivier	03/15/2016	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4062325	http://stats.ncaa.org/game/index/4062325?org_id=18422
 2016	12382	18422	Rivier	03/17/2016	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4065507	http://stats.ncaa.org/game/index/4065507?org_id=214
 2016	12382	18422	Rivier	03/23/2016	Lasell		Lasell	http://stats.ncaa.org/team/8486/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4075483	http://stats.ncaa.org/game/index/4075483?org_id=18422
-2016	12382	18422	Rivier	03/26/2016	Albertus Magnus@Providence, RI		Albertus MagnusProvidence, RI		false		false	-									
-2016	12382	18422	Rivier	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
+2016	12382	18422	Rivier	03/26/2016	Albertus Magnus @ Providence, RI		Albertus Magnus	http://stats.ncaa.org/team/2798/12382	true	Providence, RI	true	W 3 - 0	true	3 - 0	false	3	0	false		4079324	http://stats.ncaa.org/game/index/4079324?org_id=2798
+2016	12382	18422	Rivier	03/26/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4079272	http://stats.ncaa.org/game/index/4079272?org_id=22626
 2016	12382	18422	Rivier	03/29/2016	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
 2016	12382	18422	Rivier	03/31/2016	Emerson		Emerson		false		true	-									
 2016	12382	18422	Rivier	04/02/2016	Mount Ida@New Haven, CT		Mount IdaNew Haven, CT		false		false	-									
@@ -1500,16 +1500,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	589	Rutgers-Newark	02/12/2016	@ Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4009771	http://stats.ncaa.org/game/index/4009771?org_id=394
 2016	12382	589	Rutgers-Newark	02/13/2016	@ East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4010313	http://stats.ncaa.org/game/index/4010313?org_id=203
 2016	12382	589	Rutgers-Newark	02/17/2016	Ramapo		Ramapo	http://stats.ncaa.org/team/564/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4016053	http://stats.ncaa.org/game/index/4016053?org_id=589
-2016	12382	589	Rutgers-Newark	02/20/2016	Rust @ Staten Island, NY		Rust	http://stats.ncaa.org/team/586/12382	true	Staten Island, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4022534	http://stats.ncaa.org/game/index/4022534?org_id=589
 2016	12382	589	Rutgers-Newark	02/20/2016	@ Staten Island		Staten Island	http://stats.ncaa.org/team/675/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4022558	http://stats.ncaa.org/game/index/4022558?org_id=675
+2016	12382	589	Rutgers-Newark	02/20/2016	Rust @ Staten Island, NY		Rust	http://stats.ncaa.org/team/586/12382	true	Staten Island, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4022534	http://stats.ncaa.org/game/index/4022534?org_id=589
 2016	12382	589	Rutgers-Newark	02/26/2016	Juniata		Juniata	http://stats.ncaa.org/team/325/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4029748	http://stats.ncaa.org/game/index/4029748?org_id=589
 2016	12382	589	Rutgers-Newark	02/27/2016	Thiel		Thiel	http://stats.ncaa.org/team/707/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4030425	http://stats.ncaa.org/game/index/4030425?org_id=589
 2016	12382	589	Rutgers-Newark	03/01/2016	NJIT		NJIT	http://stats.ncaa.org/team/471/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4037243	http://stats.ncaa.org/game/index/4037243?org_id=589
 2016	12382	589	Rutgers-Newark	03/04/2016	Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4042110	http://stats.ncaa.org/game/index/4042110?org_id=589
 2016	12382	589	Rutgers-Newark	03/05/2016	East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4043040	http://stats.ncaa.org/game/index/4043040?org_id=589
 2016	12382	589	Rutgers-Newark	03/22/2016	@ Cairn		Cairn	http://stats.ncaa.org/team/1305/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4073905	http://stats.ncaa.org/game/index/4073905?org_id=1305
-2016	12382	589	Rutgers-Newark	03/25/2016	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12382	false		true	-									
-2016	12382	589	Rutgers-Newark	03/25/2016	@ Stevenson		Stevenson		false		false	-									
+2016	12382	589	Rutgers-Newark	03/25/2016	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4078904	http://stats.ncaa.org/game/index/4078904?org_id=589
 2016	12382	589	Rutgers-Newark	03/29/2016	NYU		NYU		false		true	-									
 2016	12382	589	Rutgers-Newark	04/01/2016	@ Juniata		Juniata		false		false	-									
 2016	12382	589	Rutgers-Newark	04/02/2016	@ Thiel		Thiel		false		false	-									
@@ -1539,8 +1538,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	475	SUNY New Paltz	03/19/2016	Cal Lutheran @ Nazareth College		Cal Lutheran	http://stats.ncaa.org/team/105/12382	true	Nazareth College	true	W 3 - 0	true	3 - 0	false	3	0	false		4068105	http://stats.ncaa.org/game/index/4068105?org_id=105
 2016	12382	475	SUNY New Paltz	03/19/2016	@ Nazareth		Nazareth	http://stats.ncaa.org/team/461/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4067934	http://stats.ncaa.org/game/index/4067934?org_id=461
 2016	12382	475	SUNY New Paltz	03/23/2016	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4076426	http://stats.ncaa.org/game/index/4076426?org_id=292
-2016	12382	475	SUNY New Paltz	03/26/2016	Elmira@Poughkeepsie, NY		ElmiraPoughkeepsie, NY		false		false	-									
-2016	12382	475	SUNY New Paltz	03/26/2016	@ Vassar		Vassar		false		false	-									
+2016	12382	475	SUNY New Paltz	03/26/2016	Elmira @ Poughkeepsie, NY		Elmira	http://stats.ncaa.org/team/213/12382	true	Poughkeepsie, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4080016	http://stats.ncaa.org/game/index/4080016?org_id=475
+2016	12382	475	SUNY New Paltz	03/26/2016	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4079942	http://stats.ncaa.org/game/index/4079942?org_id=737
 2016	12382	475	SUNY New Paltz	03/30/2016	@ Baruch		Baruch		false		false	-									
 2016	12382	475	SUNY New Paltz	04/02/2016	@ Springfield		Springfield		false		false	-									
 2016	12382	9500	SUNY Poly	01/22/2016	Vassar		Vassar	http://stats.ncaa.org/team/737/12382	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3991732	http://stats.ncaa.org/game/index/3991732?org_id=737
@@ -1600,8 +1599,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	11036	Sage Colleges	03/19/2016	@ New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4067929	http://stats.ncaa.org/game/index/4067929?org_id=319
 2016	12382	11036	Sage Colleges	03/20/2016	Purchase @ Bronxville, N.Y.		Purchase	http://stats.ncaa.org/team/30029/12382	true	Bronxville, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4071076	http://stats.ncaa.org/game/index/4071076?org_id=30029
 2016	12382	11036	Sage Colleges	03/20/2016	@ Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4069295	http://stats.ncaa.org/game/index/4069295?org_id=30163
-2016	12382	11036	Sage Colleges	03/26/2016	Daniel Webster@Springfield, MA		Daniel WebsterSpringfield, MA		false		false	-									
-2016	12382	11036	Sage Colleges	03/26/2016	@ Springfield		Springfield		false		false	-									
+2016	12382	11036	Sage Colleges	03/26/2016	Daniel Webster @ Springfield, Mass.		Daniel Webster	http://stats.ncaa.org/team/2691/12382	true	Springfield, Mass.	true	L 2 - 3	false	2 - 3	false	2	3	false		4081122	http://stats.ncaa.org/game/index/4081122?org_id=2691
+2016	12382	11036	Sage Colleges	03/26/2016	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4079874	http://stats.ncaa.org/game/index/4079874?org_id=673
 2016	12382	11036	Sage Colleges	03/30/2016	@ Bard		Bard		false		false	-									
 2016	12382	11036	Sage Colleges	04/02/2016	Kean		Kean		false		true	-									
 2016	12382	11036	Sage Colleges	04/02/2016	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
@@ -1650,8 +1649,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	673	Springfield	03/01/2016	@ Rivier		Rivier	http://stats.ncaa.org/team/18422/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4037845	http://stats.ncaa.org/game/index/4037845?org_id=18422
 2016	12382	673	Springfield	03/04/2016	@ Baruch		Baruch	http://stats.ncaa.org/team/58/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4044780	http://stats.ncaa.org/game/index/4044780?org_id=58
 2016	12382	673	Springfield	03/09/2016	@ SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4052017	http://stats.ncaa.org/game/index/4052017?org_id=475
-2016	12382	673	Springfield	03/26/2016	Daniel Webster		Daniel Webster		false		true	-									
-2016	12382	673	Springfield	03/26/2016	Sage Colleges		Sage Colleges		false		true	-									
+2016	12382	673	Springfield	03/26/2016	Daniel Webster		Daniel Webster	http://stats.ncaa.org/team/2691/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4079310	http://stats.ncaa.org/game/index/4079310?org_id=673
+2016	12382	673	Springfield	03/26/2016	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4079874	http://stats.ncaa.org/game/index/4079874?org_id=673
 2016	12382	673	Springfield	04/01/2016	Baruch		Baruch		false		true	-									
 2016	12382	673	Springfield	04/02/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2016	12382	673	Springfield	04/05/2016	MIT		MIT		false		true	-									
@@ -1702,8 +1701,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	675	Staten Island	03/19/2016	Rust @ Medgar Evers College		Rust	http://stats.ncaa.org/team/586/12382	true	Medgar Evers College	true	W 3 - 0	true	3 - 0	false	3	0	false		4070277	http://stats.ncaa.org/game/index/4070277?org_id=675
 2016	12382	675	Staten Island	03/22/2016	@ CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4074276	http://stats.ncaa.org/game/index/4074276?org_id=480
 2016	12382	675	Staten Island	03/24/2016	Pratt		Pratt		false		true	L 2 - 3	false	2 - 3	false	2	3	false		4077712	http://stats.ncaa.org/game/index/4077712?org_id=675
-2016	12382	675	Staten Island	03/26/2016	John Jay@Queens, NY		John JayQueens, NY		false		false	-									
-2016	12382	675	Staten Island	03/26/2016	Lehman@Queens, NY		LehmanQueens, NY		false		false	-									
+2016	12382	675	Staten Island	03/26/2016	John Jay @ Jamaica, NY		John Jay	http://stats.ncaa.org/team/321/12382	true	Jamaica, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4080590	http://stats.ncaa.org/game/index/4080590?org_id=321
+2016	12382	675	Staten Island	03/26/2016	Lehman @ Jamaica, NY		Lehman	http://stats.ncaa.org/team/279/12382	true	Jamaica, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4081051	http://stats.ncaa.org/game/index/4081051?org_id=279
 2016	12382	675	Staten Island	03/29/2016	Medgar Evers		Medgar Evers		false		true	-									
 2016	12382	679	Stevens	01/16/2016	@ Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3987355	http://stats.ncaa.org/game/index/3987355?org_id=589
 2016	12382	679	Stevens	01/16/2016	Mt. St. Vincent @ Newark, N.J.		Mt. St. Vincent	http://stats.ncaa.org/team/451/12382	true	Newark, N.J.	true	W 3 - 1	true	3 - 1	false	3	1	false		3987357	http://stats.ncaa.org/game/index/3987357?org_id=679
@@ -1763,8 +1762,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	21852	Stevenson	03/14/2016	Lakeland @ Fond du Lac, Wis.		Lakeland	http://stats.ncaa.org/team/1164/12382	true	Fond du Lac, Wis.	true	W 3 - 0	true	3 - 0	false	3	0	false		4060677	http://stats.ncaa.org/game/index/4060677?org_id=1164
 2016	12382	21852	Stevenson	03/14/2016	@ Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4060579	http://stats.ncaa.org/game/index/4060579?org_id=1196
 2016	12382	21852	Stevenson	03/23/2016	Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4075802	http://stats.ncaa.org/game/index/4075802?org_id=394
-2016	12382	21852	Stevenson	03/25/2016	Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12382	false		true	-									
-2016	12382	21852	Stevenson	03/25/2016	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2016	12382	21852	Stevenson	03/25/2016	@ Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4078904	http://stats.ncaa.org/game/index/4078904?org_id=589
 2016	12382	21852	Stevenson	03/30/2016	East. Mennonite		East. Mennonite		false		true	-									
 2016	12382	707	Thiel	01/24/2016	Penn St.-Altoona @ Erie, Pa.		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12382	true	Erie, Pa.	true	L 1 - 3	false	1 - 3	false	1	3	false		3991760	http://stats.ncaa.org/game/index/3991760?org_id=707
 2016	12382	707	Thiel	01/24/2016	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12382	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3992330	http://stats.ncaa.org/game/index/3992330?org_id=538
@@ -1834,8 +1832,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	737	Vassar	03/18/2016	@ Hilbert		Hilbert	http://stats.ncaa.org/team/8398/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4067182	http://stats.ncaa.org/game/index/4067182?org_id=8398
 2016	12382	737	Vassar	03/19/2016	@ Medaille		Medaille	http://stats.ncaa.org/team/23725/12382	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4067775	http://stats.ncaa.org/game/index/4067775?org_id=23725
 2016	12382	737	Vassar	03/23/2016	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4075465	http://stats.ncaa.org/game/index/4075465?org_id=2730
-2016	12382	737	Vassar	03/26/2016	Elmira		Elmira		false		true	-									
-2016	12382	737	Vassar	03/26/2016	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2016	12382	737	Vassar	03/26/2016	Elmira		Elmira	http://stats.ncaa.org/team/213/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4079306	http://stats.ncaa.org/game/index/4079306?org_id=737
+2016	12382	737	Vassar	03/26/2016	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12382	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4079942	http://stats.ncaa.org/game/index/4079942?org_id=737
 2016	12382	737	Vassar	03/31/2016	NYU		NYU		false		true	-									
 2016	12382	737	Vassar	04/02/2016	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
 2016	12382	737	Vassar	04/02/2016	Wells		Wells		false		true	-									
@@ -1892,7 +1890,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	762	Wentworth	03/17/2016	@ Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4065515	http://stats.ncaa.org/game/index/4065515?org_id=762
 2016	12382	762	Wentworth	03/19/2016	@ Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12382	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4068317	http://stats.ncaa.org/game/index/4068317?org_id=27901
 2016	12382	762	Wentworth	03/22/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12382	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4073949	http://stats.ncaa.org/game/index/4073949?org_id=22626
-2016	12382	762	Wentworth	03/26/2016	Emerson		Emerson		false		true	-									
+2016	12382	762	Wentworth	03/26/2016	Emerson		Emerson	http://stats.ncaa.org/team/214/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4079336	http://stats.ncaa.org/game/index/4079336?org_id=762
 2016	12382	762	Wentworth	03/29/2016	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2016	12382	762	Wentworth	03/31/2016	@ Lasell		Lasell		false		false	-									
 2016	12382	762	Wentworth	04/02/2016	@ Emerson		Emerson		false		false	-									
@@ -1986,14 +1984,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12382	2730	York (NY)	03/06/2016	@ Kean		Kean	http://stats.ncaa.org/team/329/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4044894	http://stats.ncaa.org/game/index/4044894?org_id=329
 2016	12382	2730	York (NY)	03/08/2016	CCNY		CCNY	http://stats.ncaa.org/team/480/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4050262	http://stats.ncaa.org/game/index/4050262?org_id=2730
 2016	12382	2730	York (NY)	03/09/2016	@ NYU		NYU	http://stats.ncaa.org/team/479/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4052021	http://stats.ncaa.org/game/index/4052021?org_id=479
-2016	12382	2730	York (NY)	03/11/2016	Emmanuel (MA) @ Providence RI		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	true	Providence RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4055999	http://stats.ncaa.org/game/index/4055999?org_id=2730
 2016	12382	2730	York (NY)	03/11/2016	New Jersey City @ Providence, RI		New Jersey City	http://stats.ncaa.org/team/319/12382	true	Providence, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4057009	http://stats.ncaa.org/game/index/4057009?org_id=2730
+2016	12382	2730	York (NY)	03/11/2016	Emmanuel (MA) @ Providence RI		Emmanuel (MA)	http://stats.ncaa.org/team/215/12382	true	Providence RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4055999	http://stats.ncaa.org/game/index/4055999?org_id=2730
 2016	12382	2730	York (NY)	03/12/2016	Bard @ Providence, RI		Bard	http://stats.ncaa.org/team/962/12382	true	Providence, RI	true	L 1 - 3	false	1 - 3	false	1	3	false		4057012	http://stats.ncaa.org/game/index/4057012?org_id=2730
 2016	12382	2730	York (NY)	03/12/2016	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12382	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4056016	http://stats.ncaa.org/game/index/4056016?org_id=22626
 2016	12382	2730	York (NY)	03/15/2016	Purchase		Purchase	http://stats.ncaa.org/team/30029/12382	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4062216	http://stats.ncaa.org/game/index/4062216?org_id=2730
 2016	12382	2730	York (NY)	03/15/2016	Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12382	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4062099	http://stats.ncaa.org/game/index/4062099?org_id=2730
 2016	12382	2730	York (NY)	03/17/2016	John Jay		John Jay	http://stats.ncaa.org/team/321/12382	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4065537	http://stats.ncaa.org/game/index/4065537?org_id=2730
 2016	12382	2730	York (NY)	03/23/2016	Vassar		Vassar	http://stats.ncaa.org/team/737/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4075465	http://stats.ncaa.org/game/index/4075465?org_id=2730
-2016	12382	2730	York (NY)	03/26/2016	Baruch@Jamaica, NY		BaruchJamaica, NY		false		false	-									
-2016	12382	2730	York (NY)	03/26/2016	Hunter		Hunter		false		true	-									
+2016	12382	2730	York (NY)	03/26/2016	Baruch		Baruch	http://stats.ncaa.org/team/58/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4079950	http://stats.ncaa.org/game/index/4079950?org_id=2730
+2016	12382	2730	York (NY)	03/26/2016	Hunter		Hunter	http://stats.ncaa.org/team/292/12382	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4079373	http://stats.ncaa.org/game/index/4079373?org_id=2730
 2016	12382	2730	York (NY)	03/29/2016	Lehman		Lehman		false		true	-									
