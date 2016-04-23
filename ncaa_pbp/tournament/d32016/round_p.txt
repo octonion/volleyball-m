@@ -1,0 +1,41 @@
+BEGIN
+ rd |      name      |   p   
+----+----------------+-------
+  2 | Kean           | 0.832
+  2 | Wentworth      | 0.802
+  2 | Hunter         | 0.198
+  2 | Endicott       | 0.168
+  3 | Springfield    | 0.941
+  3 | SUNY New Paltz | 0.924
+  3 | Carthage       | 0.832
+  3 | Stevens        | 0.586
+  3 | Rutgers-Newark | 0.414
+  3 | Stevenson      | 0.168
+  3 | Wentworth      | 0.071
+  3 | Kean           | 0.057
+  3 | Hunter         | 0.005
+  3 | Endicott       | 0.002
+  4 | SUNY New Paltz | 0.644
+  4 | Springfield    | 0.534
+  4 | Carthage       | 0.427
+  4 | Stevens        | 0.218
+  4 | Rutgers-Newark | 0.123
+  4 | Stevenson      | 0.032
+  4 | Wentworth      | 0.015
+  4 | Kean           | 0.006
+  4 | Hunter         | 0.000
+  4 | Endicott       | 0.000
+  5 | Springfield    | 0.344
+  5 | SUNY New Paltz | 0.285
+  5 | Carthage       | 0.270
+  5 | Stevens        | 0.063
+  5 | Rutgers-Newark | 0.027
+  5 | Stevenson      | 0.009
+  5 | Kean           | 0.001
+  5 | Wentworth      | 0.001
+  5 | Endicott       | 0.000
+  5 | Hunter         | 0.000
+(34 rows)
+
+COPY 34
+COMMIT

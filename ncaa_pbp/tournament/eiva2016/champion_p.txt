@@ -1,0 +1,11 @@
+BEGIN
+     team_name      |   p   
+--------------------+-------
+ Penn St.           | 0.679
+ George Mason       | 0.148
+ Harvard            | 0.105
+ Saint Francis (PA) | 0.068
+(4 rows)
+
+COPY 4
+COMMIT

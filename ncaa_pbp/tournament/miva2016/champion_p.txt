@@ -1,0 +1,15 @@
+BEGIN
+   team_name    |   p   
+----------------+-------
+ Ohio St.       | 0.605
+ Loyola Chicago | 0.159
+ Lewis          | 0.125
+ Ball St.       | 0.093
+ Grand Canyon   | 0.011
+ IPFW           | 0.003
+ McKendree      | 0.002
+ Quincy         | 0.002
+(8 rows)
+
+COPY 8
+COMMIT

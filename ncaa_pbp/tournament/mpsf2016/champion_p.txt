@@ -1,0 +1,15 @@
+BEGIN
+    team_name     |   p   
+------------------+-------
+ BYU              | 0.449
+ Long Beach St.   | 0.195
+ Stanford         | 0.163
+ UCLA             | 0.148
+ UC Santa Barbara | 0.020
+ Pepperdine       | 0.014
+ Hawaii           | 0.008
+ UC Irvine        | 0.004
+(8 rows)
+
+COPY 8
+COMMIT

@@ -1,0 +1,31 @@
+BEGIN
+ rd |       name       |   p   
+----+------------------+-------
+  2 | BYU              | 0.909
+  2 | UCLA             | 0.816
+  2 | Long Beach St.   | 0.807
+  2 | Stanford         | 0.764
+  2 | UC Santa Barbara | 0.236
+  2 | Pepperdine       | 0.193
+  2 | Hawaii           | 0.184
+  2 | UC Irvine        | 0.091
+  3 | BYU              | 0.634
+  3 | Long Beach St.   | 0.478
+  3 | UCLA             | 0.407
+  3 | Stanford         | 0.293
+  3 | Pepperdine       | 0.068
+  3 | UC Santa Barbara | 0.054
+  3 | Hawaii           | 0.047
+  3 | UC Irvine        | 0.019
+  4 | BYU              | 0.449
+  4 | Long Beach St.   | 0.195
+  4 | Stanford         | 0.163
+  4 | UCLA             | 0.148
+  4 | UC Santa Barbara | 0.020
+  4 | Pepperdine       | 0.014
+  4 | Hawaii           | 0.008
+  4 | UC Irvine        | 0.004
+(24 rows)
+
+COPY 24
+COMMIT
