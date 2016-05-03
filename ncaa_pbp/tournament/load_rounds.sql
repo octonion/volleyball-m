@@ -177,18 +177,4 @@ where
   r1.year=2016
 );
 
--- Higher seeds have home
-
-update ncaa_pbp.matrix_field
-set field='home'
-where
-    round_id in (1,2,3,4)
-and school_seed < opponent_seed;
-
-update ncaa_pbp.matrix_field
-set field='away'
-where
-    round_id in (1,2,3,4)
-and opponent_seed < school_seed;
-
 commit;
