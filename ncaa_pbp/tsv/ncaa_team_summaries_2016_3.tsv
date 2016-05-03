@@ -1,7 +1,7 @@
 year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	height	games_played	games_started	minutes_played	field_goals_made	field_goals_attempted	field_goal_percentage	three_point_field_goals	three_point_field_goals_attempted	three_point_field_goal_percentage	free_throws	free_throws_attempted	free_throw_percentage	points	point_per_game	offensive_rebounds	defensive_rebounds	total_rebounds	rebounds_per_game	assists	turnovers	steals	blocks	fouls	double_doubles	triple_doubles	dq
-2016	12382	4	Adrian	-	TEAM	-	-	-	-	30	""	""	""	""	""	""	""	""	""	13	""	""	""	""	""	""
-2016	12382	4	Adrian	-	Totals	-	-	-	-	63	""	420	418	1,532	0.001	390	33	166	484	157	18	57	18	499.5	22	18
-2016	12382	4	Adrian	-	Opponent Totals	-	-	-	-	63	""	683	224	1,469	0.312	607	166	174	590	34	40	122	17	950.0	9	20
+2016	12382	4	Adrian	-	TEAM	-	-	-	-	34	""	""	""	""	""	""	""	""	""	13	""	""	""	""	""	""
+2016	12382	4	Adrian	-	Totals	-	-	-	-	67	""	464	440	1,665	0.014	431	37	175	535	164	19	67	19	553.5	23	19
+2016	12382	4	Adrian	-	Opponent Totals	-	-	-	-	67	""	740	248	1,613	0.305	658	173	182	648	38	40	128	17	1,017.0	15	21
 2016	12382	2798	Albertus Magnus	-	TEAM	-	-	-	-	19	""	""	""	""	""	""	""	""	""	18	""	""	""	""	""	""
 2016	12382	2798	Albertus Magnus	-	Totals	-	-	-	-	69	""	570	373	1,780	0.111	525	70	154	649	193	65	52	34	731.0	29	21
 2016	12382	2798	Albertus Magnus	-	Opponent Totals	-	-	-	-	69	""	820	350	1,916	0.245	760	193	231	725	69	45	119	29	1,117.5	17	21
@@ -13,7 +13,7 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2016	12382	58	Baruch	-	Opponent Totals	-	-	-	-	111	""	988	529	2,606	0.176	925	105	315	863	256	57	269	86	1,284.5	40	27
 2016	12382	296	Benedictine (IL)	-	TEAM	-	-	-	-	44	""	""	""	""	""	""	""	""	""	16	""	""	""	""	""	""
 2016	12382	296	Benedictine (IL)	-	Totals	-	-	-	-	94	""	1,126	508	2,780	0.222	1,052	90	226	1,112	104	53	280	73	1,409.0	24	25
-2016	12382	296	Benedictine (IL)	-	Opponent Totals	-	-	-	-	94	""	1,095	525	2,919	0.195	1,027	104	310	967	89	55	281	60	1,394.5	20	25
+2016	12382	296	Benedictine (IL)	-	Opponent Totals	-	-	-	-	94	""	1,094	525	2,918	0.195	1,027	104	310	967	89	55	281	60	1,393.5	20	25
 2016	12382	79	Brooklyn	-	TEAM	-	-	-	-	35	""	""	""	""	""	""	""	""	""	58	""	""	""	""	""	""
 2016	12382	79	Brooklyn	-	Totals	-	-	-	-	101	""	864	528	2,591	0.130	777	172	245	965	284	61	161	41	1,177.5	55	27
 2016	12382	79	Brooklyn	-	Opponent Totals	-	-	-	-	101	""	1,080	493	2,634	0.223	1,007	303	296	1,082	165	69	176	44	1,540.0	35	29
@@ -123,7 +123,7 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2016	12382	27901	Mount Ida	-	Totals	-	-	-	-	102	""	985	657	2,793	0.117	908	140	344	936	213	40	144	30	1,237.0	48	31
 2016	12382	27901	Mount Ida	-	Opponent Totals	-	-	-	-	102	""	1,035	439	2,562	0.233	933	213	285	982	140	72	250	45	1,445.0	41	31
 2016	12382	8567	Mt. St. Joseph	-	TEAM	-	-	-	-	30	""	""	1	1	""	""	""	""	""	17	""	""	""	""	""	""
-2016	12382	8567	Mt. St. Joseph	-	Totals	-	-	-	-	102	""	1,139	497	2,896	0.222	1,049	154	408	1,087	63	106	287	24	1,542.5	22	26
+2016	12382	8567	Mt. St. Joseph	-	Totals	-	-	-	-	102	""	1,138	497	2,895	0.221	1,049	154	408	1,087	63	106	287	24	1,541.5	22	26
 2016	12382	8567	Mt. St. Joseph	-	Opponent Totals	-	-	-	-	102	""	1,021	563	2,875	0.159	944	66	339	1,094	138	63	250	39	1,275.0	36	25
 2016	12382	451	Mt. St. Vincent	-	TEAM	-	-	-	-	43	""	""	""	""	""	""	""	""	""	63	""	""	""	""	""	""
 2016	12382	451	Mt. St. Vincent	-	Totals	-	-	-	-	99	""	984	503	2,443	0.197	909	199	320	826	169	42	108	43	1,279.0	18	30
@@ -171,8 +171,8 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2016	12382	589	Rutgers-Newark	-	Totals	-	-	-	-	100	""	1,257	419	2,510	0.334	1,153	160	267	792	96	73	315	60	1,647.5	10	28
 2016	12382	589	Rutgers-Newark	-	Opponent Totals	-	-	-	-	100	""	1,077	549	2,587	0.204	1,007	96	303	682	160	47	260	65	1,350.0	28	25
 2016	12382	475	SUNY New Paltz	-	TEAM	-	-	-	-	16	""	""	""	""	""	""	""	""	""	12	""	""	""	""	""	""
-2016	12382	475	SUNY New Paltz	-	Totals	-	-	-	-	115	""	1,522	442	2,879	0.375	1,395	253	569	900	133	88	264	72	1,995.0	13	33
-2016	12382	475	SUNY New Paltz	-	Opponent Totals	-	-	-	-	115	""	1,036	534	2,627	0.191	981	133	380	798	253	42	260	63	1,341.0	26	32
+2016	12382	475	SUNY New Paltz	-	Totals	-	-	-	-	123	""	1,647	488	3,123	0.371	1,517	265	595	969	139	98	272	75	2,146.0	13	35
+2016	12382	475	SUNY New Paltz	-	Opponent Totals	-	-	-	-	123	""	1,130	574	2,843	0.196	1,071	139	399	857	265	51	282	70	1,461.0	27	34
 2016	12382	9500	SUNY Poly	-	TEAM	-	-	-	-	50	""	""	""	""	""	""	""	""	""	17	""	""	""	""	""	""
 2016	12382	9500	SUNY Poly	-	Totals	-	-	-	-	112	""	1,380	640	3,178	0.233	1,284	172	456	978	119	33	250	31	1,710.0	28	31
 2016	12382	9500	SUNY Poly	-	Opponent Totals	-	-	-	-	112	""	1,065	547	2,759	0.188	988	117	346	871	171	74	363	35	1,437.5	50	30
@@ -183,8 +183,8 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2016	12382	30163	Sarah Lawrence	-	Totals	-	-	-	-	67	""	236	385	1,338	-0.111	206	40	141	428	314	5	44	32	303.0	27	8
 2016	12382	30163	Sarah Lawrence	-	Opponent Totals	-	-	-	-	67	""	711	261	1,466	0.307	624	316	206	647	40	24	84	10	1,093.0	12	22
 2016	12382	673	Springfield	-	TEAM	-	-	-	-	11	""	""	""	""	""	""	""	""	""	7	""	""	""	""	""	""
-2016	12382	673	Springfield	-	Totals	-	-	-	-	101	""	1,307	380	2,380	0.389	1,225	203	408	760	105	48	408	56	1,762.0	18	28
-2016	12382	673	Springfield	-	Opponent Totals	-	-	-	-	101	""	934	540	2,394	0.165	874	105	296	575	203	39	204	51	1,180.0	29	24
+2016	12382	673	Springfield	-	Totals	-	-	-	-	116	""	1,504	445	2,771	0.382	1,409	217	470	892	117	63	454	70	2,011.0	19	32
+2016	12382	673	Springfield	-	Opponent Totals	-	-	-	-	116	""	1,090	622	2,788	0.168	1,019	117	341	680	217	47	239	64	1,373.5	34	28
 2016	12382	30072	St. Joseph's (Brkln)	-	TEAM	-	-	-	-	15	""	""	""	""	""	""	""	2	""	16	""	""	""	""	""	""
 2016	12382	30072	St. Joseph's (Brkln)	-	Totals	-	-	-	-	75	""	618	476	1,996	0.071	566	111	231	672	180	35	56	45	792.0	30	21
 2016	12382	30072	St. Joseph's (Brkln)	-	Opponent Totals	-	-	-	-	75	""	765	313	1,847	0.245	699	180	217	810	111	32	135	33	1,044.5	47	21
@@ -195,8 +195,8 @@ year	year_id	team_id	team_name	jersey_number	summary_type	class_year	position	he
 2016	12382	679	Stevens	-	Totals	-	-	-	-	118	""	1,431	494	3,164	0.296	1,326	219	374	1,107	113	61	441	43	1,931.5	34	33
 2016	12382	679	Stevens	-	Opponent Totals	-	-	-	-	118	""	1,241	699	3,317	0.163	1,155	113	367	1,029	219	52	244	85	1,528.0	37	31
 2016	12382	21852	Stevenson	-	TEAM	-	-	-	-	30	""	""	""	""	""	""	1	""	""	19	""	""	""	1.0	""	""
-2016	12382	21852	Stevenson	-	Totals	-	-	-	-	119	""	1,515	524	3,247	0.305	1,418	168	388	1,049	109	81	428	79	1,978.0	21	33
-2016	12382	21852	Stevenson	-	Opponent Totals	-	-	-	-	119	""	1,286	676	3,279	0.186	1,207	109	333	990	168	86	243	63	1,602.5	29	33
+2016	12382	21852	Stevenson	-	Totals	-	-	-	-	122	""	1,538	537	3,321	0.301	1,439	171	400	1,067	113	83	436	81	2,010.0	22	34
+2016	12382	21852	Stevenson	-	Opponent Totals	-	-	-	-	122	""	1,329	693	3,363	0.189	1,246	113	345	1,022	171	92	251	66	1,659.5	29	34
 2016	12382	707	Thiel	-	TEAM	-	-	-	-	12	""	""	""	""	""	""	""	""	""	8	""	""	""	""	""	""
 2016	12382	707	Thiel	-	Totals	-	-	-	-	65	""	665	425	1,957	0.123	620	72	226	653	100	31	132	42	834.0	24	19
 2016	12382	707	Thiel	-	Opponent Totals	-	-	-	-	65	""	745	301	1,812	0.245	693	102	205	718	72	29	218	34	985.0	10	19
