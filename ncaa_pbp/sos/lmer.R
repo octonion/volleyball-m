@@ -22,7 +22,7 @@ r.opponent_score as opponent_score
 from ncaa_pbp.results r
 
 where
-    r.year between 2012 and 2016
+    r.year between 2012 and 2017
 and r.team_div_id is not null
 and r.opponent_div_id is not null
 and not(r.team_score,r.opponent_score)=(0,0)
