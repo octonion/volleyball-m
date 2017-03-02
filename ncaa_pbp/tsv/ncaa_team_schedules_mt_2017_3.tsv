@@ -7,16 +7,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	4	Adrian	02/15/2017	@ Olivet		Olivet	http://stats.ncaa.org/team/525/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289644	http://stats.ncaa.org/game/index/4289644?org_id=525
 2017	12582	4	Adrian	02/17/2017	Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294767	http://stats.ncaa.org/game/index/4294767?org_id=8567
 2017	12582	4	Adrian	02/18/2017	Benedictine (IL)		Benedictine (IL)	http://stats.ncaa.org/team/296/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294770	http://stats.ncaa.org/game/index/4294770?org_id=4
-2017	12582	4	Adrian	02/24/2017	@ IIT		IIT		false		false	-									
-2017	12582	4	Adrian	02/25/2017	@ Trinity Christian		Trinity Christian		false		false	-									
+2017	12582	4	Adrian	02/24/2017	@ IIT		IIT	http://stats.ncaa.org/team/30172/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4298323	http://stats.ncaa.org/game/index/4298323?org_id=30172
+2017	12582	4	Adrian	02/25/2017	@ Calumet Col.		Calumet Col.		false		false	W 3 - 1	true	3 - 1	false	3	1	false		4299184	http://stats.ncaa.org/game/index/4299184?org_id=4
+2017	12582	4	Adrian	02/25/2017	@ Trinity Christian		Trinity Christian		false		false	L 2 - 3	false	2 - 3	false	2	3	false		4299085	http://stats.ncaa.org/game/index/4299085?org_id=4
 2017	12582	4	Adrian	03/03/2017	@ Dominican (IL)		Dominican (IL)		false		false	-									
 2017	12582	4	Adrian	03/04/2017	@ Benedictine (IL)		Benedictine (IL)		false		false	-									
 2017	12582	4	Adrian	03/07/2017	Dominican (IL)		Dominican (IL)		false		true	-									
 2017	12582	4	Adrian	03/10/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
 2017	12582	4	Adrian	03/11/2017	@ Wittenberg		Wittenberg		false		false	-									
 2017	12582	4	Adrian	03/17/2017	@ Loras		Loras		false		false	-									
-2017	12582	4	Adrian	03/18/2017	Mt. Mercy@Naperville, IL		Mt. MercyNaperville, IL		false		false	-									
 2017	12582	4	Adrian	03/18/2017	@ North Central (IL)		North Central (IL)		false		false	-									
+2017	12582	4	Adrian	03/18/2017	Mt. Mercy@Naperville, IL		Mt. MercyNaperville, IL		false		false	-									
 2017	12582	4	Adrian	03/30/2017	UC Merced		UC Merced		false		true	-									
 2017	12582	4	Adrian	03/30/2017	Siena Heights		Siena Heights		false		true	-									
 2017	12582	4	Adrian	04/01/2017	MSOE		MSOE		false		true	-									
@@ -28,7 +29,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	2798	Albertus Magnus	02/13/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4288668	http://stats.ncaa.org/game/index/4288668?org_id=22626
 2017	12582	2798	Albertus Magnus	02/18/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4295500	http://stats.ncaa.org/game/index/4295500?org_id=2730
 2017	12582	2798	Albertus Magnus	02/18/2017	Southern Va. @ Jamaica, NY		Southern Va.	http://stats.ncaa.org/team/30164/12582	true	Jamaica, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4290943	http://stats.ncaa.org/game/index/4290943?org_id=2798
-2017	12582	2798	Albertus Magnus	02/28/2017	@ Brooklyn		Brooklyn		false		false	-									
+2017	12582	2798	Albertus Magnus	02/22/2017	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4297089	http://stats.ncaa.org/game/index/4297089?org_id=403
 2017	12582	2798	Albertus Magnus	03/02/2017	Mount Ida		Mount Ida		false		true	-									
 2017	12582	2798	Albertus Magnus	03/07/2017	CCNY		CCNY		false		true	-									
 2017	12582	2798	Albertus Magnus	03/19/2017	@ Wentworth		Wentworth		false		false	-									
@@ -47,33 +48,33 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	938	Alvernia	01/28/2017	@ Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4277761	http://stats.ncaa.org/game/index/4277761?org_id=966
 2017	12582	938	Alvernia	02/07/2017	@ Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4283174	http://stats.ncaa.org/game/index/4283174?org_id=12973
 2017	12582	938	Alvernia	02/10/2017	East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4284992	http://stats.ncaa.org/game/index/4284992?org_id=938
-2017	12582	938	Alvernia	02/11/2017	John Jay @ Jamaica, NY		John Jay	http://stats.ncaa.org/team/321/12582	true	Jamaica, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4289288	http://stats.ncaa.org/game/index/4289288?org_id=938
 2017	12582	938	Alvernia	02/11/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4287949	http://stats.ncaa.org/game/index/4287949?org_id=2730
+2017	12582	938	Alvernia	02/11/2017	John Jay @ Jamaica, NY		John Jay	http://stats.ncaa.org/team/321/12582	true	Jamaica, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4289288	http://stats.ncaa.org/game/index/4289288?org_id=938
 2017	12582	938	Alvernia	02/14/2017	Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4289098	http://stats.ncaa.org/game/index/4289098?org_id=938
 2017	12582	938	Alvernia	02/18/2017	Marymount (VA) @ Huntingdon, Pa		Marymount (VA)	http://stats.ncaa.org/team/394/12582	true	Huntingdon, Pa	true	L 0 - 3	false	0 - 3	false	0	3	false		4291491	http://stats.ncaa.org/game/index/4291491?org_id=394
 2017	12582	938	Alvernia	02/18/2017	@ Juniata		Juniata	http://stats.ncaa.org/team/325/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294719	http://stats.ncaa.org/game/index/4294719?org_id=325
 2017	12582	938	Alvernia	02/21/2017	Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4295629	http://stats.ncaa.org/game/index/4295629?org_id=938
 2017	12582	938	Alvernia	02/21/2017	Wilkes		Wilkes	http://stats.ncaa.org/team/784/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4295811	http://stats.ncaa.org/game/index/4295811?org_id=938
-2017	12582	938	Alvernia	02/24/2017	@ Thiel		Thiel		false		false	-									
+2017	12582	938	Alvernia	02/24/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4298023	http://stats.ncaa.org/game/index/4298023?org_id=707
 2017	12582	938	Alvernia	03/03/2017	Rutgers-Newark		Rutgers-Newark		false		true	-									
 2017	12582	938	Alvernia	03/03/2017	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-									
 2017	12582	938	Alvernia	03/10/2017	Purchase@Keuka Park, NY		PurchaseKeuka Park, NY		false		false	-									
-2017	12582	938	Alvernia	03/11/2017	Southern Vt.@Keauka Park, NY		Southern Vt.Keauka Park, NY		false		false	-									
 2017	12582	938	Alvernia	03/11/2017	@ Keuka		Keuka		false		false	-									
+2017	12582	938	Alvernia	03/11/2017	Southern Vt.@Keauka Park, NY		Southern Vt.Keauka Park, NY		false		false	-									
 2017	12582	938	Alvernia	03/14/2017	Juniata		Juniata		false		true	-									
-2017	12582	938	Alvernia	03/18/2017	@ Wilkes		Wilkes		false		false	-									
 2017	12582	938	Alvernia	03/18/2017	Staten Island@Wilkes-Barre, PA		Staten IslandWilkes-Barre, PA		false		false	-									
+2017	12582	938	Alvernia	03/18/2017	@ Wilkes		Wilkes		false		false	-									
 2017	12582	938	Alvernia	03/21/2017	Cairn		Cairn		false		true	-									
 2017	12582	938	Alvernia	03/24/2017	@ East. Mennonite		East. Mennonite		false		false	-									
-2017	12582	938	Alvernia	03/25/2017	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
 2017	12582	938	Alvernia	03/25/2017	Stevenson@Newark, NJ		StevensonNewark, NJ		false		false	-									
+2017	12582	938	Alvernia	03/25/2017	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
 2017	12582	938	Alvernia	03/28/2017	Lancaster Bible		Lancaster Bible		false		true	-									
 2017	12582	938	Alvernia	03/31/2017	Thiel		Thiel		false		true	-									
 2017	12582	938	Alvernia	04/01/2017	@ Cairn		Cairn		false		false	-									
 2017	12582	938	Alvernia	04/01/2017	Marymount (VA)@Langhorne, PA		Marymount (VA)Langhorne, PA		false		false	-									
 2017	12582	938	Alvernia	04/04/2017	@ Stevenson		Stevenson		false		false	-									
-2017	12582	938	Alvernia	04/08/2017	Hunter@Poughkeepsie, NY, NY		HunterPoughkeepsie, NY, NY		false		false	-									
 2017	12582	938	Alvernia	04/08/2017	@ Vassar		Vassar		false		false	-									
+2017	12582	938	Alvernia	04/08/2017	Hunter@Poughkeepsie, NY, NY		HunterPoughkeepsie, NY, NY		false		false	-									
 2017	12582	966	Arcadia	01/27/2017	Cairn		Cairn	http://stats.ncaa.org/team/1305/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4277732	http://stats.ncaa.org/game/index/4277732?org_id=966
 2017	12582	966	Arcadia	01/27/2017	Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4278387	http://stats.ncaa.org/game/index/4278387?org_id=966
 2017	12582	966	Arcadia	01/28/2017	Wilkes		Wilkes	http://stats.ncaa.org/team/784/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4277760	http://stats.ncaa.org/game/index/4277760?org_id=966
@@ -88,12 +89,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	966	Arcadia	02/17/2017	Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294785	http://stats.ncaa.org/game/index/4294785?org_id=966
 2017	12582	966	Arcadia	02/18/2017	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291586	http://stats.ncaa.org/game/index/4291586?org_id=966
 2017	12582	966	Arcadia	02/18/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4291588	http://stats.ncaa.org/game/index/4291588?org_id=966
-2017	12582	966	Arcadia	02/22/2017	@ Lancaster Bible		Lancaster Bible		false		false	-									
-2017	12582	966	Arcadia	02/24/2017	Rivier@Utica, NY		RivierUtica, NY		false		false	-									
-2017	12582	966	Arcadia	02/25/2017	St. Joseph's (L.I.)@Utica, NY		St. Joseph's (L.I.)Utica, NY		false		false	-									
-2017	12582	966	Arcadia	02/25/2017	Wilkes@Utica, NY		WilkesUtica, NY		false		false	-									
-2017	12582	966	Arcadia	02/25/2017	Elmira@Utica, NY		ElmiraUtica, NY		false		false	-									
-2017	12582	966	Arcadia	02/28/2017	@ York (NY)		York (NY)		false		false	-									
+2017	12582	966	Arcadia	02/22/2017	@ Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296742	http://stats.ncaa.org/game/index/4296742?org_id=30085
+2017	12582	966	Arcadia	02/24/2017	Rivier @ Marcy, NY		Rivier	http://stats.ncaa.org/team/18422/12582	true	Marcy, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4300314	http://stats.ncaa.org/game/index/4300314?org_id=966
+2017	12582	966	Arcadia	02/25/2017	St. Joseph's (L.I.) @ Marcy, N.Y.		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	true	Marcy, N.Y.	true	W 3 - 2	true	3 - 2	false	3	2	false		4301956	http://stats.ncaa.org/game/index/4301956?org_id=1340
+2017	12582	966	Arcadia	02/25/2017	Elmira @ Marcy, N.Y.		Elmira	http://stats.ncaa.org/team/213/12582	true	Marcy, N.Y.	true	L 2 - 3	false	2 - 3	false	2	3	false		4302212	http://stats.ncaa.org/game/index/4302212?org_id=213
+2017	12582	966	Arcadia	02/28/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303351	http://stats.ncaa.org/game/index/4303351?org_id=2730
 2017	12582	966	Arcadia	03/03/2017	East. Mennonite		East. Mennonite		false		true	-									
 2017	12582	966	Arcadia	03/04/2017	@ Cairn		Cairn		false		false	-									
 2017	12582	966	Arcadia	03/04/2017	Stevens@Langhorne, PA		StevensLanghorne, PA		false		false	-									
@@ -102,8 +102,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	966	Arcadia	03/23/2017	@ Wilkes		Wilkes		false		false	-									
 2017	12582	966	Arcadia	03/25/2017	Vassar@Huntingdon, PA		VassarHuntingdon, PA		false		false	-									
 2017	12582	966	Arcadia	03/25/2017	@ Juniata		Juniata		false		false	-									
-2017	12582	966	Arcadia	04/02/2017	@ Kean		Kean		false		false	-									
 2017	12582	966	Arcadia	04/02/2017	Sage Colleges@Union, NJ		Sage CollegesUnion, NJ		false		false	-									
+2017	12582	966	Arcadia	04/02/2017	@ Kean		Kean		false		false	-									
 2017	12582	966	Arcadia	04/06/2017	@ Stevenson		Stevenson		false		false	-									
 2017	12582	962	Bard	01/20/2017	Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4272860	http://stats.ncaa.org/game/index/4272860?org_id=962
 2017	12582	962	Bard	01/21/2017	Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4274660	http://stats.ncaa.org/game/index/4274660?org_id=962
@@ -118,10 +118,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	962	Bard	02/11/2017	MIT @ Nazareth College		MIT	http://stats.ncaa.org/team/398/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4285593	http://stats.ncaa.org/game/index/4285593?org_id=398
 2017	12582	962	Bard	02/11/2017	@ Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285953	http://stats.ncaa.org/game/index/4285953?org_id=461
 2017	12582	962	Bard	02/18/2017	CCNY		CCNY	http://stats.ncaa.org/team/480/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4290959	http://stats.ncaa.org/game/index/4290959?org_id=962
-2017	12582	962	Bard	02/22/2017	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
-2017	12582	962	Bard	02/24/2017	@ East. Mennonite		East. Mennonite		false		false	-									
-2017	12582	962	Bard	02/25/2017	Cairn@Harrisonburg, VA		CairnHarrisonburg, VA		false		false	-									
-2017	12582	962	Bard	02/25/2017	Rutgers-Newark@Harrisonburg, VA		Rutgers-NewarkHarrisonburg, VA		false		false	-									
+2017	12582	962	Bard	02/22/2017	@ Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4296342	http://stats.ncaa.org/game/index/4296342?org_id=30163
+2017	12582	962	Bard	02/24/2017	Cairn @ Harrisonburg, Va.		Cairn	http://stats.ncaa.org/team/1305/12582	true	Harrisonburg, Va.	true	L 0 - 3	false	0 - 3	false	0	3	false		4302016	http://stats.ncaa.org/game/index/4302016?org_id=1305
+2017	12582	962	Bard	02/25/2017	Rutgers-Newark @ Harrisonburg, Va.		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	true	Harrisonburg, Va.	true	L 0 - 3	false	0 - 3	false	0	3	false		4298698	http://stats.ncaa.org/game/index/4298698?org_id=589
+2017	12582	962	Bard	02/25/2017	@ East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4299080	http://stats.ncaa.org/game/index/4299080?org_id=203
 2017	12582	962	Bard	03/04/2017	York (NY)		York (NY)		false		true	-									
 2017	12582	962	Bard	03/08/2017	Yeshiva		Yeshiva		false		true	-									
 2017	12582	962	Bard	03/11/2017	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
@@ -146,8 +146,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	58	Baruch	02/15/2017	@ SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4289579	http://stats.ncaa.org/game/index/4289579?org_id=475
 2017	12582	58	Baruch	02/20/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294639	http://stats.ncaa.org/game/index/4294639?org_id=58
 2017	12582	58	Baruch	02/20/2017	Lehman		Lehman	http://stats.ncaa.org/team/279/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4295356	http://stats.ncaa.org/game/index/4295356?org_id=58
-2017	12582	58	Baruch	02/25/2017	@ Stevens		Stevens		false		false	-									
-2017	12582	58	Baruch	02/28/2017	@ CCNY		CCNY		false		false	-									
+2017	12582	58	Baruch	02/25/2017	@ Stevens		Stevens	http://stats.ncaa.org/team/679/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4300627	http://stats.ncaa.org/game/index/4300627?org_id=679
+2017	12582	58	Baruch	02/28/2017	@ CCNY		CCNY	http://stats.ncaa.org/team/480/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4303392	http://stats.ncaa.org/game/index/4303392?org_id=480
 2017	12582	58	Baruch	03/07/2017	Staten Island		Staten Island		false		true	-									
 2017	12582	58	Baruch	03/09/2017	@ St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		false	-									
 2017	12582	58	Baruch	03/10/2017	Medaille		Medaille		false		true	-									
@@ -168,12 +168,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	296	Benedictine (IL)	01/29/2017	@ Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4277841	http://stats.ncaa.org/game/index/4277841?org_id=11538
 2017	12582	296	Benedictine (IL)	02/03/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4280120	http://stats.ncaa.org/game/index/4280120?org_id=296
 2017	12582	296	Benedictine (IL)	02/10/2017	@ Loras		Loras	http://stats.ncaa.org/team/364/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4285229	http://stats.ncaa.org/game/index/4285229?org_id=364
-2017	12582	296	Benedictine (IL)	02/11/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4286632	http://stats.ncaa.org/game/index/4286632?org_id=296
 2017	12582	296	Benedictine (IL)	02/11/2017	Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4286232	http://stats.ncaa.org/game/index/4286232?org_id=296
+2017	12582	296	Benedictine (IL)	02/11/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4286632	http://stats.ncaa.org/game/index/4286632?org_id=296
 2017	12582	296	Benedictine (IL)	02/17/2017	@ Olivet		Olivet	http://stats.ncaa.org/team/525/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290899	http://stats.ncaa.org/game/index/4290899?org_id=525
 2017	12582	296	Benedictine (IL)	02/18/2017	@ Adrian		Adrian	http://stats.ncaa.org/team/4/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4294770	http://stats.ncaa.org/game/index/4294770?org_id=4
-2017	12582	296	Benedictine (IL)	02/22/2017	@ Dominican (IL)		Dominican (IL)		false		false	-									
-2017	12582	296	Benedictine (IL)	02/28/2017	@ North Central (IL)		North Central (IL)		false		false	-									
+2017	12582	296	Benedictine (IL)	02/22/2017	@ Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296463	http://stats.ncaa.org/game/index/4296463?org_id=1332
+2017	12582	296	Benedictine (IL)	02/28/2017	@ North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4303283	http://stats.ncaa.org/game/index/4303283?org_id=492
 2017	12582	296	Benedictine (IL)	03/04/2017	Adrian		Adrian		false		true	-									
 2017	12582	296	Benedictine (IL)	03/10/2017	@ Wittenberg		Wittenberg		false		false	-									
 2017	12582	296	Benedictine (IL)	03/11/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
@@ -194,10 +194,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	79	Brooklyn	02/15/2017	@ Yeshiva		Yeshiva	http://stats.ncaa.org/team/814/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289960	http://stats.ncaa.org/game/index/4289960?org_id=814
 2017	12582	79	Brooklyn	02/18/2017	St. Joseph's (L.I.) @ Glenside, Pa.		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	true	Glenside, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4291796	http://stats.ncaa.org/game/index/4291796?org_id=79
 2017	12582	79	Brooklyn	02/18/2017	@ Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4291586	http://stats.ncaa.org/game/index/4291586?org_id=966
-2017	12582	79	Brooklyn	02/20/2017	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295054	http://stats.ncaa.org/game/index/4295054?org_id=79
 2017	12582	79	Brooklyn	02/20/2017	Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295053	http://stats.ncaa.org/game/index/4295053?org_id=79
-2017	12582	79	Brooklyn	02/22/2017	Yeshiva		Yeshiva		false		true	-									
-2017	12582	79	Brooklyn	02/28/2017	Albertus Magnus		Albertus Magnus		false		true	-									
+2017	12582	79	Brooklyn	02/20/2017	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295054	http://stats.ncaa.org/game/index/4295054?org_id=79
+2017	12582	79	Brooklyn	02/22/2017	Yeshiva		Yeshiva	http://stats.ncaa.org/team/814/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296395	http://stats.ncaa.org/game/index/4296395?org_id=79
 2017	12582	79	Brooklyn	03/02/2017	@ New Jersey City		New Jersey City		false		false	-									
 2017	12582	79	Brooklyn	03/07/2017	@ York (NY)		York (NY)		false		false	-									
 2017	12582	79	Brooklyn	03/09/2017	Lehman		Lehman		false		true	-									
@@ -220,7 +219,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	480	CCNY	02/18/2017	@ Bard		Bard	http://stats.ncaa.org/team/962/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4290959	http://stats.ncaa.org/game/index/4290959?org_id=962
 2017	12582	480	CCNY	02/20/2017	York (NY) @ New York, NY		York (NY)	http://stats.ncaa.org/team/2730/12582	true	New York, NY	true	W 3 - 2	true	3 - 2	false	3	2	false		4295109	http://stats.ncaa.org/game/index/4295109?org_id=2730
 2017	12582	480	CCNY	02/20/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294782	http://stats.ncaa.org/game/index/4294782?org_id=292
-2017	12582	480	CCNY	02/28/2017	Baruch		Baruch		false		true	-									
+2017	12582	480	CCNY	02/28/2017	Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4303392	http://stats.ncaa.org/game/index/4303392?org_id=480
 2017	12582	480	CCNY	03/07/2017	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2017	12582	480	CCNY	03/09/2017	Sarah Lawrence		Sarah Lawrence		false		true	-									
 2017	12582	480	CCNY	03/11/2017	Lehman		Lehman		false		true	-									
@@ -253,9 +252,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1305	Cairn	02/11/2017	Juniata		Juniata	http://stats.ncaa.org/team/325/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4286543	http://stats.ncaa.org/game/index/4286543?org_id=1305
 2017	12582	1305	Cairn	02/14/2017	@ Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4289070	http://stats.ncaa.org/game/index/4289070?org_id=589
 2017	12582	1305	Cairn	02/17/2017	@ Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294794	http://stats.ncaa.org/game/index/4294794?org_id=21852
-2017	12582	1305	Cairn	02/24/2017	@ East. Mennonite		East. Mennonite		false		false	-									
-2017	12582	1305	Cairn	02/25/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
-2017	12582	1305	Cairn	02/25/2017	Bard@Harrisonburg, VA		BardHarrisonburg, VA		false		false	-									
+2017	12582	1305	Cairn	02/24/2017	@ East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4298012	http://stats.ncaa.org/game/index/4298012?org_id=203
+2017	12582	1305	Cairn	02/24/2017	Bard @ Harrisonburg, Va.		Bard	http://stats.ncaa.org/team/962/12582	true	Harrisonburg, Va.	true	W 3 - 0	true	3 - 0	false	3	0	false		4302016	http://stats.ncaa.org/game/index/4302016?org_id=1305
+2017	12582	1305	Cairn	02/25/2017	@ Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4298747	http://stats.ncaa.org/game/index/4298747?org_id=394
 2017	12582	1305	Cairn	03/04/2017	Stevens		Stevens		false		true	-									
 2017	12582	1305	Cairn	03/04/2017	Arcadia		Arcadia		false		true	-									
 2017	12582	1305	Cairn	03/08/2017	@ Lancaster Bible		Lancaster Bible		false		false	-									
@@ -275,17 +274,18 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	105	Cal Lutheran	02/11/2017	UC Santa Cruz		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4286541	http://stats.ncaa.org/game/index/4286541?org_id=105
 2017	12582	105	Cal Lutheran	02/16/2017	Hope Int'l		Hope Int'l		false		true	L 1 - 3	false	1 - 3	false	1	3	false		4290431	http://stats.ncaa.org/game/index/4290431?org_id=105
 2017	12582	105	Cal Lutheran	02/18/2017	@ Grand Canyon		Grand Canyon	http://stats.ncaa.org/team/1104/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4292325	http://stats.ncaa.org/game/index/4292325?org_id=1104
-2017	12582	105	Cal Lutheran	02/24/2017	Dominican (IL)@Springfield, OH		Dominican (IL)Springfield, OH		false		false	-									
-2017	12582	105	Cal Lutheran	02/24/2017	@ Wittenberg		Wittenberg		false		false	-									
+2017	12582	105	Cal Lutheran	02/24/2017	Dominican (IL) @ Springfield, Ohio		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	true	Springfield, Ohio	true	L 1 - 3	false	1 - 3	false	1	3	false		4298280	http://stats.ncaa.org/game/index/4298280?org_id=105
+2017	12582	105	Cal Lutheran	02/24/2017	@ Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4298337	http://stats.ncaa.org/game/index/4298337?org_id=806
 2017	12582	105	Cal Lutheran	02/25/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
-2017	12582	105	Cal Lutheran	02/25/2017	MSOE@Wittenberg, OH		MSOEWittenberg, OH		false		false	-									
+2017	12582	105	Cal Lutheran	02/25/2017	MSOE @ Springfield, Ohio		MSOE	http://stats.ncaa.org/team/20220/12582	true	Springfield, Ohio	true	L 0 - 3	false	0 - 3	false	0	3	false		4298976	http://stats.ncaa.org/game/index/4298976?org_id=20220
 2017	12582	105	Cal Lutheran	03/06/2017	Clarke		Clarke		false		true	-									
 2017	12582	105	Cal Lutheran	03/09/2017	Cardinal Stritch		Cardinal Stritch		false		true	-									
-2017	12582	105	Cal Lutheran	03/10/2017	UC Santa Cruz		UC Santa Cruz		false		true	-									
 2017	12582	105	Cal Lutheran	03/10/2017	Wentworth		Wentworth		false		true	-									
 2017	12582	105	Cal Lutheran	03/11/2017	Regis (MA)		Regis (MA)		false		true	-									
 2017	12582	105	Cal Lutheran	03/14/2017	@ Hope Int'l		Hope Int'l		false		false	-									
 2017	12582	105	Cal Lutheran	03/29/2017	Concordia (CA)		Concordia (CA)		false		true	-									
+2017	12582	105	Cal Lutheran	03/31/2017	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
+2017	12582	105	Cal Lutheran	04/01/2017	@ UC Santa Cruz		UC Santa Cruz		false		false	-									
 2017	12582	121	Carthage	01/14/2017	Clarke		Clarke		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4270064	http://stats.ncaa.org/game/index/4270064?org_id=121
 2017	12582	121	Carthage	01/21/2017	NYU		NYU	http://stats.ncaa.org/team/479/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4273798	http://stats.ncaa.org/game/index/4273798?org_id=121
 2017	12582	121	Carthage	01/27/2017	@ Olivet		Olivet	http://stats.ncaa.org/team/525/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4276390	http://stats.ncaa.org/game/index/4276390?org_id=525
@@ -294,7 +294,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	121	Carthage	02/10/2017	@ Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4285088	http://stats.ncaa.org/game/index/4285088?org_id=1196
 2017	12582	121	Carthage	02/17/2017	Greenville		Greenville	http://stats.ncaa.org/team/1111/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295575	http://stats.ncaa.org/game/index/4295575?org_id=121
 2017	12582	121	Carthage	02/18/2017	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294798	http://stats.ncaa.org/game/index/4294798?org_id=121
-2017	12582	121	Carthage	02/25/2017	@ Lakeland		Lakeland		false		false	-									
+2017	12582	121	Carthage	02/25/2017	@ Lakeland		Lakeland	http://stats.ncaa.org/team/1164/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4300206	http://stats.ncaa.org/game/index/4300206?org_id=1164
 2017	12582	121	Carthage	03/01/2017	MSOE		MSOE		false		true	-									
 2017	12582	121	Carthage	03/03/2017	Marian (WI)		Marian (WI)		false		true	-									
 2017	12582	121	Carthage	03/04/2017	Rivier		Rivier		false		true	-									
@@ -318,7 +318,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1059	D'Youville	02/17/2017	Wilson @ Lancaster, Pa.		Wilson	http://stats.ncaa.org/team/12973/12582	true	Lancaster, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4295729	http://stats.ncaa.org/game/index/4295729?org_id=12973
 2017	12582	1059	D'Youville	02/17/2017	@ Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4290773	http://stats.ncaa.org/game/index/4290773?org_id=30085
 2017	12582	1059	D'Youville	02/18/2017	Penn St.-Altoona @ Lancaster, Pa.		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	true	Lancaster, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4291343	http://stats.ncaa.org/game/index/4291343?org_id=25719
-2017	12582	1059	D'Youville	02/28/2017	Medaille		Medaille		false		true	-									
+2017	12582	1059	D'Youville	02/28/2017	Medaille		Medaille	http://stats.ncaa.org/team/23725/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303120	http://stats.ncaa.org/game/index/4303120?org_id=1059
 2017	12582	1059	D'Youville	03/02/2017	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
 2017	12582	1059	D'Youville	03/04/2017	SUNY Poly@Keuka Park, N.Y.		SUNY PolyKeuka Park, N.Y.		false		false	-									
 2017	12582	1059	D'Youville	03/04/2017	@ Keuka		Keuka		false		false	-									
@@ -340,26 +340,25 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1332	Dominican (IL)	02/11/2017	@ Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4285367	http://stats.ncaa.org/game/index/4285367?org_id=11538
 2017	12582	1332	Dominican (IL)	02/14/2017	@ North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4289176	http://stats.ncaa.org/game/index/4289176?org_id=492
 2017	12582	1332	Dominican (IL)	02/17/2017	@ Loras		Loras	http://stats.ncaa.org/team/364/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4294761	http://stats.ncaa.org/game/index/4294761?org_id=1332
-2017	12582	1332	Dominican (IL)	02/22/2017	Benedictine (IL)		Benedictine (IL)		false		true	-									
-2017	12582	1332	Dominican (IL)	02/24/2017	@ Wittenberg		Wittenberg		false		false	-									
-2017	12582	1332	Dominican (IL)	02/24/2017	Cal Lutheran@Springfield, OH		Cal LutheranSpringfield, OH		false		false	-									
-2017	12582	1332	Dominican (IL)	02/25/2017	Nazareth@Springfield, OH		NazarethSpringfield, OH		false		false	-									
-2017	12582	1332	Dominican (IL)	02/25/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
+2017	12582	1332	Dominican (IL)	02/22/2017	Benedictine (IL)		Benedictine (IL)	http://stats.ncaa.org/team/296/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296463	http://stats.ncaa.org/game/index/4296463?org_id=1332
+2017	12582	1332	Dominican (IL)	02/24/2017	@ Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4297874	http://stats.ncaa.org/game/index/4297874?org_id=806
+2017	12582	1332	Dominican (IL)	02/24/2017	Cal Lutheran @ Springfield, Ohio		Cal Lutheran	http://stats.ncaa.org/team/105/12582	true	Springfield, Ohio	true	W 3 - 1	true	3 - 1	false	3	1	false		4298280	http://stats.ncaa.org/game/index/4298280?org_id=105
+2017	12582	1332	Dominican (IL)	02/25/2017	@ Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4300045	http://stats.ncaa.org/game/index/4300045?org_id=8567
 2017	12582	1332	Dominican (IL)	03/03/2017	Adrian		Adrian		false		true	-									
 2017	12582	1332	Dominican (IL)	03/07/2017	@ Adrian		Adrian		false		false	-									
 2017	12582	1332	Dominican (IL)	03/08/2017	@ Olivet		Olivet		false		false	-									
-2017	12582	1332	Dominican (IL)	03/17/2017	Endicott		Endicott		false		true	-									
 2017	12582	1332	Dominican (IL)	03/17/2017	North Central (IL)		North Central (IL)		false		true	-									
+2017	12582	1332	Dominican (IL)	03/17/2017	Endicott		Endicott		false		true	-									
 2017	12582	1332	Dominican (IL)	03/24/2017	Wittenberg		Wittenberg		false		true	-									
 2017	12582	1332	Dominican (IL)	03/25/2017	Olivet		Olivet		false		true	-									
-2017	12582	1332	Dominican (IL)	03/26/2017	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2017	12582	1332	Dominican (IL)	03/26/2017	Stevens		Stevens		false		true	-									
+2017	12582	1332	Dominican (IL)	03/26/2017	Mt. St. Joseph		Mt. St. Joseph		false		true	-									
 2017	12582	1332	Dominican (IL)	03/31/2017	Lakeland		Lakeland		false		true	-									
 2017	12582	1332	Dominican (IL)	04/01/2017	Marian (WI)		Marian (WI)		false		true	-									
 2017	12582	1332	Dominican (IL)	04/07/2017	@ Carthage		Carthage		false		false	-									
 2017	12582	1332	Dominican (IL)	04/08/2017	@ MSOE		MSOE		false		false	-									
-2017	12582	203	East. Mennonite	01/14/2017	Emmanuel (GA)		Emmanuel (GA)	http://stats.ncaa.org/team/30193/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4270873	http://stats.ncaa.org/game/index/4270873?org_id=203
 2017	12582	203	East. Mennonite	01/14/2017	Southern Va.		Southern Va.	http://stats.ncaa.org/team/30164/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4271561	http://stats.ncaa.org/game/index/4271561?org_id=203
+2017	12582	203	East. Mennonite	01/14/2017	Emmanuel (GA)		Emmanuel (GA)	http://stats.ncaa.org/team/30193/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4270873	http://stats.ncaa.org/game/index/4270873?org_id=203
 2017	12582	203	East. Mennonite	01/21/2017	King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4273453	http://stats.ncaa.org/game/index/4273453?org_id=203
 2017	12582	203	East. Mennonite	01/21/2017	Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4274640	http://stats.ncaa.org/game/index/4274640?org_id=203
 2017	12582	203	East. Mennonite	01/27/2017	Nazareth @ Union, N.J.		Nazareth	http://stats.ncaa.org/team/461/12582	true	Union, N.J.	true	W 3 - 2	true	3 - 2	false	3	2	false		4276446	http://stats.ncaa.org/game/index/4276446?org_id=203
@@ -371,9 +370,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	203	East. Mennonite	02/11/2017	@ Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4288378	http://stats.ncaa.org/game/index/4288378?org_id=30085
 2017	12582	203	East. Mennonite	02/17/2017	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290906	http://stats.ncaa.org/game/index/4290906?org_id=538
 2017	12582	203	East. Mennonite	02/18/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291802	http://stats.ncaa.org/game/index/4291802?org_id=707
-2017	12582	203	East. Mennonite	02/24/2017	Cairn		Cairn		false		true	-									
-2017	12582	203	East. Mennonite	02/24/2017	Bard		Bard		false		true	-									
-2017	12582	203	East. Mennonite	02/25/2017	Rutgers-Newark		Rutgers-Newark		false		true	-									
+2017	12582	203	East. Mennonite	02/24/2017	Cairn		Cairn	http://stats.ncaa.org/team/1305/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4298012	http://stats.ncaa.org/game/index/4298012?org_id=203
+2017	12582	203	East. Mennonite	02/25/2017	Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4298734	http://stats.ncaa.org/game/index/4298734?org_id=203
+2017	12582	203	East. Mennonite	02/25/2017	Bard		Bard	http://stats.ncaa.org/team/962/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4299080	http://stats.ncaa.org/game/index/4299080?org_id=203
 2017	12582	203	East. Mennonite	03/03/2017	@ Arcadia		Arcadia		false		false	-									
 2017	12582	203	East. Mennonite	03/04/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
 2017	12582	203	East. Mennonite	03/04/2017	NYU@Arlington, VA		NYUArlington, VA		false		false	-									
@@ -387,15 +386,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	203	East. Mennonite	03/28/2017	@ Juniata		Juniata		false		false	-									
 2017	12582	203	East. Mennonite	03/31/2017	@ Cairn		Cairn		false		false	-									
 2017	12582	203	East. Mennonite	04/01/2017	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
-2017	12582	203	East. Mennonite	04/08/2017	@ Stevenson		Stevenson		false		false	-									
 2017	12582	203	East. Mennonite	04/08/2017	Penn St.-Altoona@Owings Mills, MD		Penn St.-AltoonaOwings Mills, MD		false		false	-									
+2017	12582	203	East. Mennonite	04/08/2017	@ Stevenson		Stevenson		false		false	-									
 2017	12582	1064	Eastern Nazarene	01/26/2017	Newbury		Newbury	http://stats.ncaa.org/team/21772/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4276277	http://stats.ncaa.org/game/index/4276277?org_id=1064
 2017	12582	1064	Eastern Nazarene	01/28/2017	Elms		Elms	http://stats.ncaa.org/team/532/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4276641	http://stats.ncaa.org/game/index/4276641?org_id=1064
 2017	12582	1064	Eastern Nazarene	01/31/2017	Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4278680	http://stats.ncaa.org/game/index/4278680?org_id=1064
 2017	12582	1064	Eastern Nazarene	02/04/2017	Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4281812	http://stats.ncaa.org/game/index/4281812?org_id=1064
 2017	12582	1064	Eastern Nazarene	02/11/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4285503	http://stats.ncaa.org/game/index/4285503?org_id=1064
-2017	12582	1064	Eastern Nazarene	02/16/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4290153	http://stats.ncaa.org/game/index/4290153?org_id=1064
-2017	12582	1064	Eastern Nazarene	02/22/2017	Pine Manor		Pine Manor		false		true	-									
+2017	12582	1064	Eastern Nazarene	02/16/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4296311	http://stats.ncaa.org/game/index/4296311?org_id=1064
+2017	12582	1064	Eastern Nazarene	02/22/2017	Pine Manor		Pine Manor	http://stats.ncaa.org/team/544/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296357	http://stats.ncaa.org/game/index/4296357?org_id=1064
 2017	12582	1064	Eastern Nazarene	03/04/2017	@ Southern Vt.		Southern Vt.		false		false	-									
 2017	12582	1064	Eastern Nazarene	03/09/2017	@ Pine Manor		Pine Manor		false		false	-									
 2017	12582	1064	Eastern Nazarene	03/11/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
@@ -426,11 +425,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	213	Elmira	02/11/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4285407	http://stats.ncaa.org/game/index/4285407?org_id=213
 2017	12582	213	Elmira	02/18/2017	Stevens		Stevens	http://stats.ncaa.org/team/679/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4291828	http://stats.ncaa.org/game/index/4291828?org_id=213
 2017	12582	213	Elmira	02/18/2017	Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4291641	http://stats.ncaa.org/game/index/4291641?org_id=213
-2017	12582	213	Elmira	02/22/2017	@ Ramapo		Ramapo		false		false	-									
-2017	12582	213	Elmira	02/24/2017	St. Joseph's (L.I.)@Utica, NY		St. Joseph's (L.I.)Utica, NY		false		false	-									
-2017	12582	213	Elmira	02/25/2017	Wilkes@Utica, NY		WilkesUtica, NY		false		false	-									
-2017	12582	213	Elmira	02/25/2017	Rivier@Utica, NY		RivierUtica, NY		false		false	-									
-2017	12582	213	Elmira	02/25/2017	Arcadia@Utica, NY		ArcadiaUtica, NY		false		false	-									
+2017	12582	213	Elmira	02/22/2017	@ Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4296377	http://stats.ncaa.org/game/index/4296377?org_id=564
+2017	12582	213	Elmira	02/24/2017	Wilkes @ Marcy, N.Y.		Wilkes	http://stats.ncaa.org/team/784/12582	true	Marcy, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4298327	http://stats.ncaa.org/game/index/4298327?org_id=213
+2017	12582	213	Elmira	02/25/2017	Rivier @ Marcy, N.Y.		Rivier	http://stats.ncaa.org/team/18422/12582	true	Marcy, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4300842	http://stats.ncaa.org/game/index/4300842?org_id=18422
+2017	12582	213	Elmira	02/25/2017	Arcadia @ Marcy, N.Y.		Arcadia	http://stats.ncaa.org/team/966/12582	true	Marcy, N.Y.	true	W 3 - 2	true	3 - 2	false	3	2	false		4302212	http://stats.ncaa.org/game/index/4302212?org_id=213
 2017	12582	213	Elmira	03/01/2017	@ Keuka		Keuka		false		false	-									
 2017	12582	213	Elmira	03/08/2017	@ Nazareth		Nazareth		false		false	-									
 2017	12582	213	Elmira	03/11/2017	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
@@ -453,16 +451,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	532	Elms	02/04/2017	Bard		Bard	http://stats.ncaa.org/team/962/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4280265	http://stats.ncaa.org/game/index/4280265?org_id=532
 2017	12582	532	Elms	02/10/2017	Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4285014	http://stats.ncaa.org/game/index/4285014?org_id=532
 2017	12582	532	Elms	02/16/2017	@ Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290252	http://stats.ncaa.org/game/index/4290252?org_id=215
-2017	12582	532	Elms	02/18/2017	John Jay @ Cambridge, Mass.		John Jay	http://stats.ncaa.org/team/321/12582	true	Cambridge, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4295498	http://stats.ncaa.org/game/index/4295498?org_id=321
 2017	12582	532	Elms	02/18/2017	@ MIT		MIT	http://stats.ncaa.org/team/398/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4290995	http://stats.ncaa.org/game/index/4290995?org_id=532
-2017	12582	532	Elms	02/21/2017	@ Southern Vt.		Southern Vt.		false		false	-									
-2017	12582	532	Elms	02/21/2017	@ Southern Vt.		Southern Vt.		false		false	-									
-2017	12582	532	Elms	02/25/2017	Endicott		Endicott		false		true	-									
+2017	12582	532	Elms	02/18/2017	John Jay @ Cambridge, Mass.		John Jay	http://stats.ncaa.org/team/321/12582	true	Cambridge, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4295498	http://stats.ncaa.org/game/index/4295498?org_id=321
+2017	12582	532	Elms	02/21/2017	@ Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4296004	http://stats.ncaa.org/game/index/4296004?org_id=1379
+2017	12582	532	Elms	02/25/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4298708	http://stats.ncaa.org/game/index/4298708?org_id=532
 2017	12582	532	Elms	03/01/2017	@ Regis (MA)		Regis (MA)		false		false	-									
 2017	12582	532	Elms	03/04/2017	Lesley		Lesley		false		true	-									
 2017	12582	532	Elms	03/14/2017	@ Newbury		Newbury		false		false	-									
-2017	12582	532	Elms	03/18/2017	Southern Vt.		Southern Vt.		false		true	-									
 2017	12582	532	Elms	03/18/2017	Eastern Nazarene		Eastern Nazarene		false		true	-									
+2017	12582	532	Elms	03/18/2017	Southern Vt.		Southern Vt.		false		true	-									
 2017	12582	532	Elms	03/22/2017	@ Endicott		Endicott		false		false	-									
 2017	12582	532	Elms	03/25/2017	Regis (MA)		Regis (MA)		false		true	-									
 2017	12582	532	Elms	03/28/2017	@ Lesley		Lesley		false		false	-									
@@ -475,10 +472,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	214	Emerson	02/14/2017	@ MIT		MIT	http://stats.ncaa.org/team/398/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4289071	http://stats.ncaa.org/game/index/4289071?org_id=398
 2017	12582	214	Emerson	02/16/2017	@ Lasell		Lasell	http://stats.ncaa.org/team/8486/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4290242	http://stats.ncaa.org/game/index/4290242?org_id=8486
 2017	12582	214	Emerson	02/18/2017	Mt. St. Vincent		Mt. St. Vincent	http://stats.ncaa.org/team/451/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4292292	http://stats.ncaa.org/game/index/4292292?org_id=214
-2017	12582	214	Emerson	02/23/2017	Regis (MA)		Regis (MA)		false		true	-									
-2017	12582	214	Emerson	02/25/2017	Dean		Dean		false		true	-									
-2017	12582	214	Emerson	02/28/2017	Wentworth		Wentworth		false		true	-									
-2017	12582	214	Emerson	03/02/2017	@ Dean		Dean		false		false	-									
+2017	12582	214	Emerson	02/23/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4296992	http://stats.ncaa.org/game/index/4296992?org_id=214
+2017	12582	214	Emerson	02/25/2017	@ Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4302163	http://stats.ncaa.org/game/index/4302163?org_id=214
+2017	12582	214	Emerson	02/28/2017	Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303226	http://stats.ncaa.org/game/index/4303226?org_id=214
+2017	12582	214	Emerson	03/02/2017	Dean		Dean		false		true	-									
 2017	12582	214	Emerson	03/07/2017	@ Pine Manor		Pine Manor		false		false	-									
 2017	12582	214	Emerson	03/16/2017	@ Rivier		Rivier		false		false	-									
 2017	12582	214	Emerson	03/19/2017	@ Wentworth		Wentworth		false		false	-									
@@ -505,8 +502,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	215	Emmanuel (MA)	02/12/2017	SUNY Poly @ Union, N.J.		SUNY Poly	http://stats.ncaa.org/team/9500/12582	true	Union, N.J.	true	W 3 - 0	true	3 - 0	false	3	0	false		4287163	http://stats.ncaa.org/game/index/4287163?org_id=215
 2017	12582	215	Emmanuel (MA)	02/16/2017	Elms		Elms	http://stats.ncaa.org/team/532/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4290252	http://stats.ncaa.org/game/index/4290252?org_id=215
 2017	12582	215	Emmanuel (MA)	02/18/2017	Mt. St. Vincent		Mt. St. Vincent	http://stats.ncaa.org/team/451/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4291447	http://stats.ncaa.org/game/index/4291447?org_id=215
-2017	12582	215	Emmanuel (MA)	02/22/2017	@ Wentworth		Wentworth		false		false	-									
-2017	12582	215	Emmanuel (MA)	02/28/2017	MIT		MIT		false		true	-									
+2017	12582	215	Emmanuel (MA)	02/22/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296346	http://stats.ncaa.org/game/index/4296346?org_id=762
+2017	12582	215	Emmanuel (MA)	02/28/2017	MIT		MIT	http://stats.ncaa.org/team/398/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303108	http://stats.ncaa.org/game/index/4303108?org_id=215
 2017	12582	215	Emmanuel (MA)	03/14/2017	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
 2017	12582	215	Emmanuel (MA)	03/18/2017	@ Rivier		Rivier		false		false	-									
 2017	12582	215	Emmanuel (MA)	03/18/2017	Mount Ida@Nashua, NH		Mount IdaNashua, NH		false		false	-									
@@ -535,7 +532,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	8981	Endicott	02/08/2017	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4284192	http://stats.ncaa.org/game/index/4284192?org_id=8981
 2017	12582	8981	Endicott	02/11/2017	@ Eastern Nazarene		Eastern Nazarene	http://stats.ncaa.org/team/1064/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4285503	http://stats.ncaa.org/game/index/4285503?org_id=1064
 2017	12582	8981	Endicott	02/15/2017	@ Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289961	http://stats.ncaa.org/game/index/4289961?org_id=24317
-2017	12582	8981	Endicott	02/25/2017	@ Elms		Elms		false		false	-									
+2017	12582	8981	Endicott	02/25/2017	@ Elms		Elms	http://stats.ncaa.org/team/532/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4298708	http://stats.ncaa.org/game/index/4298708?org_id=532
 2017	12582	8981	Endicott	03/01/2017	Newbury		Newbury		false		true	-									
 2017	12582	8981	Endicott	03/08/2017	@ Southern Vt.		Southern Vt.		false		false	-									
 2017	12582	8981	Endicott	03/14/2017	@ Regis (MA)		Regis (MA)		false		false	-									
@@ -563,8 +560,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	11538	Fontbonne	02/11/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4285367	http://stats.ncaa.org/game/index/4285367?org_id=11538
 2017	12582	11538	Fontbonne	02/17/2017	@ MSOE		MSOE	http://stats.ncaa.org/team/20220/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4294748	http://stats.ncaa.org/game/index/4294748?org_id=20220
 2017	12582	11538	Fontbonne	02/18/2017	@ Carthage		Carthage	http://stats.ncaa.org/team/121/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294798	http://stats.ncaa.org/game/index/4294798?org_id=121
-2017	12582	11538	Fontbonne	02/24/2017	@ Loras		Loras		false		false	-									
-2017	12582	11538	Fontbonne	02/25/2017	@ Mt. Mercy		Mt. Mercy		false		false	-									
+2017	12582	11538	Fontbonne	02/24/2017	@ Loras		Loras	http://stats.ncaa.org/team/364/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4298270	http://stats.ncaa.org/game/index/4298270?org_id=364
+2017	12582	11538	Fontbonne	02/25/2017	@ Mt. Mercy		Mt. Mercy		false		false	W 3 - 0	true	3 - 0	false	3	0	false		4302963	http://stats.ncaa.org/game/index/4302963?org_id=11538
 2017	12582	11538	Fontbonne	03/03/2017	@ Wittenberg		Wittenberg		false		false	-									
 2017	12582	11538	Fontbonne	03/04/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
 2017	12582	11538	Fontbonne	03/10/2017	MSOE		MSOE		false		true	-									
@@ -606,9 +603,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	8398	Hilbert	02/17/2017	Penn St.-Altoona @ Lancaster, Pa.		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	true	Lancaster, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4290893	http://stats.ncaa.org/game/index/4290893?org_id=25719
 2017	12582	8398	Hilbert	02/17/2017	@ Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294745	http://stats.ncaa.org/game/index/4294745?org_id=30085
 2017	12582	8398	Hilbert	02/18/2017	Wilson @ Lancaster, Pa.		Wilson	http://stats.ncaa.org/team/12973/12582	true	Lancaster, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4294756	http://stats.ncaa.org/game/index/4294756?org_id=8398
-2017	12582	8398	Hilbert	02/28/2017	@ Thiel		Thiel		false		false	-									
-2017	12582	8398	Hilbert	03/04/2017	Wells@Keuka Park, NY		WellsKeuka Park, NY		false		false	-									
+2017	12582	8398	Hilbert	02/28/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4303122	http://stats.ncaa.org/game/index/4303122?org_id=707
 2017	12582	8398	Hilbert	03/04/2017	SUNY Poly@Keuka Park, NY		SUNY PolyKeuka Park, NY		false		false	-									
+2017	12582	8398	Hilbert	03/04/2017	Wells@Keuka Park, NY		WellsKeuka Park, NY		false		false	-									
 2017	12582	8398	Hilbert	03/05/2017	@ Keuka		Keuka		false		false	-									
 2017	12582	8398	Hilbert	03/15/2017	@ Medaille		Medaille		false		false	-									
 2017	12582	8398	Hilbert	03/21/2017	Medaille		Medaille		false		true	-									
@@ -616,8 +613,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	8398	Hilbert	03/25/2017	Wilson		Wilson		false		true	-									
 2017	12582	8398	Hilbert	03/25/2017	Lancaster Bible		Lancaster Bible		false		true	-									
 2017	12582	8398	Hilbert	03/28/2017	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
-2017	12582	8398	Hilbert	04/01/2017	Keuka@Buffalo, NY		KeukaBuffalo, NY		false		false	-									
 2017	12582	8398	Hilbert	04/01/2017	Wells@Buffalo, NY		WellsBuffalo, NY		false		false	-									
+2017	12582	8398	Hilbert	04/01/2017	Keuka@Buffalo, NY		KeukaBuffalo, NY		false		false	-									
 2017	12582	8398	Hilbert	04/02/2017	SUNY Poly@Buffalo, NY		SUNY PolyBuffalo, NY		false		false	-									
 2017	12582	8398	Hilbert	04/04/2017	Thiel		Thiel		false		true	-									
 2017	12582	292	Hunter	01/12/2017	Cairn @ Union, N.J.		Cairn	http://stats.ncaa.org/team/1305/12582	true	Union, N.J.	true	W 3 - 0	true	3 - 0	false	3	0	false		4269376	http://stats.ncaa.org/game/index/4269376?org_id=292
@@ -634,7 +631,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	292	Hunter	02/15/2017	@ Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289516	http://stats.ncaa.org/game/index/4289516?org_id=564
 2017	12582	292	Hunter	02/20/2017	York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295014	http://stats.ncaa.org/game/index/4295014?org_id=292
 2017	12582	292	Hunter	02/20/2017	CCNY		CCNY	http://stats.ncaa.org/team/480/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294782	http://stats.ncaa.org/game/index/4294782?org_id=292
-2017	12582	292	Hunter	02/28/2017	@ Staten Island		Staten Island		false		false	-									
+2017	12582	292	Hunter	02/28/2017	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4303064	http://stats.ncaa.org/game/index/4303064?org_id=292
 2017	12582	292	Hunter	03/01/2017	@ Kean		Kean		false		false	-									
 2017	12582	292	Hunter	03/04/2017	Wentworth@Springfield, MA		WentworthSpringfield, MA		false		false	-									
 2017	12582	292	Hunter	03/04/2017	@ Springfield		Springfield		false		false	-									
@@ -666,10 +663,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30172	IIT	02/11/2017	Lakeland @ Greenville, Ill.		Lakeland	http://stats.ncaa.org/team/1164/12582	true	Greenville, Ill.	true	L 1 - 3	false	1 - 3	false	1	3	false		4286256	http://stats.ncaa.org/game/index/4286256?org_id=1164
 2017	12582	30172	IIT	02/11/2017	@ Greenville		Greenville	http://stats.ncaa.org/team/1111/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4286270	http://stats.ncaa.org/game/index/4286270?org_id=1111
 2017	12582	30172	IIT	02/17/2017	St. Xavier		St. Xavier		false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294735	http://stats.ncaa.org/game/index/4294735?org_id=30172
-2017	12582	30172	IIT	02/22/2017	Trinity Christian		Trinity Christian		false		true	-									
-2017	12582	30172	IIT	02/24/2017	Adrian		Adrian		false		true	-									
-2017	12582	30172	IIT	02/25/2017	North Central (IL)		North Central (IL)		false		true	-									
-2017	12582	30172	IIT	02/25/2017	Marian (WI)		Marian (WI)		false		true	-									
+2017	12582	30172	IIT	02/22/2017	Trinity Christian		Trinity Christian		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296493	http://stats.ncaa.org/game/index/4296493?org_id=30172
+2017	12582	30172	IIT	02/24/2017	Adrian		Adrian	http://stats.ncaa.org/team/4/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4298323	http://stats.ncaa.org/game/index/4298323?org_id=30172
+2017	12582	30172	IIT	02/25/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4299612	http://stats.ncaa.org/game/index/4299612?org_id=30172
+2017	12582	30172	IIT	02/25/2017	Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4299611	http://stats.ncaa.org/game/index/4299611?org_id=30172
 2017	12582	30172	IIT	03/03/2017	Robert Morris-S'fiel		Robert Morris-S'fiel		false		true	-									
 2017	12582	30172	IIT	03/03/2017	Olivet		Olivet		false		true	-									
 2017	12582	30172	IIT	03/10/2017	@ Lesley		Lesley		false		false	-									
@@ -693,9 +690,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	321	John Jay	02/18/2017	Elms @ Cambridge, Mass.		Elms	http://stats.ncaa.org/team/532/12582	true	Cambridge, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4295498	http://stats.ncaa.org/game/index/4295498?org_id=321
 2017	12582	321	John Jay	02/20/2017	Lehman @ New York, NY		Lehman	http://stats.ncaa.org/team/279/12582	true	New York, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4294950	http://stats.ncaa.org/game/index/4294950?org_id=321
 2017	12582	321	John Jay	02/20/2017	@ Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294639	http://stats.ncaa.org/game/index/4294639?org_id=58
-2017	12582	321	John Jay	02/25/2017	@ Medgar Evers		Medgar Evers		false		false	-									
-2017	12582	321	John Jay	02/25/2017	Lancaster Bible@Brooklyn, NY		Lancaster BibleBrooklyn, NY		false		false	-									
-2017	12582	321	John Jay	02/28/2017	@ Medgar Evers		Medgar Evers		false		false	-									
+2017	12582	321	John Jay	02/25/2017	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4300315	http://stats.ncaa.org/game/index/4300315?org_id=403
+2017	12582	321	John Jay	02/25/2017	Lancaster Bible @ Brooklyn, N.Y.		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	true	Brooklyn, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4301609	http://stats.ncaa.org/game/index/4301609?org_id=30085
+2017	12582	321	John Jay	02/28/2017	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303429	http://stats.ncaa.org/game/index/4303429?org_id=403
 2017	12582	321	John Jay	03/01/2017	St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		true	-									
 2017	12582	321	John Jay	03/07/2017	@ Purchase		Purchase		false		false	-									
 2017	12582	321	John Jay	03/11/2017	Hunter		Hunter		false		true	-									
@@ -710,30 +707,30 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	22626	Johnson & Wales (RI)	01/21/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4274667	http://stats.ncaa.org/game/index/4274667?org_id=22626
 2017	12582	22626	Johnson & Wales (RI)	01/27/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4276288	http://stats.ncaa.org/game/index/4276288?org_id=22626
 2017	12582	22626	Johnson & Wales (RI)	01/27/2017	Bard		Bard	http://stats.ncaa.org/team/962/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4276387	http://stats.ncaa.org/game/index/4276387?org_id=22626
-2017	12582	22626	Johnson & Wales (RI)	01/28/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4277763	http://stats.ncaa.org/game/index/4277763?org_id=22626
 2017	12582	22626	Johnson & Wales (RI)	01/28/2017	MIT		MIT	http://stats.ncaa.org/team/398/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4278318	http://stats.ncaa.org/game/index/4278318?org_id=22626
+2017	12582	22626	Johnson & Wales (RI)	01/28/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4277763	http://stats.ncaa.org/game/index/4277763?org_id=22626
 2017	12582	22626	Johnson & Wales (RI)	02/03/2017	SUNY New Paltz @ Nazareth College		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4280235	http://stats.ncaa.org/game/index/4280235?org_id=475
 2017	12582	22626	Johnson & Wales (RI)	02/03/2017	Juniata @ Nazareth College		Juniata	http://stats.ncaa.org/team/325/12582	true	Nazareth College	true	L 2 - 3	false	2 - 3	false	2	3	false		4281966	http://stats.ncaa.org/game/index/4281966?org_id=325
 2017	12582	22626	Johnson & Wales (RI)	02/04/2017	Elmira @ Nazareth College		Elmira	http://stats.ncaa.org/team/213/12582	true	Nazareth College	true	W 3 - 2	true	3 - 2	false	3	2	false		4281899	http://stats.ncaa.org/game/index/4281899?org_id=213
 2017	12582	22626	Johnson & Wales (RI)	02/04/2017	@ Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4280242	http://stats.ncaa.org/game/index/4280242?org_id=461
 2017	12582	22626	Johnson & Wales (RI)	02/08/2017	@ Lasell		Lasell	http://stats.ncaa.org/team/8486/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4283812	http://stats.ncaa.org/game/index/4283812?org_id=8486
-2017	12582	22626	Johnson & Wales (RI)	02/10/2017	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4287917	http://stats.ncaa.org/game/index/4287917?org_id=737
 2017	12582	22626	Johnson & Wales (RI)	02/10/2017	Mt. St. Vincent @ Poughkeepsie, NY		Mt. St. Vincent	http://stats.ncaa.org/team/451/12582	true	Poughkeepsie, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4285092	http://stats.ncaa.org/game/index/4285092?org_id=451
+2017	12582	22626	Johnson & Wales (RI)	02/10/2017	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4287917	http://stats.ncaa.org/game/index/4287917?org_id=737
 2017	12582	22626	Johnson & Wales (RI)	02/11/2017	Ramapo @ Poughkeepsie, NY		Ramapo	http://stats.ncaa.org/team/564/12582	true	Poughkeepsie, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4286030	http://stats.ncaa.org/game/index/4286030?org_id=564
 2017	12582	22626	Johnson & Wales (RI)	02/13/2017	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4288668	http://stats.ncaa.org/game/index/4288668?org_id=22626
 2017	12582	22626	Johnson & Wales (RI)	02/15/2017	@ Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4289494	http://stats.ncaa.org/game/index/4289494?org_id=18422
-2017	12582	22626	Johnson & Wales (RI)	02/18/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4290940	http://stats.ncaa.org/game/index/4290940?org_id=762
 2017	12582	22626	Johnson & Wales (RI)	02/18/2017	Newbury @ Boston, Mass.		Newbury	http://stats.ncaa.org/team/21772/12582	true	Boston, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4290980	http://stats.ncaa.org/game/index/4290980?org_id=22626
+2017	12582	22626	Johnson & Wales (RI)	02/18/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4296777	http://stats.ncaa.org/game/index/4296777?org_id=762
 2017	12582	22626	Johnson & Wales (RI)	02/20/2017	Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295216	http://stats.ncaa.org/game/index/4295216?org_id=22626
-2017	12582	22626	Johnson & Wales (RI)	02/22/2017	Mount Ida		Mount Ida		false		true	-									
-2017	12582	22626	Johnson & Wales (RI)	02/25/2017	Sage Colleges@Springfield, MA		Sage CollegesSpringfield, MA		false		false	-									
-2017	12582	22626	Johnson & Wales (RI)	02/25/2017	@ Springfield		Springfield		false		false	-									
+2017	12582	22626	Johnson & Wales (RI)	02/22/2017	Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296394	http://stats.ncaa.org/game/index/4296394?org_id=22626
+2017	12582	22626	Johnson & Wales (RI)	02/25/2017	Sage Colleges @ Springfield, Mass.		Sage Colleges	http://stats.ncaa.org/team/11036/12582	true	Springfield, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4299838	http://stats.ncaa.org/game/index/4299838?org_id=22626
+2017	12582	22626	Johnson & Wales (RI)	02/25/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4299386	http://stats.ncaa.org/game/index/4299386?org_id=673
 2017	12582	22626	Johnson & Wales (RI)	03/11/2017	IIT		IIT		false		true	-									
 2017	12582	22626	Johnson & Wales (RI)	03/11/2017	Eastern Nazarene		Eastern Nazarene		false		true	-									
 2017	12582	22626	Johnson & Wales (RI)	03/14/2017	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
 2017	12582	22626	Johnson & Wales (RI)	03/21/2017	Rivier		Rivier		false		true	-									
-2017	12582	22626	Johnson & Wales (RI)	03/25/2017	Wentworth@Newton, Mass.		WentworthNewton, Mass.		false		false	-									
 2017	12582	22626	Johnson & Wales (RI)	03/25/2017	@ Mount Ida		Mount Ida		false		false	-									
+2017	12582	22626	Johnson & Wales (RI)	03/25/2017	Wentworth@Newton, Mass.		WentworthNewton, Mass.		false		false	-									
 2017	12582	22626	Johnson & Wales (RI)	03/28/2017	Emerson		Emerson		false		true	-									
 2017	12582	22626	Johnson & Wales (RI)	04/04/2017	@ Albertus Magnus		Albertus Magnus		false		false	-									
 2017	12582	22626	Johnson & Wales (RI)	04/06/2017	@ Emerson		Emerson		false		false	-									
@@ -753,8 +750,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	325	Juniata	02/18/2017	Alvernia		Alvernia	http://stats.ncaa.org/team/938/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294719	http://stats.ncaa.org/game/index/4294719?org_id=325
 2017	12582	325	Juniata	02/18/2017	Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4291059	http://stats.ncaa.org/game/index/4291059?org_id=325
 2017	12582	325	Juniata	02/21/2017	Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4295683	http://stats.ncaa.org/game/index/4295683?org_id=325
-2017	12582	325	Juniata	02/21/2017	@ Thiel		Thiel		false		false	-									
-2017	12582	325	Juniata	02/24/2017	Stevenson		Stevenson		false		true	-									
+2017	12582	325	Juniata	02/24/2017	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4298044	http://stats.ncaa.org/game/index/4298044?org_id=325
 2017	12582	325	Juniata	03/03/2017	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
 2017	12582	325	Juniata	03/04/2017	MIT@Poughkeepsie, NY		MITPoughkeepsie, NY		false		false	-									
 2017	12582	325	Juniata	03/04/2017	@ Vassar		Vassar		false		false	-									
@@ -785,7 +781,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	329	Kean	02/17/2017	@ MIT		MIT	http://stats.ncaa.org/team/398/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4291317	http://stats.ncaa.org/game/index/4291317?org_id=398
 2017	12582	329	Kean	02/18/2017	@ Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4291315	http://stats.ncaa.org/game/index/4291315?org_id=18422
 2017	12582	329	Kean	02/18/2017	Regis (MA) @ Nashua, N.H.		Regis (MA)	http://stats.ncaa.org/team/569/12582	true	Nashua, N.H.	true	W 3 - 1	true	3 - 1	false	3	1	false		4291306	http://stats.ncaa.org/game/index/4291306?org_id=329
-2017	12582	329	Kean	02/22/2017	SUNY New Paltz		SUNY New Paltz		false		true	-									
+2017	12582	329	Kean	02/23/2017	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4297011	http://stats.ncaa.org/game/index/4297011?org_id=329
 2017	12582	329	Kean	03/01/2017	Hunter		Hunter		false		true	-									
 2017	12582	329	Kean	03/16/2017	@ Baruch		Baruch		false		false	-									
 2017	12582	329	Kean	03/19/2017	Sarah Lawrence		Sarah Lawrence		false		true	-									
@@ -807,7 +803,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1159	Keuka	02/04/2017	Lancaster Bible @ Marcy, NY		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	true	Marcy, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4283587	http://stats.ncaa.org/game/index/4283587?org_id=30085
 2017	12582	1159	Keuka	02/04/2017	Penn St.-Altoona @ Marcy, NY		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	true	Marcy, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4280971	http://stats.ncaa.org/game/index/4280971?org_id=25719
 2017	12582	1159	Keuka	02/09/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4295492	http://stats.ncaa.org/game/index/4295492?org_id=9500
-2017	12582	1159	Keuka	02/22/2017	@ Wells		Wells		false		false	-									
+2017	12582	1159	Keuka	02/23/2017	@ Wells		Wells	http://stats.ncaa.org/team/761/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296949	http://stats.ncaa.org/game/index/4296949?org_id=1159
 2017	12582	1159	Keuka	03/01/2017	Elmira		Elmira		false		true	-									
 2017	12582	1159	Keuka	03/04/2017	Medaille		Medaille		false		true	-									
 2017	12582	1159	Keuka	03/04/2017	D'Youville		D'Youville		false		true	-									
@@ -836,8 +832,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1164	Lakeland	02/11/2017	IIT @ Greenville, Ill.		IIT	http://stats.ncaa.org/team/30172/12582	true	Greenville, Ill.	true	W 3 - 1	true	3 - 1	false	3	1	false		4286256	http://stats.ncaa.org/game/index/4286256?org_id=1164
 2017	12582	1164	Lakeland	02/11/2017	@ Greenville		Greenville	http://stats.ncaa.org/team/1111/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4288216	http://stats.ncaa.org/game/index/4288216?org_id=1111
 2017	12582	1164	Lakeland	02/17/2017	Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294759	http://stats.ncaa.org/game/index/4294759?org_id=1164
-2017	12582	1164	Lakeland	02/22/2017	Loras		Loras		false		true	-									
-2017	12582	1164	Lakeland	02/25/2017	Carthage		Carthage		false		true	-									
+2017	12582	1164	Lakeland	02/22/2017	Loras		Loras	http://stats.ncaa.org/team/364/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296513	http://stats.ncaa.org/game/index/4296513?org_id=1164
+2017	12582	1164	Lakeland	02/25/2017	Carthage		Carthage	http://stats.ncaa.org/team/121/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4300206	http://stats.ncaa.org/game/index/4300206?org_id=1164
 2017	12582	1164	Lakeland	03/01/2017	@ Marian (WI)		Marian (WI)		false		false	-									
 2017	12582	1164	Lakeland	03/03/2017	North Central (IL)		North Central (IL)		false		true	-									
 2017	12582	1164	Lakeland	03/11/2017	Olivet		Olivet		false		true	-									
@@ -866,9 +862,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30085	Lancaster Bible	02/17/2017	Hilbert		Hilbert	http://stats.ncaa.org/team/8398/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294745	http://stats.ncaa.org/game/index/4294745?org_id=30085
 2017	12582	30085	Lancaster Bible	02/17/2017	D'Youville		D'Youville	http://stats.ncaa.org/team/1059/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4290773	http://stats.ncaa.org/game/index/4290773?org_id=30085
 2017	12582	30085	Lancaster Bible	02/18/2017	Medaille		Medaille	http://stats.ncaa.org/team/23725/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4291093	http://stats.ncaa.org/game/index/4291093?org_id=30085
-2017	12582	30085	Lancaster Bible	02/22/2017	Arcadia		Arcadia		false		true	-									
-2017	12582	30085	Lancaster Bible	02/25/2017	@ Medgar Evers		Medgar Evers		false		false	-									
-2017	12582	30085	Lancaster Bible	02/25/2017	John Jay@Brooklyn, NY		John JayBrooklyn, NY		false		false	-									
+2017	12582	30085	Lancaster Bible	02/22/2017	Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296742	http://stats.ncaa.org/game/index/4296742?org_id=30085
+2017	12582	30085	Lancaster Bible	02/25/2017	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4300316	http://stats.ncaa.org/game/index/4300316?org_id=403
+2017	12582	30085	Lancaster Bible	02/25/2017	John Jay @ Brooklyn, N.Y.		John Jay	http://stats.ncaa.org/team/321/12582	true	Brooklyn, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4301609	http://stats.ncaa.org/game/index/4301609?org_id=30085
 2017	12582	30085	Lancaster Bible	03/01/2017	@ Wilkes		Wilkes		false		false	-									
 2017	12582	30085	Lancaster Bible	03/04/2017	@ Wilson		Wilson		false		false	-									
 2017	12582	30085	Lancaster Bible	03/04/2017	Penn St.-Altoona@Chambersburg, PA		Penn St.-AltoonaChambersburg, PA		false		false	-									
@@ -901,7 +897,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	8486	Lasell	02/16/2017	Emerson		Emerson	http://stats.ncaa.org/team/214/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4290242	http://stats.ncaa.org/game/index/4290242?org_id=8486
 2017	12582	8486	Lasell	02/18/2017	Wells @ Springfield, Mass.		Wells	http://stats.ncaa.org/team/761/12582	true	Springfield, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4292127	http://stats.ncaa.org/game/index/4292127?org_id=8486
 2017	12582	8486	Lasell	02/18/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4292061	http://stats.ncaa.org/game/index/4292061?org_id=8486
-2017	12582	8486	Lasell	02/23/2017	@ MIT		MIT		false		false	-									
+2017	12582	8486	Lasell	02/23/2017	@ MIT		MIT	http://stats.ncaa.org/team/398/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4297012	http://stats.ncaa.org/game/index/4297012?org_id=398
 2017	12582	8486	Lasell	03/07/2017	Springfield		Springfield		false		true	-									
 2017	12582	8486	Lasell	03/10/2017	Marymount (VA)		Marymount (VA)		false		true	-									
 2017	12582	8486	Lasell	03/21/2017	@ Mount Ida		Mount Ida		false		false	-									
@@ -928,7 +924,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	279	Lehman	02/19/2017	@ Yeshiva		Yeshiva	http://stats.ncaa.org/team/814/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4293452	http://stats.ncaa.org/game/index/4293452?org_id=814
 2017	12582	279	Lehman	02/20/2017	@ Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4295356	http://stats.ncaa.org/game/index/4295356?org_id=58
 2017	12582	279	Lehman	02/20/2017	John Jay @ New York, NY		John Jay	http://stats.ncaa.org/team/321/12582	true	New York, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4294950	http://stats.ncaa.org/game/index/4294950?org_id=321
-2017	12582	279	Lehman	02/23/2017	@ Medgar Evers		Medgar Evers		false		false	-									
+2017	12582	279	Lehman	02/23/2017	@ Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303104	http://stats.ncaa.org/game/index/4303104?org_id=403
 2017	12582	279	Lehman	03/04/2017	Sage Colleges		Sage Colleges		false		true	-									
 2017	12582	279	Lehman	03/07/2017	Medgar Evers		Medgar Evers		false		true	-									
 2017	12582	279	Lehman	03/09/2017	@ Brooklyn		Brooklyn		false		false	-									
@@ -950,7 +946,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	24317	Lesley	02/15/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4289961	http://stats.ncaa.org/game/index/4289961?org_id=24317
 2017	12582	24317	Lesley	02/17/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294718	http://stats.ncaa.org/game/index/4294718?org_id=321
 2017	12582	24317	Lesley	02/20/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4295216	http://stats.ncaa.org/game/index/4295216?org_id=22626
-2017	12582	24317	Lesley	02/21/2017	Regis (MA)		Regis (MA)		false		true	-									
+2017	12582	24317	Lesley	02/22/2017	@ Newbury		Newbury	http://stats.ncaa.org/team/21772/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296340	http://stats.ncaa.org/game/index/4296340?org_id=24317
+2017	12582	24317	Lesley	02/27/2017	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4303382	http://stats.ncaa.org/game/index/4303382?org_id=24317
 2017	12582	24317	Lesley	03/04/2017	@ Elms		Elms		false		false	-									
 2017	12582	24317	Lesley	03/04/2017	Dean@Elms College		DeanElms College		false		false	-									
 2017	12582	24317	Lesley	03/08/2017	Newbury		Newbury		false		true	-									
@@ -973,8 +970,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	364	Loras	02/11/2017	MSOE		MSOE	http://stats.ncaa.org/team/20220/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4286023	http://stats.ncaa.org/game/index/4286023?org_id=364
 2017	12582	364	Loras	02/15/2017	Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4289947	http://stats.ncaa.org/game/index/4289947?org_id=364
 2017	12582	364	Loras	02/17/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4294761	http://stats.ncaa.org/game/index/4294761?org_id=1332
-2017	12582	364	Loras	02/22/2017	@ Lakeland		Lakeland		false		false	-									
-2017	12582	364	Loras	02/24/2017	Fontbonne		Fontbonne		false		true	-									
+2017	12582	364	Loras	02/22/2017	@ Lakeland		Lakeland	http://stats.ncaa.org/team/1164/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296513	http://stats.ncaa.org/game/index/4296513?org_id=1164
+2017	12582	364	Loras	02/24/2017	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4298270	http://stats.ncaa.org/game/index/4298270?org_id=364
 2017	12582	364	Loras	03/03/2017	@ MSOE		MSOE		false		false	-									
 2017	12582	364	Loras	03/04/2017	Rivier@Kenosha, WI		RivierKenosha, WI		false		false	-									
 2017	12582	364	Loras	03/04/2017	@ Carthage		Carthage		false		false	-									
@@ -987,8 +984,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	364	Loras	04/01/2017	Greenville		Greenville		false		true	-									
 2017	12582	364	Loras	04/08/2017	Olivet		Olivet		false		true	-									
 2017	12582	398	MIT	01/20/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4273053	http://stats.ncaa.org/game/index/4273053?org_id=398
-2017	12582	398	MIT	01/21/2017	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4274970	http://stats.ncaa.org/game/index/4274970?org_id=398
 2017	12582	398	MIT	01/21/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4273302	http://stats.ncaa.org/game/index/4273302?org_id=398
+2017	12582	398	MIT	01/21/2017	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4274970	http://stats.ncaa.org/game/index/4274970?org_id=398
 2017	12582	398	MIT	01/24/2017	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4275211	http://stats.ncaa.org/game/index/4275211?org_id=398
 2017	12582	398	MIT	01/27/2017	Lasell @ Provience, RI		Lasell	http://stats.ncaa.org/team/8486/12582	true	Provience, RI	true	L 0 - 3	false	0 - 3	false	0	3	false		4276511	http://stats.ncaa.org/game/index/4276511?org_id=8486
 2017	12582	398	MIT	01/27/2017	Regis (MA) @ Providence RI		Regis (MA)	http://stats.ncaa.org/team/569/12582	true	Providence RI	true	W 3 - 1	true	3 - 1	false	3	1	false		4276513	http://stats.ncaa.org/game/index/4276513?org_id=398
@@ -1004,17 +1001,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	398	MIT	02/17/2017	Kean		Kean	http://stats.ncaa.org/team/329/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291317	http://stats.ncaa.org/game/index/4291317?org_id=398
 2017	12582	398	MIT	02/18/2017	Elms		Elms	http://stats.ncaa.org/team/532/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4290995	http://stats.ncaa.org/game/index/4290995?org_id=532
 2017	12582	398	MIT	02/18/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291632	http://stats.ncaa.org/game/index/4291632?org_id=398
-2017	12582	398	MIT	02/23/2017	Lasell		Lasell		false		true	-									
-2017	12582	398	MIT	02/28/2017	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
-2017	12582	398	MIT	03/04/2017	@ Vassar		Vassar		false		false	-									
+2017	12582	398	MIT	02/23/2017	Lasell		Lasell	http://stats.ncaa.org/team/8486/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4297012	http://stats.ncaa.org/game/index/4297012?org_id=398
+2017	12582	398	MIT	02/28/2017	@ Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303108	http://stats.ncaa.org/game/index/4303108?org_id=215
 2017	12582	398	MIT	03/04/2017	Juniata@Poughkeepsie, NY		JuniataPoughkeepsie, NY		false		false	-									
+2017	12582	398	MIT	03/04/2017	@ Vassar		Vassar		false		false	-									
 2017	12582	398	MIT	03/11/2017	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
 2017	12582	398	MIT	03/11/2017	Stevens		Stevens		false		true	-									
 2017	12582	398	MIT	03/14/2017	@ Wentworth		Wentworth		false		false	-									
 2017	12582	398	MIT	03/18/2017	SUNY New Paltz		SUNY New Paltz		false		true	-									
 2017	12582	398	MIT	03/21/2017	@ Endicott		Endicott		false		false	-									
-2017	12582	398	MIT	04/01/2017	@ NYU		NYU		false		false	-									
 2017	12582	398	MIT	04/01/2017	Elmira@New York, NY		ElmiraNew York, NY		false		false	-									
+2017	12582	398	MIT	04/01/2017	@ NYU		NYU		false		false	-									
 2017	12582	398	MIT	04/08/2017	Springfield		Springfield		false		true	-									
 2017	12582	20220	MSOE	01/27/2017	@ Cardinal Stritch		Cardinal Stritch		false		false	L 2 - 3	false	2 - 3	false	2	3	false		4277734	http://stats.ncaa.org/game/index/4277734?org_id=20220
 2017	12582	20220	MSOE	02/02/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4279673	http://stats.ncaa.org/game/index/4279673?org_id=20220
@@ -1022,9 +1019,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	20220	MSOE	02/11/2017	@ Loras		Loras	http://stats.ncaa.org/team/364/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4286023	http://stats.ncaa.org/game/index/4286023?org_id=364
 2017	12582	20220	MSOE	02/17/2017	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4294748	http://stats.ncaa.org/game/index/4294748?org_id=20220
 2017	12582	20220	MSOE	02/18/2017	Greenville		Greenville	http://stats.ncaa.org/team/1111/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291126	http://stats.ncaa.org/game/index/4291126?org_id=20220
-2017	12582	20220	MSOE	02/24/2017	Nazareth@Cincinnati, Ohio		NazarethCincinnati, Ohio		false		false	-									
-2017	12582	20220	MSOE	02/25/2017	@ Wittenberg		Wittenberg		false		false	-									
-2017	12582	20220	MSOE	02/25/2017	Cal Lutheran@Wittenberg, OH		Cal LutheranWittenberg, OH		false		false	-									
+2017	12582	20220	MSOE	02/24/2017	Nazareth @ Cincinnati, Ohio		Nazareth	http://stats.ncaa.org/team/461/12582	true	Cincinnati, Ohio	true	W 3 - 1	true	3 - 1	false	3	1	false		4300291	http://stats.ncaa.org/game/index/4300291?org_id=461
+2017	12582	20220	MSOE	02/25/2017	@ Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4298706	http://stats.ncaa.org/game/index/4298706?org_id=806
+2017	12582	20220	MSOE	02/25/2017	Cal Lutheran @ Springfield, Ohio		Cal Lutheran	http://stats.ncaa.org/team/105/12582	true	Springfield, Ohio	true	W 3 - 0	true	3 - 0	false	3	0	false		4298976	http://stats.ncaa.org/game/index/4298976?org_id=20220
 2017	12582	20220	MSOE	03/01/2017	@ Carthage		Carthage		false		false	-									
 2017	12582	20220	MSOE	03/03/2017	Rivier		Rivier		false		true	-									
 2017	12582	20220	MSOE	03/03/2017	Loras		Loras		false		true	-									
@@ -1052,8 +1049,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1196	Marian (WI)	02/17/2017	North Central (IL)		North Central (IL)	http://stats.ncaa.org/team/492/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4291028	http://stats.ncaa.org/game/index/4291028?org_id=1196
 2017	12582	1196	Marian (WI)	02/18/2017	Cardinal Stritch		Cardinal Stritch		false		true	L 2 - 3	false	2 - 3	false	2	3	false		4292108	http://stats.ncaa.org/game/index/4292108?org_id=1196
 2017	12582	1196	Marian (WI)	02/18/2017	Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4291027	http://stats.ncaa.org/game/index/4291027?org_id=1196
-2017	12582	1196	Marian (WI)	02/25/2017	@ IIT		IIT		false		false	-									
-2017	12582	1196	Marian (WI)	02/25/2017	North Central (IL)@Chicago, IL		North Central (IL)Chicago, IL		false		false	-									
+2017	12582	1196	Marian (WI)	02/25/2017	@ IIT		IIT	http://stats.ncaa.org/team/30172/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4299611	http://stats.ncaa.org/game/index/4299611?org_id=30172
+2017	12582	1196	Marian (WI)	02/25/2017	North Central (IL) @ Chicago, Ill.		North Central (IL)	http://stats.ncaa.org/team/492/12582	true	Chicago, Ill.	true	W 3 - 2	true	3 - 2	false	3	2	false		4299267	http://stats.ncaa.org/game/index/4299267?org_id=1196
 2017	12582	1196	Marian (WI)	03/01/2017	Lakeland		Lakeland		false		true	-									
 2017	12582	1196	Marian (WI)	03/03/2017	@ Carthage		Carthage		false		false	-									
 2017	12582	1196	Marian (WI)	03/04/2017	@ MSOE		MSOE		false		false	-									
@@ -1068,20 +1065,20 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1196	Marian (WI)	04/08/2017	Adrian		Adrian		false		true	-									
 2017	12582	394	Marymount (VA)	01/13/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4270897	http://stats.ncaa.org/game/index/4270897?org_id=213
 2017	12582	394	Marymount (VA)	01/14/2017	@ Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4270896	http://stats.ncaa.org/game/index/4270896?org_id=461
-2017	12582	394	Marymount (VA)	01/21/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4273728	http://stats.ncaa.org/game/index/4273728?org_id=292
-2017	12582	394	Marymount (VA)	01/21/2017	@ Baruch		Baruch		false		false	-									
 2017	12582	394	Marymount (VA)	01/21/2017	@ Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4274789	http://stats.ncaa.org/game/index/4274789?org_id=394
+2017	12582	394	Marymount (VA)	01/21/2017	@ Baruch		Baruch		false		false	-									
+2017	12582	394	Marymount (VA)	01/21/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4273728	http://stats.ncaa.org/game/index/4273728?org_id=292
 2017	12582	394	Marymount (VA)	01/27/2017	Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4276430	http://stats.ncaa.org/game/index/4276430?org_id=394
 2017	12582	394	Marymount (VA)	01/27/2017	Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4276318	http://stats.ncaa.org/game/index/4276318?org_id=394
 2017	12582	394	Marymount (VA)	01/28/2017	Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4276809	http://stats.ncaa.org/game/index/4276809?org_id=394
 2017	12582	394	Marymount (VA)	02/17/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4293251	http://stats.ncaa.org/game/index/4293251?org_id=707
 2017	12582	394	Marymount (VA)	02/18/2017	Alvernia @ Huntingdon, Pa		Alvernia	http://stats.ncaa.org/team/938/12582	true	Huntingdon, Pa	true	W 3 - 0	true	3 - 0	false	3	0	false		4291491	http://stats.ncaa.org/game/index/4291491?org_id=394
 2017	12582	394	Marymount (VA)	02/18/2017	@ Juniata		Juniata	http://stats.ncaa.org/team/325/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4291059	http://stats.ncaa.org/game/index/4291059?org_id=325
-2017	12582	394	Marymount (VA)	02/22/2017	Stevenson		Stevenson		false		true	-									
-2017	12582	394	Marymount (VA)	02/24/2017	Rutgers-Newark		Rutgers-Newark		false		true	-									
-2017	12582	394	Marymount (VA)	02/25/2017	Cairn		Cairn		false		true	-									
-2017	12582	394	Marymount (VA)	03/04/2017	NYU		NYU		false		true	-									
+2017	12582	394	Marymount (VA)	02/22/2017	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4296420	http://stats.ncaa.org/game/index/4296420?org_id=394
+2017	12582	394	Marymount (VA)	02/24/2017	Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4298084	http://stats.ncaa.org/game/index/4298084?org_id=394
+2017	12582	394	Marymount (VA)	02/25/2017	Cairn		Cairn	http://stats.ncaa.org/team/1305/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4298747	http://stats.ncaa.org/game/index/4298747?org_id=394
 2017	12582	394	Marymount (VA)	03/04/2017	East. Mennonite		East. Mennonite		false		true	-									
+2017	12582	394	Marymount (VA)	03/04/2017	NYU		NYU		false		true	-									
 2017	12582	394	Marymount (VA)	03/08/2017	@ Vassar		Vassar		false		false	-									
 2017	12582	394	Marymount (VA)	03/09/2017	@ Springfield		Springfield		false		false	-									
 2017	12582	394	Marymount (VA)	03/10/2017	@ Lasell		Lasell		false		false	-									
@@ -1095,21 +1092,21 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	394	Marymount (VA)	04/01/2017	Alvernia@Langhorne, PA		AlverniaLanghorne, PA		false		false	-									
 2017	12582	394	Marymount (VA)	04/08/2017	@ Stevens		Stevens		false		false	-									
 2017	12582	394	Marymount (VA)	04/08/2017	Southern Va.@Hoboken, NJ		Southern Va.Hoboken, NJ		false		false	-									
-2017	12582	23725	Medaille	01/22/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4274975	http://stats.ncaa.org/game/index/4274975?org_id=707
 2017	12582	23725	Medaille	01/22/2017	Fontbonne @ Greenville, Pa.		Fontbonne	http://stats.ncaa.org/team/11538/12582	true	Greenville, Pa.	true	W 3 - 2	true	3 - 2	false	3	2	false		4274977	http://stats.ncaa.org/game/index/4274977?org_id=11538
-2017	12582	23725	Medaille	01/28/2017	Stevens @ Mahwah, NJ		Stevens	http://stats.ncaa.org/team/679/12582	true	Mahwah, NJ	true	L 0 - 3	false	0 - 3	false	0	3	false		4277383	http://stats.ncaa.org/game/index/4277383?org_id=23725
+2017	12582	23725	Medaille	01/22/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4274975	http://stats.ncaa.org/game/index/4274975?org_id=707
 2017	12582	23725	Medaille	01/28/2017	@ Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4281979	http://stats.ncaa.org/game/index/4281979?org_id=564
-2017	12582	23725	Medaille	02/03/2017	UC Santa Cruz @ Rochester, NY		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	true	Rochester, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4279975	http://stats.ncaa.org/game/index/4279975?org_id=23725
+2017	12582	23725	Medaille	01/28/2017	Stevens @ Mahwah, NJ		Stevens	http://stats.ncaa.org/team/679/12582	true	Mahwah, NJ	true	L 0 - 3	false	0 - 3	false	0	3	false		4277383	http://stats.ncaa.org/game/index/4277383?org_id=23725
 2017	12582	23725	Medaille	02/03/2017	Rivier @ Nazareth College		Rivier	http://stats.ncaa.org/team/18422/12582	true	Nazareth College	true	L 1 - 3	false	1 - 3	false	1	3	false		4281800	http://stats.ncaa.org/game/index/4281800?org_id=23725
-2017	12582	23725	Medaille	02/04/2017	Juniata @ Nazareth College		Juniata	http://stats.ncaa.org/team/325/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4280386	http://stats.ncaa.org/game/index/4280386?org_id=325
+2017	12582	23725	Medaille	02/03/2017	UC Santa Cruz @ Rochester, NY		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	true	Rochester, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4279975	http://stats.ncaa.org/game/index/4279975?org_id=23725
 2017	12582	23725	Medaille	02/04/2017	SUNY New Paltz @ Rochester, NY		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	true	Rochester, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4280949	http://stats.ncaa.org/game/index/4280949?org_id=23725
+2017	12582	23725	Medaille	02/04/2017	Juniata @ Nazareth College		Juniata	http://stats.ncaa.org/team/325/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4280386	http://stats.ncaa.org/game/index/4280386?org_id=325
 2017	12582	23725	Medaille	02/08/2017	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4283777	http://stats.ncaa.org/game/index/4283777?org_id=538
 2017	12582	23725	Medaille	02/17/2017	Wilson @ Lancaster, Pa.		Wilson	http://stats.ncaa.org/team/12973/12582	true	Lancaster, Pa.	true	W 3 - 2	true	3 - 2	false	3	2	false		4295127	http://stats.ncaa.org/game/index/4295127?org_id=23725
 2017	12582	23725	Medaille	02/17/2017	Penn St.-Altoona @ Lancaster, Pa.		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	true	Lancaster, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4295133	http://stats.ncaa.org/game/index/4295133?org_id=23725
 2017	12582	23725	Medaille	02/18/2017	@ Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4291093	http://stats.ncaa.org/game/index/4291093?org_id=30085
-2017	12582	23725	Medaille	02/28/2017	@ D'Youville		D'Youville		false		false	-									
-2017	12582	23725	Medaille	03/04/2017	@ Keuka		Keuka		false		false	-									
+2017	12582	23725	Medaille	02/28/2017	@ D'Youville		D'Youville	http://stats.ncaa.org/team/1059/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303120	http://stats.ncaa.org/game/index/4303120?org_id=1059
 2017	12582	23725	Medaille	03/04/2017	Wells@Keuka Park, NY		WellsKeuka Park, NY		false		false	-									
+2017	12582	23725	Medaille	03/04/2017	@ Keuka		Keuka		false		false	-									
 2017	12582	23725	Medaille	03/05/2017	SUNY Poly@Keuka Park, NY		SUNY PolyKeuka Park, NY		false		false	-									
 2017	12582	23725	Medaille	03/10/2017	@ Baruch		Baruch		false		false	-									
 2017	12582	23725	Medaille	03/11/2017	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
@@ -1118,8 +1115,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	23725	Medaille	03/15/2017	Hilbert		Hilbert		false		true	-									
 2017	12582	23725	Medaille	03/21/2017	@ Hilbert		Hilbert		false		false	-									
 2017	12582	23725	Medaille	03/24/2017	Wilson@Hamburg, NY		WilsonHamburg, NY		false		false	-									
-2017	12582	23725	Medaille	03/25/2017	Penn St.-Altoona@Hamburg, NY		Penn St.-AltoonaHamburg, NY		false		false	-									
 2017	12582	23725	Medaille	03/25/2017	Lancaster Bible@Hamburg, NY		Lancaster BibleHamburg, NY		false		false	-									
+2017	12582	23725	Medaille	03/25/2017	Penn St.-Altoona@Hamburg, NY		Penn St.-AltoonaHamburg, NY		false		false	-									
 2017	12582	23725	Medaille	04/01/2017	SUNY Poly@Buffalo, NY		SUNY PolyBuffalo, NY		false		false	-									
 2017	12582	23725	Medaille	04/01/2017	Keuka@Buffalo, NY		KeukaBuffalo, NY		false		false	-									
 2017	12582	23725	Medaille	04/02/2017	Wells@Buffalo, NY		WellsBuffalo, NY		false		false	-									
@@ -1131,10 +1128,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	403	Medgar Evers	02/16/2017	St. Joseph's (Brkln)		St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4294717	http://stats.ncaa.org/game/index/4294717?org_id=403
 2017	12582	403	Medgar Evers	02/20/2017	Staten Island @ Brooklyn, NY		Staten Island	http://stats.ncaa.org/team/675/12582	true	Brooklyn, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4295084	http://stats.ncaa.org/game/index/4295084?org_id=675
 2017	12582	403	Medgar Evers	02/20/2017	@ Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4295053	http://stats.ncaa.org/game/index/4295053?org_id=79
-2017	12582	403	Medgar Evers	02/23/2017	Lehman		Lehman		false		true	-									
-2017	12582	403	Medgar Evers	02/25/2017	Lancaster Bible		Lancaster Bible		false		true	-									
-2017	12582	403	Medgar Evers	02/25/2017	John Jay		John Jay		false		true	-									
-2017	12582	403	Medgar Evers	02/28/2017	John Jay		John Jay		false		true	-									
+2017	12582	403	Medgar Evers	02/22/2017	Albertus Magnus		Albertus Magnus	http://stats.ncaa.org/team/2798/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4297089	http://stats.ncaa.org/game/index/4297089?org_id=403
+2017	12582	403	Medgar Evers	02/23/2017	Lehman		Lehman	http://stats.ncaa.org/team/279/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303104	http://stats.ncaa.org/game/index/4303104?org_id=403
+2017	12582	403	Medgar Evers	02/25/2017	Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4300316	http://stats.ncaa.org/game/index/4300316?org_id=403
+2017	12582	403	Medgar Evers	02/25/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4300315	http://stats.ncaa.org/game/index/4300315?org_id=403
+2017	12582	403	Medgar Evers	02/28/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303429	http://stats.ncaa.org/game/index/4303429?org_id=403
 2017	12582	403	Medgar Evers	03/02/2017	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-									
 2017	12582	403	Medgar Evers	03/04/2017	@ Ramapo		Ramapo		false		false	-									
 2017	12582	403	Medgar Evers	03/04/2017	Nazareth@Ramapo, NJ		NazarethRamapo, NJ		false		false	-									
@@ -1159,13 +1157,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	27901	Mount Ida	02/10/2017	@ Elms		Elms	http://stats.ncaa.org/team/532/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4285014	http://stats.ncaa.org/game/index/4285014?org_id=532
 2017	12582	27901	Mount Ida	02/18/2017	Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294949	http://stats.ncaa.org/game/index/4294949?org_id=27901
 2017	12582	27901	Mount Ida	02/18/2017	Pratt		Pratt		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291072	http://stats.ncaa.org/game/index/4291072?org_id=27901
-2017	12582	27901	Mount Ida	02/22/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
-2017	12582	27901	Mount Ida	02/25/2017	@ Newbury		Newbury		false		false	-									
-2017	12582	27901	Mount Ida	02/25/2017	Southern Vt.@Helenic College		Southern Vt.Helenic College		false		false	-									
-2017	12582	27901	Mount Ida	02/28/2017	Rivier		Rivier		false		true	-									
+2017	12582	27901	Mount Ida	02/22/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296394	http://stats.ncaa.org/game/index/4296394?org_id=22626
+2017	12582	27901	Mount Ida	02/25/2017	@ Newbury		Newbury	http://stats.ncaa.org/team/21772/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4298921	http://stats.ncaa.org/game/index/4298921?org_id=21772
+2017	12582	27901	Mount Ida	02/25/2017	Southern Vt. @ Unknown		Southern Vt.	http://stats.ncaa.org/team/1379/12582	true	Unknown	true	W 3 - 0	true	3 - 0	false	3	0	false		4302005	http://stats.ncaa.org/game/index/4302005?org_id=1379
+2017	12582	27901	Mount Ida	02/28/2017	Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303060	http://stats.ncaa.org/game/index/4303060?org_id=27901
+2017	12582	27901	Mount Ida	02/28/2017	@ Rivier		Rivier		false		false	-									
 2017	12582	27901	Mount Ida	03/02/2017	@ Albertus Magnus		Albertus Magnus		false		false	-									
-2017	12582	27901	Mount Ida	03/04/2017	Regis (MA)@Brookline, MA		Regis (MA)Brookline, MA		false		false	-									
 2017	12582	27901	Mount Ida	03/04/2017	@ Newbury		Newbury		false		false	-									
+2017	12582	27901	Mount Ida	03/04/2017	Regis (MA)@Brookline, MA		Regis (MA)Brookline, MA		false		false	-									
 2017	12582	27901	Mount Ida	03/14/2017	@ Pine Manor		Pine Manor		false		false	-									
 2017	12582	27901	Mount Ida	03/18/2017	@ Rivier		Rivier		false		false	-									
 2017	12582	27901	Mount Ida	03/18/2017	Emmanuel (MA)@Nashua, NH		Emmanuel (MA)Nashua, NH		false		false	-									
@@ -1190,9 +1189,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	8567	Mt. St. Joseph	02/11/2017	@ Benedictine (IL)		Benedictine (IL)	http://stats.ncaa.org/team/296/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4286232	http://stats.ncaa.org/game/index/4286232?org_id=296
 2017	12582	8567	Mt. St. Joseph	02/17/2017	@ Adrian		Adrian	http://stats.ncaa.org/team/4/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4294767	http://stats.ncaa.org/game/index/4294767?org_id=8567
 2017	12582	8567	Mt. St. Joseph	02/18/2017	@ Olivet		Olivet	http://stats.ncaa.org/team/525/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290942	http://stats.ncaa.org/game/index/4290942?org_id=525
-2017	12582	8567	Mt. St. Joseph	02/24/2017	Nazareth		Nazareth		false		true	-									
+2017	12582	8567	Mt. St. Joseph	02/24/2017	Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4300021	http://stats.ncaa.org/game/index/4300021?org_id=8567
 2017	12582	8567	Mt. St. Joseph	02/25/2017	Cal Lutheran		Cal Lutheran		false		true	-									
-2017	12582	8567	Mt. St. Joseph	02/25/2017	Dominican (IL)		Dominican (IL)		false		true	-									
+2017	12582	8567	Mt. St. Joseph	02/25/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4300045	http://stats.ncaa.org/game/index/4300045?org_id=8567
 2017	12582	8567	Mt. St. Joseph	03/03/2017	Greenville		Greenville		false		true	-									
 2017	12582	8567	Mt. St. Joseph	03/04/2017	Fontbonne		Fontbonne		false		true	-									
 2017	12582	8567	Mt. St. Joseph	03/10/2017	Adrian		Adrian		false		true	-									
@@ -1242,7 +1241,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	479	NYU	02/11/2017	SUNY New Paltz @ Erie, Pa.		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	true	Erie, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4289357	http://stats.ncaa.org/game/index/4289357?org_id=479
 2017	12582	479	NYU	02/11/2017	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4288217	http://stats.ncaa.org/game/index/4288217?org_id=538
 2017	12582	479	NYU	02/15/2017	Stevens		Stevens	http://stats.ncaa.org/team/679/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4289992	http://stats.ncaa.org/game/index/4289992?org_id=479
-2017	12582	479	NYU	02/22/2017	New Jersey City		New Jersey City		false		true	-									
+2017	12582	479	NYU	02/22/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296806	http://stats.ncaa.org/game/index/4296806?org_id=479
 2017	12582	479	NYU	03/01/2017	@ Stevens		Stevens		false		false	-									
 2017	12582	479	NYU	03/04/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
 2017	12582	479	NYU	03/04/2017	East. Mennonite@Arlington, VA		East. MennoniteArlington, VA		false		false	-									
@@ -1274,10 +1273,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	461	Nazareth	02/17/2017	@ Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4294785	http://stats.ncaa.org/game/index/4294785?org_id=966
 2017	12582	461	Nazareth	02/18/2017	New Jersey City @ Glenside, PA		New Jersey City	http://stats.ncaa.org/team/319/12582	true	Glenside, PA	true	W 3 - 0	true	3 - 0	false	3	0	false		4294711	http://stats.ncaa.org/game/index/4294711?org_id=319
 2017	12582	461	Nazareth	02/18/2017	St. Joseph's (L.I.) @ Glenside, Pa.		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	true	Glenside, Pa.	true	W 3 - 1	true	3 - 1	false	3	1	false		4294664	http://stats.ncaa.org/game/index/4294664?org_id=461
-2017	12582	461	Nazareth	02/24/2017	MSOE@Cincinnati, Ohio		MSOECincinnati, Ohio		false		false	-									
-2017	12582	461	Nazareth	02/24/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
-2017	12582	461	Nazareth	02/25/2017	Dominican (IL)@Springfield, OH		Dominican (IL)Springfield, OH		false		false	-									
-2017	12582	461	Nazareth	02/25/2017	@ Wittenberg		Wittenberg		false		false	-									
+2017	12582	461	Nazareth	02/24/2017	MSOE @ Cincinnati, Ohio		MSOE	http://stats.ncaa.org/team/20220/12582	true	Cincinnati, Ohio	true	L 1 - 3	false	1 - 3	false	1	3	false		4300291	http://stats.ncaa.org/game/index/4300291?org_id=461
+2017	12582	461	Nazareth	02/24/2017	@ Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4300021	http://stats.ncaa.org/game/index/4300021?org_id=8567
+2017	12582	461	Nazareth	02/25/2017	@ Wittenberg		Wittenberg	http://stats.ncaa.org/team/806/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4299402	http://stats.ncaa.org/game/index/4299402?org_id=806
 2017	12582	461	Nazareth	03/04/2017	Medgar Evers@Ramapo, NJ		Medgar EversRamapo, NJ		false		false	-									
 2017	12582	461	Nazareth	03/04/2017	@ Ramapo		Ramapo		false		false	-									
 2017	12582	461	Nazareth	03/08/2017	Elmira		Elmira		false		true	-									
@@ -1298,11 +1296,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	319	New Jersey City	02/16/2017	@ Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290622	http://stats.ncaa.org/game/index/4290622?org_id=675
 2017	12582	319	New Jersey City	02/18/2017	Nazareth @ Glenside, PA		Nazareth	http://stats.ncaa.org/team/461/12582	true	Glenside, PA	true	L 0 - 3	false	0 - 3	false	0	3	false		4294711	http://stats.ncaa.org/game/index/4294711?org_id=319
 2017	12582	319	New Jersey City	02/18/2017	@ Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4291588	http://stats.ncaa.org/game/index/4291588?org_id=966
-2017	12582	319	New Jersey City	02/22/2017	@ NYU		NYU		false		false	-									
-2017	12582	319	New Jersey City	02/23/2017	@ Pratt		Pratt		false		false	-									
-2017	12582	319	New Jersey City	02/25/2017	Staten Island@Bronxville, NY		Staten IslandBronxville, NY		false		false	-									
-2017	12582	319	New Jersey City	02/25/2017	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
-2017	12582	319	New Jersey City	02/28/2017	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
+2017	12582	319	New Jersey City	02/22/2017	@ NYU		NYU	http://stats.ncaa.org/team/479/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296806	http://stats.ncaa.org/game/index/4296806?org_id=479
+2017	12582	319	New Jersey City	02/23/2017	@ Pratt		Pratt		false		false	W 3 - 0	true	3 - 0	false	3	0	false		4297221	http://stats.ncaa.org/game/index/4297221?org_id=319
+2017	12582	319	New Jersey City	02/25/2017	Staten Island @ Bronxville, N.Y.		Staten Island	http://stats.ncaa.org/team/675/12582	true	Bronxville, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4300128	http://stats.ncaa.org/game/index/4300128?org_id=319
+2017	12582	319	New Jersey City	02/25/2017	@ Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4298924	http://stats.ncaa.org/game/index/4298924?org_id=30163
+2017	12582	319	New Jersey City	02/28/2017	@ Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4303383	http://stats.ncaa.org/game/index/4303383?org_id=589
 2017	12582	319	New Jersey City	03/02/2017	Brooklyn		Brooklyn		false		true	-									
 2017	12582	319	New Jersey City	03/15/2017	Yeshiva		Yeshiva		false		true	-									
 2017	12582	319	New Jersey City	03/18/2017	@ St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		false	-									
@@ -1322,8 +1320,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	21772	Newbury	02/15/2017	@ Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4295215	http://stats.ncaa.org/game/index/4295215?org_id=21772
 2017	12582	21772	Newbury	02/18/2017	Johnson & Wales (RI) @ Boston, Mass.		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	true	Boston, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4290980	http://stats.ncaa.org/game/index/4290980?org_id=22626
 2017	12582	21772	Newbury	02/18/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4291339	http://stats.ncaa.org/game/index/4291339?org_id=762
-2017	12582	21772	Newbury	02/25/2017	Southern Vt.		Southern Vt.		false		true	-									
-2017	12582	21772	Newbury	02/25/2017	Mount Ida		Mount Ida		false		true	-									
+2017	12582	21772	Newbury	02/22/2017	Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296340	http://stats.ncaa.org/game/index/4296340?org_id=24317
+2017	12582	21772	Newbury	02/25/2017	Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4298611	http://stats.ncaa.org/game/index/4298611?org_id=21772
+2017	12582	21772	Newbury	02/25/2017	Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4298921	http://stats.ncaa.org/game/index/4298921?org_id=21772
 2017	12582	21772	Newbury	03/01/2017	@ Endicott		Endicott		false		false	-									
 2017	12582	21772	Newbury	03/04/2017	Regis (MA)		Regis (MA)		false		true	-									
 2017	12582	21772	Newbury	03/04/2017	Mount Ida		Mount Ida		false		true	-									
@@ -1332,8 +1331,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	21772	Newbury	03/18/2017	Dean		Dean		false		true	-									
 2017	12582	21772	Newbury	03/21/2017	@ Pine Manor		Pine Manor		false		false	-									
 2017	12582	21772	Newbury	03/22/2017	@ Southern Vt.		Southern Vt.		false		false	-									
-2017	12582	21772	Newbury	03/25/2017	Endicott		Endicott		false		true	-									
 2017	12582	21772	Newbury	03/25/2017	Eastern Nazarene@Beverly, MA		Eastern NazareneBeverly, MA		false		false	-									
+2017	12582	21772	Newbury	03/25/2017	Endicott		Endicott		false		true	-									
 2017	12582	21772	Newbury	03/28/2017	@ Regis (MA)		Regis (MA)		false		false	-									
 2017	12582	21772	Newbury	04/01/2017	Pine Manor		Pine Manor		false		true	-									
 2017	12582	21772	Newbury	04/01/2017	Lesley		Lesley		false		true	-									
@@ -1348,9 +1347,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	492	North Central (IL)	02/11/2017	Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4285472	http://stats.ncaa.org/game/index/4285472?org_id=492
 2017	12582	492	North Central (IL)	02/14/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4289176	http://stats.ncaa.org/game/index/4289176?org_id=492
 2017	12582	492	North Central (IL)	02/17/2017	@ Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291028	http://stats.ncaa.org/game/index/4291028?org_id=1196
-2017	12582	492	North Central (IL)	02/25/2017	Marian (WI)@Chicago, IL		Marian (WI)Chicago, IL		false		false	-									
-2017	12582	492	North Central (IL)	02/25/2017	@ IIT		IIT		false		false	-									
-2017	12582	492	North Central (IL)	02/28/2017	Benedictine (IL)		Benedictine (IL)		false		true	-									
+2017	12582	492	North Central (IL)	02/25/2017	Marian (WI) @ Chicago, Ill.		Marian (WI)	http://stats.ncaa.org/team/1196/12582	true	Chicago, Ill.	true	L 2 - 3	false	2 - 3	false	2	3	false		4299267	http://stats.ncaa.org/game/index/4299267?org_id=1196
+2017	12582	492	North Central (IL)	02/25/2017	@ IIT		IIT	http://stats.ncaa.org/team/30172/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4299612	http://stats.ncaa.org/game/index/4299612?org_id=30172
+2017	12582	492	North Central (IL)	02/28/2017	Benedictine (IL)		Benedictine (IL)	http://stats.ncaa.org/team/296/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4303283	http://stats.ncaa.org/game/index/4303283?org_id=492
 2017	12582	492	North Central (IL)	03/03/2017	@ Lakeland		Lakeland		false		false	-									
 2017	12582	492	North Central (IL)	03/17/2017	@ Dominican (IL)		Dominican (IL)		false		false	-									
 2017	12582	492	North Central (IL)	03/18/2017	Adrian		Adrian		false		true	-									
@@ -1365,8 +1364,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	492	North Central (IL)	04/07/2017	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-									
 2017	12582	492	North Central (IL)	04/08/2017	@ Wittenberg		Wittenberg		false		false	-									
 2017	12582	492	North Central (IL)	04/08/2017	@ Wittenberg		Wittenberg		false		false	-									
-2017	12582	525	Olivet	01/20/2017	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4275007	http://stats.ncaa.org/game/index/4275007?org_id=525
 2017	12582	525	Olivet	01/20/2017	Fontbonne		Fontbonne	http://stats.ncaa.org/team/11538/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4273077	http://stats.ncaa.org/game/index/4273077?org_id=525
+2017	12582	525	Olivet	01/20/2017	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4275007	http://stats.ncaa.org/game/index/4275007?org_id=525
 2017	12582	525	Olivet	01/27/2017	Carthage		Carthage	http://stats.ncaa.org/team/121/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4276390	http://stats.ncaa.org/game/index/4276390?org_id=525
 2017	12582	525	Olivet	02/03/2017	@ Mt. St. Joseph		Mt. St. Joseph	http://stats.ncaa.org/team/8567/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4280068	http://stats.ncaa.org/game/index/4280068?org_id=8567
 2017	12582	525	Olivet	02/15/2017	Adrian		Adrian	http://stats.ncaa.org/team/4/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4289644	http://stats.ncaa.org/game/index/4289644?org_id=525
@@ -1401,8 +1400,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	25719	Penn St.-Altoona	02/17/2017	Hilbert @ Lancaster, Pa.		Hilbert	http://stats.ncaa.org/team/8398/12582	true	Lancaster, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4290893	http://stats.ncaa.org/game/index/4290893?org_id=25719
 2017	12582	25719	Penn St.-Altoona	02/17/2017	Medaille @ Lancaster, Pa.		Medaille	http://stats.ncaa.org/team/23725/12582	true	Lancaster, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4295133	http://stats.ncaa.org/game/index/4295133?org_id=23725
 2017	12582	25719	Penn St.-Altoona	02/18/2017	D'Youville @ Lancaster, Pa.		D'Youville	http://stats.ncaa.org/team/1059/12582	true	Lancaster, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4291343	http://stats.ncaa.org/game/index/4291343?org_id=25719
-2017	12582	25719	Penn St.-Altoona	02/25/2017	Southern Va.		Southern Va.		false		true	-									
-2017	12582	25719	Penn St.-Altoona	02/25/2017	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2017	12582	25719	Penn St.-Altoona	02/25/2017	Southern Va.		Southern Va.	http://stats.ncaa.org/team/30164/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4299831	http://stats.ncaa.org/game/index/4299831?org_id=25719
+2017	12582	25719	Penn St.-Altoona	02/25/2017	Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4298775	http://stats.ncaa.org/game/index/4298775?org_id=25719
 2017	12582	25719	Penn St.-Altoona	03/01/2017	Thiel		Thiel		false		true	-									
 2017	12582	25719	Penn St.-Altoona	03/04/2017	Lancaster Bible@Chambersburg, PA		Lancaster BibleChambersburg, PA		false		false	-									
 2017	12582	25719	Penn St.-Altoona	03/04/2017	@ Wilson		Wilson		false		false	-									
@@ -1425,10 +1424,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	538	Penn St.-Behrend	02/11/2017	NYU		NYU	http://stats.ncaa.org/team/479/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4288217	http://stats.ncaa.org/game/index/4288217?org_id=538
 2017	12582	538	Penn St.-Behrend	02/14/2017	@ D'Youville		D'Youville	http://stats.ncaa.org/team/1059/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289052	http://stats.ncaa.org/game/index/4289052?org_id=1059
 2017	12582	538	Penn St.-Behrend	02/17/2017	East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4290906	http://stats.ncaa.org/game/index/4290906?org_id=538
-2017	12582	538	Penn St.-Behrend	02/22/2017	@ Thiel		Thiel		false		false	-									
-2017	12582	538	Penn St.-Behrend	02/25/2017	Southern Va.@Penn St.-Altoona		Southern Va.Penn St.-Altoona		false		false	-									
-2017	12582	538	Penn St.-Behrend	02/25/2017	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
-2017	12582	538	Penn St.-Behrend	02/26/2017	@ Wilson		Wilson		false		false	-									
+2017	12582	538	Penn St.-Behrend	02/22/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4296418	http://stats.ncaa.org/game/index/4296418?org_id=707
+2017	12582	538	Penn St.-Behrend	02/25/2017	Southern Va. @ Altoona, Pa.		Southern Va.	http://stats.ncaa.org/team/30164/12582	true	Altoona, Pa.	true	L 2 - 3	false	2 - 3	false	2	3	false		4302006	http://stats.ncaa.org/game/index/4302006?org_id=30164
+2017	12582	538	Penn St.-Behrend	02/25/2017	@ Penn St.-Altoona		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4298775	http://stats.ncaa.org/game/index/4298775?org_id=25719
+2017	12582	538	Penn St.-Behrend	02/26/2017	@ Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4300974	http://stats.ncaa.org/game/index/4300974?org_id=12973
 2017	12582	538	Penn St.-Behrend	03/02/2017	D'Youville		D'Youville		false		true	-									
 2017	12582	538	Penn St.-Behrend	03/09/2017	@ Wilson		Wilson		false		false	-									
 2017	12582	538	Penn St.-Behrend	03/10/2017	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
@@ -1451,8 +1450,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	544	Pine Manor	02/11/2017	Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4288279	http://stats.ncaa.org/game/index/4288279?org_id=24317
 2017	12582	544	Pine Manor	02/18/2017	@ Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4294663	http://stats.ncaa.org/game/index/4294663?org_id=1379
 2017	12582	544	Pine Manor	02/18/2017	@ Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4290997	http://stats.ncaa.org/game/index/4290997?org_id=1379
-2017	12582	544	Pine Manor	02/22/2017	@ Eastern Nazarene		Eastern Nazarene		false		false	-									
-2017	12582	544	Pine Manor	02/23/2017	Dean		Dean		false		true	-									
+2017	12582	544	Pine Manor	02/22/2017	@ Eastern Nazarene		Eastern Nazarene	http://stats.ncaa.org/team/1064/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296357	http://stats.ncaa.org/game/index/4296357?org_id=1064
+2017	12582	544	Pine Manor	02/23/2017	@ Dean		Dean		false		false	-									
 2017	12582	544	Pine Manor	03/07/2017	Emerson		Emerson		false		true	-									
 2017	12582	544	Pine Manor	03/09/2017	Eastern Nazarene		Eastern Nazarene		false		true	-									
 2017	12582	544	Pine Manor	03/14/2017	Mount Ida		Mount Ida		false		true	-									
@@ -1465,7 +1464,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30029	Purchase	02/04/2017	Wilkes @ New York, NY		Wilkes	http://stats.ncaa.org/team/784/12582	true	New York, NY	true	L 2 - 3	false	2 - 3	false	2	3	false		4283945	http://stats.ncaa.org/game/index/4283945?org_id=30029
 2017	12582	30029	Purchase	02/04/2017	@ CCNY		CCNY	http://stats.ncaa.org/team/480/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4284136	http://stats.ncaa.org/game/index/4284136?org_id=480
 2017	12582	30029	Purchase	02/08/2017	Lehman		Lehman	http://stats.ncaa.org/team/279/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4283908	http://stats.ncaa.org/game/index/4283908?org_id=30029
-2017	12582	30029	Purchase	02/23/2017	@ Staten Island		Staten Island		false		false	-									
+2017	12582	30029	Purchase	02/23/2017	@ Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4297037	http://stats.ncaa.org/game/index/4297037?org_id=675
 2017	12582	30029	Purchase	03/02/2017	@ Pratt		Pratt		false		false	-									
 2017	12582	30029	Purchase	03/04/2017	Mt. St. Vincent@Brooklyn, NY, NY		Mt. St. VincentBrooklyn, NY, NY		false		false	-									
 2017	12582	30029	Purchase	03/04/2017	@ Yeshiva		Yeshiva		false		false	-									
@@ -1495,7 +1494,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	564	Ramapo	02/11/2017	Johnson & Wales (RI) @ Poughkeepsie, NY		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	true	Poughkeepsie, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4286030	http://stats.ncaa.org/game/index/4286030?org_id=564
 2017	12582	564	Ramapo	02/11/2017	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285396	http://stats.ncaa.org/game/index/4285396?org_id=737
 2017	12582	564	Ramapo	02/15/2017	Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4289516	http://stats.ncaa.org/game/index/4289516?org_id=564
-2017	12582	564	Ramapo	02/22/2017	Elmira		Elmira		false		true	-									
+2017	12582	564	Ramapo	02/22/2017	Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4296377	http://stats.ncaa.org/game/index/4296377?org_id=564
 2017	12582	564	Ramapo	03/02/2017	@ Mt. St. Vincent		Mt. St. Vincent		false		false	-									
 2017	12582	564	Ramapo	03/04/2017	Medgar Evers		Medgar Evers		false		true	-									
 2017	12582	564	Ramapo	03/04/2017	Nazareth		Nazareth		false		true	-									
@@ -1519,11 +1518,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	569	Regis (MA)	02/04/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4290531	http://stats.ncaa.org/game/index/4290531?org_id=11036
 2017	12582	569	Regis (MA)	02/04/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4282004	http://stats.ncaa.org/game/index/4282004?org_id=569
 2017	12582	569	Regis (MA)	02/07/2017	Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4283023	http://stats.ncaa.org/game/index/4283023?org_id=762
-2017	12582	569	Regis (MA)	02/16/2017	@ Eastern Nazarene		Eastern Nazarene	http://stats.ncaa.org/team/1064/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290153	http://stats.ncaa.org/game/index/4290153?org_id=1064
+2017	12582	569	Regis (MA)	02/16/2017	@ Eastern Nazarene		Eastern Nazarene	http://stats.ncaa.org/team/1064/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4296311	http://stats.ncaa.org/game/index/4296311?org_id=1064
 2017	12582	569	Regis (MA)	02/18/2017	Kean @ Nashua, N.H.		Kean	http://stats.ncaa.org/team/329/12582	true	Nashua, N.H.	true	L 1 - 3	false	1 - 3	false	1	3	false		4291306	http://stats.ncaa.org/game/index/4291306?org_id=329
 2017	12582	569	Regis (MA)	02/18/2017	@ Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294666	http://stats.ncaa.org/game/index/4294666?org_id=18422
-2017	12582	569	Regis (MA)	02/21/2017	@ Lesley		Lesley		false		false	-									
-2017	12582	569	Regis (MA)	02/23/2017	@ Emerson		Emerson		false		false	-									
+2017	12582	569	Regis (MA)	02/23/2017	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4296992	http://stats.ncaa.org/game/index/4296992?org_id=214
+2017	12582	569	Regis (MA)	02/27/2017	Lesley		Lesley	http://stats.ncaa.org/team/24317/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4303382	http://stats.ncaa.org/game/index/4303382?org_id=24317
 2017	12582	569	Regis (MA)	03/01/2017	Elms		Elms		false		true	-									
 2017	12582	569	Regis (MA)	03/04/2017	@ Newbury		Newbury		false		false	-									
 2017	12582	569	Regis (MA)	03/04/2017	Mount Ida@Brookline, MA		Mount IdaBrookline, MA		false		false	-									
@@ -1541,24 +1540,26 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	18422	Rivier	01/21/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4274664	http://stats.ncaa.org/game/index/4274664?org_id=18422
 2017	12582	18422	Rivier	01/21/2017	Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4274649	http://stats.ncaa.org/game/index/4274649?org_id=18422
 2017	12582	18422	Rivier	01/27/2017	@ Kean		Kean	http://stats.ncaa.org/team/329/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4276321	http://stats.ncaa.org/game/index/4276321?org_id=329
-2017	12582	18422	Rivier	01/28/2017	Hunter @ Union, N.J.		Hunter	http://stats.ncaa.org/team/292/12582	true	Union, N.J.	true	L 0 - 3	false	0 - 3	false	0	3	false		4278393	http://stats.ncaa.org/game/index/4278393?org_id=292
 2017	12582	18422	Rivier	01/28/2017	Vassar @ Union, N.J.		Vassar	http://stats.ncaa.org/team/737/12582	true	Union, N.J.	true	L 2 - 3	false	2 - 3	false	2	3	false		4278297	http://stats.ncaa.org/game/index/4278297?org_id=18422
+2017	12582	18422	Rivier	01/28/2017	Hunter @ Union, N.J.		Hunter	http://stats.ncaa.org/team/292/12582	true	Union, N.J.	true	L 0 - 3	false	0 - 3	false	0	3	false		4278393	http://stats.ncaa.org/game/index/4278393?org_id=292
 2017	12582	18422	Rivier	02/03/2017	Medaille @ Nazareth College		Medaille	http://stats.ncaa.org/team/23725/12582	true	Nazareth College	true	W 3 - 1	true	3 - 1	false	3	1	false		4281800	http://stats.ncaa.org/game/index/4281800?org_id=23725
 2017	12582	18422	Rivier	02/04/2017	SUNY New Paltz @ Nazareth College		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4282031	http://stats.ncaa.org/game/index/4282031?org_id=475
 2017	12582	18422	Rivier	02/04/2017	UC Santa Cruz @ Nazareth College		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	true	Nazareth College	true	L 0 - 3	false	0 - 3	false	0	3	false		4281028	http://stats.ncaa.org/game/index/4281028?org_id=18422
 2017	12582	18422	Rivier	02/15/2017	Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4289494	http://stats.ncaa.org/game/index/4289494?org_id=18422
 2017	12582	18422	Rivier	02/18/2017	Kean		Kean	http://stats.ncaa.org/team/329/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4291315	http://stats.ncaa.org/game/index/4291315?org_id=18422
 2017	12582	18422	Rivier	02/18/2017	Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294666	http://stats.ncaa.org/game/index/4294666?org_id=18422
-2017	12582	18422	Rivier	02/24/2017	Arcadia@Utica, NY		ArcadiaUtica, NY		false		false	-									
-2017	12582	18422	Rivier	02/25/2017	@ SUNY Poly		SUNY Poly		false		false	-									
-2017	12582	18422	Rivier	02/25/2017	Elmira@Utica, NY		ElmiraUtica, NY		false		false	-									
+2017	12582	18422	Rivier	02/24/2017	Arcadia @ Marcy, NY		Arcadia	http://stats.ncaa.org/team/966/12582	true	Marcy, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4300314	http://stats.ncaa.org/game/index/4300314?org_id=966
+2017	12582	18422	Rivier	02/25/2017	Elmira @ Marcy, N.Y.		Elmira	http://stats.ncaa.org/team/213/12582	true	Marcy, N.Y.	true	W 3 - 0	true	3 - 0	false	3	0	false		4300842	http://stats.ncaa.org/game/index/4300842?org_id=18422
+2017	12582	18422	Rivier	02/25/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4299640	http://stats.ncaa.org/game/index/4299640?org_id=9500
+2017	12582	18422	Rivier	02/27/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4302690	http://stats.ncaa.org/game/index/4302690?org_id=762
+2017	12582	18422	Rivier	02/28/2017	@ Mount Ida		Mount Ida	http://stats.ncaa.org/team/27901/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303060	http://stats.ncaa.org/game/index/4303060?org_id=27901
 2017	12582	18422	Rivier	02/28/2017	@ Mount Ida		Mount Ida		false		false	-									
 2017	12582	18422	Rivier	03/03/2017	@ MSOE		MSOE		false		false	-									
-2017	12582	18422	Rivier	03/04/2017	Loras@Kenosha, WI		LorasKenosha, WI		false		false	-									
 2017	12582	18422	Rivier	03/04/2017	@ Carthage		Carthage		false		false	-									
+2017	12582	18422	Rivier	03/04/2017	Loras@Kenosha, WI		LorasKenosha, WI		false		false	-									
 2017	12582	18422	Rivier	03/16/2017	Emerson		Emerson		false		true	-									
-2017	12582	18422	Rivier	03/18/2017	Mount Ida		Mount Ida		false		true	-									
 2017	12582	18422	Rivier	03/18/2017	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
+2017	12582	18422	Rivier	03/18/2017	Mount Ida		Mount Ida		false		true	-									
 2017	12582	18422	Rivier	03/21/2017	@ Johnson & Wales (RI)		Johnson & Wales (RI)		false		false	-									
 2017	12582	18422	Rivier	03/23/2017	@ Emmanuel (MA)		Emmanuel (MA)		false		false	-									
 2017	12582	18422	Rivier	03/26/2017	@ Lasell		Lasell		false		false	-									
@@ -1566,8 +1567,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	18422	Rivier	03/28/2017	Wentworth		Wentworth		false		true	-									
 2017	12582	18422	Rivier	03/31/2017	@ Springfield		Springfield		false		false	-									
 2017	12582	18422	Rivier	04/06/2017	Lasell		Lasell		false		true	-									
-2017	12582	18422	Rivier	04/08/2017	Albertus Magnus@Boston, MA		Albertus MagnusBoston, MA		false		false	-									
 2017	12582	18422	Rivier	04/08/2017	@ Emerson		Emerson		false		false	-									
+2017	12582	18422	Rivier	04/08/2017	Albertus Magnus@Boston, MA		Albertus MagnusBoston, MA		false		false	-									
 2017	12582	589	Rutgers-Newark	01/20/2017	UC Santa Cruz		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4274619	http://stats.ncaa.org/game/index/4274619?org_id=589
 2017	12582	589	Rutgers-Newark	01/20/2017	Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4274618	http://stats.ncaa.org/game/index/4274618?org_id=589
 2017	12582	589	Rutgers-Newark	01/21/2017	Lasell		Lasell	http://stats.ncaa.org/team/8486/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4274896	http://stats.ncaa.org/game/index/4274896?org_id=589
@@ -1579,11 +1580,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	589	Rutgers-Newark	02/11/2017	Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4285681	http://stats.ncaa.org/game/index/4285681?org_id=589
 2017	12582	589	Rutgers-Newark	02/14/2017	Cairn		Cairn	http://stats.ncaa.org/team/1305/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4289070	http://stats.ncaa.org/game/index/4289070?org_id=589
 2017	12582	589	Rutgers-Newark	02/18/2017	@ Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4292055	http://stats.ncaa.org/game/index/4292055?org_id=21852
-2017	12582	589	Rutgers-Newark	02/22/2017	@ Stevens		Stevens		false		false	-									
-2017	12582	589	Rutgers-Newark	02/24/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
-2017	12582	589	Rutgers-Newark	02/25/2017	@ East. Mennonite		East. Mennonite		false		false	-									
-2017	12582	589	Rutgers-Newark	02/25/2017	Bard@Harrisonburg, VA		BardHarrisonburg, VA		false		false	-									
-2017	12582	589	Rutgers-Newark	02/28/2017	New Jersey City		New Jersey City		false		true	-									
+2017	12582	589	Rutgers-Newark	02/22/2017	@ Stevens		Stevens	http://stats.ncaa.org/team/679/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4303232	http://stats.ncaa.org/game/index/4303232?org_id=679
+2017	12582	589	Rutgers-Newark	02/24/2017	@ Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4298084	http://stats.ncaa.org/game/index/4298084?org_id=394
+2017	12582	589	Rutgers-Newark	02/25/2017	@ East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4298734	http://stats.ncaa.org/game/index/4298734?org_id=203
+2017	12582	589	Rutgers-Newark	02/25/2017	Bard @ Harrisonburg, Va.		Bard	http://stats.ncaa.org/team/962/12582	true	Harrisonburg, Va.	true	W 3 - 0	true	3 - 0	false	3	0	false		4298698	http://stats.ncaa.org/game/index/4298698?org_id=589
+2017	12582	589	Rutgers-Newark	02/28/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4303383	http://stats.ncaa.org/game/index/4303383?org_id=589
 2017	12582	589	Rutgers-Newark	03/03/2017	St. Joseph's (L.I.)@Reading, PA		St. Joseph's (L.I.)Reading, PA		false		false	-									
 2017	12582	589	Rutgers-Newark	03/03/2017	@ Alvernia		Alvernia		false		false	-									
 2017	12582	589	Rutgers-Newark	03/04/2017	Staten Island@Brooklyn, NY		Staten IslandBrooklyn, NY		false		false	-									
@@ -1611,11 +1612,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	475	SUNY New Paltz	02/05/2017	St. Joseph's (L.I.)		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4281816	http://stats.ncaa.org/game/index/4281816?org_id=475
 2017	12582	475	SUNY New Paltz	02/05/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4281437	http://stats.ncaa.org/game/index/4281437?org_id=475
 2017	12582	475	SUNY New Paltz	02/08/2017	Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4284170	http://stats.ncaa.org/game/index/4284170?org_id=475
-2017	12582	475	SUNY New Paltz	02/11/2017	NYU @ Erie, Pa.		NYU	http://stats.ncaa.org/team/479/12582	true	Erie, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4289357	http://stats.ncaa.org/game/index/4289357?org_id=479
 2017	12582	475	SUNY New Paltz	02/11/2017	@ Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4285886	http://stats.ncaa.org/game/index/4285886?org_id=538
+2017	12582	475	SUNY New Paltz	02/11/2017	NYU @ Erie, Pa.		NYU	http://stats.ncaa.org/team/479/12582	true	Erie, Pa.	true	L 0 - 3	false	0 - 3	false	0	3	false		4289357	http://stats.ncaa.org/game/index/4289357?org_id=479
 2017	12582	475	SUNY New Paltz	02/15/2017	Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4289579	http://stats.ncaa.org/game/index/4289579?org_id=475
 2017	12582	475	SUNY New Paltz	02/18/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291912	http://stats.ncaa.org/game/index/4291912?org_id=9500
-2017	12582	475	SUNY New Paltz	02/22/2017	@ Kean		Kean		false		false	-									
+2017	12582	475	SUNY New Paltz	02/23/2017	@ Kean		Kean	http://stats.ncaa.org/team/329/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4297011	http://stats.ncaa.org/game/index/4297011?org_id=329
 2017	12582	475	SUNY New Paltz	03/01/2017	Springfield		Springfield		false		true	-									
 2017	12582	475	SUNY New Paltz	03/03/2017	Juniata		Juniata		false		true	-									
 2017	12582	475	SUNY New Paltz	03/11/2017	Elmira		Elmira		false		true	-									
@@ -1633,8 +1634,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	9500	SUNY Poly	01/25/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4275429	http://stats.ncaa.org/game/index/4275429?org_id=9500
 2017	12582	9500	SUNY Poly	02/01/2017	@ Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4278990	http://stats.ncaa.org/game/index/4278990?org_id=1379
 2017	12582	9500	SUNY Poly	02/03/2017	Penn St.-Altoona		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4280086	http://stats.ncaa.org/game/index/4280086?org_id=9500
-2017	12582	9500	SUNY Poly	02/04/2017	Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4280471	http://stats.ncaa.org/game/index/4280471?org_id=9500
 2017	12582	9500	SUNY Poly	02/04/2017	Lancaster Bible		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4280236	http://stats.ncaa.org/game/index/4280236?org_id=9500
+2017	12582	9500	SUNY Poly	02/04/2017	Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4280471	http://stats.ncaa.org/game/index/4280471?org_id=9500
 2017	12582	9500	SUNY Poly	02/09/2017	Keuka		Keuka	http://stats.ncaa.org/team/1159/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4295492	http://stats.ncaa.org/game/index/4295492?org_id=9500
 2017	12582	9500	SUNY Poly	02/11/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4287951	http://stats.ncaa.org/game/index/4287951?org_id=9500
 2017	12582	9500	SUNY Poly	02/11/2017	Arcadia @ Springfield, Mass.		Arcadia	http://stats.ncaa.org/team/966/12582	true	Springfield, Mass.	true	L 1 - 3	false	1 - 3	false	1	3	false		4287950	http://stats.ncaa.org/game/index/4287950?org_id=9500
@@ -1642,8 +1643,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	9500	SUNY Poly	02/12/2017	@ Kean		Kean	http://stats.ncaa.org/team/329/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4287045	http://stats.ncaa.org/game/index/4287045?org_id=329
 2017	12582	9500	SUNY Poly	02/15/2017	Wells		Wells	http://stats.ncaa.org/team/761/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4289647	http://stats.ncaa.org/game/index/4289647?org_id=9500
 2017	12582	9500	SUNY Poly	02/18/2017	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4291912	http://stats.ncaa.org/game/index/4291912?org_id=9500
-2017	12582	9500	SUNY Poly	02/25/2017	St. Joseph's (L.I.)		St. Joseph's (L.I.)		false		true	-									
-2017	12582	9500	SUNY Poly	02/25/2017	Rivier		Rivier		false		true	-									
+2017	12582	9500	SUNY Poly	02/24/2017	St. Joseph's (L.I.)		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4297857	http://stats.ncaa.org/game/index/4297857?org_id=9500
+2017	12582	9500	SUNY Poly	02/25/2017	Wilkes		Wilkes	http://stats.ncaa.org/team/784/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4299639	http://stats.ncaa.org/game/index/4299639?org_id=9500
+2017	12582	9500	SUNY Poly	02/25/2017	Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4299640	http://stats.ncaa.org/game/index/4299640?org_id=9500
 2017	12582	9500	SUNY Poly	03/04/2017	D'Youville@Keuka Park, N.Y.		D'YouvilleKeuka Park, N.Y.		false		false	-									
 2017	12582	9500	SUNY Poly	03/04/2017	Hilbert@Keuka Park, NY		HilbertKeuka Park, NY		false		false	-									
 2017	12582	9500	SUNY Poly	03/05/2017	Medaille@Keuka Park, NY		MedailleKeuka Park, NY		false		false	-									
@@ -1669,9 +1671,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	11036	Sage Colleges	02/11/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285407	http://stats.ncaa.org/game/index/4285407?org_id=213
 2017	12582	11036	Sage Colleges	02/11/2017	D'Youville @ Elmira, N.Y.		D'Youville	http://stats.ncaa.org/team/1059/12582	true	Elmira, N.Y.	true	W 3 - 2	true	3 - 2	false	3	2	false		4288050	http://stats.ncaa.org/game/index/4288050?org_id=11036
 2017	12582	11036	Sage Colleges	02/15/2017	Southern Vt.		Southern Vt.	http://stats.ncaa.org/team/1379/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4289664	http://stats.ncaa.org/game/index/4289664?org_id=11036
-2017	12582	11036	Sage Colleges	02/23/2017	@ Vassar		Vassar		false		false	-									
-2017	12582	11036	Sage Colleges	02/25/2017	Johnson & Wales (RI)@Springfield, MA		Johnson & Wales (RI)Springfield, MA		false		false	-									
-2017	12582	11036	Sage Colleges	02/25/2017	@ Springfield		Springfield		false		false	-									
+2017	12582	11036	Sage Colleges	02/23/2017	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296939	http://stats.ncaa.org/game/index/4296939?org_id=737
+2017	12582	11036	Sage Colleges	02/25/2017	Johnson & Wales (RI) @ Springfield, Mass.		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	true	Springfield, Mass.	true	W 3 - 0	true	3 - 0	false	3	0	false		4299838	http://stats.ncaa.org/game/index/4299838?org_id=22626
+2017	12582	11036	Sage Colleges	02/25/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4298715	http://stats.ncaa.org/game/index/4298715?org_id=673
 2017	12582	11036	Sage Colleges	03/01/2017	@ Wells		Wells		false		false	-									
 2017	12582	11036	Sage Colleges	03/04/2017	@ Lehman		Lehman		false		false	-									
 2017	12582	11036	Sage Colleges	03/04/2017	@ Pratt		Pratt		false		false	-									
@@ -1691,9 +1693,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30163	Sarah Lawrence	02/10/2017	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4285019	http://stats.ncaa.org/game/index/4285019?org_id=30163
 2017	12582	30163	Sarah Lawrence	02/11/2017	Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4286121	http://stats.ncaa.org/game/index/4286121?org_id=30163
 2017	12582	30163	Sarah Lawrence	02/11/2017	Pratt		Pratt		false		true	L 0 - 3	false	0 - 3	false	0	3	false		4287946	http://stats.ncaa.org/game/index/4287946?org_id=30163
-2017	12582	30163	Sarah Lawrence	02/22/2017	Bard		Bard		false		true	-									
-2017	12582	30163	Sarah Lawrence	02/25/2017	Staten Island		Staten Island		false		true	-									
-2017	12582	30163	Sarah Lawrence	02/25/2017	New Jersey City		New Jersey City		false		true	-									
+2017	12582	30163	Sarah Lawrence	02/22/2017	Bard		Bard	http://stats.ncaa.org/team/962/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4296342	http://stats.ncaa.org/game/index/4296342?org_id=30163
+2017	12582	30163	Sarah Lawrence	02/25/2017	Staten Island		Staten Island	http://stats.ncaa.org/team/675/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4298593	http://stats.ncaa.org/game/index/4298593?org_id=30163
+2017	12582	30163	Sarah Lawrence	02/25/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4298924	http://stats.ncaa.org/game/index/4298924?org_id=30163
 2017	12582	30163	Sarah Lawrence	03/04/2017	Mt. St. Vincent@Brooklyn, NY		Mt. St. VincentBrooklyn, NY		false		false	-									
 2017	12582	30163	Sarah Lawrence	03/04/2017	Purchase@Brooklyn, NY		PurchaseBrooklyn, NY		false		false	-									
 2017	12582	30163	Sarah Lawrence	03/07/2017	Yeshiva		Yeshiva		false		true	-									
@@ -1723,11 +1725,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30164	Southern Va.	02/17/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4290905	http://stats.ncaa.org/game/index/4290905?org_id=2730
 2017	12582	30164	Southern Va.	02/18/2017	Albertus Magnus @ Jamaica, NY		Albertus Magnus	http://stats.ncaa.org/team/2798/12582	true	Jamaica, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4290943	http://stats.ncaa.org/game/index/4290943?org_id=2798
 2017	12582	30164	Southern Va.	02/18/2017	St. Joseph's (Brkln) @ Jamaica, NY		St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12582	true	Jamaica, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4290960	http://stats.ncaa.org/game/index/4290960?org_id=30072
-2017	12582	30164	Southern Va.	02/21/2017	@ Bluefield Col.		Bluefield Col.		false		false	-									
-2017	12582	30164	Southern Va.	02/24/2017	@ Wilson		Wilson		false		false	-									
-2017	12582	30164	Southern Va.	02/24/2017	@ Wilson		Wilson		false		false	-									
-2017	12582	30164	Southern Va.	02/25/2017	Penn St.-Behrend@Penn St.-Altoona		Penn St.-BehrendPenn St.-Altoona		false		false	-									
-2017	12582	30164	Southern Va.	02/25/2017	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
+2017	12582	30164	Southern Va.	02/21/2017	Bluefield Col.		Bluefield Col.		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296094	http://stats.ncaa.org/game/index/4296094?org_id=30164
+2017	12582	30164	Southern Va.	02/24/2017	@ Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4298100	http://stats.ncaa.org/game/index/4298100?org_id=12973
+2017	12582	30164	Southern Va.	02/24/2017	@ Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4300308	http://stats.ncaa.org/game/index/4300308?org_id=12973
+2017	12582	30164	Southern Va.	02/25/2017	Penn St.-Behrend @ Altoona, Pa.		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	true	Altoona, Pa.	true	W 3 - 2	true	3 - 2	false	3	2	false		4302006	http://stats.ncaa.org/game/index/4302006?org_id=30164
+2017	12582	30164	Southern Va.	02/25/2017	@ Penn St.-Altoona		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4299831	http://stats.ncaa.org/game/index/4299831?org_id=25719
 2017	12582	30164	Southern Va.	03/10/2017	@ King (TN)		King (TN)		false		false	-									
 2017	12582	30164	Southern Va.	03/18/2017	@ Pfeiffer		Pfeiffer		false		false	-									
 2017	12582	30164	Southern Va.	03/28/2017	Bluefield Col.		Bluefield Col.		false		true	-									
@@ -1736,18 +1738,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30164	Southern Va.	04/08/2017	Marymount (VA)@Hoboken, NJ		Marymount (VA)Hoboken, NJ		false		false	-									
 2017	12582	1379	Southern Vt.	01/24/2017	@ Bard		Bard	http://stats.ncaa.org/team/962/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4275791	http://stats.ncaa.org/game/index/4275791?org_id=1379
 2017	12582	1379	Southern Vt.	02/01/2017	SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4278990	http://stats.ncaa.org/game/index/4278990?org_id=1379
-2017	12582	1379	Southern Vt.	02/10/2017	Nazareth @ Elmira, N.Y.		Nazareth	http://stats.ncaa.org/team/461/12582	true	Elmira, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4288431	http://stats.ncaa.org/game/index/4288431?org_id=461
 2017	12582	1379	Southern Vt.	02/10/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285302	http://stats.ncaa.org/game/index/4285302?org_id=213
+2017	12582	1379	Southern Vt.	02/10/2017	Nazareth @ Elmira, N.Y.		Nazareth	http://stats.ncaa.org/team/461/12582	true	Elmira, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4288431	http://stats.ncaa.org/game/index/4288431?org_id=461
 2017	12582	1379	Southern Vt.	02/11/2017	D'Youville @ Elmira, N.Y.		D'Youville	http://stats.ncaa.org/team/1059/12582	true	Elmira, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4285414	http://stats.ncaa.org/game/index/4285414?org_id=1379
 2017	12582	1379	Southern Vt.	02/11/2017	Penn St.-Altoona @ Elmira, N.Y.		Penn St.-Altoona	http://stats.ncaa.org/team/25719/12582	true	Elmira, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4286025	http://stats.ncaa.org/game/index/4286025?org_id=25719
 2017	12582	1379	Southern Vt.	02/15/2017	@ Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4289664	http://stats.ncaa.org/game/index/4289664?org_id=11036
 2017	12582	1379	Southern Vt.	02/18/2017	Pine Manor		Pine Manor	http://stats.ncaa.org/team/544/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4290997	http://stats.ncaa.org/game/index/4290997?org_id=1379
 2017	12582	1379	Southern Vt.	02/18/2017	Pine Manor		Pine Manor	http://stats.ncaa.org/team/544/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4294663	http://stats.ncaa.org/game/index/4294663?org_id=1379
-2017	12582	1379	Southern Vt.	02/20/2017	Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295156	http://stats.ncaa.org/game/index/4295156?org_id=1379
-2017	12582	1379	Southern Vt.	02/21/2017	@ Elms		Elms		false		false	-									
-2017	12582	1379	Southern Vt.	02/21/2017	@ Elms		Elms		false		false	-									
-2017	12582	1379	Southern Vt.	02/25/2017	@ Newbury		Newbury		false		false	-									
-2017	12582	1379	Southern Vt.	02/25/2017	Mount Ida@Helenic College		Mount IdaHelenic College		false		false	-									
+2017	12582	1379	Southern Vt.	02/20/2017	Dean		Dean	http://stats.ncaa.org/team/30219/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296020	http://stats.ncaa.org/game/index/4296020?org_id=1379
+2017	12582	1379	Southern Vt.	02/21/2017	Elms		Elms	http://stats.ncaa.org/team/532/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4296004	http://stats.ncaa.org/game/index/4296004?org_id=1379
+2017	12582	1379	Southern Vt.	02/25/2017	@ Newbury		Newbury	http://stats.ncaa.org/team/21772/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4298611	http://stats.ncaa.org/game/index/4298611?org_id=21772
+2017	12582	1379	Southern Vt.	02/25/2017	Mount Ida @ Unknown		Mount Ida	http://stats.ncaa.org/team/27901/12582	true	Unknown	true	L 0 - 3	false	0 - 3	false	0	3	false		4302005	http://stats.ncaa.org/game/index/4302005?org_id=1379
 2017	12582	1379	Southern Vt.	03/04/2017	Eastern Nazarene		Eastern Nazarene		false		true	-									
 2017	12582	1379	Southern Vt.	03/08/2017	Endicott		Endicott		false		true	-									
 2017	12582	1379	Southern Vt.	03/10/2017	@ Keuka		Keuka		false		false	-									
@@ -1775,9 +1776,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	673	Springfield	02/14/2017	@ Wentworth		Wentworth	http://stats.ncaa.org/team/762/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4289077	http://stats.ncaa.org/game/index/4289077?org_id=762
 2017	12582	673	Springfield	02/18/2017	Wells		Wells	http://stats.ncaa.org/team/761/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291139	http://stats.ncaa.org/game/index/4291139?org_id=673
 2017	12582	673	Springfield	02/18/2017	Lasell		Lasell	http://stats.ncaa.org/team/8486/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4292061	http://stats.ncaa.org/game/index/4292061?org_id=8486
-2017	12582	673	Springfield	02/22/2017	@ Vassar		Vassar		false		false	-									
-2017	12582	673	Springfield	02/25/2017	Sage Colleges		Sage Colleges		false		true	-									
-2017	12582	673	Springfield	02/25/2017	Johnson & Wales (RI)		Johnson & Wales (RI)		false		true	-									
+2017	12582	673	Springfield	02/22/2017	@ Vassar		Vassar	http://stats.ncaa.org/team/737/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4296319	http://stats.ncaa.org/game/index/4296319?org_id=737
+2017	12582	673	Springfield	02/25/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4298715	http://stats.ncaa.org/game/index/4298715?org_id=673
+2017	12582	673	Springfield	02/25/2017	Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4299386	http://stats.ncaa.org/game/index/4299386?org_id=673
 2017	12582	673	Springfield	03/01/2017	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
 2017	12582	673	Springfield	03/04/2017	Hunter		Hunter		false		true	-									
 2017	12582	673	Springfield	03/04/2017	Wentworth		Wentworth		false		true	-									
@@ -1819,17 +1820,16 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1340	St. Joseph's (L.I.)	01/24/2017	Medgar Evers		Medgar Evers	http://stats.ncaa.org/team/403/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4275253	http://stats.ncaa.org/game/index/4275253?org_id=1340
 2017	12582	1340	St. Joseph's (L.I.)	01/26/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4277747	http://stats.ncaa.org/game/index/4277747?org_id=2730
 2017	12582	1340	St. Joseph's (L.I.)	02/02/2017	@ Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4279551	http://stats.ncaa.org/game/index/4279551?org_id=79
-2017	12582	1340	St. Joseph's (L.I.)	02/05/2017	@ SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4281816	http://stats.ncaa.org/game/index/4281816?org_id=475
 2017	12582	1340	St. Joseph's (L.I.)	02/05/2017	Alderson Broaddus @ New Paltz, NY		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	true	New Paltz, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4281541	http://stats.ncaa.org/game/index/4281541?org_id=1340
+2017	12582	1340	St. Joseph's (L.I.)	02/05/2017	@ SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4281816	http://stats.ncaa.org/game/index/4281816?org_id=475
 2017	12582	1340	St. Joseph's (L.I.)	02/08/2017	John Jay		John Jay	http://stats.ncaa.org/team/321/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4284190	http://stats.ncaa.org/game/index/4284190?org_id=1340
 2017	12582	1340	St. Joseph's (L.I.)	02/10/2017	Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4284950	http://stats.ncaa.org/game/index/4284950?org_id=1340
-2017	12582	1340	St. Joseph's (L.I.)	02/11/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285368	http://stats.ncaa.org/game/index/4285368?org_id=292
 2017	12582	1340	St. Joseph's (L.I.)	02/11/2017	Emmanuel (MA) @ New York, NY		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	true	New York, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4290535	http://stats.ncaa.org/game/index/4290535?org_id=215
+2017	12582	1340	St. Joseph's (L.I.)	02/11/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4285368	http://stats.ncaa.org/game/index/4285368?org_id=292
 2017	12582	1340	St. Joseph's (L.I.)	02/18/2017	Nazareth @ Glenside, Pa.		Nazareth	http://stats.ncaa.org/team/461/12582	true	Glenside, Pa.	true	L 1 - 3	false	1 - 3	false	1	3	false		4294664	http://stats.ncaa.org/game/index/4294664?org_id=461
 2017	12582	1340	St. Joseph's (L.I.)	02/18/2017	Brooklyn @ Glenside, Pa.		Brooklyn	http://stats.ncaa.org/team/79/12582	true	Glenside, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4291796	http://stats.ncaa.org/game/index/4291796?org_id=79
-2017	12582	1340	St. Joseph's (L.I.)	02/24/2017	Elmira@Utica, NY		ElmiraUtica, NY		false		false	-									
-2017	12582	1340	St. Joseph's (L.I.)	02/25/2017	@ SUNY Poly		SUNY Poly		false		false	-									
-2017	12582	1340	St. Joseph's (L.I.)	02/25/2017	Arcadia@Utica, NY		ArcadiaUtica, NY		false		false	-									
+2017	12582	1340	St. Joseph's (L.I.)	02/24/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4297857	http://stats.ncaa.org/game/index/4297857?org_id=9500
+2017	12582	1340	St. Joseph's (L.I.)	02/25/2017	Arcadia @ Marcy, N.Y.		Arcadia	http://stats.ncaa.org/team/966/12582	true	Marcy, N.Y.	true	L 2 - 3	false	2 - 3	false	2	3	false		4301956	http://stats.ncaa.org/game/index/4301956?org_id=1340
 2017	12582	1340	St. Joseph's (L.I.)	03/02/2017	@ Medgar Evers		Medgar Evers		false		false	-									
 2017	12582	1340	St. Joseph's (L.I.)	03/03/2017	Rutgers-Newark@Reading, PA		Rutgers-NewarkReading, PA		false		false	-									
 2017	12582	1340	St. Joseph's (L.I.)	03/03/2017	@ Alvernia		Alvernia		false		false	-									
@@ -1848,10 +1848,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	675	Staten Island	02/16/2017	New Jersey City		New Jersey City	http://stats.ncaa.org/team/319/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4290622	http://stats.ncaa.org/game/index/4290622?org_id=675
 2017	12582	675	Staten Island	02/20/2017	Medgar Evers @ Brooklyn, NY		Medgar Evers	http://stats.ncaa.org/team/403/12582	true	Brooklyn, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4295084	http://stats.ncaa.org/game/index/4295084?org_id=675
 2017	12582	675	Staten Island	02/20/2017	@ Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4295054	http://stats.ncaa.org/game/index/4295054?org_id=79
-2017	12582	675	Staten Island	02/23/2017	Purchase		Purchase		false		true	-									
-2017	12582	675	Staten Island	02/25/2017	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
-2017	12582	675	Staten Island	02/25/2017	New Jersey City@Bronxville, NY		New Jersey CityBronxville, NY		false		false	-									
-2017	12582	675	Staten Island	02/28/2017	Hunter		Hunter		false		true	-									
+2017	12582	675	Staten Island	02/23/2017	Purchase		Purchase	http://stats.ncaa.org/team/30029/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4297037	http://stats.ncaa.org/game/index/4297037?org_id=675
+2017	12582	675	Staten Island	02/25/2017	@ Sarah Lawrence		Sarah Lawrence	http://stats.ncaa.org/team/30163/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4298593	http://stats.ncaa.org/game/index/4298593?org_id=30163
+2017	12582	675	Staten Island	02/25/2017	New Jersey City @ Bronxville, N.Y.		New Jersey City	http://stats.ncaa.org/team/319/12582	true	Bronxville, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4300128	http://stats.ncaa.org/game/index/4300128?org_id=319
+2017	12582	675	Staten Island	02/28/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4303064	http://stats.ncaa.org/game/index/4303064?org_id=292
 2017	12582	675	Staten Island	03/04/2017	Rutgers-Newark@Brooklyn, NY		Rutgers-NewarkBrooklyn, NY		false		false	-									
 2017	12582	675	Staten Island	03/04/2017	@ St. Joseph's (Brkln)		St. Joseph's (Brkln)		false		false	-									
 2017	12582	675	Staten Island	03/07/2017	@ Baruch		Baruch		false		false	-									
@@ -1881,8 +1881,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	679	Stevens	02/15/2017	@ NYU		NYU	http://stats.ncaa.org/team/479/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4289992	http://stats.ncaa.org/game/index/4289992?org_id=479
 2017	12582	679	Stevens	02/18/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291828	http://stats.ncaa.org/game/index/4291828?org_id=213
 2017	12582	679	Stevens	02/18/2017	Vassar @ Elmira, N.Y.		Vassar	http://stats.ncaa.org/team/737/12582	true	Elmira, N.Y.	true	L 1 - 3	false	1 - 3	false	1	3	false		4292664	http://stats.ncaa.org/game/index/4292664?org_id=737
-2017	12582	679	Stevens	02/22/2017	Rutgers-Newark		Rutgers-Newark		false		true	-									
-2017	12582	679	Stevens	02/25/2017	Baruch		Baruch		false		true	-									
+2017	12582	679	Stevens	02/22/2017	Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4303232	http://stats.ncaa.org/game/index/4303232?org_id=679
+2017	12582	679	Stevens	02/25/2017	Baruch		Baruch	http://stats.ncaa.org/team/58/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4300627	http://stats.ncaa.org/game/index/4300627?org_id=679
 2017	12582	679	Stevens	03/01/2017	NYU		NYU		false		true	-									
 2017	12582	679	Stevens	03/03/2017	Sacred Heart		Sacred Heart		false		true	-									
 2017	12582	679	Stevens	03/04/2017	@ Cairn		Cairn		false		false	-									
@@ -1918,9 +1918,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	21852	Stevenson	02/11/2017	Mt. St. Vincent @ Poughkeepsie, NY		Mt. St. Vincent	http://stats.ncaa.org/team/451/12582	true	Poughkeepsie, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4285563	http://stats.ncaa.org/game/index/4285563?org_id=21852
 2017	12582	21852	Stevenson	02/17/2017	Cairn		Cairn	http://stats.ncaa.org/team/1305/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4294794	http://stats.ncaa.org/game/index/4294794?org_id=21852
 2017	12582	21852	Stevenson	02/18/2017	Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4292055	http://stats.ncaa.org/game/index/4292055?org_id=21852
-2017	12582	21852	Stevenson	02/22/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
-2017	12582	21852	Stevenson	02/24/2017	@ Juniata		Juniata		false		false	-									
-2017	12582	21852	Stevenson	02/25/2017	@ Thiel		Thiel		false		false	-									
+2017	12582	21852	Stevenson	02/22/2017	@ Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4296420	http://stats.ncaa.org/game/index/4296420?org_id=394
+2017	12582	21852	Stevenson	02/24/2017	@ Juniata		Juniata	http://stats.ncaa.org/team/325/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4298044	http://stats.ncaa.org/game/index/4298044?org_id=325
+2017	12582	21852	Stevenson	02/25/2017	@ Thiel		Thiel	http://stats.ncaa.org/team/707/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4298928	http://stats.ncaa.org/game/index/4298928?org_id=707
 2017	12582	21852	Stevenson	03/24/2017	@ Cairn		Cairn		false		false	-									
 2017	12582	21852	Stevenson	03/25/2017	Alvernia@Newark, NJ		AlverniaNewark, NJ		false		false	-									
 2017	12582	21852	Stevenson	03/25/2017	@ Rutgers-Newark		Rutgers-Newark		false		false	-									
@@ -1939,16 +1939,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	707	Thiel	02/11/2017	@ Rutgers-Newark		Rutgers-Newark	http://stats.ncaa.org/team/589/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4285681	http://stats.ncaa.org/game/index/4285681?org_id=589
 2017	12582	707	Thiel	02/17/2017	Marymount (VA)		Marymount (VA)	http://stats.ncaa.org/team/394/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4293251	http://stats.ncaa.org/game/index/4293251?org_id=707
 2017	12582	707	Thiel	02/18/2017	East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4291802	http://stats.ncaa.org/game/index/4291802?org_id=707
-2017	12582	707	Thiel	02/21/2017	Juniata		Juniata		false		true	-									
 2017	12582	707	Thiel	02/21/2017	@ Juniata		Juniata	http://stats.ncaa.org/team/325/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4295683	http://stats.ncaa.org/game/index/4295683?org_id=325
-2017	12582	707	Thiel	02/22/2017	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
-2017	12582	707	Thiel	02/24/2017	Alvernia		Alvernia		false		true	-									
-2017	12582	707	Thiel	02/25/2017	Stevenson		Stevenson		false		true	-									
-2017	12582	707	Thiel	02/28/2017	Hilbert		Hilbert		false		true	-									
+2017	12582	707	Thiel	02/22/2017	Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4296418	http://stats.ncaa.org/game/index/4296418?org_id=707
+2017	12582	707	Thiel	02/24/2017	Alvernia		Alvernia	http://stats.ncaa.org/team/938/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4298023	http://stats.ncaa.org/game/index/4298023?org_id=707
+2017	12582	707	Thiel	02/25/2017	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4298928	http://stats.ncaa.org/game/index/4298928?org_id=707
+2017	12582	707	Thiel	02/28/2017	Hilbert		Hilbert	http://stats.ncaa.org/team/8398/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4303122	http://stats.ncaa.org/game/index/4303122?org_id=707
 2017	12582	707	Thiel	03/01/2017	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
 2017	12582	707	Thiel	03/14/2017	@ Penn St.-Behrend		Penn St.-Behrend		false		false	-									
-2017	12582	707	Thiel	03/17/2017	@ East. Mennonite		East. Mennonite		false		false	-									
 2017	12582	707	Thiel	03/17/2017	York (NY)@Harrisonburg, VA, VA		York (NY)Harrisonburg, VA, VA		false		false	-									
+2017	12582	707	Thiel	03/17/2017	@ East. Mennonite		East. Mennonite		false		false	-									
 2017	12582	707	Thiel	03/18/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
 2017	12582	707	Thiel	03/21/2017	@ Juniata		Juniata		false		false	-									
 2017	12582	707	Thiel	03/28/2017	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
@@ -1968,20 +1967,21 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	113	UC Santa Cruz	02/04/2017	@ Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4280655	http://stats.ncaa.org/game/index/4280655?org_id=461
 2017	12582	113	UC Santa Cruz	02/04/2017	Rivier @ Nazareth College		Rivier	http://stats.ncaa.org/team/18422/12582	true	Nazareth College	true	W 3 - 0	true	3 - 0	false	3	0	false		4281028	http://stats.ncaa.org/game/index/4281028?org_id=18422
 2017	12582	113	UC Santa Cruz	02/11/2017	@ Cal Lutheran		Cal Lutheran	http://stats.ncaa.org/team/105/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4286541	http://stats.ncaa.org/game/index/4286541?org_id=105
-2017	12582	113	UC Santa Cruz	02/24/2017	@ Hope Int'l		Hope Int'l		false		false	-									
-2017	12582	113	UC Santa Cruz	02/25/2017	@ Hope Int'l		Hope Int'l		false		false	-									
-2017	12582	113	UC Santa Cruz	03/09/2017	Clarke@Irvine, CA		ClarkeIrvine, CA		false		false	-									
-2017	12582	113	UC Santa Cruz	03/10/2017	@ Concordia (CA)		Concordia (CA)		false		false	-									
+2017	12582	113	UC Santa Cruz	02/24/2017	@ Hope Int'l		Hope Int'l		false		false	W 3 - 2	true	3 - 2	false	3	2	false		4302973	http://stats.ncaa.org/game/index/4302973?org_id=113
+2017	12582	113	UC Santa Cruz	02/25/2017	@ Hope Int'l		Hope Int'l		false		false	W 3 - 0	true	3 - 0	false	3	0	false		4302972	http://stats.ncaa.org/game/index/4302972?org_id=113
 2017	12582	113	UC Santa Cruz	03/10/2017	Regis (MA)@Thousand Oaks, CA		Regis (MA)Thousand Oaks, CA		false		false	-									
-2017	12582	113	UC Santa Cruz	03/10/2017	@ Cal Lutheran		Cal Lutheran		false		false	-									
-2017	12582	113	UC Santa Cruz	03/11/2017	Cardinal Stritch@Thousand Oaks, CA		Cardinal StritchThousand Oaks, CA		false		false	-									
+2017	12582	113	UC Santa Cruz	03/10/2017	@ Concordia (CA)		Concordia (CA)		false		false	-									
 2017	12582	113	UC Santa Cruz	03/11/2017	Wentworth@Thousand Oaks, CA		WentworthThousand Oaks, CA		false		false	-									
+2017	12582	113	UC Santa Cruz	03/11/2017	Cardinal Stritch@Thousand Oaks, CA		Cardinal StritchThousand Oaks, CA		false		false	-									
+2017	12582	113	UC Santa Cruz	03/31/2017	Benedictine Mesa		Benedictine Mesa		false		true	-									
+2017	12582	113	UC Santa Cruz	03/31/2017	Cal Lutheran		Cal Lutheran		false		true	-									
+2017	12582	113	UC Santa Cruz	04/01/2017	Cal Lutheran		Cal Lutheran		false		true	-									
 2017	12582	113	UC Santa Cruz	04/01/2017	Benedictine Mesa		Benedictine Mesa		false		true	-									
 2017	12582	737	Vassar	01/11/2017	@ Hope Int'l		Hope Int'l		false		false	L 1 - 3	false	1 - 3	false	1	3	false		4270875	http://stats.ncaa.org/game/index/4270875?org_id=737
 2017	12582	737	Vassar	01/12/2017	@ Cal Lutheran		Cal Lutheran	http://stats.ncaa.org/team/105/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4270876	http://stats.ncaa.org/game/index/4270876?org_id=105
 2017	12582	737	Vassar	01/14/2017	@ UC Santa Cruz		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4270903	http://stats.ncaa.org/game/index/4270903?org_id=113
-2017	12582	737	Vassar	01/20/2017	Lakeland @ Marcy, NY		Lakeland	http://stats.ncaa.org/team/1164/12582	true	Marcy, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4274606	http://stats.ncaa.org/game/index/4274606?org_id=737
 2017	12582	737	Vassar	01/20/2017	Elms @ Marcy, NY		Elms	http://stats.ncaa.org/team/532/12582	true	Marcy, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4275017	http://stats.ncaa.org/game/index/4275017?org_id=532
+2017	12582	737	Vassar	01/20/2017	Lakeland @ Marcy, NY		Lakeland	http://stats.ncaa.org/team/1164/12582	true	Marcy, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4274606	http://stats.ncaa.org/game/index/4274606?org_id=737
 2017	12582	737	Vassar	01/21/2017	Wells @ Marcy, NY		Wells	http://stats.ncaa.org/team/761/12582	true	Marcy, NY	true	W 3 - 1	true	3 - 1	false	3	1	false		4273810	http://stats.ncaa.org/game/index/4273810?org_id=737
 2017	12582	737	Vassar	01/21/2017	Wentworth @ Marcy, N.Y.		Wentworth	http://stats.ncaa.org/team/762/12582	true	Marcy, N.Y.	true	L 1 - 3	false	1 - 3	false	1	3	false		4274803	http://stats.ncaa.org/game/index/4274803?org_id=762
 2017	12582	737	Vassar	01/28/2017	Rivier @ Union, N.J.		Rivier	http://stats.ncaa.org/team/18422/12582	true	Union, N.J.	true	W 3 - 2	true	3 - 2	false	3	2	false		4278297	http://stats.ncaa.org/game/index/4278297?org_id=18422
@@ -1990,26 +1990,26 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	737	Vassar	02/04/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4281143	http://stats.ncaa.org/game/index/4281143?org_id=673
 2017	12582	737	Vassar	02/10/2017	Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4287917	http://stats.ncaa.org/game/index/4287917?org_id=737
 2017	12582	737	Vassar	02/10/2017	Stevenson		Stevenson	http://stats.ncaa.org/team/21852/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4285059	http://stats.ncaa.org/game/index/4285059?org_id=737
-2017	12582	737	Vassar	02/11/2017	Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4285396	http://stats.ncaa.org/game/index/4285396?org_id=737
 2017	12582	737	Vassar	02/11/2017	Mt. St. Vincent		Mt. St. Vincent	http://stats.ncaa.org/team/451/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4285536	http://stats.ncaa.org/game/index/4285536?org_id=737
-2017	12582	737	Vassar	02/18/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291641	http://stats.ncaa.org/game/index/4291641?org_id=213
+2017	12582	737	Vassar	02/11/2017	Ramapo		Ramapo	http://stats.ncaa.org/team/564/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4285396	http://stats.ncaa.org/game/index/4285396?org_id=737
 2017	12582	737	Vassar	02/18/2017	Stevens @ Elmira, N.Y.		Stevens	http://stats.ncaa.org/team/679/12582	true	Elmira, N.Y.	true	W 3 - 1	true	3 - 1	false	3	1	false		4292664	http://stats.ncaa.org/game/index/4292664?org_id=737
-2017	12582	737	Vassar	02/22/2017	Springfield		Springfield		false		true	-									
-2017	12582	737	Vassar	02/23/2017	Sage Colleges		Sage Colleges		false		true	-									
+2017	12582	737	Vassar	02/18/2017	@ Elmira		Elmira	http://stats.ncaa.org/team/213/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4291641	http://stats.ncaa.org/game/index/4291641?org_id=213
+2017	12582	737	Vassar	02/22/2017	Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4296319	http://stats.ncaa.org/game/index/4296319?org_id=737
+2017	12582	737	Vassar	02/23/2017	Sage Colleges		Sage Colleges	http://stats.ncaa.org/team/11036/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296939	http://stats.ncaa.org/game/index/4296939?org_id=737
 2017	12582	737	Vassar	03/04/2017	MIT		MIT		false		true	-									
 2017	12582	737	Vassar	03/04/2017	Juniata		Juniata		false		true	-									
 2017	12582	737	Vassar	03/08/2017	Marymount (VA)		Marymount (VA)		false		true	-									
+2017	12582	737	Vassar	03/11/2017	NYU		NYU		false		true	-									
 2017	12582	737	Vassar	03/11/2017	Nazareth		Nazareth		false		true	-									
 2017	12582	737	Vassar	03/11/2017	CCNY		CCNY		false		true	-									
-2017	12582	737	Vassar	03/11/2017	NYU		NYU		false		true	-									
 2017	12582	737	Vassar	03/24/2017	@ Marymount (VA)		Marymount (VA)		false		false	-									
 2017	12582	737	Vassar	03/25/2017	Arcadia@Huntingdon, PA		ArcadiaHuntingdon, PA		false		false	-									
 2017	12582	737	Vassar	03/25/2017	@ Juniata		Juniata		false		false	-									
 2017	12582	737	Vassar	03/29/2017	@ SUNY New Paltz		SUNY New Paltz		false		false	-									
 2017	12582	737	Vassar	04/01/2017	@ Bard		Bard		false		false	-									
 2017	12582	737	Vassar	04/01/2017	Penn St.-Behrend@Annandale-on-Hudson, NY		Penn St.-BehrendAnnandale-on-Hudson, NY		false		false	-									
-2017	12582	737	Vassar	04/08/2017	Hunter		Hunter		false		true	-									
 2017	12582	737	Vassar	04/08/2017	Alvernia		Alvernia		false		true	-									
+2017	12582	737	Vassar	04/08/2017	Hunter		Hunter		false		true	-									
 2017	12582	761	Wells	01/20/2017	Elms @ Marcy, NY		Elms	http://stats.ncaa.org/team/532/12582	true	Marcy, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4274993	http://stats.ncaa.org/game/index/4274993?org_id=532
 2017	12582	761	Wells	01/20/2017	Stevenson @ Marcy, NY		Stevenson	http://stats.ncaa.org/team/21852/12582	true	Marcy, NY	true	L 0 - 3	false	0 - 3	false	0	3	false		4279412	http://stats.ncaa.org/game/index/4279412?org_id=21852
 2017	12582	761	Wells	01/21/2017	Vassar @ Marcy, NY		Vassar	http://stats.ncaa.org/team/737/12582	true	Marcy, NY	true	L 1 - 3	false	1 - 3	false	1	3	false		4273810	http://stats.ncaa.org/game/index/4273810?org_id=737
@@ -2024,7 +2024,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	761	Wells	02/15/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4289647	http://stats.ncaa.org/game/index/4289647?org_id=9500
 2017	12582	761	Wells	02/18/2017	@ Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4291139	http://stats.ncaa.org/game/index/4291139?org_id=673
 2017	12582	761	Wells	02/18/2017	Lasell @ Springfield, Mass.		Lasell	http://stats.ncaa.org/team/8486/12582	true	Springfield, Mass.	true	L 0 - 3	false	0 - 3	false	0	3	false		4292127	http://stats.ncaa.org/game/index/4292127?org_id=8486
-2017	12582	761	Wells	02/22/2017	Keuka		Keuka		false		true	-									
+2017	12582	761	Wells	02/23/2017	Keuka		Keuka	http://stats.ncaa.org/team/1159/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296949	http://stats.ncaa.org/game/index/4296949?org_id=1159
 2017	12582	761	Wells	03/01/2017	Sage Colleges		Sage Colleges		false		true	-									
 2017	12582	761	Wells	03/04/2017	Hilbert@Keuka Park, NY		HilbertKeuka Park, NY		false		false	-									
 2017	12582	761	Wells	03/04/2017	Medaille@Keuka Park, NY		MedailleKeuka Park, NY		false		false	-									
@@ -2050,10 +2050,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	762	Wentworth	02/04/2017	Endicott		Endicott	http://stats.ncaa.org/team/8981/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4281008	http://stats.ncaa.org/game/index/4281008?org_id=762
 2017	12582	762	Wentworth	02/07/2017	@ Regis (MA)		Regis (MA)	http://stats.ncaa.org/team/569/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4283023	http://stats.ncaa.org/game/index/4283023?org_id=762
 2017	12582	762	Wentworth	02/14/2017	Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4289077	http://stats.ncaa.org/game/index/4289077?org_id=762
-2017	12582	762	Wentworth	02/18/2017	Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4290940	http://stats.ncaa.org/game/index/4290940?org_id=762
+2017	12582	762	Wentworth	02/18/2017	Johnson & Wales (RI)		Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4296777	http://stats.ncaa.org/game/index/4296777?org_id=762
 2017	12582	762	Wentworth	02/18/2017	Newbury		Newbury	http://stats.ncaa.org/team/21772/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4291339	http://stats.ncaa.org/game/index/4291339?org_id=762
-2017	12582	762	Wentworth	02/22/2017	Emmanuel (MA)		Emmanuel (MA)		false		true	-									
-2017	12582	762	Wentworth	02/28/2017	@ Emerson		Emerson		false		false	-									
+2017	12582	762	Wentworth	02/22/2017	Emmanuel (MA)		Emmanuel (MA)	http://stats.ncaa.org/team/215/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4296346	http://stats.ncaa.org/game/index/4296346?org_id=762
+2017	12582	762	Wentworth	02/27/2017	Rivier		Rivier	http://stats.ncaa.org/team/18422/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4302690	http://stats.ncaa.org/game/index/4302690?org_id=762
+2017	12582	762	Wentworth	02/28/2017	@ Emerson		Emerson	http://stats.ncaa.org/team/214/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4303226	http://stats.ncaa.org/game/index/4303226?org_id=214
 2017	12582	762	Wentworth	03/04/2017	Hunter@Springfield, MA		HunterSpringfield, MA		false		false	-									
 2017	12582	762	Wentworth	03/04/2017	@ Springfield		Springfield		false		false	-									
 2017	12582	762	Wentworth	03/10/2017	Benedictine Mesa@Thousand Oaks, Calif.		Benedictine MesaThousand Oaks, Calif.		false		false	-									
@@ -2082,18 +2083,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	784	Wilkes	02/04/2017	Purchase @ New York, NY		Purchase	http://stats.ncaa.org/team/30029/12582	true	New York, NY	true	W 3 - 2	true	3 - 2	false	3	2	false		4283945	http://stats.ncaa.org/game/index/4283945?org_id=30029
 2017	12582	784	Wilkes	02/15/2017	@ Wilson		Wilson	http://stats.ncaa.org/team/12973/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4289690	http://stats.ncaa.org/game/index/4289690?org_id=12973
 2017	12582	784	Wilkes	02/21/2017	@ Alvernia		Alvernia	http://stats.ncaa.org/team/938/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4295811	http://stats.ncaa.org/game/index/4295811?org_id=938
-2017	12582	784	Wilkes	02/24/2017	@ SUNY Poly		SUNY Poly		false		false	-									
-2017	12582	784	Wilkes	02/25/2017	Elmira@Utica, NY		ElmiraUtica, NY		false		false	-									
-2017	12582	784	Wilkes	02/25/2017	Arcadia@Utica, NY		ArcadiaUtica, NY		false		false	-									
+2017	12582	784	Wilkes	02/24/2017	Elmira @ Marcy, N.Y.		Elmira	http://stats.ncaa.org/team/213/12582	true	Marcy, N.Y.	true	L 0 - 3	false	0 - 3	false	0	3	false		4298327	http://stats.ncaa.org/game/index/4298327?org_id=213
+2017	12582	784	Wilkes	02/25/2017	@ SUNY Poly		SUNY Poly	http://stats.ncaa.org/team/9500/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4299639	http://stats.ncaa.org/game/index/4299639?org_id=9500
 2017	12582	784	Wilkes	03/01/2017	Lancaster Bible		Lancaster Bible		false		true	-									
 2017	12582	784	Wilkes	03/15/2017	@ Penn St.-Altoona		Penn St.-Altoona		false		false	-									
-2017	12582	784	Wilkes	03/18/2017	Brooklyn@Staten Island, NY		BrooklynStaten Island, NY		false		false	-									
 2017	12582	784	Wilkes	03/18/2017	Staten Island		Staten Island		false		true	-									
-2017	12582	784	Wilkes	03/18/2017	Alvernia		Alvernia		false		true	-									
+2017	12582	784	Wilkes	03/18/2017	Brooklyn@Staten Island, NY		BrooklynStaten Island, NY		false		false	-									
 2017	12582	784	Wilkes	03/18/2017	TBA		TBA		false		true	-									
+2017	12582	784	Wilkes	03/18/2017	Alvernia		Alvernia		false		true	-									
 2017	12582	784	Wilkes	03/23/2017	Arcadia		Arcadia		false		true	-									
-2017	12582	784	Wilkes	03/25/2017	CCNY		CCNY		false		true	-									
 2017	12582	784	Wilkes	03/25/2017	Wells		Wells		false		true	-									
+2017	12582	784	Wilkes	03/25/2017	CCNY		CCNY		false		true	-									
 2017	12582	784	Wilkes	03/30/2017	Medgar Evers		Medgar Evers		false		true	-									
 2017	12582	784	Wilkes	04/02/2017	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
 2017	12582	784	Wilkes	04/05/2017	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
@@ -2112,9 +2112,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	12973	Wilson	02/17/2017	D'Youville @ Lancaster, Pa.		D'Youville	http://stats.ncaa.org/team/1059/12582	true	Lancaster, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4295729	http://stats.ncaa.org/game/index/4295729?org_id=12973
 2017	12582	12973	Wilson	02/18/2017	Hilbert @ Lancaster, Pa.		Hilbert	http://stats.ncaa.org/team/8398/12582	true	Lancaster, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		4294756	http://stats.ncaa.org/game/index/4294756?org_id=8398
 2017	12582	12973	Wilson	02/21/2017	@ Alvernia		Alvernia	http://stats.ncaa.org/team/938/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4295629	http://stats.ncaa.org/game/index/4295629?org_id=938
-2017	12582	12973	Wilson	02/24/2017	Southern Va.		Southern Va.		false		true	-									
-2017	12582	12973	Wilson	02/24/2017	Southern Va.		Southern Va.		false		true	-									
-2017	12582	12973	Wilson	02/26/2017	Penn St.-Behrend		Penn St.-Behrend		false		true	-									
+2017	12582	12973	Wilson	02/24/2017	Southern Va.		Southern Va.	http://stats.ncaa.org/team/30164/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4298100	http://stats.ncaa.org/game/index/4298100?org_id=12973
+2017	12582	12973	Wilson	02/24/2017	Southern Va.		Southern Va.	http://stats.ncaa.org/team/30164/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4300308	http://stats.ncaa.org/game/index/4300308?org_id=12973
+2017	12582	12973	Wilson	02/26/2017	Penn St.-Behrend		Penn St.-Behrend	http://stats.ncaa.org/team/538/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4300974	http://stats.ncaa.org/game/index/4300974?org_id=12973
 2017	12582	12973	Wilson	03/04/2017	Lancaster Bible		Lancaster Bible		false		true	-									
 2017	12582	12973	Wilson	03/04/2017	Penn St.-Altoona		Penn St.-Altoona		false		true	-									
 2017	12582	12973	Wilson	03/07/2017	Arcadia		Arcadia		false		true	-									
@@ -2140,10 +2140,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	806	Wittenberg	02/17/2017	@ Lakeland		Lakeland	http://stats.ncaa.org/team/1164/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4294759	http://stats.ncaa.org/game/index/4294759?org_id=1164
 2017	12582	806	Wittenberg	02/18/2017	Cardinal Stritch @ Fond du Lac, Wis.		Cardinal Stritch		true	Fond du Lac, Wis.	true	L 2 - 3	false	2 - 3	false	2	3	false		4294733	http://stats.ncaa.org/game/index/4294733?org_id=806
 2017	12582	806	Wittenberg	02/18/2017	@ Marian (WI)		Marian (WI)	http://stats.ncaa.org/team/1196/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4291027	http://stats.ncaa.org/game/index/4291027?org_id=1196
-2017	12582	806	Wittenberg	02/24/2017	Dominican (IL)		Dominican (IL)		false		true	-									
-2017	12582	806	Wittenberg	02/24/2017	Cal Lutheran		Cal Lutheran		false		true	-									
-2017	12582	806	Wittenberg	02/25/2017	Nazareth		Nazareth		false		true	-									
-2017	12582	806	Wittenberg	02/25/2017	MSOE		MSOE		false		true	-									
+2017	12582	806	Wittenberg	02/24/2017	Dominican (IL)		Dominican (IL)	http://stats.ncaa.org/team/1332/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4297874	http://stats.ncaa.org/game/index/4297874?org_id=806
+2017	12582	806	Wittenberg	02/24/2017	Cal Lutheran		Cal Lutheran	http://stats.ncaa.org/team/105/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4298337	http://stats.ncaa.org/game/index/4298337?org_id=806
+2017	12582	806	Wittenberg	02/25/2017	Nazareth		Nazareth	http://stats.ncaa.org/team/461/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4299402	http://stats.ncaa.org/game/index/4299402?org_id=806
+2017	12582	806	Wittenberg	02/25/2017	MSOE		MSOE	http://stats.ncaa.org/team/20220/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4298706	http://stats.ncaa.org/game/index/4298706?org_id=806
 2017	12582	806	Wittenberg	03/03/2017	Fontbonne		Fontbonne		false		true	-									
 2017	12582	806	Wittenberg	03/04/2017	Greenville		Greenville		false		true	-									
 2017	12582	806	Wittenberg	03/10/2017	Benedictine (IL)		Benedictine (IL)		false		true	-									
@@ -2162,8 +2162,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	814	Yeshiva	02/12/2017	@ York (NY)		York (NY)	http://stats.ncaa.org/team/2730/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4287026	http://stats.ncaa.org/game/index/4287026?org_id=2730
 2017	12582	814	Yeshiva	02/15/2017	Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4289960	http://stats.ncaa.org/game/index/4289960?org_id=814
 2017	12582	814	Yeshiva	02/19/2017	Lehman		Lehman	http://stats.ncaa.org/team/279/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4293452	http://stats.ncaa.org/game/index/4293452?org_id=814
-2017	12582	814	Yeshiva	02/22/2017	@ Brooklyn		Brooklyn		false		false	-									
-2017	12582	814	Yeshiva	02/26/2017	Pratt		Pratt		false		true	-									
+2017	12582	814	Yeshiva	02/22/2017	@ Brooklyn		Brooklyn	http://stats.ncaa.org/team/79/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4296395	http://stats.ncaa.org/game/index/4296395?org_id=79
+2017	12582	814	Yeshiva	02/26/2017	Pratt		Pratt		false		true	L 1 - 3	false	1 - 3	false	1	3	false		4301052	http://stats.ncaa.org/game/index/4301052?org_id=814
+2017	12582	814	Yeshiva	02/26/2017	Culinary Institute		Culinary Institute		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4300609	http://stats.ncaa.org/game/index/4300609?org_id=814
 2017	12582	814	Yeshiva	03/04/2017	Purchase		Purchase		false		true	-									
 2017	12582	814	Yeshiva	03/07/2017	@ Sarah Lawrence		Sarah Lawrence		false		false	-									
 2017	12582	814	Yeshiva	03/08/2017	@ Bard		Bard		false		false	-									
@@ -2190,7 +2191,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	2730	York (NY)	02/18/2017	St. Joseph's (Brkln)		St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4295501	http://stats.ncaa.org/game/index/4295501?org_id=2730
 2017	12582	2730	York (NY)	02/20/2017	@ Hunter		Hunter	http://stats.ncaa.org/team/292/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4295014	http://stats.ncaa.org/game/index/4295014?org_id=292
 2017	12582	2730	York (NY)	02/20/2017	CCNY @ New York, NY		CCNY	http://stats.ncaa.org/team/480/12582	true	New York, NY	true	L 2 - 3	false	2 - 3	false	2	3	false		4295109	http://stats.ncaa.org/game/index/4295109?org_id=2730
-2017	12582	2730	York (NY)	02/28/2017	Arcadia		Arcadia		false		true	-									
+2017	12582	2730	York (NY)	02/28/2017	Arcadia		Arcadia	http://stats.ncaa.org/team/966/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4303351	http://stats.ncaa.org/game/index/4303351?org_id=2730
 2017	12582	2730	York (NY)	03/04/2017	@ Bard		Bard		false		false	-									
 2017	12582	2730	York (NY)	03/07/2017	Brooklyn		Brooklyn		false		true	-									
 2017	12582	2730	York (NY)	03/08/2017	Mt. St. Vincent		Mt. St. Vincent		false		true	-									
