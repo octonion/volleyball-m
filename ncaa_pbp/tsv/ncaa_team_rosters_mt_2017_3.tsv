@@ -97,39 +97,30 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	296	Benedictine (IL)	18	1863220.0	Vida, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1863220.0	6-4	Jr	2	0
 2017	12582	296	Benedictine (IL)	8	1640027.0	Villarreal, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1640027.0	6-1	Sr	55	0
 2017	12582	79	Brooklyn	21	1647865.0	Bautista, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1647865.0	5-6	Jr	25	0
-2017	12582	79	Brooklyn	15	1873918.0	Brown, Shemar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873918.0	6-2	Fr	20	0
-2017	12582	79	Brooklyn	16	1647863.0	Choudhary, Moaz Ali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1647863.0	6-3	Jr	31	0
-2017	12582	79	Brooklyn	4	1873919.0	Hassan, Snigdho	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873919.0	5-5	Fr	38	0
-2017	12582	79	Brooklyn	17	1873920.0	Kosmider, Kamil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873920.0	6-2	So	19	0
-2017	12582	79	Brooklyn	1	1873921.0	Lu, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873921.0	5-9	Fr	28	0
-2017	12582	79	Brooklyn	10	1657322.0	Miranda, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1657322.0	6-4	Jr	24	0
-2017	12582	79	Brooklyn	19	1873922.0	Moawad, Ahmed	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873922.0	6-6	Fr	53	0
-2017	12582	79	Brooklyn	11	1873923.0	Peng, Eddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873923.0	5-7	Jr	43	0
+2017	12582	79	Brooklyn	15	1873918.0	Brown, Shemar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873918.0	6-2	Fr	21	0
+2017	12582	79	Brooklyn	16	1647863.0	Choudhary, Moaz Ali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1647863.0	6-3	Jr	33	0
+2017	12582	79	Brooklyn	4	1873919.0	Hassan, Snigdho	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873919.0	5-5	Fr	40	0
+2017	12582	79	Brooklyn	17	1873920.0	Kosmider, Kamil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873920.0	6-2	So	20	0
+2017	12582	79	Brooklyn	1	1873921.0	Lu, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873921.0	5-9	Fr	29	0
+2017	12582	79	Brooklyn	10	1657322.0	Miranda, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1657322.0	6-4	Jr	25	0
+2017	12582	79	Brooklyn	19	1873922.0	Moawad, Ahmed	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873922.0	6-6	Fr	56	0
+2017	12582	79	Brooklyn	11	1873923.0	Peng, Eddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873923.0	5-7	Jr	45	0
 2017	12582	79	Brooklyn	13	1754125.0	Perez, Flavio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754125.0	5-11	So	8	0
-2017	12582	79	Brooklyn	20	1873924.0	Pjatak, Gabriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873924.0	6-3	Fr	34	0
-2017	12582	79	Brooklyn	14	1754121.0	Titus, Vaughn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754121.0	6-4	So	41	0
-2017	12582	79	Brooklyn	12	1873925.0	Tsyupa, Seva	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873925.0	6-2	So	39	0
-2017	12582	79	Brooklyn	9	1754118.0	Zachariah, Sayuj	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754118.0	6-2	So	27	0
-2017	12582	79	Brooklyn	3	1653256.0	Zhao, Rudy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1653256.0	6-0	Jr	38	0
-2017	12582	480	CCNY	8	1760463.0	Aga, Sebastjano	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760463.0	5-5	So	50	0
-2017	12582	480	CCNY	9	1538459.0	Boychuk, Oleksandr	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1538459.0	5-7	Sr	50	0
-2017	12582	480	CCNY	12	1760465.0	Bregman, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760465.0	6-3	So	0	0
-2017	12582	480	CCNY	2	1650800.0	Cham, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650800.0	5-9	Jr	50	0
-2017	12582	480	CCNY	14	1895064.0	Chan, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1895064.0	-	N/A	6	0
-2017	12582	480	CCNY	18	1873890.0	Diaz, Seth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873890.0	-	N/A	49	0
-2017	12582	480	CCNY	15	1768094.0	Gementzopoulos, Eleftherios	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1768094.0	6-1	So	0	0
-2017	12582	480	CCNY	7	1760464.0	He, Edmund	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760464.0	5-11	So	0	0
-2017	12582	480	CCNY	1	1764600.0	Holzmacher, Tommy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1764600.0	6-1	So	0	0
+2017	12582	79	Brooklyn	20	1873924.0	Pjatak, Gabriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873924.0	6-3	Fr	37	0
+2017	12582	79	Brooklyn	14	1754121.0	Titus, Vaughn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754121.0	6-4	So	43	0
+2017	12582	79	Brooklyn	12	1873925.0	Tsyupa, Seva	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873925.0	6-2	So	42	0
+2017	12582	79	Brooklyn	9	1754118.0	Zachariah, Sayuj	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754118.0	6-2	So	30	0
+2017	12582	79	Brooklyn	3	1653256.0	Zhao, Rudy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1653256.0	6-0	Jr	40	0
+2017	12582	480	CCNY	8	1760463.0	Aga, Sebastjano	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760463.0	5-5	So	55	0
+2017	12582	480	CCNY	9	1538459.0	Boychuk, Oleksandr	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1538459.0	5-7	Sr	55	0
+2017	12582	480	CCNY	2	1650800.0	Cham, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650800.0	5-9	Jr	55	0
+2017	12582	480	CCNY	14	1895064.0	Chan, Jonathan Ch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1895064.0	4-0	Fr	8	0
+2017	12582	480	CCNY	18	1873890.0	Diaz, Seth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873890.0	-	N/A	54	0
 2017	12582	480	CCNY	6	1874215.0	Kim, Andy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874215.0	-	N/A	4	0
-2017	12582	480	CCNY	3	1873891.0	Lee, Christoper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873891.0	-	N/A	50	0
-2017	12582	480	CCNY	14	1766803.0	Liang, Junming	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1766803.0	5-6	So	0	0
-2017	12582	480	CCNY	11	1873888.0	Maldonado, C.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873888.0	-	N/A	50	0
-2017	12582	480	CCNY	9	1762838.0	Mendoza, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1762838.0	5-8	Sr	0	0
+2017	12582	480	CCNY	3	1873891.0	Lee, Christoper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873891.0	-	N/A	55	0
+2017	12582	480	CCNY	11	1873888.0	Maldonado, C.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873888.0	-	N/A	55	0
 2017	12582	480	CCNY	10	1760466.0	Patano, Ejil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760466.0	5-8	So	12	0
-2017	12582	480	CCNY	15	1873889.0	Ramirez, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873889.0	-	N/A	47	0
-2017	12582	480	CCNY	4	1778200.0	Rogers, Ellis Craig	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1778200.0	6-0	So	0	0
-2017	12582	480	CCNY	5	1650804.0	Vega, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650804.0	5-7	Jr	0	0
-2017	12582	480	CCNY	11	1760462.0	Zhao, Kai	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760462.0	5-9	So	0	0
+2017	12582	480	CCNY	15	1873889.0	Ramirez, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873889.0	-	N/A	52	0
 2017	12582	1305	Cairn	9	1868754.0	Chapman, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1868754.0	6-2	Sr	72	0
 2017	12582	1305	Cairn	12	1649530.0	Godshall, Micah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649530.0	6-3	Jr	60	0
 2017	12582	1305	Cairn	11	1763234.0	Gump, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1763234.0	6-3	So	62	0
@@ -140,23 +131,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	1305	Cairn	6	1868753.0	Simpson, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1868753.0	5-6	Fr	2	0
 2017	12582	1305	Cairn	10	1649529.0	Willits, Andy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649529.0	6-4	Jr	67	0
 2017	12582	1305	Cairn	3	1763239.0	Wolgemuth, Juston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1763239.0	6-0	So	73	0
-2017	12582	105	Cal Lutheran	13	1760171.0	Balkhi, Jamal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760171.0	6-2	Sr	49	0
-2017	12582	105	Cal Lutheran	12	1866462.0	Bennett, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866462.0	5-8	Fr	36	0
+2017	12582	105	Cal Lutheran	13	1760171.0	Balkhi, Jamal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760171.0	6-2	Sr	52	0
+2017	12582	105	Cal Lutheran	12	1866462.0	Bennett, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866462.0	5-8	Fr	39	0
 2017	12582	105	Cal Lutheran	9	1760166.0	Billing, Schaun	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760166.0	6-7	Sr	5	0
-2017	12582	105	Cal Lutheran	19	1760172.0	Campbell, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760172.0	6-6	Sr	44	0
+2017	12582	105	Cal Lutheran	19	1760172.0	Campbell, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760172.0	6-6	Sr	46	0
 2017	12582	105	Cal Lutheran	17	1760169.0	Castro, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760169.0	5-10	So	8	0
-2017	12582	105	Cal Lutheran	18	1866464.0	Christy, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866464.0	6-7	Fr	3	0
-2017	12582	105	Cal Lutheran	11	1866461.0	Dietrich, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866461.0	6-6	Fr	34	0
-2017	12582	105	Cal Lutheran	15	1760170.0	Esper, Mikey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760170.0	6-0	Sr	27	0
-2017	12582	105	Cal Lutheran	2	1760159.0	Gallardo, Kristian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760159.0	6-2	Sr	45	0
+2017	12582	105	Cal Lutheran	18	1866464.0	Christy, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866464.0	6-7	Fr	5	0
+2017	12582	105	Cal Lutheran	11	1866461.0	Dietrich, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866461.0	6-6	Fr	37	0
+2017	12582	105	Cal Lutheran	15	1760170.0	Esper, Mikey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760170.0	6-0	Sr	29	0
+2017	12582	105	Cal Lutheran	2	1760159.0	Gallardo, Kristian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760159.0	6-2	Sr	48	0
 2017	12582	105	Cal Lutheran	10	1866460.0	Jew, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866460.0	6-0	Fr	16	0
-2017	12582	105	Cal Lutheran	14	1866463.0	Mercer, Mason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866463.0	6-4	Fr	22	0
+2017	12582	105	Cal Lutheran	14	1866463.0	Mercer, Mason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866463.0	6-4	Fr	24	0
 2017	12582	105	Cal Lutheran	6	1866458.0	Moreno, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866458.0	6-2	Fr	1	0
-2017	12582	105	Cal Lutheran	4	1866457.0	Nelson, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866457.0	6-3	Fr	13	0
-2017	12582	105	Cal Lutheran	5	1760162.0	Oertli, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760162.0	6-3	So	27	0
-2017	12582	105	Cal Lutheran	8	1866459.0	Rowe, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866459.0	6-3	Fr	49	0
-2017	12582	105	Cal Lutheran	3	1760160.0	Shoemate, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760160.0	6-4	Sr	47	0
-2017	12582	105	Cal Lutheran	7	1760164.0	Ward, Brendan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760164.0	6-5	So	5	0
+2017	12582	105	Cal Lutheran	4	1866457.0	Nelson, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866457.0	6-3	Fr	14	0
+2017	12582	105	Cal Lutheran	5	1760162.0	Oertli, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760162.0	6-3	So	29	0
+2017	12582	105	Cal Lutheran	8	1866459.0	Rowe, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866459.0	6-3	Fr	52	0
+2017	12582	105	Cal Lutheran	3	1760160.0	Shoemate, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760160.0	6-4	Sr	49	0
+2017	12582	105	Cal Lutheran	7	1760164.0	Ward, Brendan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760164.0	6-5	So	6	0
 2017	12582	121	Carthage	3	1864422.0	Allard, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1864422.0	6-3	Fr	6	0
 2017	12582	121	Carthage	24	1753948.0	Allen, Tony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753948.0	5-11	So	52	0
 2017	12582	121	Carthage	9	1533931.0	Bolan, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1533931.0	5-10	Sr	49	0
@@ -231,7 +222,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	203	East. Mennonite	6	1869444.0	Wright, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869444.0	6-1	Fr	20	0
 2017	12582	203	East. Mennonite	8	1869445.0	Zamiar, Dominic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869445.0	6-0	Fr	6	0
 2017	12582	203	East. Mennonite	12		Zeid, Mahmoud		6-5	Fr	0	0
-2017	12582	1064	Eastern Nazarene	15	1867195.0	Blue, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1867195.0	6-2	So	1	0
+2017	12582	1064	Eastern Nazarene	15	1867195.0	Blue, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1867195.0	6-2	So	0	0
 2017	12582	1064	Eastern Nazarene	2		Buford, Elly		5-10	Sr	0	0
 2017	12582	1064	Eastern Nazarene	22	1867196.0	Fischer, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1867196.0	6-4	Sr	35	0
 2017	12582	1064	Eastern Nazarene	8	1867192.0	Fowler, Derek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1867192.0	6-5	Fr	37	0
@@ -344,20 +335,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	8398	Hilbert	7	1874351.0	Rehner, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874351.0	5-10	Fr	23	0
 2017	12582	8398	Hilbert	1	1874346.0	Rice, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874346.0	5-10	Fr	26	0
 2017	12582	8398	Hilbert	4	1874348.0	Sandy, Yannic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874348.0	5-8	So	4	0
-2017	12582	292	Hunter	13	1650863.0	Cassidy, Benjamin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650863.0	6-3	Jr	40	0
-2017	12582	292	Hunter	14	1542872.0	Crusinberry, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1542872.0	6-2	Sr	53	0
+2017	12582	292	Hunter	13	1650863.0	Cassidy, Benjamin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650863.0	6-3	Jr	41	0
+2017	12582	292	Hunter	14	1542872.0	Crusinberry, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1542872.0	6-2	Sr	55	0
 2017	12582	292	Hunter	16	1866437.0	De Guzman, Cyrus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866437.0	6-5	Fr	14	0
-2017	12582	292	Hunter	11	1651070.0	Dobrogowski, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1651070.0	6-3	Jr	17	0
+2017	12582	292	Hunter	11	1651070.0	Dobrogowski, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1651070.0	6-3	Jr	20	0
 2017	12582	292	Hunter	9	1754700.0	Hogan, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754700.0	6-3	So	31	0
-2017	12582	292	Hunter	7	1866435.0	Jazgarski, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866435.0	6-4	Jr	58	0
-2017	12582	292	Hunter	16	1650862.0	Kohler, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650862.0	6-3	Sr	59	0
+2017	12582	292	Hunter	7	1866435.0	Jazgarski, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866435.0	6-4	Jr	60	0
+2017	12582	292	Hunter	16	1650862.0	Kohler, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650862.0	6-3	Sr	62	0
 2017	12582	292	Hunter	6	1754698.0	Lumentut, Glen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1754698.0	5-10	So	8	0
-2017	12582	292	Hunter	2	1662885.0	Muir, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1662885.0	5-5	Jr	66	0
-2017	12582	292	Hunter	15	1650864.0	Rerick, Austen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650864.0	5-10	Jr	45	0
-2017	12582	292	Hunter	8	1541413.0	Sanchez, Nicolas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1541413.0	5-6	Sr	63	0
-2017	12582	292	Hunter	10	1541414.0	Tarquinio, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1541414.0	6-5	Sr	61	0
-2017	12582	292	Hunter	12	1866436.0	Vargas, Sebastian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866436.0	5-10	So	8	0
-2017	12582	292	Hunter	4	1650865.0	Zukowski, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650865.0	5-8	Jr	25	0
+2017	12582	292	Hunter	2	1662885.0	Muir, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1662885.0	5-5	Jr	69	0
+2017	12582	292	Hunter	15	1650864.0	Rerick, Austen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650864.0	5-10	Jr	47	0
+2017	12582	292	Hunter	8	1541413.0	Sanchez, Nicolas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1541413.0	5-6	Sr	66	0
+2017	12582	292	Hunter	10	1541414.0	Tarquinio, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1541414.0	6-5	Sr	62	0
+2017	12582	292	Hunter	12	1866436.0	Vargas, Sebastian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866436.0	5-10	So	9	0
+2017	12582	292	Hunter	4	1650865.0	Zukowski, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650865.0	5-8	Jr	26	0
 2017	12582	30172	IIT	3	1870603.0	Allen, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870603.0	6-1	Fr	77	0
 2017	12582	30172	IIT	9	1870606.0	Bahrami, Arvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870606.0	5-11	Fr	6	0
 2017	12582	30172	IIT	1	1870602.0	Bostick, Derek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870602.0	5-9	Fr	79	0
@@ -456,26 +447,26 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	1159	Keuka	1	1763089.0	Nickerson, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1763089.0	6-2	So	43	0
 2017	12582	1159	Keuka	6	1650906.0	Riley, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650906.0	6-5	Jr	36	0
 2017	12582	1159	Keuka	2	1763087.0	Steele, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1763087.0	6-1	So	13	0
-2017	12582	1164	Lakeland	24	1527590.0	Bolda, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527590.0	6-2	Sr	54	0
-2017	12582	1164	Lakeland	5	1753137.0	Cecere, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753137.0	5-7	Sr	21	0
+2017	12582	1164	Lakeland	24	1527590.0	Bolda, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527590.0	6-2	Sr	60	0
+2017	12582	1164	Lakeland	5	1753137.0	Cecere, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753137.0	5-7	Sr	23	0
 2017	12582	1164	Lakeland	18	1753141.0	Coleman, Tali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753141.0	6-4	So	12	0
-2017	12582	1164	Lakeland	13	1753139.0	Cotterman, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753139.0	6-4	So	10	0
-2017	12582	1164	Lakeland	29	1527592.0	Frahm, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527592.0	6-1	Sr	38	0
-2017	12582	1164	Lakeland	20	1753142.0	Frankel, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753142.0	5-6	So	30	0
-2017	12582	1164	Lakeland	8	1753138.0	Hunter, Dakota	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753138.0	6-2	So	27	0
-2017	12582	1164	Lakeland	22	1753143.0	Levitt, J.T.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753143.0	5-9	So	54	0
-2017	12582	1164	Lakeland	2	1527573.0	Matijevic, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527573.0	5-11	Sr	10	0
-2017	12582	1164	Lakeland	4	1753136.0	Mertler, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753136.0	5-11	So	52	0
+2017	12582	1164	Lakeland	13	1753139.0	Cotterman, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753139.0	6-4	So	12	0
+2017	12582	1164	Lakeland	29	1527592.0	Frahm, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527592.0	6-1	Sr	43	0
+2017	12582	1164	Lakeland	20	1753142.0	Frankel, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753142.0	5-6	So	31	0
+2017	12582	1164	Lakeland	8	1753138.0	Hunter, Dakota	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753138.0	6-2	So	33	0
+2017	12582	1164	Lakeland	22	1753143.0	Levitt, J.T.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753143.0	5-9	So	60	0
+2017	12582	1164	Lakeland	2	1527573.0	Matijevic, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527573.0	5-11	Sr	14	0
+2017	12582	1164	Lakeland	4	1753136.0	Mertler, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753136.0	5-11	So	58	0
 2017	12582	1164	Lakeland	11	1643459.0	Perry, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1643459.0	6-1	Jr	8	0
 2017	12582	1164	Lakeland	19	1527586.0	Puccini, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527586.0	6-3	Sr	5	0
-2017	12582	1164	Lakeland	99	1753135.0	Quiroz, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753135.0	5-11	So	13	0
-2017	12582	1164	Lakeland	14	1527583.0	Robbins, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527583.0	6-3	Sr	54	0
+2017	12582	1164	Lakeland	99	1753135.0	Quiroz, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753135.0	5-11	So	11	0
+2017	12582	1164	Lakeland	14	1527583.0	Robbins, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527583.0	6-3	Sr	60	0
 2017	12582	1164	Lakeland	7		Shioiri, Isamu		5-8	Fr	0	0
 2017	12582	1164	Lakeland	9		Smith, Anthony		6-3	Fr	0	0
-2017	12582	1164	Lakeland	27	1527591.0	Stolz, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527591.0	6-4	Sr	54	0
-2017	12582	1164	Lakeland	3	1643458.0	Takahashi, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1643458.0	5-4	Jr	26	0
-2017	12582	1164	Lakeland	21	1883516.0	Vanderwaal, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1883516.0	6-5	Fr	10	0
-2017	12582	1164	Lakeland	16	1753140.0	Williams, Desmond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753140.0	6-0	So	54	0
+2017	12582	1164	Lakeland	27	1527591.0	Stolz, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527591.0	6-4	Sr	60	0
+2017	12582	1164	Lakeland	3	1643458.0	Takahashi, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1643458.0	5-4	Jr	27	0
+2017	12582	1164	Lakeland	21	1883516.0	Vanderwaal, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1883516.0	6-5	Fr	12	0
+2017	12582	1164	Lakeland	16	1753140.0	Williams, Desmond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1753140.0	6-0	So	60	0
 2017	12582	30085	Lancaster Bible	1	1873846.0	Ansell, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873846.0	-	N/A	72	0
 2017	12582	30085	Lancaster Bible	3	1873847.0	Bigley, Derek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873847.0	-	N/A	74	0
 2017	12582	30085	Lancaster Bible	9	1873893.0	Conkle, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873893.0	-	N/A	17	0
@@ -504,19 +495,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	8486	Lasell	4	1872837.0	Soto, Janci	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1872837.0	6-5	Fr	55	0
 2017	12582	8486	Lasell	3	1868856.0	Sterenberg, Scott	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1868856.0	6-2	Fr	66	0
 2017	12582	8486	Lasell	17	1868858.0	Vautrin, Jeffrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1868858.0	6-2	Sr	59	0
-2017	12582	279	Lehman	13	1650789.0	Bautista, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650789.0	5-9	Sr	38	0
-2017	12582	279	Lehman	3	1873105.0	Diaz, Yordy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873105.0	5-8	Fr	50	0
-2017	12582	279	Lehman	1	1760966.0	Eshun, Yaw	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760966.0	5-11	So	51	0
+2017	12582	279	Lehman	13	1650789.0	Bautista, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650789.0	5-9	Sr	46	0
+2017	12582	279	Lehman	3	1873105.0	Diaz, Yordy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873105.0	5-8	Fr	58	0
+2017	12582	279	Lehman	1	1760966.0	Eshun, Yaw	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760966.0	5-11	So	59	0
 2017	12582	279	Lehman	5	1760970.0	Flores, John Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760970.0	5-8	So	25	0
 2017	12582	279	Lehman	10	1760971.0	Herrera, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760971.0	6-4	So	11	0
 2017	12582	279	Lehman	8	1760967.0	Ho, Nam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760967.0	5-6	So	25	0
-2017	12582	279	Lehman	12	1873106.0	Mahmuti, Mentor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873106.0	6-4	Fr	48	0
-2017	12582	279	Lehman	11	1873107.0	Montilla, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873107.0	5-10	Fr	37	0
-2017	12582	279	Lehman	4	1650792.0	Ortiz, Emmanuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650792.0	5-7	Sr	52	0
+2017	12582	279	Lehman	12	1873106.0	Mahmuti, Mentor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873106.0	6-4	Fr	55	0
+2017	12582	279	Lehman	11	1873107.0	Montilla, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873107.0	5-10	Fr	45	0
+2017	12582	279	Lehman	4	1650792.0	Ortiz, Emmanuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650792.0	5-7	Sr	60	0
 2017	12582	279	Lehman	9		Padayogdog, Chad		5-8	Fr	0	0
-2017	12582	279	Lehman	2	1873109.0	Rodriguez, Kristopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873109.0	6-3	Fr	9	0
-2017	12582	279	Lehman	6	1873110.0	Veljovic, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873110.0	6-2	Fr	41	0
-2017	12582	279	Lehman	7	1873111.0	Ventura Diaz, Roberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873111.0	6-0	So	52	0
+2017	12582	279	Lehman	2	1873109.0	Rodriguez, Kristopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873109.0	6-3	Fr	10	0
+2017	12582	279	Lehman	6	1873110.0	Veljovic, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873110.0	6-2	Fr	49	0
+2017	12582	279	Lehman	7	1873111.0	Ventura Diaz, Roberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873111.0	6-0	So	60	0
 2017	12582	24317	Lesley	11	1887229.0	Ando, Dario	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1887229.0	-	N/A	3	0
 2017	12582	24317	Lesley	8	1663569.0	Bonilla-Guevara, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1663569.0	5-9	Jr	0	0
 2017	12582	24317	Lesley	3	1765738.0	Chiemruom, Karuna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1765738.0	5-6	Jr	47	0
@@ -589,21 +580,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	20220	MSOE	6		Schober, Christian		5-11	So	0	0
 2017	12582	20220	MSOE	5	1645474.0	Schober, Caleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1645474.0	6-4	Jr	17	0
 2017	12582	20220	MSOE	16	1645473.0	Stealey, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1645473.0	6-4	Jr	27	0
-2017	12582	1196	Marian (WI)	4	1755457.0	Barnett, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755457.0	5-10	So	17	0
-2017	12582	1196	Marian (WI)	13	1869231.0	DeGroot, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869231.0	6-2	Fr	75	0
-2017	12582	1196	Marian (WI)	3	1755456.0	Dittman, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755456.0	6-0	So	75	0
+2017	12582	1196	Marian (WI)	4	1755457.0	Barnett, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755457.0	5-10	So	18	0
+2017	12582	1196	Marian (WI)	13	1869231.0	DeGroot, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869231.0	6-2	Fr	78	0
+2017	12582	1196	Marian (WI)	3	1755456.0	Dittman, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755456.0	6-0	So	78	0
 2017	12582	1196	Marian (WI)	1	1755454.0	Godfroy, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755454.0	6-0	So	7	0
 2017	12582	1196	Marian (WI)	10	1755463.0	Johnson, Rashid	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755463.0	5-10	So	2	0
 2017	12582	1196	Marian (WI)	12	1755465.0	Jones, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755465.0	6-0	So	0	0
-2017	12582	1196	Marian (WI)	2	1755455.0	Liberski, Cullen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755455.0	5-6	So	75	0
+2017	12582	1196	Marian (WI)	2	1755455.0	Liberski, Cullen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755455.0	5-6	So	78	0
 2017	12582	1196	Marian (WI)	5	1883231.0	Lindsey, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1883231.0	6-2	So	2	0
 2017	12582	1196	Marian (WI)	17		Masterson, John		6-0	Fr	0	0
 2017	12582	1196	Marian (WI)	6		Mena, Isaiahs		5-11	Fr	0	0
-2017	12582	1196	Marian (WI)	9	1755462.0	Sattersten, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755462.0	6-5	So	68	0
-2017	12582	1196	Marian (WI)	11	1755464.0	Smallpage, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755464.0	6-5	So	72	0
+2017	12582	1196	Marian (WI)	9	1755462.0	Sattersten, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755462.0	6-5	So	71	0
+2017	12582	1196	Marian (WI)	11	1755464.0	Smallpage, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755464.0	6-5	So	75	0
 2017	12582	1196	Marian (WI)	14		Tellez, Alexis		6-1	Fr	0	0
-2017	12582	1196	Marian (WI)	7	1755460.0	Walter, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755460.0	6-0	So	75	0
-2017	12582	1196	Marian (WI)	8	1755461.0	Wendels, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755461.0	6-4	Jr	74	0
+2017	12582	1196	Marian (WI)	7	1755460.0	Walter, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755460.0	6-0	So	78	0
+2017	12582	1196	Marian (WI)	8	1755461.0	Wendels, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1755461.0	6-4	Jr	77	0
 2017	12582	1196	Marian (WI)	15	1869233.0	Weston, Brock	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869233.0	6-0	Fr	1	0
 2017	12582	394	Marymount (VA)	6	1649748.0	Bratke, Erich	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649748.0	5-10	Jr	57	0
 2017	12582	394	Marymount (VA)	11	1649749.0	Caudell, Carson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649749.0	6-3	Jr	20	0
@@ -646,8 +637,8 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	403	Medgar Evers	11	1760432.0	Bryan, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760432.0	-	Fr	0	0
 2017	12582	403	Medgar Evers	13		Charles, Zachary		-	Fr	0	0
 2017	12582	403	Medgar Evers	10	1778099.0	Cherif El Farissy, I	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1778099.0	-	Fr	0	0
-2017	12582	403	Medgar Evers	15	1665056.0	Clarke, Cecil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1665056.0	5-11	Jr	0	0
 2017	12582	403	Medgar Evers	15	1665057.0	Clarke, Cecil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1665057.0	5-11	Jr	0	0
+2017	12582	403	Medgar Evers	15	1665056.0	Clarke, Cecil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1665056.0	5-11	Jr	0	0
 2017	12582	403	Medgar Evers	1	1760430.0	Cyrus, Kareem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760430.0	-	Fr	28	0
 2017	12582	403	Medgar Evers	11	1652931.0	Flemius, Kedric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1652931.0	6-4	Jr	0	0
 2017	12582	403	Medgar Evers	17	1894543.0	Ii, Steve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1894543.0	-	Jr	1	0
@@ -674,22 +665,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	27901	Mount Ida	25	1760805.0	Southworth, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760805.0	6-1	So	55	0
 2017	12582	27901	Mount Ida	7	1760806.0	Sprengle, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760806.0	6-2	So	56	0
 2017	12582	27901	Mount Ida	1	1893398.0	Vanderhorst, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1893398.0	6-3	Fr	6	0
-2017	12582	8567	Mt. St. Joseph	21	1637819.0	Ales, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637819.0	5-11	Jr	38	0
-2017	12582	8567	Mt. St. Joseph	16	1637818.0	Bradley, Darien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637818.0	6-0	Jr	44	0
-2017	12582	8567	Mt. St. Joseph	13	1749478.0	Chisholm, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749478.0	6-11	Jr	51	0
-2017	12582	8567	Mt. St. Joseph	6	1526310.0	Cooper, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526310.0	6-4	Sr	57	0
-2017	12582	8567	Mt. St. Joseph	12	1637821.0	Herdeman, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637821.0	5-11	Jr	58	0
+2017	12582	8567	Mt. St. Joseph	21	1637819.0	Ales, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637819.0	5-11	Jr	41	0
+2017	12582	8567	Mt. St. Joseph	16	1637818.0	Bradley, Darien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637818.0	6-0	Jr	47	0
+2017	12582	8567	Mt. St. Joseph	13	1749478.0	Chisholm, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749478.0	6-11	Jr	54	0
+2017	12582	8567	Mt. St. Joseph	6	1526310.0	Cooper, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526310.0	6-4	Sr	60	0
+2017	12582	8567	Mt. St. Joseph	12	1637821.0	Herdeman, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637821.0	5-11	Jr	61	0
 2017	12582	8567	Mt. St. Joseph	10	1749479.0	Holt, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749479.0	6-7	So	19	0
-2017	12582	8567	Mt. St. Joseph	11	1863651.0	Kingu, Marushwa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1863651.0	6-7	Fr	8	0
-2017	12582	8567	Mt. St. Joseph	8	1526312.0	Kuebler, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526312.0	5-11	Sr	51	0
-2017	12582	8567	Mt. St. Joseph	9	1760801.0	Melbardis, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760801.0	-	Fr	8	0
-2017	12582	8567	Mt. St. Joseph	7	1863650.0	Piazza, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1863650.0	6-2	Fr	49	0
-2017	12582	8567	Mt. St. Joseph	17	1526313.0	Planek, Richie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526313.0	6-3	Sr	26	0
-2017	12582	8567	Mt. St. Joseph	3	1748641.0	Siemer, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1748641.0	6-3	So	22	0
-2017	12582	8567	Mt. St. Joseph	4	1637815.0	Storc, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637815.0	6-5	Jr	6	0
-2017	12582	8567	Mt. St. Joseph	15	1637817.0	Swanson, Darrel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637817.0	6-0	Jr	30	0
-2017	12582	8567	Mt. St. Joseph	2	1526308.0	Vohland, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526308.0	6-4	Sr	45	0
-2017	12582	8567	Mt. St. Joseph	14	1637816.0	Williams, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637816.0	6-1	Jr	51	0
+2017	12582	8567	Mt. St. Joseph	11	1863651.0	Kingu, Marushwa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1863651.0	6-7	Fr	9	0
+2017	12582	8567	Mt. St. Joseph	8	1526312.0	Kuebler, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526312.0	5-11	Sr	53	0
+2017	12582	8567	Mt. St. Joseph	9	1760801.0	Melbardis, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1760801.0	-	Fr	9	0
+2017	12582	8567	Mt. St. Joseph	7	1863650.0	Piazza, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1863650.0	6-2	Fr	52	0
+2017	12582	8567	Mt. St. Joseph	17	1526313.0	Planek, Richie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526313.0	6-3	Sr	27	0
+2017	12582	8567	Mt. St. Joseph	3	1748641.0	Siemer, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1748641.0	6-3	So	23	0
+2017	12582	8567	Mt. St. Joseph	4	1637815.0	Storc, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637815.0	6-5	Jr	7	0
+2017	12582	8567	Mt. St. Joseph	15	1637817.0	Swanson, Darrel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637817.0	6-0	Jr	33	0
+2017	12582	8567	Mt. St. Joseph	2	1526308.0	Vohland, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1526308.0	6-4	Sr	46	0
+2017	12582	8567	Mt. St. Joseph	14	1637816.0	Williams, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637816.0	6-1	Jr	54	0
 2017	12582	451	Mt. St. Vincent	7	1765744.0	Ameruso, Augustine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1765744.0	5-7	So	49	0
 2017	12582	451	Mt. St. Vincent	2	1537733.0	Cucullu, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537733.0	6-4	Sr	63	0
 2017	12582	451	Mt. St. Vincent	15	1649802.0	Dickover, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649802.0	5-11	Jr	55	0
@@ -699,23 +690,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	451	Mt. St. Vincent	11	1649800.0	Skoblar, Neven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1649800.0	6-3	Jr	54	0
 2017	12582	451	Mt. St. Vincent	10	1751201.0	Smith, Owen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1751201.0	6-3	Jr	56	0
 2017	12582	451	Mt. St. Vincent	9	1751199.0	Steiger, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1751199.0	6-0	So	59	0
-2017	12582	479	NYU	33	1866770.0	Benson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866770.0	6-3	Sr	8	0
+2017	12582	479	NYU	33	1866770.0	Benson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866770.0	6-3	Sr	10	0
 2017	12582	479	NYU	1	1866762.0	Bikdeli, Matin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866762.0	6-2	Fr	23	0
-2017	12582	479	NYU	2	1527241.0	Chiu, Derrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527241.0	5-10	Sr	53	0
+2017	12582	479	NYU	2	1527241.0	Chiu, Derrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527241.0	5-10	Sr	57	0
 2017	12582	479	NYU	20	1758040.0	Duggan, Brendan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1758040.0	6-7	So	7	0
-2017	12582	479	NYU	23	1866769.0	Ferraro, Neil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866769.0	6-7	Fr	55	0
+2017	12582	479	NYU	23	1866769.0	Ferraro, Neil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866769.0	6-7	Fr	59	0
 2017	12582	479	NYU	3	1866763.0	Ho, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866763.0	5-8	Fr	7	0
-2017	12582	479	NYU	6	1866764.0	Keowen, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866764.0	5-8	Fr	62	0
+2017	12582	479	NYU	6	1866764.0	Keowen, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866764.0	5-8	Fr	66	0
 2017	12582	479	NYU	17	1527246.0	Kozloski, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527246.0	6-4	Sr	0	0
-2017	12582	479	NYU	21	1527248.0	Leahy, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527248.0	6-5	Sr	50	0
+2017	12582	479	NYU	21	1527248.0	Leahy, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527248.0	6-5	Sr	54	0
 2017	12582	479	NYU	11	1866766.0	Lee, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866766.0	6-2	Fr	15	0
-2017	12582	479	NYU	13	1866767.0	Li, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866767.0	6-6	Fr	55	0
-2017	12582	479	NYU	22	1866768.0	Lindley, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866768.0	6-5	Fr	56	0
+2017	12582	479	NYU	13	1866767.0	Li, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866767.0	6-6	Fr	59	0
+2017	12582	479	NYU	22	1866768.0	Lindley, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866768.0	6-5	Fr	60	0
 2017	12582	479	NYU	10	1637848.0	Rivera, Jaime	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637848.0	6-1	Jr	49	0
 2017	12582	479	NYU	24	1758041.0	Talkov, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1758041.0	6-8	So	20	0
-2017	12582	479	NYU	12	1527250.0	Tan, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527250.0	6-4	Sr	18	0
+2017	12582	479	NYU	12	1527250.0	Tan, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1527250.0	6-4	Sr	20	0
 2017	12582	479	NYU	9	1866765.0	Yu, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1866765.0	6-0	Fr	2	0
-2017	12582	479	NYU	8	1637849.0	Zhu, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637849.0	6-3	Jr	55	0
+2017	12582	479	NYU	8	1637849.0	Zhu, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1637849.0	6-3	Jr	59	0
 2017	12582	461	Nazareth	9	1643712.0	Bittker, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1643712.0	6-4	Jr	70	0
 2017	12582	461	Nazareth	18	1869470.0	Chambery, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869470.0	6-5	Jr	7	0
 2017	12582	461	Nazareth	1	1869467.0	Dillon, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1869467.0	6-7	Fr	77	0
@@ -860,17 +851,17 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	564	Ramapo	7	1646212.0	Shickora, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1646212.0	6-3	Jr	0	0
 2017	12582	564	Ramapo	6	1873897.0	Van, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1873897.0	-	N/A	35	0
 2017	12582	564	Ramapo	17	1646211.0	Wixted, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1646211.0	6-2	Jr	0	0
-2017	12582	569	Regis (MA)	6	1640895.0	Aguirre, Marcos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1640895.0	6-2	Jr	47	0
-2017	12582	569	Regis (MA)	18	1749842.0	Beimel, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749842.0	6-1	So	53	0
-2017	12582	569	Regis (MA)	23	1532968.0	Bisnett, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532968.0	6-2	Sr	54	0
-2017	12582	569	Regis (MA)	15	1749843.0	Fitta, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749843.0	5-9	Jr	54	0
-2017	12582	569	Regis (MA)	7	1532971.0	Fuentes, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532971.0	5-8	Sr	54	0
-2017	12582	569	Regis (MA)	11	1532972.0	Hanrahan, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532972.0	5-10	Sr	48	0
-2017	12582	569	Regis (MA)	2	1640893.0	Krahl, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1640893.0	6-5	Jr	54	0
-2017	12582	569	Regis (MA)	8	1875913.0	McTague, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1875913.0	6-4	Fr	1	0
-2017	12582	569	Regis (MA)	1	1749845.0	Ramos, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749845.0	5-10	Jr	24	0
+2017	12582	569	Regis (MA)	6	1640895.0	Aguirre, Marcos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1640895.0	6-2	Jr	59	0
+2017	12582	569	Regis (MA)	18	1749842.0	Beimel, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749842.0	6-1	So	65	0
+2017	12582	569	Regis (MA)	23	1532968.0	Bisnett, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532968.0	6-2	Sr	66	0
+2017	12582	569	Regis (MA)	15	1749843.0	Fitta, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749843.0	5-9	Jr	66	0
+2017	12582	569	Regis (MA)	7	1532971.0	Fuentes, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532971.0	5-8	Sr	66	0
+2017	12582	569	Regis (MA)	11	1532972.0	Hanrahan, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532972.0	5-10	Sr	60	0
+2017	12582	569	Regis (MA)	2	1640893.0	Krahl, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1640893.0	6-5	Jr	66	0
+2017	12582	569	Regis (MA)	8	1875913.0	McTague, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1875913.0	6-4	Fr	2	0
+2017	12582	569	Regis (MA)	1	1749845.0	Ramos, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1749845.0	5-10	Jr	36	0
 2017	12582	569	Regis (MA)	5	1874737.0	Robidoux, Wade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874737.0	6-4	Jr	48	0
-2017	12582	569	Regis (MA)	13	1875914.0	Vega, Jayson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1875914.0	6-0	Fr	6	0
+2017	12582	569	Regis (MA)	13	1875914.0	Vega, Jayson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1875914.0	6-0	Fr	8	0
 2017	12582	18422	Rivier	11	1657634.0	Andler, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1657634.0	6-6	Jr	64	0
 2017	12582	18422	Rivier	15	1532071.0	Blank, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1532071.0	6-0	Sr	17	0
 2017	12582	18422	Rivier	04	1653487.0	Bucklin, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1653487.0	5-10	Jr	65	0
@@ -1053,19 +1044,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	1340	St. Joseph's (L.I.)	26	1874486.0	Pushnick, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874486.0	6-1	Fr	11	0
 2017	12582	1340	St. Joseph's (L.I.)	24	1874485.0	Slager, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1874485.0	6-1	Fr	43	0
 2017	12582	675	Staten Island	2	1662436.0	Ali, Zain	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1662436.0	5-10	Sr	0	0
-2017	12582	675	Staten Island	19	1779196.0	Baum, Khaleeg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1779196.0	5-10	So	6	0
-2017	12582	675	Staten Island	20	1765743.0	Caruso, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1765743.0	5-10	So	36	0
-2017	12582	675	Staten Island	1	1768680.0	El Haddad, Adil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1768680.0	5-6	So	37	0
-2017	12582	675	Staten Island	2	1879250.0	Guo, Zebin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879250.0	-	N/A	34	0
-2017	12582	675	Staten Island	13	1650934.0	Kubovitskiy, Danil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650934.0	-	So	40	0
-2017	12582	675	Staten Island	8	1650932.0	Lei, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650932.0	5-7	Jr	31	0
+2017	12582	675	Staten Island	19	1779196.0	Baum, Khaleeg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1779196.0	5-10	So	9	0
+2017	12582	675	Staten Island	20	1765743.0	Caruso, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1765743.0	5-10	So	39	0
+2017	12582	675	Staten Island	1	1768680.0	El Haddad, Adil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1768680.0	5-6	So	40	0
+2017	12582	675	Staten Island	2	1879250.0	Guo, Zebin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879250.0	-	N/A	36	0
+2017	12582	675	Staten Island	13	1650934.0	Kubovitskiy, Danil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650934.0	-	So	43	0
+2017	12582	675	Staten Island	8	1650932.0	Lei, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650932.0	5-7	Jr	32	0
 2017	12582	675	Staten Island	3	1650937.0	Ng, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650937.0	5-10	Jr	0	0
-2017	12582	675	Staten Island	9	1879252.0	Palencia, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879252.0	-	N/A	34	0
+2017	12582	675	Staten Island	9	1879252.0	Palencia, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879252.0	-	N/A	37	0
 2017	12582	675	Staten Island	4	1774670.0	Rosero, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1774670.0	5-9	So	0	0
 2017	12582	675	Staten Island	5	1650930.0	Shin Low, Song	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650930.0	5-7	Jr	0	0
 2017	12582	675	Staten Island	3	1879251.0	Stoute, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879251.0	-	N/A	13	0
-2017	12582	675	Staten Island	6	1657016.0	Tisbe, Ronald	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1657016.0	5-7	Sr	28	0
-2017	12582	675	Staten Island	14	1879253.0	Vigilante, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879253.0	-	N/A	40	0
+2017	12582	675	Staten Island	6	1657016.0	Tisbe, Ronald	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1657016.0	5-7	Sr	31	0
+2017	12582	675	Staten Island	14	1879253.0	Vigilante, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879253.0	-	N/A	43	0
 2017	12582	675	Staten Island	""	1650931.0	,	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650931.0	4-0	So	0	0
 2017	12582	679	Stevens	8	1650876.0	Bennett, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1650876.0	6-5	Sr	19	0
 2017	12582	679	Stevens	12	1879256.0	Brooks, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1879256.0	-	N/A	4	0
@@ -1117,26 +1108,26 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12582	707	Thiel	13	1559356.0	Roche, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1559356.0	6-0	Sr	36	0
 2017	12582	707	Thiel	16	1540628.0	Rombach, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1540628.0	5-8	Sr	57	0
 2017	12582	707	Thiel	7	1870215.0	Wilber, Jared	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870215.0	6-3	Fr	6	0
-2017	12582	113	UC Santa Cruz	1	1537240.0	Bardeau, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537240.0	5-11	Sr	52	0
+2017	12582	113	UC Santa Cruz	1	1537240.0	Bardeau, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537240.0	5-11	Sr	55	0
 2017	12582	113	UC Santa Cruz	24	1752838.0	Budwig, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752838.0	6-1	Jr	0	0
 2017	12582	113	UC Santa Cruz	9	1638821.0	Campbell, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638821.0	6-6	Jr	0	0
 2017	12582	113	UC Santa Cruz	8	1752845.0	Cascio, Raymond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752845.0	6-6	So	55	0
 2017	12582	113	UC Santa Cruz	4	1870822.0	Chacon, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870822.0	-	N/A	16	0
 2017	12582	113	UC Santa Cruz	13	1752839.0	Chen, Kolya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752839.0	6-0	So	0	0
-2017	12582	113	UC Santa Cruz	6	1752840.0	Donohoe, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752840.0	6-3	So	54	0
-2017	12582	113	UC Santa Cruz	19	1752841.0	Fortner, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752841.0	6-6	So	55	0
+2017	12582	113	UC Santa Cruz	6	1752840.0	Donohoe, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752840.0	6-3	So	57	0
+2017	12582	113	UC Santa Cruz	19	1752841.0	Fortner, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752841.0	6-6	So	58	0
 2017	12582	113	UC Santa Cruz	12	1537243.0	Gamboa, Gino	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537243.0	6-2	Sr	9	0
-2017	12582	113	UC Santa Cruz	18	1638824.0	Harris, Shad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638824.0	6-5	Jr	35	0
+2017	12582	113	UC Santa Cruz	18	1638824.0	Harris, Shad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638824.0	6-5	Jr	37	0
 2017	12582	113	UC Santa Cruz	22	1638826.0	Hiroto, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638826.0	5-8	Jr	35	0
-2017	12582	113	UC Santa Cruz	15	1537326.0	Howard, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537326.0	6-5	Sr	52	0
+2017	12582	113	UC Santa Cruz	15	1537326.0	Howard, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1537326.0	6-5	Sr	54	0
 2017	12582	113	UC Santa Cruz	11	1638823.0	Kittle, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638823.0	6-2	Jr	0	0
-2017	12582	113	UC Santa Cruz	10	1638822.0	Manley, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638822.0	6-5	Jr	18	0
-2017	12582	113	UC Santa Cruz	2	1638818.0	McLaughlin, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638818.0	6-2	Jr	54	0
-2017	12582	113	UC Santa Cruz	5	1638820.0	Merchen, Lake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638820.0	6-3	Jr	52	0
+2017	12582	113	UC Santa Cruz	10	1638822.0	Manley, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638822.0	6-5	Jr	21	0
+2017	12582	113	UC Santa Cruz	2	1638818.0	McLaughlin, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638818.0	6-2	Jr	57	0
+2017	12582	113	UC Santa Cruz	5	1638820.0	Merchen, Lake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1638820.0	6-3	Jr	55	0
 2017	12582	113	UC Santa Cruz	6	1752842.0	Metz, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752842.0	5-10	So	0	0
 2017	12582	113	UC Santa Cruz	19	1781895.0	Mitchell, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1781895.0	-	Fr	0	0
 2017	12582	113	UC Santa Cruz	23		Mitchell, Tobin		6-1	So	0	0
-2017	12582	113	UC Santa Cruz	17	1752844.0	Santos, Jonothan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752844.0	5-9	So	18	0
+2017	12582	113	UC Santa Cruz	17	1752844.0	Santos, Jonothan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1752844.0	5-9	So	20	0
 2017	12582	737	Vassar	18	1870814.0	Auerbach, Yoni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870814.0	6-3	Fr	58	0
 2017	12582	737	Vassar	9	1870812.0	Bygall, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1870812.0	6-4	Fr	21	0
 2017	12582	737	Vassar	6	1539636.0	Cimorelli, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12582&stats_player_seq=1539636.0	5-8	Sr	72	0
