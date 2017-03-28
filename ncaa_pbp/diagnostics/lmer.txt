@@ -16,9 +16,9 @@ Random effects:
 Number of obs: 53172, groups:  offense, 606; defense, 606
 Fixed Effects:
       (Intercept)           year2013           year2014           year2015  
-       -3.592e-02         -1.611e-08         -1.531e-08         -1.658e-08  
+       -3.592e-02         -1.615e-08         -1.535e-08         -1.662e-08  
          year2016           year2017       fieldneutral  fieldoffense_home  
-       -1.710e-08         -1.952e-08          3.592e-02          7.184e-02  
+       -1.714e-08         -1.957e-08          3.592e-02          7.184e-02  
            o_div3             d_div3  
        -4.828e-01          4.828e-01  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
@@ -45,11 +45,11 @@ Number of obs: 53172, groups:  offense, 606; defense, 606
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
 (Intercept)       -3.592e-02  6.998e-02  -0.513    0.608    
-year2013          -1.611e-08  8.397e-02   0.000    1.000    
-year2014          -1.531e-08  8.358e-02   0.000    1.000    
-year2015          -1.658e-08  8.345e-02   0.000    1.000    
-year2016          -1.710e-08  8.277e-02   0.000    1.000    
-year2017          -1.952e-08  8.282e-02   0.000    1.000    
+year2013          -1.615e-08  8.397e-02   0.000    1.000    
+year2014          -1.535e-08  8.358e-02   0.000    1.000    
+year2015          -1.662e-08  8.345e-02   0.000    1.000    
+year2016          -1.714e-08  8.277e-02   0.000    1.000    
+year2017          -1.957e-08  8.282e-02   0.000    1.000    
 fieldneutral       3.592e-02  4.061e-03   8.844   <2e-16 ***
 fieldoffense_home  7.184e-02  3.063e-03  23.455   <2e-16 ***
 o_div3            -4.828e-01  2.753e-02 -17.538   <2e-16 ***
