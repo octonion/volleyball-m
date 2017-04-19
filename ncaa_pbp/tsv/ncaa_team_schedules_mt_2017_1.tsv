@@ -7,15 +7,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	934	Alderson Broaddus	02/02/2017	@ Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4279904	http://stats.ncaa.org/game/index/4279904?org_id=590
 2017	12582	934	Alderson Broaddus	02/03/2017	@ Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4280038	http://stats.ncaa.org/game/index/4280038?org_id=590
 2017	12582	934	Alderson Broaddus	02/04/2017	@ Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4286205	http://stats.ncaa.org/game/index/4286205?org_id=275
-2017	12582	934	Alderson Broaddus	02/05/2017	St. Joseph's (L.I.) @ New Paltz, NY		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	true	New Paltz, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4281541	http://stats.ncaa.org/game/index/4281541?org_id=1340
 2017	12582	934	Alderson Broaddus	02/05/2017	@ SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4281437	http://stats.ncaa.org/game/index/4281437?org_id=475
+2017	12582	934	Alderson Broaddus	02/05/2017	St. Joseph's (L.I.) @ New Paltz, NY		St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12582	true	New Paltz, NY	true	W 3 - 0	true	3 - 0	false	3	0	false		4281541	http://stats.ncaa.org/game/index/4281541?org_id=1340
 2017	12582	934	Alderson Broaddus	02/10/2017	Lincoln Memorial		Lincoln Memorial	http://stats.ncaa.org/team/1176/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4285030	http://stats.ncaa.org/game/index/4285030?org_id=934
 2017	12582	934	Alderson Broaddus	02/11/2017	Coker		Coker	http://stats.ncaa.org/team/1023/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4286638	http://stats.ncaa.org/game/index/4286638?org_id=934
 2017	12582	934	Alderson Broaddus	02/14/2017	@ Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4289091	http://stats.ncaa.org/game/index/4289091?org_id=1013
 2017	12582	934	Alderson Broaddus	02/17/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4294721	http://stats.ncaa.org/game/index/4294721?org_id=2683
 2017	12582	934	Alderson Broaddus	03/04/2017	King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4306671	http://stats.ncaa.org/game/index/4306671?org_id=934
-2017	12582	934	Alderson Broaddus	03/11/2017	East. Mennonite @ Bristol, Tenn.		East. Mennonite	http://stats.ncaa.org/team/203/12582	true	Bristol, Tenn.	true	L 0 - 3	false	0 - 3	false	0	3	false		4315261	http://stats.ncaa.org/game/index/4315261?org_id=203
 2017	12582	934	Alderson Broaddus	03/11/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4315522	http://stats.ncaa.org/game/index/4315522?org_id=30051
+2017	12582	934	Alderson Broaddus	03/11/2017	East. Mennonite @ Bristol, Tenn.		East. Mennonite	http://stats.ncaa.org/team/203/12582	true	Bristol, Tenn.	true	L 0 - 3	false	0 - 3	false	0	3	false		4315261	http://stats.ncaa.org/game/index/4315261?org_id=203
 2017	12582	934	Alderson Broaddus	03/24/2017	@ Coker		Coker	http://stats.ncaa.org/team/1023/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4328922	http://stats.ncaa.org/game/index/4328922?org_id=1023
 2017	12582	934	Alderson Broaddus	04/05/2017	Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4341704	http://stats.ncaa.org/game/index/4341704?org_id=934
 2017	12582	934	Alderson Broaddus	04/07/2017	@ Coker		Coker	http://stats.ncaa.org/team/1023/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4342546	http://stats.ncaa.org/game/index/4342546?org_id=1023
@@ -47,7 +47,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	77	BYU	03/25/2017	Long Beach St.		Long Beach St.	http://stats.ncaa.org/team/99/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4330888	http://stats.ncaa.org/game/index/4330888?org_id=77
 2017	12582	77	BYU	04/06/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342077	http://stats.ncaa.org/game/index/4342077?org_id=104
 2017	12582	77	BYU	04/07/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4342651	http://stats.ncaa.org/game/index/4342651?org_id=104
-2017	12582	77	BYU	04/15/2017	Stanford		Stanford		false		true	-									
+2017	12582	77	BYU	04/15/2017	Stanford		Stanford	http://stats.ncaa.org/team/674/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4353146	http://stats.ncaa.org/game/index/4353146?org_id=77
+2017	12582	77	BYU	04/20/2017	Hawaii@Long Beach, CA		HawaiiLong Beach, CA		false		false	-									
 2017	12582	47	Ball St.	01/05/2017	Princeton @ Honolulu, HI		Princeton	http://stats.ncaa.org/team/554/12582	true	Honolulu, HI	true	W 3 - 2	true	3 - 2	false	3	2	false		4265796	http://stats.ncaa.org/game/index/4265796?org_id=554
 2017	12582	47	Ball St.	01/06/2017	Erskine @ Honolulu, HI		Erskine	http://stats.ncaa.org/team/1072/12582	true	Honolulu, HI	true	W 3 - 0	true	3 - 0	false	3	0	false		4266155	http://stats.ncaa.org/game/index/4266155?org_id=47
 2017	12582	47	Ball St.	01/07/2017	@ Hawaii		Hawaii	http://stats.ncaa.org/team/277/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4267138	http://stats.ncaa.org/game/index/4267138?org_id=277
@@ -75,7 +76,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	47	Ball St.	04/01/2017	Lindenwood (MO)		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4337417	http://stats.ncaa.org/game/index/4337417?org_id=47
 2017	12582	47	Ball St.	04/06/2017	Lewis		Lewis	http://stats.ncaa.org/team/354/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4342069	http://stats.ncaa.org/game/index/4342069?org_id=47
 2017	12582	47	Ball St.	04/07/2017	Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4344651	http://stats.ncaa.org/game/index/4344651?org_id=47
-2017	12582	47	Ball St.	04/15/2017	Loyola Chicago		Loyola Chicago		false		true	-									
+2017	12582	47	Ball St.	04/15/2017	Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4353054	http://stats.ncaa.org/game/index/4353054?org_id=47
+2017	12582	47	Ball St.	04/19/2017	@ Ohio St.		Ohio St.		false		false	-									
 2017	12582	15646	Barton	01/13/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4270869	http://stats.ncaa.org/game/index/4270869?org_id=15646
 2017	12582	15646	Barton	01/17/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4271808	http://stats.ncaa.org/game/index/4271808?org_id=2683
 2017	12582	15646	Barton	01/20/2017	@ North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4272894	http://stats.ncaa.org/game/index/4272894?org_id=9223
@@ -101,7 +103,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	15646	Barton	04/01/2017	King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4339121	http://stats.ncaa.org/game/index/4339121?org_id=15646
 2017	12582	15646	Barton	04/04/2017	@ Coker		Coker	http://stats.ncaa.org/team/1023/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4340442	http://stats.ncaa.org/game/index/4340442?org_id=1023
 2017	12582	15646	Barton	04/11/2017	Mount Olive		Mount Olive	http://stats.ncaa.org/team/1245/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4347964	http://stats.ncaa.org/game/index/4347964?org_id=15646
-2017	12582	15646	Barton	04/18/2017	Erskine		Erskine		false		true	-									
+2017	12582	15646	Barton	04/18/2017	Erskine		Erskine	http://stats.ncaa.org/team/1072/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4354966	http://stats.ncaa.org/game/index/4354966?org_id=15646
+2017	12582	15646	Barton	04/21/2017	Limestone		Limestone		false		true	-									
 2017	12582	2683	Belmont Abbey	01/06/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4267682	http://stats.ncaa.org/game/index/4267682?org_id=2683
 2017	12582	2683	Belmont Abbey	01/17/2017	Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4271808	http://stats.ncaa.org/game/index/4271808?org_id=2683
 2017	12582	2683	Belmont Abbey	01/20/2017	Coker		Coker	http://stats.ncaa.org/team/1023/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4272879	http://stats.ncaa.org/game/index/4272879?org_id=2683
@@ -127,7 +130,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	2683	Belmont Abbey	04/01/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4337318	http://stats.ncaa.org/game/index/4337318?org_id=2683
 2017	12582	2683	Belmont Abbey	04/04/2017	Limestone		Limestone	http://stats.ncaa.org/team/1174/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4340631	http://stats.ncaa.org/game/index/4340631?org_id=2683
 2017	12582	2683	Belmont Abbey	04/07/2017	Erskine		Erskine	http://stats.ncaa.org/team/1072/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4342535	http://stats.ncaa.org/game/index/4342535?org_id=2683
-2017	12582	2683	Belmont Abbey	04/18/2017	@ Limestone		Limestone		false		false	-									
+2017	12582	2683	Belmont Abbey	04/18/2017	@ Limestone		Limestone	http://stats.ncaa.org/team/1174/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4354886	http://stats.ncaa.org/game/index/4354886?org_id=1174
 2017	12582	101	CSUN	12/30/2016	Concordia (CA)		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4263999	http://stats.ncaa.org/game/index/4263999?org_id=101
 2017	12582	101	CSUN	01/04/2017	UC Merced		UC Merced		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4265015	http://stats.ncaa.org/game/index/4265015?org_id=101
 2017	12582	101	CSUN	01/06/2017	Quincy @ Santa Barbara, CA		Quincy	http://stats.ncaa.org/team/561/12582	true	Santa Barbara, CA	true	W 3 - 0	true	3 - 0	false	3	0	false		4267673	http://stats.ncaa.org/game/index/4267673?org_id=101
@@ -212,7 +215,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1013	Charleston (WV)	04/01/2017	Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4336484	http://stats.ncaa.org/game/index/4336484?org_id=1013
 2017	12582	1013	Charleston (WV)	04/05/2017	@ Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4341704	http://stats.ncaa.org/game/index/4341704?org_id=934
 2017	12582	1013	Charleston (WV)	04/14/2017	@ Penn St.		Penn St.	http://stats.ncaa.org/team/539/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4351413	http://stats.ncaa.org/game/index/4351413?org_id=539
-2017	12582	1013	Charleston (WV)	04/15/2017	@ Saint Francis (PA)		Saint Francis (PA)		false		false	-									
+2017	12582	1013	Charleston (WV)	04/15/2017	@ Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4352590	http://stats.ncaa.org/game/index/4352590?org_id=600
 2017	12582	1023	Coker	01/17/2017	St. Andrews		St. Andrews		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4271791	http://stats.ncaa.org/game/index/4271791?org_id=1023
 2017	12582	1023	Coker	01/20/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4272879	http://stats.ncaa.org/game/index/4272879?org_id=2683
 2017	12582	1023	Coker	01/21/2017	@ North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4273394	http://stats.ncaa.org/game/index/4273394?org_id=9223
@@ -234,19 +237,19 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1023	Coker	03/28/2017	@ Erskine		Erskine	http://stats.ncaa.org/team/1072/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4333226	http://stats.ncaa.org/game/index/4333226?org_id=1072
 2017	12582	1023	Coker	04/01/2017	Emmanuel (GA)		Emmanuel (GA)	http://stats.ncaa.org/team/30193/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4336434	http://stats.ncaa.org/game/index/4336434?org_id=1023
 2017	12582	1023	Coker	04/04/2017	Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4340442	http://stats.ncaa.org/game/index/4340442?org_id=1023
-2017	12582	1023	Coker	04/07/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4342546	http://stats.ncaa.org/game/index/4342546?org_id=1023
 2017	12582	1023	Coker	04/07/2017	Lincoln Memorial		Lincoln Memorial	http://stats.ncaa.org/team/1176/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4342414	http://stats.ncaa.org/game/index/4342414?org_id=1023
+2017	12582	1023	Coker	04/07/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4342546	http://stats.ncaa.org/game/index/4342546?org_id=1023
 2017	12582	1023	Coker	04/08/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4343785	http://stats.ncaa.org/game/index/4343785?org_id=1023
 2017	12582	30199	Concordia (CA)	12/29/2016	UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4263980	http://stats.ncaa.org/game/index/4263980?org_id=30199
 2017	12582	30199	Concordia (CA)	12/30/2016	@ CSUN		CSUN	http://stats.ncaa.org/team/101/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4263999	http://stats.ncaa.org/game/index/4263999?org_id=101
 2017	12582	30199	Concordia (CA)	01/03/2017	Southern California		Southern California	http://stats.ncaa.org/team/657/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4264791	http://stats.ncaa.org/game/index/4264791?org_id=30199
 2017	12582	30199	Concordia (CA)	01/04/2017	McMaster (CAN)		McMaster (CAN)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4268041	http://stats.ncaa.org/game/index/4268041?org_id=30199
-2017	12582	30199	Concordia (CA)	01/06/2017	Saint Francis (PA) @ Riverside, Calif.		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	true	Riverside, Calif.	true	W 3 - 1	true	3 - 1	false	3	1	false		4266008	http://stats.ncaa.org/game/index/4266008?org_id=600
 2017	12582	30199	Concordia (CA)	01/06/2017	Lindenwood (MO) @ Riverside, Calif.		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	true	Riverside, Calif.	true	W 3 - 2	true	3 - 2	false	3	2	false		4266214	http://stats.ncaa.org/game/index/4266214?org_id=30199
+2017	12582	30199	Concordia (CA)	01/06/2017	Saint Francis (PA) @ Riverside, Calif.		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	true	Riverside, Calif.	true	W 3 - 1	true	3 - 1	false	3	1	false		4266008	http://stats.ncaa.org/game/index/4266008?org_id=600
 2017	12582	30199	Concordia (CA)	01/07/2017	@ California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4266715	http://stats.ncaa.org/game/index/4266715?org_id=30135
 2017	12582	30199	Concordia (CA)	01/11/2017	Benedictine Mesa		Benedictine Mesa		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4268821	http://stats.ncaa.org/game/index/4268821?org_id=30199
-2017	12582	30199	Concordia (CA)	01/13/2017	@ BYU		BYU	http://stats.ncaa.org/team/77/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4270892	http://stats.ncaa.org/game/index/4270892?org_id=77
 2017	12582	30199	Concordia (CA)	01/13/2017	McKendree @ Provo, Utah		McKendree	http://stats.ncaa.org/team/30138/12582	true	Provo, Utah	true	L 2 - 3	false	2 - 3	false	2	3	false		4269388	http://stats.ncaa.org/game/index/4269388?org_id=30199
+2017	12582	30199	Concordia (CA)	01/13/2017	@ BYU		BYU	http://stats.ncaa.org/team/77/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4270892	http://stats.ncaa.org/game/index/4270892?org_id=77
 2017	12582	30199	Concordia (CA)	01/19/2017	SUNY New Paltz		SUNY New Paltz	http://stats.ncaa.org/team/475/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4272807	http://stats.ncaa.org/game/index/4272807?org_id=30199
 2017	12582	30199	Concordia (CA)	01/21/2017	UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4277728	http://stats.ncaa.org/game/index/4277728?org_id=30199
 2017	12582	30199	Concordia (CA)	01/23/2017	Hope Int'l		Hope Int'l		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4275741	http://stats.ncaa.org/game/index/4275741?org_id=30199
@@ -256,8 +259,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30199	Concordia (CA)	02/10/2017	@ UC Merced		UC Merced		false		false	W 3 - 0	true	3 - 0	false	3	0	false		4288658	http://stats.ncaa.org/game/index/4288658?org_id=30199
 2017	12582	30199	Concordia (CA)	02/25/2017	UC Merced		UC Merced		false		true	W 3 - 1	true	3 - 1	false	3	1	false		4300151	http://stats.ncaa.org/game/index/4300151?org_id=30199
 2017	12582	30199	Concordia (CA)	03/01/2017	@ Hope Int'l		Hope Int'l		false		false	W 3 - 2	true	3 - 2	false	3	2	false		4327845	http://stats.ncaa.org/game/index/4327845?org_id=30199
-2017	12582	30199	Concordia (CA)	03/10/2017	Clarke		Clarke		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4314555	http://stats.ncaa.org/game/index/4314555?org_id=30199
 2017	12582	30199	Concordia (CA)	03/10/2017	UC Santa Cruz		UC Santa Cruz	http://stats.ncaa.org/team/113/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4313775	http://stats.ncaa.org/game/index/4313775?org_id=30199
+2017	12582	30199	Concordia (CA)	03/10/2017	Clarke		Clarke		false		true	W 3 - 0	true	3 - 0	false	3	0	false		4314555	http://stats.ncaa.org/game/index/4314555?org_id=30199
 2017	12582	30199	Concordia (CA)	03/11/2017	California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4316057	http://stats.ncaa.org/game/index/4316057?org_id=30199
 2017	12582	30199	Concordia (CA)	03/15/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4325165	http://stats.ncaa.org/game/index/4325165?org_id=104
 2017	12582	30199	Concordia (CA)	03/17/2017	@ UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4322162	http://stats.ncaa.org/game/index/4322162?org_id=112
@@ -317,7 +320,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1072	Erskine	04/04/2017	@ Emmanuel (GA)		Emmanuel (GA)	http://stats.ncaa.org/team/30193/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4342162	http://stats.ncaa.org/game/index/4342162?org_id=30193
 2017	12582	1072	Erskine	04/07/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4342535	http://stats.ncaa.org/game/index/4342535?org_id=2683
 2017	12582	1072	Erskine	04/08/2017	@ Pfeiffer		Pfeiffer	http://stats.ncaa.org/team/542/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4346595	http://stats.ncaa.org/game/index/4346595?org_id=542
-2017	12582	1072	Erskine	04/18/2017	@ Barton		Barton		false		false	-									
+2017	12582	1072	Erskine	04/18/2017	@ Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4354966	http://stats.ncaa.org/game/index/4354966?org_id=15646
 2017	12582	308	Fort Wayne	01/03/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4264784	http://stats.ncaa.org/game/index/4264784?org_id=109
 2017	12582	308	Fort Wayne	01/06/2017	Long Beach St. @ Santa Barbara, Calif		Long Beach St.	http://stats.ncaa.org/team/99/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4269380	http://stats.ncaa.org/game/index/4269380?org_id=308
 2017	12582	308	Fort Wayne	01/06/2017	CSUN @ Santa Barbara, CA		CSUN	http://stats.ncaa.org/team/101/12582	true	Santa Barbara, CA	true	L 1 - 3	false	1 - 3	false	1	3	false		4266217	http://stats.ncaa.org/game/index/4266217?org_id=101
@@ -371,8 +374,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	248	George Mason	04/01/2017	Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4347353	http://stats.ncaa.org/game/index/4347353?org_id=248
 2017	12582	248	George Mason	04/07/2017	NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4347354	http://stats.ncaa.org/game/index/4347354?org_id=248
 2017	12582	248	George Mason	04/08/2017	Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4347340	http://stats.ncaa.org/game/index/4347340?org_id=248
-2017	12582	248	George Mason	04/14/2017	@ Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4351186	http://stats.ncaa.org/game/index/4351186?org_id=600
-2017	12582	248	George Mason	04/15/2017	@ Penn St.		Penn St.		false		false	-									
+2017	12582	248	George Mason	04/14/2017	@ Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4355386	http://stats.ncaa.org/game/index/4355386?org_id=600
+2017	12582	248	George Mason	04/15/2017	@ Penn St.		Penn St.	http://stats.ncaa.org/team/539/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4353105	http://stats.ncaa.org/game/index/4353105?org_id=539
 2017	12582	1104	Grand Canyon	01/06/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4266208	http://stats.ncaa.org/game/index/4266208?org_id=109
 2017	12582	1104	Grand Canyon	01/07/2017	@ UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4267043	http://stats.ncaa.org/game/index/4267043?org_id=112
 2017	12582	1104	Grand Canyon	01/11/2017	@ Hawaii		Hawaii	http://stats.ncaa.org/team/277/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4268835	http://stats.ncaa.org/game/index/4268835?org_id=277
@@ -400,7 +403,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1104	Grand Canyon	03/31/2017	@ Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4335814	http://stats.ncaa.org/game/index/4335814?org_id=371
 2017	12582	1104	Grand Canyon	04/01/2017	@ Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4337424	http://stats.ncaa.org/game/index/4337424?org_id=371
 2017	12582	1104	Grand Canyon	04/04/2017	Concordia (CA)		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4340423	http://stats.ncaa.org/game/index/4340423?org_id=1104
-2017	12582	1104	Grand Canyon	04/15/2017	McKendree		McKendree		false		true	-									
+2017	12582	1104	Grand Canyon	04/15/2017	McKendree		McKendree	http://stats.ncaa.org/team/30138/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4353160	http://stats.ncaa.org/game/index/4353160?org_id=1104
+2017	12582	1104	Grand Canyon	04/19/2017	@ Lewis		Lewis		false		false	-									
 2017	12582	275	Harvard	01/13/2017	@ Lewis		Lewis	http://stats.ncaa.org/team/354/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4270891	http://stats.ncaa.org/game/index/4270891?org_id=354
 2017	12582	275	Harvard	01/14/2017	@ Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4270870	http://stats.ncaa.org/game/index/4270870?org_id=371
 2017	12582	275	Harvard	01/19/2017	Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4272787	http://stats.ncaa.org/game/index/4272787?org_id=275
@@ -423,7 +427,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	275	Harvard	04/07/2017	Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4342599	http://stats.ncaa.org/game/index/4342599?org_id=275
 2017	12582	275	Harvard	04/08/2017	Penn St.		Penn St.	http://stats.ncaa.org/team/539/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4344533	http://stats.ncaa.org/game/index/4344533?org_id=275
 2017	12582	275	Harvard	04/14/2017	@ Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4351156	http://stats.ncaa.org/game/index/4351156?org_id=554
-2017	12582	275	Harvard	04/15/2017	@ NJIT		NJIT		false		false	-									
+2017	12582	275	Harvard	04/15/2017	@ NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4352477	http://stats.ncaa.org/game/index/4352477?org_id=471
 2017	12582	277	Hawaii	01/05/2017	Erskine		Erskine	http://stats.ncaa.org/team/1072/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4265825	http://stats.ncaa.org/game/index/4265825?org_id=277
 2017	12582	277	Hawaii	01/06/2017	Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4266215	http://stats.ncaa.org/game/index/4266215?org_id=277
 2017	12582	277	Hawaii	01/07/2017	Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4267138	http://stats.ncaa.org/game/index/4267138?org_id=277
@@ -452,12 +456,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	277	Hawaii	03/25/2017	CSUN		CSUN	http://stats.ncaa.org/team/101/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4330944	http://stats.ncaa.org/game/index/4330944?org_id=277
 2017	12582	277	Hawaii	04/07/2017	@ UCLA		UCLA	http://stats.ncaa.org/team/110/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342791	http://stats.ncaa.org/game/index/4342791?org_id=110
 2017	12582	277	Hawaii	04/08/2017	@ UCLA		UCLA	http://stats.ncaa.org/team/110/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4344799	http://stats.ncaa.org/game/index/4344799?org_id=110
-2017	12582	277	Hawaii	04/15/2017	Pepperdine		Pepperdine		false		true	-									
+2017	12582	277	Hawaii	04/15/2017	Pepperdine		Pepperdine	http://stats.ncaa.org/team/541/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4352980	http://stats.ncaa.org/game/index/4352980?org_id=277
+2017	12582	277	Hawaii	04/20/2017	BYU@Long Beach, CA		BYULong Beach, CA		false		false	-									
 2017	12582	30051	King (TN)	01/10/2017	Lincoln Memorial		Lincoln Memorial	http://stats.ncaa.org/team/1176/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4268380	http://stats.ncaa.org/game/index/4268380?org_id=30051
 2017	12582	30051	King (TN)	01/13/2017	Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4269425	http://stats.ncaa.org/game/index/4269425?org_id=30051
 2017	12582	30051	King (TN)	01/20/2017	@ George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4347333	http://stats.ncaa.org/game/index/4347333?org_id=248
-2017	12582	30051	King (TN)	01/21/2017	Lancaster Bible @ Harrisonburg, Va.		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	true	Harrisonburg, Va.	true	W 3 - 1	true	3 - 1	false	3	1	false		4274308	http://stats.ncaa.org/game/index/4274308?org_id=30051
 2017	12582	30051	King (TN)	01/21/2017	@ East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4273453	http://stats.ncaa.org/game/index/4273453?org_id=203
+2017	12582	30051	King (TN)	01/21/2017	Lancaster Bible @ Harrisonburg, Va.		Lancaster Bible	http://stats.ncaa.org/team/30085/12582	true	Harrisonburg, Va.	true	W 3 - 1	true	3 - 1	false	3	1	false		4274308	http://stats.ncaa.org/game/index/4274308?org_id=30051
 2017	12582	30051	King (TN)	01/25/2017	@ Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4275427	http://stats.ncaa.org/game/index/4275427?org_id=13302
 2017	12582	30051	King (TN)	01/31/2017	Pfeiffer		Pfeiffer	http://stats.ncaa.org/team/542/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4278838	http://stats.ncaa.org/game/index/4278838?org_id=30051
 2017	12582	30051	King (TN)	02/04/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4281712	http://stats.ncaa.org/game/index/4281712?org_id=2683
@@ -472,8 +477,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30051	King (TN)	03/04/2017	@ Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4306671	http://stats.ncaa.org/game/index/4306671?org_id=934
 2017	12582	30051	King (TN)	03/10/2017	Southern Va.		Southern Va.	http://stats.ncaa.org/team/30164/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4313943	http://stats.ncaa.org/game/index/4313943?org_id=30051
 2017	12582	30051	King (TN)	03/10/2017	Lindenwood (MO)		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4316480	http://stats.ncaa.org/game/index/4316480?org_id=30051
-2017	12582	30051	King (TN)	03/11/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4315522	http://stats.ncaa.org/game/index/4315522?org_id=30051
 2017	12582	30051	King (TN)	03/11/2017	East. Mennonite		East. Mennonite	http://stats.ncaa.org/team/203/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4314990	http://stats.ncaa.org/game/index/4314990?org_id=30051
+2017	12582	30051	King (TN)	03/11/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4315522	http://stats.ncaa.org/game/index/4315522?org_id=30051
 2017	12582	30051	King (TN)	03/17/2017	Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4321676	http://stats.ncaa.org/game/index/4321676?org_id=30051
 2017	12582	30051	King (TN)	03/18/2017	Quincy		Quincy	http://stats.ncaa.org/team/561/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4322602	http://stats.ncaa.org/game/index/4322602?org_id=30051
 2017	12582	30051	King (TN)	03/21/2017	@ Pfeiffer		Pfeiffer	http://stats.ncaa.org/team/542/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4326496	http://stats.ncaa.org/game/index/4326496?org_id=542
@@ -483,7 +488,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30051	King (TN)	04/01/2017	@ Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4339121	http://stats.ncaa.org/game/index/4339121?org_id=15646
 2017	12582	30051	King (TN)	04/08/2017	Limestone		Limestone	http://stats.ncaa.org/team/1174/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4343326	http://stats.ncaa.org/game/index/4343326?org_id=30051
 2017	12582	30051	King (TN)	04/11/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4347888	http://stats.ncaa.org/game/index/4347888?org_id=30051
-2017	12582	30051	King (TN)	04/18/2017	North Greenville		North Greenville		false		true	-									
+2017	12582	30051	King (TN)	04/18/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4354864	http://stats.ncaa.org/game/index/4354864?org_id=30051
+2017	12582	30051	King (TN)	04/21/2017	Mount Olive@Wilson, NC		Mount OliveWilson, NC		false		false	-									
 2017	12582	13302	Lees-McRae	01/13/2017	Lincoln Memorial		Lincoln Memorial	http://stats.ncaa.org/team/1176/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4269532	http://stats.ncaa.org/game/index/4269532?org_id=13302
 2017	12582	13302	Lees-McRae	01/14/2017	Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4269612	http://stats.ncaa.org/game/index/4269612?org_id=13302
 2017	12582	13302	Lees-McRae	01/20/2017	@ Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4272880	http://stats.ncaa.org/game/index/4272880?org_id=934
@@ -510,7 +516,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	13302	Lees-McRae	04/01/2017	@ Mount Olive		Mount Olive	http://stats.ncaa.org/team/1245/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4336257	http://stats.ncaa.org/game/index/4336257?org_id=1245
 2017	12582	13302	Lees-McRae	04/08/2017	@ North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4343243	http://stats.ncaa.org/game/index/4343243?org_id=9223
 2017	12582	13302	Lees-McRae	04/11/2017	@ Limestone		Limestone	http://stats.ncaa.org/team/1174/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4347990	http://stats.ncaa.org/game/index/4347990?org_id=1174
-2017	12582	13302	Lees-McRae	04/18/2017	@ Mount Olive		Mount Olive		false		false	-									
+2017	12582	13302	Lees-McRae	04/18/2017	@ Mount Olive		Mount Olive	http://stats.ncaa.org/team/1245/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4355302	http://stats.ncaa.org/game/index/4355302?org_id=1245
 2017	12582	354	Lewis	01/06/2017	BYU		BYU	http://stats.ncaa.org/team/77/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4268935	http://stats.ncaa.org/game/index/4268935?org_id=354
 2017	12582	354	Lewis	01/07/2017	NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4267085	http://stats.ncaa.org/game/index/4267085?org_id=354
 2017	12582	354	Lewis	01/13/2017	Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4270891	http://stats.ncaa.org/game/index/4270891?org_id=354
@@ -539,7 +545,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	354	Lewis	03/28/2017	Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4333360	http://stats.ncaa.org/game/index/4333360?org_id=354
 2017	12582	354	Lewis	04/06/2017	@ Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342069	http://stats.ncaa.org/game/index/4342069?org_id=47
 2017	12582	354	Lewis	04/08/2017	@ Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4346537	http://stats.ncaa.org/game/index/4346537?org_id=308
-2017	12582	354	Lewis	04/15/2017	Lindenwood (MO)		Lindenwood (MO)		false		true	-									
+2017	12582	354	Lewis	04/15/2017	Lindenwood (MO)		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4353183	http://stats.ncaa.org/game/index/4353183?org_id=354
+2017	12582	354	Lewis	04/19/2017	Grand Canyon		Grand Canyon		false		true	-									
 2017	12582	1174	Limestone	01/07/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4267201	http://stats.ncaa.org/game/index/4267201?org_id=1174
 2017	12582	1174	Limestone	01/21/2017	Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4273079	http://stats.ncaa.org/game/index/4273079?org_id=1174
 2017	12582	1174	Limestone	01/25/2017	Emmanuel (GA)		Emmanuel (GA)	http://stats.ncaa.org/team/30193/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4275466	http://stats.ncaa.org/game/index/4275466?org_id=1174
@@ -562,7 +569,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1174	Limestone	04/04/2017	@ Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4340631	http://stats.ncaa.org/game/index/4340631?org_id=2683
 2017	12582	1174	Limestone	04/08/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4343326	http://stats.ncaa.org/game/index/4343326?org_id=30051
 2017	12582	1174	Limestone	04/11/2017	Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4347990	http://stats.ncaa.org/game/index/4347990?org_id=1174
-2017	12582	1174	Limestone	04/18/2017	Belmont Abbey		Belmont Abbey		false		true	-									
+2017	12582	1174	Limestone	04/18/2017	Belmont Abbey		Belmont Abbey	http://stats.ncaa.org/team/2683/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4354886	http://stats.ncaa.org/game/index/4354886?org_id=1174
+2017	12582	1174	Limestone	04/21/2017	@ Barton		Barton		false		false	-									
 2017	12582	1176	Lincoln Memorial	01/10/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4268380	http://stats.ncaa.org/game/index/4268380?org_id=30051
 2017	12582	1176	Lincoln Memorial	01/13/2017	@ Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4269532	http://stats.ncaa.org/game/index/4269532?org_id=13302
 2017	12582	1176	Lincoln Memorial	01/14/2017	Alderson Broaddus		Alderson Broaddus	http://stats.ncaa.org/team/934/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4269696	http://stats.ncaa.org/game/index/4269696?org_id=1176
@@ -613,7 +621,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30136	Lindenwood (MO)	04/01/2017	@ Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4337417	http://stats.ncaa.org/game/index/4337417?org_id=47
 2017	12582	30136	Lindenwood (MO)	04/07/2017	Ohio St.		Ohio St.	http://stats.ncaa.org/team/518/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4342584	http://stats.ncaa.org/game/index/4342584?org_id=30136
 2017	12582	30136	Lindenwood (MO)	04/08/2017	McKendree		McKendree	http://stats.ncaa.org/team/30138/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4344692	http://stats.ncaa.org/game/index/4344692?org_id=30136
-2017	12582	30136	Lindenwood (MO)	04/15/2017	@ Lewis		Lewis		false		false	-									
+2017	12582	30136	Lindenwood (MO)	04/15/2017	@ Lewis		Lewis	http://stats.ncaa.org/team/354/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4353183	http://stats.ncaa.org/game/index/4353183?org_id=354
 2017	12582	99	Long Beach St.	01/06/2017	McKendree @ Santa Barbara, Calif		McKendree	http://stats.ncaa.org/team/30138/12582	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		4266185	http://stats.ncaa.org/game/index/4266185?org_id=30138
 2017	12582	99	Long Beach St.	01/06/2017	Fort Wayne @ Santa Barbara, Calif		Fort Wayne	http://stats.ncaa.org/team/308/12582	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		4269380	http://stats.ncaa.org/game/index/4269380?org_id=308
 2017	12582	99	Long Beach St.	01/07/2017	Quincy @ Santa Barbara, Calif		Quincy	http://stats.ncaa.org/team/561/12582	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		4271597	http://stats.ncaa.org/game/index/4271597?org_id=561
@@ -641,7 +649,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	99	Long Beach St.	03/25/2017	@ BYU		BYU	http://stats.ncaa.org/team/77/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4330888	http://stats.ncaa.org/game/index/4330888?org_id=77
 2017	12582	99	Long Beach St.	03/31/2017	Concordia (CA)		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4335914	http://stats.ncaa.org/game/index/4335914?org_id=99
 2017	12582	99	Long Beach St.	04/08/2017	CSUN		CSUN	http://stats.ncaa.org/team/101/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4344798	http://stats.ncaa.org/game/index/4344798?org_id=99
-2017	12582	99	Long Beach St.	04/15/2017	Southern California		Southern California		false		true	-									
+2017	12582	99	Long Beach St.	04/15/2017	Southern California		Southern California	http://stats.ncaa.org/team/657/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4353200	http://stats.ncaa.org/game/index/4353200?org_id=99
+2017	12582	99	Long Beach St.	04/20/2017	UC Irvine		UC Irvine		false		true	-									
 2017	12582	371	Loyola Chicago	01/03/2017	UCLA		UCLA	http://stats.ncaa.org/team/110/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4264684	http://stats.ncaa.org/game/index/4264684?org_id=371
 2017	12582	371	Loyola Chicago	01/05/2017	NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4265599	http://stats.ncaa.org/game/index/4265599?org_id=371
 2017	12582	371	Loyola Chicago	01/07/2017	BYU		BYU	http://stats.ncaa.org/team/77/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4267044	http://stats.ncaa.org/game/index/4267044?org_id=371
@@ -669,10 +678,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	371	Loyola Chicago	04/01/2017	Grand Canyon		Grand Canyon	http://stats.ncaa.org/team/1104/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4337424	http://stats.ncaa.org/game/index/4337424?org_id=371
 2017	12582	371	Loyola Chicago	04/06/2017	@ Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342041	http://stats.ncaa.org/game/index/4342041?org_id=308
 2017	12582	371	Loyola Chicago	04/07/2017	@ Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4344651	http://stats.ncaa.org/game/index/4344651?org_id=47
-2017	12582	371	Loyola Chicago	04/15/2017	@ Ball St.		Ball St.		false		false	-									
+2017	12582	371	Loyola Chicago	04/15/2017	@ Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4353054	http://stats.ncaa.org/game/index/4353054?org_id=47
 2017	12582	30138	McKendree	01/04/2017	@ Pepperdine		Pepperdine	http://stats.ncaa.org/team/541/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4265246	http://stats.ncaa.org/game/index/4265246?org_id=30138
-2017	12582	30138	McKendree	01/06/2017	Long Beach St. @ Santa Barbara, Calif		Long Beach St.	http://stats.ncaa.org/team/99/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4266185	http://stats.ncaa.org/game/index/4266185?org_id=30138
 2017	12582	30138	McKendree	01/06/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4266200	http://stats.ncaa.org/game/index/4266200?org_id=104
+2017	12582	30138	McKendree	01/06/2017	Long Beach St. @ Santa Barbara, Calif		Long Beach St.	http://stats.ncaa.org/team/99/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4266185	http://stats.ncaa.org/game/index/4266185?org_id=30138
 2017	12582	30138	McKendree	01/07/2017	Stanford @ Santa Barbara, Calif		Stanford	http://stats.ncaa.org/team/674/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4266847	http://stats.ncaa.org/game/index/4266847?org_id=674
 2017	12582	30138	McKendree	01/12/2017	@ BYU		BYU	http://stats.ncaa.org/team/77/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4269197	http://stats.ncaa.org/game/index/4269197?org_id=30138
 2017	12582	30138	McKendree	01/13/2017	Concordia (CA) @ Provo, Utah		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	true	Provo, Utah	true	W 3 - 2	true	3 - 2	false	3	2	false		4269388	http://stats.ncaa.org/game/index/4269388?org_id=30199
@@ -699,7 +708,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	30138	McKendree	04/01/2017	@ Ohio St.		Ohio St.	http://stats.ncaa.org/team/518/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4337360	http://stats.ncaa.org/game/index/4337360?org_id=30138
 2017	12582	30138	McKendree	04/06/2017	@ Quincy		Quincy	http://stats.ncaa.org/team/561/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342070	http://stats.ncaa.org/game/index/4342070?org_id=561
 2017	12582	30138	McKendree	04/08/2017	@ Lindenwood (MO)		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4344692	http://stats.ncaa.org/game/index/4344692?org_id=30136
-2017	12582	30138	McKendree	04/15/2017	@ Grand Canyon		Grand Canyon		false		false	-									
+2017	12582	30138	McKendree	04/15/2017	@ Grand Canyon		Grand Canyon	http://stats.ncaa.org/team/1104/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4353160	http://stats.ncaa.org/game/index/4353160?org_id=1104
 2017	12582	1245	Mount Olive	01/06/2017	Stanford @ Santa Barbara, Calif		Stanford	http://stats.ncaa.org/team/674/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4266007	http://stats.ncaa.org/game/index/4266007?org_id=1245
 2017	12582	1245	Mount Olive	01/06/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4271079	http://stats.ncaa.org/game/index/4271079?org_id=1245
 2017	12582	1245	Mount Olive	01/07/2017	CSUN @ Santa Barbara, CA		CSUN	http://stats.ncaa.org/team/101/12582	true	Santa Barbara, CA	true	L 0 - 3	false	0 - 3	false	0	3	false		4266518	http://stats.ncaa.org/game/index/4266518?org_id=101
@@ -725,7 +734,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	1245	Mount Olive	03/31/2017	King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4335701	http://stats.ncaa.org/game/index/4335701?org_id=1245
 2017	12582	1245	Mount Olive	04/01/2017	Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4336257	http://stats.ncaa.org/game/index/4336257?org_id=1245
 2017	12582	1245	Mount Olive	04/11/2017	@ Barton		Barton	http://stats.ncaa.org/team/15646/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4347964	http://stats.ncaa.org/game/index/4347964?org_id=15646
-2017	12582	1245	Mount Olive	04/18/2017	Lees-McRae		Lees-McRae		false		true	-									
+2017	12582	1245	Mount Olive	04/18/2017	Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4355302	http://stats.ncaa.org/game/index/4355302?org_id=1245
+2017	12582	1245	Mount Olive	04/21/2017	King (TN)@Wilson, NC		King (TN)Wilson, NC		false		false	-									
 2017	12582	471	NJIT	01/05/2017	@ Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4265599	http://stats.ncaa.org/game/index/4265599?org_id=371
 2017	12582	471	NJIT	01/07/2017	@ Lewis		Lewis	http://stats.ncaa.org/team/354/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4267085	http://stats.ncaa.org/game/index/4267085?org_id=354
 2017	12582	471	NJIT	01/11/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4268526	http://stats.ncaa.org/game/index/4268526?org_id=471
@@ -751,7 +761,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	471	NJIT	04/07/2017	@ George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4347354	http://stats.ncaa.org/game/index/4347354?org_id=248
 2017	12582	471	NJIT	04/12/2017	Springfield		Springfield	http://stats.ncaa.org/team/673/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4348860	http://stats.ncaa.org/game/index/4348860?org_id=471
 2017	12582	471	NJIT	04/14/2017	Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4351208	http://stats.ncaa.org/game/index/4351208?org_id=471
-2017	12582	471	NJIT	04/15/2017	Harvard		Harvard		false		true	-									
+2017	12582	471	NJIT	04/15/2017	Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4352477	http://stats.ncaa.org/game/index/4352477?org_id=471
 2017	12582	9223	North Greenville	01/11/2017	@ NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4268526	http://stats.ncaa.org/game/index/4268526?org_id=471
 2017	12582	9223	North Greenville	01/12/2017	@ Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4269029	http://stats.ncaa.org/game/index/4269029?org_id=554
 2017	12582	9223	North Greenville	01/13/2017	@ Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4271558	http://stats.ncaa.org/game/index/4271558?org_id=590
@@ -778,7 +788,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	9223	North Greenville	04/04/2017	Pfeiffer		Pfeiffer	http://stats.ncaa.org/team/542/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4340241	http://stats.ncaa.org/game/index/4340241?org_id=9223
 2017	12582	9223	North Greenville	04/08/2017	Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4343243	http://stats.ncaa.org/game/index/4343243?org_id=9223
 2017	12582	9223	North Greenville	04/11/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4347888	http://stats.ncaa.org/game/index/4347888?org_id=30051
-2017	12582	9223	North Greenville	04/18/2017	@ King (TN)		King (TN)		false		false	-									
+2017	12582	9223	North Greenville	04/18/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4354864	http://stats.ncaa.org/game/index/4354864?org_id=30051
 2017	12582	518	Ohio St.	01/06/2017	Southern California		Southern California	http://stats.ncaa.org/team/657/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4266101	http://stats.ncaa.org/game/index/4266101?org_id=518
 2017	12582	518	Ohio St.	01/07/2017	UCLA		UCLA	http://stats.ncaa.org/team/110/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4266955	http://stats.ncaa.org/game/index/4266955?org_id=518
 2017	12582	518	Ohio St.	01/10/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4268177	http://stats.ncaa.org/game/index/4268177?org_id=518
@@ -808,7 +818,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	518	Ohio St.	04/01/2017	McKendree		McKendree	http://stats.ncaa.org/team/30138/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4337360	http://stats.ncaa.org/game/index/4337360?org_id=30138
 2017	12582	518	Ohio St.	04/07/2017	@ Lindenwood (MO)		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4342584	http://stats.ncaa.org/game/index/4342584?org_id=30136
 2017	12582	518	Ohio St.	04/08/2017	@ Quincy		Quincy	http://stats.ncaa.org/team/561/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4344709	http://stats.ncaa.org/game/index/4344709?org_id=561
-2017	12582	518	Ohio St.	04/15/2017	Quincy		Quincy		false		true	-									
+2017	12582	518	Ohio St.	04/15/2017	Quincy		Quincy	http://stats.ncaa.org/team/561/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4353632	http://stats.ncaa.org/game/index/4353632?org_id=518
+2017	12582	518	Ohio St.	04/19/2017	Ball St.		Ball St.		false		true	-									
 2017	12582	539	Penn St.	01/06/2017	UCLA @ Columbus, Ohio		UCLA	http://stats.ncaa.org/team/110/12582	true	Columbus, Ohio	true	L 0 - 3	false	0 - 3	false	0	3	false		4267650	http://stats.ncaa.org/game/index/4267650?org_id=110
 2017	12582	539	Penn St.	01/07/2017	Southern California @ Columbus, Ohio		Southern California	http://stats.ncaa.org/team/657/12582	true	Columbus, Ohio	true	W 3 - 2	true	3 - 2	false	3	2	false		4267212	http://stats.ncaa.org/game/index/4267212?org_id=539
 2017	12582	539	Penn St.	01/13/2017	@ Ball St.		Ball St.	http://stats.ncaa.org/team/47/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4271813	http://stats.ncaa.org/game/index/4271813?org_id=47
@@ -837,7 +848,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	539	Penn St.	04/07/2017	@ Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4342553	http://stats.ncaa.org/game/index/4342553?org_id=590
 2017	12582	539	Penn St.	04/08/2017	@ Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4344533	http://stats.ncaa.org/game/index/4344533?org_id=275
 2017	12582	539	Penn St.	04/14/2017	Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4351413	http://stats.ncaa.org/game/index/4351413?org_id=539
-2017	12582	539	Penn St.	04/15/2017	George Mason		George Mason		false		true	-									
+2017	12582	539	Penn St.	04/15/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4353105	http://stats.ncaa.org/game/index/4353105?org_id=539
+2017	12582	539	Penn St.	04/20/2017	Princeton		Princeton		false		true	-									
 2017	12582	541	Pepperdine	01/04/2017	McKendree		McKendree	http://stats.ncaa.org/team/30138/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4265246	http://stats.ncaa.org/game/index/4265246?org_id=30138
 2017	12582	541	Pepperdine	01/13/2017	@ Loyola Chicago		Loyola Chicago	http://stats.ncaa.org/team/371/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4269517	http://stats.ncaa.org/game/index/4269517?org_id=371
 2017	12582	541	Pepperdine	01/14/2017	@ Lewis		Lewis	http://stats.ncaa.org/team/354/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4270595	http://stats.ncaa.org/game/index/4270595?org_id=354
@@ -859,7 +871,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	541	Pepperdine	03/30/2017	UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4335201	http://stats.ncaa.org/game/index/4335201?org_id=541
 2017	12582	541	Pepperdine	04/07/2017	@ UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4342773	http://stats.ncaa.org/game/index/4342773?org_id=112
 2017	12582	541	Pepperdine	04/08/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4344792	http://stats.ncaa.org/game/index/4344792?org_id=109
-2017	12582	541	Pepperdine	04/15/2017	@ Hawaii		Hawaii		false		false	-									
+2017	12582	541	Pepperdine	04/15/2017	@ Hawaii		Hawaii	http://stats.ncaa.org/team/277/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4352980	http://stats.ncaa.org/game/index/4352980?org_id=277
 2017	12582	542	Pfeiffer	01/17/2017	Mount Olive		Mount Olive	http://stats.ncaa.org/team/1245/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4271674	http://stats.ncaa.org/game/index/4271674?org_id=542
 2017	12582	542	Pfeiffer	01/31/2017	@ King (TN)		King (TN)	http://stats.ncaa.org/team/30051/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4278838	http://stats.ncaa.org/game/index/4278838?org_id=30051
 2017	12582	542	Pfeiffer	02/04/2017	@ Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4281743	http://stats.ncaa.org/game/index/4281743?org_id=13302
@@ -903,7 +915,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	554	Princeton	04/01/2017	@ Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4336828	http://stats.ncaa.org/game/index/4336828?org_id=600
 2017	12582	554	Princeton	04/08/2017	@ George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4347340	http://stats.ncaa.org/game/index/4347340?org_id=248
 2017	12582	554	Princeton	04/14/2017	Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4351156	http://stats.ncaa.org/game/index/4351156?org_id=554
-2017	12582	554	Princeton	04/15/2017	Sacred Heart		Sacred Heart		false		true	-									
+2017	12582	554	Princeton	04/15/2017	Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4352456	http://stats.ncaa.org/game/index/4352456?org_id=554
+2017	12582	554	Princeton	04/20/2017	@ Penn St.		Penn St.		false		false	-									
 2017	12582	561	Quincy	01/06/2017	Stanford @ Santa Barbara, Calif		Stanford	http://stats.ncaa.org/team/674/12582	true	Santa Barbara, Calif	true	L 1 - 3	false	1 - 3	false	1	3	false		4267681	http://stats.ncaa.org/game/index/4267681?org_id=674
 2017	12582	561	Quincy	01/06/2017	CSUN @ Santa Barbara, CA		CSUN	http://stats.ncaa.org/team/101/12582	true	Santa Barbara, CA	true	L 0 - 3	false	0 - 3	false	0	3	false		4267673	http://stats.ncaa.org/game/index/4267673?org_id=101
 2017	12582	561	Quincy	01/07/2017	Long Beach St. @ Santa Barbara, Calif		Long Beach St.	http://stats.ncaa.org/team/99/12582	true	Santa Barbara, Calif	true	L 0 - 3	false	0 - 3	false	0	3	false		4271597	http://stats.ncaa.org/game/index/4271597?org_id=561
@@ -932,7 +945,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	561	Quincy	04/01/2017	@ Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4337452	http://stats.ncaa.org/game/index/4337452?org_id=308
 2017	12582	561	Quincy	04/06/2017	McKendree		McKendree	http://stats.ncaa.org/team/30138/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4342070	http://stats.ncaa.org/game/index/4342070?org_id=561
 2017	12582	561	Quincy	04/08/2017	Ohio St.		Ohio St.	http://stats.ncaa.org/team/518/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4344709	http://stats.ncaa.org/game/index/4344709?org_id=561
-2017	12582	561	Quincy	04/15/2017	@ Ohio St.		Ohio St.		false		false	-									
+2017	12582	561	Quincy	04/15/2017	@ Ohio St.		Ohio St.	http://stats.ncaa.org/team/518/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4353632	http://stats.ncaa.org/game/index/4353632?org_id=518
 2017	12582	590	Sacred Heart	01/13/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4271558	http://stats.ncaa.org/game/index/4271558?org_id=590
 2017	12582	590	Sacred Heart	01/14/2017	North Greenville		North Greenville	http://stats.ncaa.org/team/9223/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4271598	http://stats.ncaa.org/game/index/4271598?org_id=590
 2017	12582	590	Sacred Heart	01/20/2017	Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4274303	http://stats.ncaa.org/game/index/4274303?org_id=590
@@ -957,7 +970,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	590	Sacred Heart	04/07/2017	Penn St.		Penn St.	http://stats.ncaa.org/team/539/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4342553	http://stats.ncaa.org/game/index/4342553?org_id=590
 2017	12582	590	Sacred Heart	04/08/2017	Saint Francis (PA)		Saint Francis (PA)	http://stats.ncaa.org/team/600/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4346545	http://stats.ncaa.org/game/index/4346545?org_id=590
 2017	12582	590	Sacred Heart	04/14/2017	@ NJIT		NJIT	http://stats.ncaa.org/team/471/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4351208	http://stats.ncaa.org/game/index/4351208?org_id=471
-2017	12582	590	Sacred Heart	04/15/2017	@ Princeton		Princeton		false		false	-									
+2017	12582	590	Sacred Heart	04/15/2017	@ Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4352456	http://stats.ncaa.org/game/index/4352456?org_id=554
+2017	12582	590	Sacred Heart	04/20/2017	Saint Francis (PA)@University Park, PA		Saint Francis (PA)University Park, PA		false		false	-									
 2017	12582	600	Saint Francis (PA)	01/06/2017	@ California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4266187	http://stats.ncaa.org/game/index/4266187?org_id=30135
 2017	12582	600	Saint Francis (PA)	01/06/2017	Concordia (CA) @ Riverside, Calif.		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	true	Riverside, Calif.	true	L 1 - 3	false	1 - 3	false	1	3	false		4266008	http://stats.ncaa.org/game/index/4266008?org_id=600
 2017	12582	600	Saint Francis (PA)	01/07/2017	Lindenwood (MO) @ Riverside, Calif.		Lindenwood (MO)	http://stats.ncaa.org/team/30136/12582	true	Riverside, Calif.	true	W 3 - 2	true	3 - 2	false	3	2	false		4266739	http://stats.ncaa.org/game/index/4266739?org_id=600
@@ -985,8 +999,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	600	Saint Francis (PA)	04/01/2017	Princeton		Princeton	http://stats.ncaa.org/team/554/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4336828	http://stats.ncaa.org/game/index/4336828?org_id=600
 2017	12582	600	Saint Francis (PA)	04/07/2017	@ Harvard		Harvard	http://stats.ncaa.org/team/275/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4342599	http://stats.ncaa.org/game/index/4342599?org_id=275
 2017	12582	600	Saint Francis (PA)	04/08/2017	@ Sacred Heart		Sacred Heart	http://stats.ncaa.org/team/590/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4346545	http://stats.ncaa.org/game/index/4346545?org_id=590
-2017	12582	600	Saint Francis (PA)	04/14/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4351186	http://stats.ncaa.org/game/index/4351186?org_id=600
-2017	12582	600	Saint Francis (PA)	04/15/2017	Charleston (WV)		Charleston (WV)		false		true	-									
+2017	12582	600	Saint Francis (PA)	04/14/2017	George Mason		George Mason	http://stats.ncaa.org/team/248/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4355386	http://stats.ncaa.org/game/index/4355386?org_id=600
+2017	12582	600	Saint Francis (PA)	04/15/2017	Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4352590	http://stats.ncaa.org/game/index/4352590?org_id=600
+2017	12582	600	Saint Francis (PA)	04/20/2017	Sacred Heart@University Park, PA		Sacred HeartUniversity Park, PA		false		false	-									
 2017	12582	657	Southern California	01/03/2017	@ Concordia (CA)		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4264791	http://stats.ncaa.org/game/index/4264791?org_id=30199
 2017	12582	657	Southern California	01/06/2017	@ Ohio St.		Ohio St.	http://stats.ncaa.org/team/518/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4266101	http://stats.ncaa.org/game/index/4266101?org_id=518
 2017	12582	657	Southern California	01/07/2017	Penn St. @ Columbus, Ohio		Penn St.	http://stats.ncaa.org/team/539/12582	true	Columbus, Ohio	true	L 2 - 3	false	2 - 3	false	2	3	false		4267212	http://stats.ncaa.org/game/index/4267212?org_id=539
@@ -1014,7 +1029,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	657	Southern California	03/31/2017	UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4335894	http://stats.ncaa.org/game/index/4335894?org_id=657
 2017	12582	657	Southern California	04/06/2017	California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4342066	http://stats.ncaa.org/game/index/4342066?org_id=657
 2017	12582	657	Southern California	04/08/2017	@ California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4344764	http://stats.ncaa.org/game/index/4344764?org_id=30135
-2017	12582	657	Southern California	04/15/2017	@ Long Beach St.		Long Beach St.		false		false	-									
+2017	12582	657	Southern California	04/15/2017	@ Long Beach St.		Long Beach St.	http://stats.ncaa.org/team/99/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4353200	http://stats.ncaa.org/game/index/4353200?org_id=99
 2017	12582	674	Stanford	01/06/2017	Quincy @ Santa Barbara, Calif		Quincy	http://stats.ncaa.org/team/561/12582	true	Santa Barbara, Calif	true	W 3 - 1	true	3 - 1	false	3	1	false		4267681	http://stats.ncaa.org/game/index/4267681?org_id=674
 2017	12582	674	Stanford	01/06/2017	Mount Olive @ Santa Barbara, Calif		Mount Olive	http://stats.ncaa.org/team/1245/12582	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		4266007	http://stats.ncaa.org/game/index/4266007?org_id=1245
 2017	12582	674	Stanford	01/07/2017	McKendree @ Santa Barbara, Calif		McKendree	http://stats.ncaa.org/team/30138/12582	true	Santa Barbara, Calif	true	W 3 - 0	true	3 - 0	false	3	0	false		4266847	http://stats.ncaa.org/game/index/4266847?org_id=674
@@ -1040,7 +1055,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	674	Stanford	04/01/2017	UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4337557	http://stats.ncaa.org/game/index/4337557?org_id=674
 2017	12582	674	Stanford	04/07/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4342815	http://stats.ncaa.org/game/index/4342815?org_id=109
 2017	12582	674	Stanford	04/08/2017	@ UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4344747	http://stats.ncaa.org/game/index/4344747?org_id=112
-2017	12582	674	Stanford	04/15/2017	@ BYU		BYU		false		false	-									
+2017	12582	674	Stanford	04/15/2017	@ BYU		BYU	http://stats.ncaa.org/team/77/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4353146	http://stats.ncaa.org/game/index/4353146?org_id=77
 2017	12582	109	UC Irvine	12/29/2016	@ Concordia (CA)		Concordia (CA)	http://stats.ncaa.org/team/30199/12582	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4263980	http://stats.ncaa.org/game/index/4263980?org_id=30199
 2017	12582	109	UC Irvine	01/03/2017	Fort Wayne		Fort Wayne	http://stats.ncaa.org/team/308/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4264784	http://stats.ncaa.org/game/index/4264784?org_id=109
 2017	12582	109	UC Irvine	01/05/2017	UC San Diego		UC San Diego	http://stats.ncaa.org/team/112/12582	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4265792	http://stats.ncaa.org/game/index/4265792?org_id=109
@@ -1066,7 +1081,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	109	UC Irvine	03/31/2017	@ Stanford		Stanford	http://stats.ncaa.org/team/674/12582	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4335908	http://stats.ncaa.org/game/index/4335908?org_id=109
 2017	12582	109	UC Irvine	04/07/2017	Stanford		Stanford	http://stats.ncaa.org/team/674/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4342815	http://stats.ncaa.org/game/index/4342815?org_id=109
 2017	12582	109	UC Irvine	04/08/2017	Pepperdine		Pepperdine	http://stats.ncaa.org/team/541/12582	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4344792	http://stats.ncaa.org/game/index/4344792?org_id=109
-2017	12582	109	UC Irvine	04/15/2017	UCLA		UCLA		false		true	-									
+2017	12582	109	UC Irvine	04/15/2017	UCLA		UCLA	http://stats.ncaa.org/team/110/12582	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4353177	http://stats.ncaa.org/game/index/4353177?org_id=109
+2017	12582	109	UC Irvine	04/20/2017	@ Long Beach St.		Long Beach St.		false		false	-									
 2017	12582	112	UC San Diego	01/05/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4265792	http://stats.ncaa.org/game/index/4265792?org_id=109
 2017	12582	112	UC San Diego	01/07/2017	Grand Canyon		Grand Canyon	http://stats.ncaa.org/team/1104/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4267043	http://stats.ncaa.org/game/index/4267043?org_id=112
 2017	12582	112	UC San Diego	01/13/2017	@ UC Santa Barbara		UC Santa Barbara	http://stats.ncaa.org/team/104/12582	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4269563	http://stats.ncaa.org/game/index/4269563?org_id=104
@@ -1146,4 +1162,4 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12582	110	UCLA	04/01/2017	@ California Baptist		California Baptist	http://stats.ncaa.org/team/30135/12582	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4337566	http://stats.ncaa.org/game/index/4337566?org_id=30135
 2017	12582	110	UCLA	04/07/2017	Hawaii		Hawaii	http://stats.ncaa.org/team/277/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4342791	http://stats.ncaa.org/game/index/4342791?org_id=110
 2017	12582	110	UCLA	04/08/2017	Hawaii		Hawaii	http://stats.ncaa.org/team/277/12582	false		true	L 1 - 3	false	1 - 3	false	1	3	false		4344799	http://stats.ncaa.org/game/index/4344799?org_id=110
-2017	12582	110	UCLA	04/15/2017	@ UC Irvine		UC Irvine		false		false	-									
+2017	12582	110	UCLA	04/15/2017	@ UC Irvine		UC Irvine	http://stats.ncaa.org/team/109/12582	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4353177	http://stats.ncaa.org/game/index/4353177?org_id=109
