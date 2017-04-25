@@ -95,7 +95,7 @@ join ncaa_pbp.m m1
 join ncaa_pbp.m m2
   on (m2.school_id)=(r2.school_id)
 where
-  r1.year=2016
+  r1.year=2017
 );
 
 insert into ncaa_pbp.matrix_p
@@ -115,7 +115,7 @@ join ncaa_pbp.m m1
 join ncaa_pbp.m m2
   on (m2.school_id)=(r2.school_id)
 where
-  r1.year=2016
+  r1.year=2017
 );
 
 insert into ncaa_pbp.matrix_p
@@ -135,7 +135,7 @@ join ncaa_pbp.m m1
 join ncaa_pbp.m m2
   on (m2.school_id)=(r2.school_id)
 where
-  r1.year=2016
+  r1.year=2017
 );
 
 update ncaa_pbp.matrix_p
@@ -174,7 +174,17 @@ join ncaa_pbp.rounds r2
 join (select generate_series(1, 4) round_id) gs
   on TRUE
 where
-  r1.year=2016
+  r1.year=2017
 );
+
+-- Ohio State hosting
+
+update ncaa_pbp.matrix_field
+set field='home'
+where school_id=518;
+
+update ncaa_pbp.matrix_field
+set field='away'
+where opponent_id=518;
 
 commit;
