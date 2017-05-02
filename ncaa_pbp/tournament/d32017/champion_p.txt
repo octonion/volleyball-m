@@ -1,15 +1,9 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- Springfield    | 0.886
- Stevens        | 0.043
- Wentworth      | 0.023
- SUNY New Paltz | 0.017
- Vassar         | 0.015
- Dominican (IL) | 0.013
- Juniata        | 0.001
- Hunter         | 0.000
-(8 rows)
+ Springfield    | 0.967
+ SUNY New Paltz | 0.033
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

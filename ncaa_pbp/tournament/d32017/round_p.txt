@@ -1,31 +1,9 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  3 | Springfield    | 0.991
-  3 | Wentworth      | 0.739
-  3 | Stevens        | 0.619
-  3 | SUNY New Paltz | 0.509
-  3 | Vassar         | 0.491
-  3 | Dominican (IL) | 0.381
-  3 | Juniata        | 0.261
-  3 | Hunter         | 0.009
-  4 | Springfield    | 0.915
-  4 | Wentworth      | 0.379
-  4 | SUNY New Paltz | 0.282
-  4 | Vassar         | 0.268
-  4 | Juniata        | 0.071
-  4 | Stevens        | 0.061
-  4 | Dominican (IL) | 0.022
-  4 | Hunter         | 0.002
-  5 | Springfield    | 0.886
-  5 | Stevens        | 0.043
-  5 | Wentworth      | 0.023
-  5 | SUNY New Paltz | 0.017
-  5 | Vassar         | 0.015
-  5 | Dominican (IL) | 0.013
-  5 | Juniata        | 0.001
-  5 | Hunter         | 0.000
-(24 rows)
+  5 | Springfield    | 0.967
+  5 | SUNY New Paltz | 0.033
+(2 rows)
 
-COPY 24
+COPY 2
 COMMIT
