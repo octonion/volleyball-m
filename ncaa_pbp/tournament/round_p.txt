@@ -1,23 +1,9 @@
 BEGIN
- rd |      name      |   p   
-----+----------------+-------
-  2 | BYU            | 0.928
-  2 | Hawaii         | 0.907
-  2 | Penn St.       | 0.093
-  2 | Barton         | 0.072
-  3 | Long Beach St. | 0.717
-  3 | Ohio St.       | 0.575
-  3 | Hawaii         | 0.418
-  3 | BYU            | 0.281
-  3 | Penn St.       | 0.007
-  3 | Barton         | 0.002
-  4 | Long Beach St. | 0.419
-  4 | Ohio St.       | 0.283
-  4 | Hawaii         | 0.190
-  4 | BYU            | 0.107
-  4 | Penn St.       | 0.001
-  4 | Barton         | 0.000
-(16 rows)
+ rd |   name   |   p   
+----+----------+-------
+  4 | Ohio St. | 0.637
+  4 | BYU      | 0.363
+(2 rows)
 
-COPY 16
+COPY 2
 COMMIT

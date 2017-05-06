@@ -1,13 +1,9 @@
 BEGIN
-   team_name    |   p   
-----------------+-------
- Long Beach St. | 0.419
- Ohio St.       | 0.283
- Hawaii         | 0.190
- BYU            | 0.107
- Penn St.       | 0.001
- Barton         | 0.000
-(6 rows)
+ team_name |   p   
+-----------+-------
+ Ohio St.  | 0.637
+ BYU       | 0.363
+(2 rows)
 
-COPY 6
+COPY 2
 COMMIT
