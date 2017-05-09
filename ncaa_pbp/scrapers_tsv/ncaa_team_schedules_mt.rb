@@ -71,7 +71,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       team_id = team[3]
       team_name = team[4]
       
-      team_schedule_url = "http://stats.ncaa.org/team/%d/%d" % [team_id,year_id]
+      #team_schedule_url = "http://stats.ncaa.org/team/%d/%d" % [team_id,year_id]
+      team_schedule_url = "http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
@@ -110,23 +111,31 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             row += [game_date]
           when 1
             game_string = element.text.strip
-            opponent_string = game_string.split(" @ ")[0]
-            neutral = game_string.split(" @ ")[1]
+            #opponent_string = game_string.split(" @ ")[0]
+            #neutral = game_string.split(" @ ")[1]
+            part1 = game_string.split("@")[0].strip rescue nil
+            part2 = game_string.split("@")[1].strip rescue nil
 
-            if (neutral==nil)
+            if (part2==nil) # Home
               neutral_site = FALSE
               neutral_location = nil
-            else
+              opponent_name = game_string
+            elsif (part1=='') # Away
+              neutral_site = FALSE
+              neutral_location = nil
+              opponent_name = part2
+            else # Neutral
               neutral_site = TRUE
-              neutral_location = neutral.strip
+              neutral_location = part2
+              opponent_name = part1
             end
-            if (opponent_string.include?("@"))
+            if (game_string.include?("@"))
               home_game = FALSE
             else
               home_game = TRUE
             end
 
-            opponent_name = opponent_string.gsub("@","").strip
+            #opponent_name = opponent_string.gsub("@","").strip
 
             link = element.search("a").first
             if (link==nil)
@@ -135,16 +144,14 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_url = nil
             else
               link_url = link.attributes["href"].text
-              parameters = link_url.split("/")[-1]
 
               # opponent_id
 
-              opponent_id = parameters.split("=")[1]
+              opponent_id = link_url.split("/")[-2] 
 
               # opponent URL
 
               opponent_url = base_url+link_url
-              #opponent_url = link_url.split("cgi/")[1]
             end
 
             row += [game_string, opponent_id, opponent_name, opponent_url, neutral_site, neutral_location, home_game]
