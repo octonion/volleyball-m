@@ -66,7 +66,7 @@ r.game_date,
 r.year,
 r.field
 from ncaa_pbp.results r
-where r.year between 2012 and 2017
+where r.year between 2012 and 2018
 );
 
 update r
