@@ -31,7 +31,7 @@ left join ncaa_pbp.matrix_p mp
      (r1.year,mf.field,r1.school_id,r2.school_id)
 
 where
-    r1.year=2017
+    r1.year=2018
 and r1.round_id=1
 group by r1.year,round,r1.seed,r1.division_id,r1.school_id,r1.team_name,r1.bracket
 );

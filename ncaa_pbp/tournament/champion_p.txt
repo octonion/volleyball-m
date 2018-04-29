@@ -1,9 +1,13 @@
 BEGIN
- team_name |   p   
------------+-------
- Ohio St.  | 0.637
- BYU       | 0.363
-(2 rows)
+   team_name    |   p   
+----------------+-------
+ Long Beach St. | 0.606
+ UCLA           | 0.249
+ BYU            | 0.078
+ UC Irvine      | 0.034
+ Ohio St.       | 0.032
+ Harvard        | 0.000
+(6 rows)
 
-COPY 2
+COPY 6
 COMMIT
