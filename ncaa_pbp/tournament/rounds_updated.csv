@@ -1,7 +1,5 @@
 year,round_id,seed,division_id,school_id,school_name,bracket,p
 2018,1,1,1,99,Long Beach St.,"{1,1,1,1}",1.0
 2018,1,,1,518,Ohio St.,"{2,2,1,1}",1.0
-2018,1,,1,109,UC Irvine,"{3,2,1,1}",1.0
 2018,1,,1,110,UCLA,"{4,3,2,1}",1.0
-2018,1,,1,275,Harvard,"{5,3,2,1}",1.0
 2018,1,2,1,77,BYU,"{6,4,2,1}",1.0
