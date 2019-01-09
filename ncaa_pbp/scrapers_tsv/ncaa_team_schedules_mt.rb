@@ -147,7 +147,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
               # opponent_id
 
-              opponent_id = link_url.split("/")[-2] 
+              opponent_id = link_url.split("/")[-1]
 
               # opponent URL
 

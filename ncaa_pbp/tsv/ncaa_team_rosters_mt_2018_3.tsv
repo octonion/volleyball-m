@@ -163,7 +163,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	451	CMSV	3	1983974	Brundage, Ainsley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1983974	5-10	So	10	0
 2018	12825	451	CMSV	15	1649802	Dickover, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1649802	5-11	Sr	81	0
 2018	12825	451	CMSV	12	2009374	Donnelly, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=2009374	-	N/A	20	0
-2018	12825	451	CMSV	14	1969049	Estrella, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1969049	6-4	Fr	93	0
+2018	12825	451	CMSV	14	1969049	Estrella, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1969049	6-4	Fr	93	0
 2018	12825	451	CMSV	6	1649799	O'Connor, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1649799	6-2	Sr	83	0
 2018	12825	451	CMSV	8	1969084	Perez, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1969084	5-11	Fr	1	0
 2018	12825	451	CMSV	1	1870815	Ryan, Brendan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1870815	5-8	So	82	0
@@ -389,7 +389,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	11538	Fontbonne	10	1979420	Klusman, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979420	6-0	Fr	71	0
 2018	12825	11538	Fontbonne	1	1637548	Lendy, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637548	6-2	Sr	58	0
 2018	12825	11538	Fontbonne	22	1637549	Lendy, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637549	6-2	Sr	82	0
-2018	12825	11538	Fontbonne	7	1753611	Novalic, Nedim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1753611	6-3	Sr	4	0
+2018	12825	11538	Fontbonne	7	1753611	Novalic, Nedim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1753611	6-3	Sr	0	0
 2018	12825	11538	Fontbonne	4	1979399	Paasch, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979399	6-1	Fr	13	0
 2018	12825	11538	Fontbonne	12	1637551	Pitaro, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637551	6-2	Sr	25	0
 2018	12825	11538	Fontbonne	99	1979423	Rendon, Ivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979423	5-11	Jr	3	0
@@ -461,6 +461,27 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	30172	IIT	15	1870607	Robeck, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1870607	6-4	So	86	0
 2018	12825	30172	IIT	12	1979578	Salameh, Hani	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979578	6-3	So	9	0
 2018	12825	30172	IIT	11	1979586	Throop, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979586	5-11	Fr	74	0
+2018	12825	22626	JWU (Providence)	21	1863632	Allen-Morabito, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863632	6-2	So	18	0
+2018	12825	22626	JWU (Providence)	9	1863629	Bitetto, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863629	5-10	So	106	0
+2018	12825	22626	JWU (Providence)	10	1650860	Chang, Kanila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650860	6-4	Sr	91	0
+2018	12825	22626	JWU (Providence)	3	1972001	Chen, Billy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972001	6-1	Jr	36	0
+2018	12825	22626	JWU (Providence)	20	1972026	Crump, Dondre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972026	6-3	Fr	39	0
+2018	12825	22626	JWU (Providence)	7	1863630	Foglia, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863630	6-2	So	36	0
+2018	12825	22626	JWU (Providence)	14	1864671	Holloway, Sanjae	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1864671	6-4	Fr	90	0
+2018	12825	22626	JWU (Providence)	6	1972004	Jeremiah, Keiron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972004	6-6	Fr	17	0
+2018	12825	22626	JWU (Providence)	12	1750196	Kelley, Donovan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750196	6-9	Jr	86	0
+2018	12825	22626	JWU (Providence)	4	1750198	LaVasseur, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750198	6-5	Sr	82	0
+2018	12825	22626	JWU (Providence)	19	1972007	Luong, Sisqo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972007	5-5	Fr	14	0
+2018	12825	22626	JWU (Providence)	17	1873900	McCarthy, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873900	6-5	So	12	0
+2018	12825	22626	JWU (Providence)	2	1863633	Medici, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863633	5-1	So	53	0
+2018	12825	22626	JWU (Providence)	5		Pincince, Jack		6-2	Fr	0	0
+2018	12825	22626	JWU (Providence)	13	1863631	Pitzer, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863631	6-6	So	26	0
+2018	12825	22626	JWU (Providence)	14	1750201	Ponce, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750201	6-4	Jr	90	0
+2018	12825	22626	JWU (Providence)	11	1750195	Rhee, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750195	6-0	Jr	0	0
+2018	12825	22626	JWU (Providence)	15	1864675	Sanchez, Endel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1864675	6-0	So	78	0
+2018	12825	22626	JWU (Providence)	1	1750193	Seda, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750193	6-0	Jr	89	0
+2018	12825	22626	JWU (Providence)	16	1972025	Trail, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972025	5-4	Fr	39	0
+2018	12825	22626	JWU (Providence)	18	1873901	Turner, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873901	6-8	So	82	0
 2018	12825	321	John Jay	15	1871691	Alvarado, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1871691	5-10	So	1	0
 2018	12825	321	John Jay	4	1780322	Chabla, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1780322	5-8	Jr	19	0
 2018	12825	321	John Jay	11	1657630	DeJesus, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1657630	5-9	Sr	82	0
@@ -474,27 +495,6 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	321	John Jay	6	1882004	Sequeria, Godwin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1882004	5-6	So	83	0
 2018	12825	321	John Jay	9	1871688	Surdel, Krystian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1871688	6-3	So	80	0
 2018	12825	321	John Jay	13	1986186	Wong, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1986186	6-0	So	13	0
-2018	12825	22626	Johnson & Wales (RI)	21	1863632	Allen-Morabito, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863632	6-2	So	18	0
-2018	12825	22626	Johnson & Wales (RI)	9	1863629	Bitetto, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863629	5-10	So	106	0
-2018	12825	22626	Johnson & Wales (RI)	10	1650860	Chang, Kanila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650860	6-4	Sr	91	0
-2018	12825	22626	Johnson & Wales (RI)	3	1972001	Chen, Billy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972001	6-1	Jr	36	0
-2018	12825	22626	Johnson & Wales (RI)	20	1972026	Crump, Dondre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972026	6-3	Fr	39	0
-2018	12825	22626	Johnson & Wales (RI)	7	1863630	Foglia, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863630	6-2	So	36	0
-2018	12825	22626	Johnson & Wales (RI)	14	1864671	Holloway, Sanjae	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1864671	6-4	Fr	90	0
-2018	12825	22626	Johnson & Wales (RI)	6	1972004	Jeremiah, Keiron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972004	6-6	Fr	17	0
-2018	12825	22626	Johnson & Wales (RI)	12	1750196	Kelley, Donovan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750196	6-9	Jr	86	0
-2018	12825	22626	Johnson & Wales (RI)	4	1750198	LaVasseur, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750198	6-5	Sr	82	0
-2018	12825	22626	Johnson & Wales (RI)	19	1972007	Luong, Sisqo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972007	5-5	Fr	14	0
-2018	12825	22626	Johnson & Wales (RI)	17	1873900	McCarthy, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873900	6-5	So	12	0
-2018	12825	22626	Johnson & Wales (RI)	2	1863633	Medici, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863633	5-1	So	53	0
-2018	12825	22626	Johnson & Wales (RI)	5		Pincince, Jack		6-2	Fr	0	0
-2018	12825	22626	Johnson & Wales (RI)	13	1863631	Pitzer, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863631	6-6	So	26	0
-2018	12825	22626	Johnson & Wales (RI)	14	1750201	Ponce, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750201	6-4	Jr	90	0
-2018	12825	22626	Johnson & Wales (RI)	11	1750195	Rhee, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750195	6-0	Jr	0	0
-2018	12825	22626	Johnson & Wales (RI)	15	1864675	Sanchez, Endel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1864675	6-0	So	78	0
-2018	12825	22626	Johnson & Wales (RI)	1	1750193	Seda, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1750193	6-0	Jr	89	0
-2018	12825	22626	Johnson & Wales (RI)	16	1972025	Trail, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1972025	5-4	Fr	39	0
-2018	12825	22626	Johnson & Wales (RI)	18	1873901	Turner, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873901	6-8	So	82	0
 2018	12825	325	Juniata	5	1765740	Ash, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1765740	6-4	Jr	21	0
 2018	12825	325	Juniata	7	1665706	Bender, Mahlon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1665706	6-7	Sr	109	0
 2018	12825	325	Juniata	4	1873879	Cavanagh, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873879	6-2	So	67	0
@@ -504,7 +504,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	325	Juniata	1	1650886	Heron, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650886	6-0	Sr	108	0
 2018	12825	325	Juniata	20	1873881	Hibner, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873881	6-6	So	110	0
 2018	12825	325	Juniata	14	1665707	Knapp, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1665707	6-3	Sr	14	0
-2018	12825	325	Juniata	6	2002467	Orth-Moore, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=2002467	-	N/A	1	0
+2018	12825	325	Juniata	6	2002467	Orth-Moore, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=2002467	6-4	N/A	1	0
 2018	12825	325	Juniata	12	1763221	Peterson, Quinn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1763221	6-6	Jr	110	0
 2018	12825	325	Juniata	33	1873882	Pierce, Morgan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873882	6-6	So	5	0
 2018	12825	325	Juniata	10	1873894	Schaeffer, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873894	5-11	So	94	0
@@ -721,7 +721,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	394	Marymount (VA)	12	1865012	Safley, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1865012	6-4	So	95	0
 2018	12825	394	Marymount (VA)	15	1762587	Shahan, Remington	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1762587	6-5	Jr	83	0
 2018	12825	394	Marymount (VA)	14	1649750	Steranka, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1649750	6-9	Sr	56	0
-2018	12825	394	Marymount (VA)	16	1762588	Tresser, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1762588	6-5	Jr	2	0
+2018	12825	394	Marymount (VA)	16	1762588	Treser, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1762588	6-5	Jr	2	0
 2018	12825	394	Marymount (VA)	3	1649745	Wiechecki, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1649745	6-4	Sr	86	0
 2018	12825	394	Marymount (VA)	7	1762583	Wiles, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1762583	6-2	Jr	81	0
 2018	12825	394	Marymount (VA)	2	1865010	Zanelotti, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1865010	6-2	So	90	0
@@ -799,7 +799,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	16142	Misericordia	33	2008846	Mondorff, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=2008846	-	N/A	2	0
 2018	12825	16142	Misericordia	24	1980173	Natiello, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1980173	6-0	Fr	99	0
 2018	12825	16142	Misericordia	32	1980176	Trygar, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1980176	6-2	Sr	99	0
-2018	12825	27901	Mount Ida	22	1986066	Dorfman, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1986066	6-3	Fr	93	0
+2018	12825	27901	Mount Ida	22	1986066	Dorfman, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1986066	6-4	Fr	93	0
 2018	12825	27901	Mount Ida	23	1986067	Foster, Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1986067	6-3	So	103	0
 2018	12825	27901	Mount Ida	3	1760803	Gyampo, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1760803	6-0	Jr	67	0
 2018	12825	27901	Mount Ida	20	1986065	Keohane, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1986065	6-2	So	102	0
@@ -924,15 +924,15 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	525	Olivet	7	1979484	Baran, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979484	6-2	Fr	15	0
 2018	12825	525	Olivet	12	1979505	Blough, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979505	6-3	So	77	0
 2018	12825	525	Olivet	11	1979506	Deichmann, Karl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979506	6-7	So	31	0
-2018	12825	525	Olivet	3	1979507	Gardenour, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979507	5-10	Fr	79	0
+2018	12825	525	Olivet	3	1979507	Gardenour, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979507	5-9	Fr	79	0
 2018	12825	525	Olivet	8	1869436	Giorgi, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1869436	6-1	So	55	0
 2018	12825	525	Olivet	15	1979508	Hayes, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979508	6-4	Fr	32	0
-2018	12825	525	Olivet	2	1862784	Prince, Deivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862784	5-10	So	3	0
+2018	12825	525	Olivet	2	1862784	Prince, Deivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862784	6-0	So	3	0
 2018	12825	525	Olivet	4	1862786	Pringle, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862786	6-2	So	48	0
 2018	12825	525	Olivet	13	1862785	Pringle, Brock	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862785	6-2	So	79	0
 2018	12825	525	Olivet	10	1758835	Pringle, Rhett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758835	6-2	Sr	79	0
-2018	12825	525	Olivet	9	1862787	Robinson, Trent	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862787	6-2	So	79	0
-2018	12825	525	Olivet	5	1979510	Toney, Quincy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979510	6-3	Fr	3	0
+2018	12825	525	Olivet	9	1862787	Robinson, Trent	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1862787	6-1	So	79	0
+2018	12825	525	Olivet	5	1979510	Toney, Quincy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1979510	6-2	Fr	3	0
 2018	12825	25719	Penn St.-Altoona	16	1872673	Appleman, Dylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1872673	5-10	So	45	0
 2018	12825	25719	Penn St.-Altoona	17	1872674	Arentz, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1872674	6-2	So	102	0
 2018	12825	25719	Penn St.-Altoona	9	1650585	Bannister, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650585	6-3	Sr	96	0
@@ -1149,21 +1149,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	1379	Southern Vt.	5	1987231	Smith, Davanté	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1987231	5-10	So	35	0
 2018	12825	673	Springfield	19	1977194	Blades, Shevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977194	6-6	Fr	7	0
 2018	12825	673	Springfield	3	1749860	De La Espriella, Billy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749860	6-6	Sr	62	0
-2018	12825	673	Springfield	17	1637807	Evans, Tucker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637807	6-0	Sr	89	0
-2018	12825	673	Springfield	12	1863140	Figueroa Velez, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863140	6-3	Sr	88	0
-2018	12825	673	Springfield	15	1749863	Irizarry, Eli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749863	6-2	Jr	89	0
-2018	12825	673	Springfield	2	1637806	Irizarry Feliciano, Joseth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637806	6-4	Sr	99	0
+2018	12825	673	Springfield	17	1637807	Evans, Tucker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637807	6-0	Sr	92	0
+2018	12825	673	Springfield	12	1863140	Figueroa Velez, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863140	6-3	Sr	91	0
+2018	12825	673	Springfield	15	1749863	Irizarry, Eli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749863	6-2	Jr	92	0
+2018	12825	673	Springfield	2	1637806	Irizarry Feliciano, Joseth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637806	6-4	Sr	102	0
 2018	12825	673	Springfield	1	1977185	Irizarry Pares, Eli Gabrielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977185	6-2	Fr	56	0
-2018	12825	673	Springfield	18	1749864	Jasuta, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749864	6-4	Jr	96	0
+2018	12825	673	Springfield	18	1749864	Jasuta, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749864	6-4	Jr	99	0
 2018	12825	673	Springfield	10	1977219	Lawrence, Kenny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977219	6-3	Fr	54	0
 2018	12825	673	Springfield	9	1977198	Lilley, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977198	6-2	Fr	20	0
 2018	12825	673	Springfield	8	1863139	Mussa Robles, Johjan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1863139	5-6	So	65	0
-2018	12825	673	Springfield	11	1749862	Neary, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749862	6-6	Jr	68	0
-2018	12825	673	Springfield	7	1637808	Padilla Ayala, Ricardo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637808	6-1	Sr	60	0
+2018	12825	673	Springfield	11	1749862	Neary, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1749862	6-6	Jr	71	0
+2018	12825	673	Springfield	7	1637808	Padilla Ayala, Ricardo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1637808	6-1	Sr	63	0
 2018	12825	673	Springfield	4	1977193	Parker, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977193	6-5	Fr	22	0
 2018	12825	673	Springfield	5	1977217	Robert, Rafa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977217	6-0	Fr	3	0
 2018	12825	673	Springfield	16	1977226	Wollweber, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1977226	6-5	Fr	3	0
-2018	12825	673	Springfield	14	1526376	Zuvich, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1526376	6-7	Sr	69	0
+2018	12825	673	Springfield	14	1526376	Zuvich, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1526376	6-7	Sr	72	0
 2018	12825	9684	St. Elizabeth	11	1978712	Adam, Emmanual	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1978712	6-3	Fr	70	0
 2018	12825	9684	St. Elizabeth	8	1978680	Beaubrun, Greg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1978680	6-2	So	55	0
 2018	12825	9684	St. Elizabeth	3	1978674	Edwards, Yamere	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1978674	5-11	Fr	80	0
@@ -1230,24 +1230,24 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	675	Staten Island	6	1657016	Tisbe, Ronald	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1657016	5-8	Sr	47	0
 2018	12825	675	Staten Island	19	1994701	Yi, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1994701	6-0	Jr	46	0
 2018	12825	679	Stevens	3	1976566	Amerman, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976566	6-7	So	5	0
-2018	12825	679	Stevens	22	1650876	Bennett, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650876	6-5	Sr	23	0
-2018	12825	679	Stevens	7	1976519	Bittker, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976519	6-3	Fr	87	0
+2018	12825	679	Stevens	22	1650876	Bennett, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650876	6-5	Sr	24	0
+2018	12825	679	Stevens	7	1976519	Bittker, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976519	6-3	Fr	89	0
 2018	12825	679	Stevens	12	1879256	Brooks, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1879256	6-4	So	3	0
-2018	12825	679	Stevens	9	1874214	Burden, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1874214	6-0	So	50	0
-2018	12825	679	Stevens	18	1650875	Burrell, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650875	6-2	Sr	98	0
-2018	12825	679	Stevens	21	1976571	Byrne, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976571	6-2	Fr	68	0
-2018	12825	679	Stevens	11	1758854	DeBoer, Dylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758854	6-3	Jr	85	0
-2018	12825	679	Stevens	15	1758858	Diamond, Cooper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758858	6-4	Jr	71	0
-2018	12825	679	Stevens	17	1883785	Frenzel, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1883785	6-5	So	37	0
+2018	12825	679	Stevens	9	1874214	Burden, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1874214	6-0	So	51	0
+2018	12825	679	Stevens	18	1650875	Burrell, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650875	6-2	Sr	101	0
+2018	12825	679	Stevens	21	1976571	Byrne, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976571	6-2	Fr	71	0
+2018	12825	679	Stevens	11	1758854	DeBoer, Dylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758854	6-3	Jr	88	0
+2018	12825	679	Stevens	15	1758858	Diamond, Cooper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758858	6-4	Jr	73	0
+2018	12825	679	Stevens	17	1883785	Frenzel, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1883785	6-5	So	38	0
 2018	12825	679	Stevens	16	1650877	Friend, Cagan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1650877	5-11	Sr	1	0
-2018	12825	679	Stevens	5	1758856	Hinton, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758856	6-1	Jr	91	0
+2018	12825	679	Stevens	5	1758856	Hinton, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758856	6-1	Jr	94	0
 2018	12825	679	Stevens	20	1976520	Knight, Kristopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976520	5-7	So	8	0
-2018	12825	679	Stevens	2	1758852	Lambert, Niko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758852	5-11	Jr	91	0
-2018	12825	679	Stevens	25	1873883	Lehman, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873883	6-6	So	84	0
+2018	12825	679	Stevens	2	1758852	Lambert, Niko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758852	5-11	Jr	94	0
+2018	12825	679	Stevens	25	1873883	Lehman, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873883	6-6	So	86	0
 2018	12825	679	Stevens	23	1976523	Orlando, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976523	6-3	Sr	7	0
-2018	12825	679	Stevens	6	1758855	Patterson, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758855	6-4	Jr	75	0
-2018	12825	679	Stevens	1	1538811	Shankweiler, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1538811	6-2	Sr	92	0
-2018	12825	679	Stevens	14	1883784	Snajder, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1883784	5-11	So	41	0
+2018	12825	679	Stevens	6	1758855	Patterson, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1758855	6-4	Jr	78	0
+2018	12825	679	Stevens	1	1538811	Shankweiler, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1538811	6-2	Sr	95	0
+2018	12825	679	Stevens	14	1883784	Snajder, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1883784	5-11	So	44	0
 2018	12825	679	Stevens	24	1896357	Sunderland, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1896357	6-3	So	1	0
 2018	12825	679	Stevens	8	1976576	Warnock, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1976576	6-4	So	8	0
 2018	12825	21852	Stevenson	23	1873867	Bosko, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1873867	-	So	17	0
@@ -1307,7 +1307,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2018	12825	737	Vassar	13	1639356	Knigge, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1639356	6-7	Sr	102	0
 2018	12825	737	Vassar	6	1639357	Lee, Zechariah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1639357	6-2	Sr	107	0
 2018	12825	737	Vassar	17	1639359	Manley, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1639359	6-1	Sr	20	0
-2018	12825	737	Vassar	11	1974344	Olstad, Wesley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1974344	6-3	Fr	19	0
+2018	12825	737	Vassar	11	1974344	Olstad, Wes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1974344	6-3	Fr	19	0
 2018	12825	737	Vassar	8	1870813	Ros, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1870813	6-0	So	108	0
 2018	12825	737	Vassar	2	1974368	Verdeflor, Garth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1974368	5-9	Fr	106	0
 2018	12825	737	Vassar	12	1974370	Waters, Jefferson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12825&stats_player_seq=1974370	6-4	Fr	92	0
