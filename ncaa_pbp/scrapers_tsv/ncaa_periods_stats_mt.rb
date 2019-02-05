@@ -37,7 +37,7 @@ base_url = 'http://stats.ncaa.org'
 period_xpath = '//*[@id="contentArea"]/table[position()>4]'
 
 team_schedules = CSV.open("tsv/ncaa_team_schedules_mt.tsv", "r",
-                          {:col_sep => "\t", :headers => TRUE})
+                          {:col_sep => "\t", :headers => true})
 
 periods_stats = CSV.open("tsv/ncaa_games_periods_stats.tsv", "w",
                          {:col_sep => "\t"})

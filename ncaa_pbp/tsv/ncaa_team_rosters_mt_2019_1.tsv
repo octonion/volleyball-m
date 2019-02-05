@@ -1,501 +1,507 @@
 year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
-2019	14383	934	Alderson Broaddus	12	1753173	Cabrera, Francisco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753173	6-2	Jr	0	0
-2019	14383	934	Alderson Broaddus	25	1981528	Christiansen, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981528	6-6	So	0	0
-2019	14383	934	Alderson Broaddus	1		Cruz, Rafael		6-3	So	0	0
-2019	14383	934	Alderson Broaddus	13	1870612	Doyle, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1870612	5-10	Jr	0	0
-2019	14383	934	Alderson Broaddus	4	1753176	Hightower, Terrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753176	6-5	Sr	0	0
-2019	14383	934	Alderson Broaddus	7	1981548	Husted, Adreyune	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981548	5-9	So	0	0
-2019	14383	934	Alderson Broaddus	18	1981527	Kaske, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981527	6-5	So	0	0
-2019	14383	934	Alderson Broaddus	19	1981550	Kresch, Moses	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981550	6-1	So	0	0
-2019	14383	934	Alderson Broaddus	9	1981526	Luna, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981526	5-8	So	0	0
-2019	14383	934	Alderson Broaddus	2	1870609	McIntosh, Timothy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1870609	6-0	Jr	0	0
-2019	14383	934	Alderson Broaddus	10	1870611	Ramirez, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1870611	6-1	Jr	0	0
-2019	14383	934	Alderson Broaddus	3	1981546	Sands, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981546	6-3	So	0	0
-2019	14383	934	Alderson Broaddus	5		Ukachukwu, Ifeanyi		6-4	So	0	0
-2019	14383	934	Alderson Broaddus	11	1981549	Youngblood, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981549	6-3	So	0	0
-2019	14383	77	BYU	19		Ah Sue, Alex		6-4	So	0	0
-2019	14383	77	BYU	11	1863252	Eschenberg, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863252	6-6	Jr	0	0
-2019	14383	77	BYU	14	1863253	Fa'agata-Tufuga, Storm	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863253	6-3	Jr	0	0
-2019	14383	77	BYU	7	1963478	Fa'alogo, Cyrus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963478	6-4	Jr	0	0
-2019	14383	77	BYU	5	1963479	Garcia Fernandez, Gabi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963479	6-7	So	0	0
-2019	14383	77	BYU	33		Halsey, Garrett		6-7	So	0	0
-2019	14383	77	BYU	6	1963455	Hendrickson, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963455	6-0	So	0	0
-2019	14383	77	BYU	18	1863254	Jauhiainen, Miki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863254	6-8	Jr	0	0
-2019	14383	77	BYU	9	1749499	Lincoln, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749499	6-7	Jr	0	0
-2019	14383	77	BYU	17		Oberender, Branden		6-7	So	0	0
-2019	14383	77	BYU	10	1863256	Richards, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863256	6-2	Sr	0	0
-2019	14383	77	BYU	21	1640866	Rupert, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640866	6-7	Sr	0	0
-2019	14383	77	BYU	13		Siragusa, Charlie		6-8	So	0	0
-2019	14383	77	BYU	3	1863257	Stanley, Wil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863257	6-4	Jr	0	0
-2019	14383	77	BYU	16	1963477	de Brito Ferreira, Felipe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963477	6-9	So	0	0
+2019	14383	934	Alderson Broaddus	7	2120096	Carpenter, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120096	-	Fr	2	0
+2019	14383	934	Alderson Broaddus	25	1981528	Christiansen, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981528	6-6	So	28	0
+2019	14383	934	Alderson Broaddus	13	1870612	Doyle, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1870612	5-10	Jr	18	0
+2019	14383	934	Alderson Broaddus	4	1753176	Hightower, Terrell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753176	6-5	Sr	19	0
+2019	14383	934	Alderson Broaddus	18	1981527	Kaske, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981527	6-5	So	28	0
+2019	14383	934	Alderson Broaddus	19	1981550	Kresch, Moses	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981550	6-1	So	19	0
+2019	14383	934	Alderson Broaddus	9	1981526	Luna, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981526	5-8	So	27	0
+2019	14383	934	Alderson Broaddus	2	2120070	Ortiz, Rafael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120070	-	Fr	24	0
+2019	14383	934	Alderson Broaddus	6	2120095	Snaden, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120095	-	So	28	0
+2019	14383	934	Alderson Broaddus	1	2130415	Wells, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2130415	-	Fr	8	0
+2019	14383	77	BYU	2	1963454	Ah Sue, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963454	6-4	Fr	5	0
+2019	14383	77	BYU	13	2119537	Akana, Kana'i	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119537	6-5	Fr	5	0
+2019	14383	77	BYU	23		Baldwin, Tim		6-6	Fr	0	0
+2019	14383	77	BYU	19	2119564	Earnest, Brody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119564	6-4	Fr	1	0
+2019	14383	77	BYU	11	1863252	Eschenberg, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863252	6-6	Jr	1	0
+2019	14383	77	BYU	14	1863253	Fa'agata-Tufuga, Storm	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863253	6-3	Jr	4	0
+2019	14383	77	BYU	7	1963478	Fa'alogo, Cyrus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963478	6-4	Jr	17	0
+2019	14383	77	BYU	5	1963479	Garcia Fernandez, Gabi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963479	6-7	So	19	0
+2019	14383	77	BYU	1	2119500	Gardini, Davide	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119500	6-9	Fr	19	0
+2019	14383	77	BYU	6	1963455	Hendrickson, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963455	6-0	So	16	0
+2019	14383	77	BYU	18	1863254	Jauhiainen, Miki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863254	6-8	Jr	19	0
+2019	14383	77	BYU	9	1749499	Lincoln, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749499	6-7	Jr	6	0
+2019	14383	77	BYU	17	1963483	Oberender, Branden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963483	6-7	Fr	6	0
+2019	14383	77	BYU	21		Pothier, Max		6-8	Fr	0	0
+2019	14383	77	BYU	10	1863256	Richards, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863256	6-2	Sr	10	0
+2019	14383	77	BYU	8		Siragusa, Charlie		6-8	Fr	0	0
+2019	14383	77	BYU	3	1863257	Stanley, Wil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863257	6-4	Jr	20	0
+2019	14383	77	BYU	4		Stanley, Jon		6-2	Fr	0	0
+2019	14383	77	BYU	16	1963477	de Brito Ferreira, Felipe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963477	6-9	So	19	0
 2019	14383	47	Ball St.	10		Amos, Nate		6-6	Jr	0	0
-2019	14383	47	Ball St.	3	1972150	Chinnici, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972150	6-4	So	4	0
+2019	14383	47	Ball St.	3	1972150	Chinnici, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972150	6-4	So	11	0
 2019	14383	47	Ball St.	17	1972190	Dorgan, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972190	6-6	So	0	0
-2019	14383	47	Ball St.	11	2112704	Egharevba, Felix	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112704	6-5	Fr	10	0
-2019	14383	47	Ball St.	6	1972154	Ensalaco, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972154	6-1	So	1	0
+2019	14383	47	Ball St.	11	2112704	Egharevba, Felix	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112704	6-5	Fr	13	0
+2019	14383	47	Ball St.	6	1972154	Ensalaco, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972154	6-1	So	16	0
 2019	14383	47	Ball St.	15	1972189	Hippe, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972189	6-8	So	0	0
-2019	14383	47	Ball St.	5	1972151	Isaacson, Quinn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972151	6-2	So	3	0
-2019	14383	47	Ball St.	2	2112702	Jenness, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112702	6-6	Fr	9	0
+2019	14383	47	Ball St.	5	1972151	Isaacson, Quinn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972151	6-2	So	17	0
+2019	14383	47	Ball St.	2	2112702	Jenness, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112702	6-6	Fr	37	0
 2019	14383	47	Ball St.	18	1972161	Koren, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972161	6-3	So	0	0
-2019	14383	47	Ball St.	4	1865411	Lavanchy, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865411	5-10	Jr	5	0
+2019	14383	47	Ball St.	4	1865411	Lavanchy, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865411	5-10	Jr	28	0
 2019	14383	47	Ball St.	22		Martinski, Nick		6-7	Fr	0	0
 2019	14383	47	Ball St.	7		Nielsen, Zach		6-3	So	0	0
-2019	14383	47	Ball St.	8	1865412	Reardon, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865412	6-4	Jr	3	0
-2019	14383	47	Ball St.	12	1749484	Romano, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749484	6-6	Jr	10	0
+2019	14383	47	Ball St.	8	1865412	Reardon, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865412	6-4	Jr	13	0
+2019	14383	47	Ball St.	12	1749484	Romano, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749484	6-6	Jr	37	0
 2019	14383	47	Ball St.	21	1865416	Scharenborg, Courtland	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865416	6-4	Jr	0	0
 2019	14383	47	Ball St.	18		Shepherd, Brandon		6-2	Fr	0	0
-2019	14383	47	Ball St.	20	1753361	Siebum, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753361	6-4	Sr	11	0
-2019	14383	47	Ball St.	9	1749483	Swartz, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749483	6-5	Sr	11	0
-2019	14383	47	Ball St.	14	1865414	Szews, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865414	6-8	Jr	11	0
-2019	14383	47	Ball St.	19	1749498	Turner, Lem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749498	6-6	Jr	3	0
-2019	14383	47	Ball St.	1	1749482	Wessel, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749482	5-11	Sr	11	0
-2019	14383	15646	Barton	1	1749341	Brkovic, Aleksa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749341	6-3	Sr	4	0
-2019	14383	15646	Barton	20	1863538	Fiorentino, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863538	6-4	Jr	4	0
-2019	14383	15646	Barton	21		Green, Hunter		6-5	Fr	0	0
-2019	14383	15646	Barton	9	2116368	Iglesias, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116368	6-5	Fr	4	0
-2019	14383	15646	Barton	10	2116322	Kasun, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116322	6-3	Jr	3	0
-2019	14383	15646	Barton	3	2116366	Kyridis, Dimitrios	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116366	6-8	So	4	0
-2019	14383	15646	Barton	7	1749343	Lord, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749343	6-7	Sr	4	0
-2019	14383	15646	Barton	17	1749344	Mandilaris, Vasilis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749344	6-5	Sr	4	0
-2019	14383	15646	Barton	19	1863537	Mandilaris, Angelos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863537	6-5	Jr	4	0
-2019	14383	15646	Barton	16		Montaruli, Edwin		6-4	So	0	0
-2019	14383	15646	Barton	8		Oefstaas, Emil		6-4	So	0	0
-2019	14383	15646	Barton	4	1863534	Wiese, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863534	5-8	Jr	0	0
+2019	14383	47	Ball St.	20	1753361	Siebum, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753361	6-4	Sr	40	0
+2019	14383	47	Ball St.	9	1749483	Swartz, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749483	6-5	Sr	40	0
+2019	14383	47	Ball St.	14	1865414	Szews, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865414	6-8	Jr	37	0
+2019	14383	47	Ball St.	19	1749498	Turner, Lem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749498	6-6	Jr	30	0
+2019	14383	47	Ball St.	1	1749482	Wessel, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749482	5-11	Sr	22	0
+2019	14383	15646	Barton	1	1749341	Brkovic, Aleksa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749341	6-3	Sr	33	0
+2019	14383	15646	Barton	20	1863538	Fiorentino, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863538	6-4	Jr	32	0
+2019	14383	15646	Barton	21	2116370	Green, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116370	6-5	Fr	12	0
+2019	14383	15646	Barton	9	2116368	Iglesias, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116368	6-5	Fr	33	0
+2019	14383	15646	Barton	10	2116322	Kasun, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116322	6-3	Jr	24	0
+2019	14383	15646	Barton	3	2116366	Kyridis, Dimitrios	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116366	6-8	So	32	0
+2019	14383	15646	Barton	7	1749343	Lord, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749343	6-7	Sr	24	0
+2019	14383	15646	Barton	17	1749344	Mandilaris, Vasilis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749344	6-5	Sr	32	0
+2019	14383	15646	Barton	19	1863537	Mandilaris, Angelos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863537	6-5	Jr	33	0
+2019	14383	15646	Barton	16	2116323	Montaruli, Edwin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116323	6-4	So	3	0
+2019	14383	15646	Barton	8	2116367	Oefstaas, Emil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116367	6-4	So	5	0
+2019	14383	15646	Barton	4	1863534	Wiese, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863534	5-8	Jr	2	0
 2019	14383	15646	Barton	18		Youngblood, Colton		6-4	So	0	0
-2019	14383	2683	Belmont Abbey	1	1981298	Davis, Brennan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981298	5-11	So	0	0
-2019	14383	2683	Belmont Abbey	21	1865445	Eck, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865445	6-3	Jr	0	0
-2019	14383	2683	Belmont Abbey	2		Hill, Conrad		5-6	So	0	0
-2019	14383	2683	Belmont Abbey	11	1981302	Hill, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981302	6-5	So	0	0
-2019	14383	2683	Belmont Abbey	23	1981325	Kozlowski, Artur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981325	6-1	So	0	0
-2019	14383	2683	Belmont Abbey	3	1981300	Lockwood, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981300	6-1	So	0	0
-2019	14383	2683	Belmont Abbey	20	1981304	Long, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981304	6-5	So	0	0
-2019	14383	2683	Belmont Abbey	24	1865448	Maxwell, Liam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865448	6-5	Jr	0	0
-2019	14383	2683	Belmont Abbey	25	1981326	Morris, William	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981326	6-5	So	0	0
-2019	14383	2683	Belmont Abbey	15	1865446	Pilapol, Pierce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865446	6-2	Jr	0	0
-2019	14383	2683	Belmont Abbey	8		Somers, Jake		6-4	So	0	0
-2019	14383	2683	Belmont Abbey	12	1981303	Stephens, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981303	6-4	So	0	0
-2019	14383	2683	Belmont Abbey	10	1865444	Sullivan, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865444	6-2	Jr	0	0
+2019	14383	2683	Belmont Abbey	23	2120143	Cerqua, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120143	5-9	Fr	7	0
+2019	14383	2683	Belmont Abbey	1	1981298	Davis, Brennan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981298	6-0	So	23	0
+2019	14383	2683	Belmont Abbey	18		Dunn, John		6-5	Fr	0	0
+2019	14383	2683	Belmont Abbey	21	1865445	Eck, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865445	6-3	Jr	19	0
+2019	14383	2683	Belmont Abbey	11	2120150	Ferguson, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120150	6-5	Fr	3	0
+2019	14383	2683	Belmont Abbey	4	2120125	Giller, Gage	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120125	6-7	Fr	4	0
+2019	14383	2683	Belmont Abbey	2	1981299	Hill, Conrad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981299	5-6	So	1	0
+2019	14383	2683	Belmont Abbey	9	2120147	Kohut, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120147	6-6	Fr	23	0
+2019	14383	2683	Belmont Abbey	3	1981300	Lockwood, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981300	6-1	So	23	0
+2019	14383	2683	Belmont Abbey	20	1981304	Long, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981304	6-5	So	22	0
+2019	14383	2683	Belmont Abbey	24	1865448	Maxwell, Liam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865448	6-5	Jr	23	0
+2019	14383	2683	Belmont Abbey	25	1981326	Morris, William	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981326	6-5	So	21	0
+2019	14383	2683	Belmont Abbey	7	2120119	Mulkey, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120119	6-5	Fr	7	0
+2019	14383	2683	Belmont Abbey	15	1865446	Pilapol, Pierce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865446	6-2	Jr	17	0
+2019	14383	2683	Belmont Abbey	6	2120117	Przywara, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2120117	6-1	Fr	1	0
+2019	14383	2683	Belmont Abbey	8	1981301	Somers, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981301	6-4	So	11	0
+2019	14383	2683	Belmont Abbey	10	1865444	Sullivan, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865444	6-2	Jr	7	0
 2019	14383	2683	Belmont Abbey	5	1981327	Timmons, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981327	6-2	So	0	0
-2019	14383	101	CSUN	20	1863157	Barker, Philip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863157	6-7	Fr	10	0
-2019	14383	101	CSUN	15		Chaffee, Cole		6-3	Fr	0	0
-2019	14383	101	CSUN	22		Damm, Ryan		6-3	Fr	0	0
-2019	14383	101	CSUN	6	1972246	DeWeese, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972246	6-5	Fr	4	0
-2019	14383	101	CSUN	1	1972245	Enriques, Emmett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972245	6-1	Sr	14	0
+2019	14383	101	CSUN	20	1863157	Barker, Philip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863157	6-7	Fr	12	0
+2019	14383	101	CSUN	15	1972223	Chaffee, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972223	6-3	Fr	1	0
+2019	14383	101	CSUN	22	2111318	Damm, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111318	6-3	Fr	1	0
+2019	14383	101	CSUN	6	1972246	DeWeese, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972246	6-5	Fr	23	0
+2019	14383	101	CSUN	1	1972245	Enriques, Emmett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972245	6-1	Sr	48	0
 2019	14383	101	CSUN	17		Hobus, Kyle		6-7	Fr	0	0
 2019	14383	101	CSUN	19		Hunter, Walter		6-5	Fr	0	0
-2019	14383	101	CSUN	11	1972247	Ittner, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972247	6-4	Fr	14	0
-2019	14383	101	CSUN	9	1749516	Kalchev, Dimitar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749516	6-4	Sr	14	0
-2019	14383	101	CSUN	23	2111319	Minkov, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111319	6-4	Fr	2	0
+2019	14383	101	CSUN	11	1972247	Ittner, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972247	6-4	Fr	47	0
+2019	14383	101	CSUN	9	1749516	Kalchev, Dimitar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749516	6-4	Sr	47	0
+2019	14383	101	CSUN	23	2111319	Minkov, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111319	6-4	Fr	4	0
 2019	14383	101	CSUN	2	1972249	Mitchell, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972249	6-0	So	0	0
 2019	14383	101	CSUN	21		Nachimzon, Trevor		6-0	Fr	0	0
 2019	14383	101	CSUN	18		Pond, Greg		6-8	Fr	0	0
-2019	14383	101	CSUN	3	1749515	Porter, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749515	6-4	Sr	1	0
-2019	14383	101	CSUN	5	1973924	Ptaszynski, Maciej	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1973924	6-6	So	14	0
+2019	14383	101	CSUN	3	1749515	Porter, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749515	6-4	Sr	5	0
+2019	14383	101	CSUN	5	1973924	Ptaszynski, Maciej	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1973924	6-6	So	44	0
 2019	14383	101	CSUN	14		Rotter, Steven		6-5	Jr	0	0
-2019	14383	101	CSUN	13	1972248	Rzepniewski, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972248	6-6	Fr	5	0
-2019	14383	101	CSUN	4	1863156	Stratford, Domanik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863156	6-5	So	2	0
-2019	14383	101	CSUN	8	1863171	Timm, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863171	6-6	Sr	0	0
-2019	14383	101	CSUN	7	1972220	Tomsia, Ksawery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972220	6-7	Jr	11	0
-2019	14383	101	CSUN	10	2111313	Wetter, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111313	6-5	Fr	14	0
-2019	14383	1013	Charleston (WV)	1	2116247	Aarflot, Torkil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116247	6-0	So	2	0
-2019	14383	1013	Charleston (WV)	19	1979075	Barker, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979075	6-6	So	1	0
-2019	14383	1013	Charleston (WV)	9	2116237	Bartels, Maarten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116237	6-4	So	3	0
-2019	14383	1013	Charleston (WV)	23	2116241	Bray, Lachlan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116241	6-5	Fr	1	0
+2019	14383	101	CSUN	13	1972248	Rzepniewski, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972248	6-6	Fr	39	0
+2019	14383	101	CSUN	4	1863156	Stratford, Domanik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863156	6-5	So	7	0
+2019	14383	101	CSUN	8	1863171	Timm, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863171	6-6	Sr	8	0
+2019	14383	101	CSUN	7	1972220	Tomsia, Ksawery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972220	6-7	Jr	42	0
+2019	14383	101	CSUN	10	2111313	Wetter, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111313	6-5	Fr	47	0
+2019	14383	1013	Charleston (WV)	1	2116247	Aarflot, Torkil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116247	6-0	So	17	0
+2019	14383	1013	Charleston (WV)	19	1979075	Barker, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979075	6-6	So	20	0
+2019	14383	1013	Charleston (WV)	9	2116237	Bartels, Maarten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116237	6-4	So	35	0
+2019	14383	1013	Charleston (WV)	23	2116241	Bray, Lachlan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116241	6-5	Fr	13	0
 2019	14383	1013	Charleston (WV)	17	1979074	Drexel, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979074	5-8	So	0	0
 2019	14383	1013	Charleston (WV)	4		Foglia, Quinn		6-5	Fr	0	0
-2019	14383	1013	Charleston (WV)	16	1863304	Godinich, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863304	5-10	Jr	1	0
-2019	14383	1013	Charleston (WV)	2	1752872	Greenway, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752872	6-4	Sr	3	0
-2019	14383	1013	Charleston (WV)	14	1752874	Hurd, Byron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752874	6-5	Sr	0	0
-2019	14383	1013	Charleston (WV)	12		Johnson, Chase		6-6	Fr	0	0
+2019	14383	1013	Charleston (WV)	16	1863304	Godinich, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863304	5-10	Jr	18	0
+2019	14383	1013	Charleston (WV)	2	1752872	Greenway, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752872	6-4	Sr	22	0
+2019	14383	1013	Charleston (WV)	14	1752874	Hurd, Byron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752874	6-5	Sr	17	0
+2019	14383	1013	Charleston (WV)	12	2116257	Johnson, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116257	6-6	Fr	25	0
 2019	14383	1013	Charleston (WV)	7		Koch, Cameron		6-6	Fr	0	0
 2019	14383	1013	Charleston (WV)	3	1979094	Krumerac, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979094	6-1	So	0	0
-2019	14383	1013	Charleston (WV)	5	1979073	Roberts, Adriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979073	6-6	Jr	3	0
-2019	14383	1013	Charleston (WV)	10	1979095	Senica, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979095	6-2	So	3	0
-2019	14383	1013	Charleston (WV)	20		Sharkey, Roan		6-6	Fr	0	0
-2019	14383	1013	Charleston (WV)	15	1752871	Stuart, Eugene	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752871	6-7	Sr	3	0
+2019	14383	1013	Charleston (WV)	5	1979073	Roberts, Adriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979073	6-6	Jr	36	0
+2019	14383	1013	Charleston (WV)	10	1979095	Senica, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979095	6-2	So	33	0
+2019	14383	1013	Charleston (WV)	20	2116239	Sharkey, Roan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116239	6-6	Fr	4	0
+2019	14383	1013	Charleston (WV)	15	1752871	Stuart, Eugene	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752871	6-7	Sr	36	0
 2019	14383	1013	Charleston (WV)	11		Thomas, Raheem		6-2	Fr	0	0
-2019	14383	1013	Charleston (WV)	8	2116252	Villafane, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116252	6-1	Fr	3	0
-2019	14383	1023	Coker	5	1753913	Castro, Gabriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753913	6-3	Sr	0	0
-2019	14383	1023	Coker	10		Hernandez, Manuel		6-1	Fr	0	0
-2019	14383	1023	Coker	8		Kampshoff, Shaun		6-4	Fr	0	0
-2019	14383	1023	Coker	13		Kuntz, Max		6-3	Fr	0	0
+2019	14383	1013	Charleston (WV)	8	2116252	Villafane, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116252	6-1	Fr	23	0
+2019	14383	1023	Coker	5	1753913	Castro, Gabriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753913	6-3	Sr	18	0
+2019	14383	1023	Coker	14	2115801	Hernandez, Manuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115801	6-1	Fr	18	0
+2019	14383	1023	Coker	8	2115782	Kampshoff, Shaun	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115782	6-4	Fr	2	0
+2019	14383	1023	Coker	13	2115802	Kuntz, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115802	6-3	Fr	18	0
 2019	14383	1023	Coker	0		Mercado, Angel		5-7	So	0	0
-2019	14383	1023	Coker	3		Miller, Seth		5-8	Fr	0	0
-2019	14383	1023	Coker	12	1972069	Oldham, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972069	6-2	So	0	0
-2019	14383	1023	Coker	20		Ravelo, Brandon		5-8	Fr	0	0
-2019	14383	1023	Coker	15	1758823	Santos, Joao Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1758823	6-7	Sr	0	0
-2019	14383	1023	Coker	16	1864683	Williams, Absalon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864683	6-3	Jr	0	0
-2019	14383	30199	Concordia (CA)	1	1864911	Barsemian, Raymond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864911	6-6	Jr	10	0
-2019	14383	30199	Concordia (CA)	18		Boisvert, Erik		-	Fr	0	0
+2019	14383	1023	Coker	3	2115798	Miller, Seth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115798	5-8	Fr	18	0
+2019	14383	1023	Coker	12	1972069	Oldham, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972069	6-2	So	15	0
+2019	14383	1023	Coker	20	2115783	Ravelo, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115783	5-8	Fr	18	0
+2019	14383	1023	Coker	15	1758823	Santos, Joao Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1758823	6-7	Sr	18	0
+2019	14383	1023	Coker	16	1864683	Williams, Absalon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864683	6-3	Jr	18	0
+2019	14383	30199	Concordia (CA)	1	1864911	Barsemian, Raymond	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864911	6-6	Jr	21	0
+2019	14383	30199	Concordia (CA)	18	2108844	Boisvert, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108844	-	Fr	6	0
 2019	14383	30199	Concordia (CA)	21		Carey, Keegan		-	Fr	0	0
-2019	14383	30199	Concordia (CA)	22	1968051	Carlson, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968051	-	So	2	0
-2019	14383	30199	Concordia (CA)	9	1968041	Chun, Owen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968041	-	So	7	0
-2019	14383	30199	Concordia (CA)	2	2108838	Delmada, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108838	-	Jr	1	0
+2019	14383	30199	Concordia (CA)	22	1968051	Carlson, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968051	-	So	30	0
+2019	14383	30199	Concordia (CA)	9	1968041	Chun, Owen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968041	-	So	12	0
+2019	14383	30199	Concordia (CA)	2	2108838	Delmada, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108838	-	Jr	12	0
 2019	14383	30199	Concordia (CA)	16		Dewhirst, Miles		-	Fr	0	0
 2019	14383	30199	Concordia (CA)	20	1968067	Doran, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968067	-	So	0	0
-2019	14383	30199	Concordia (CA)	4	1968068	Enrique, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968068	-	So	9	0
-2019	14383	30199	Concordia (CA)	6	1765581	Gibb, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765581	6-2	Sr	9	0
-2019	14383	30199	Concordia (CA)	15	1968063	Glave, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968063	-	So	0	0
+2019	14383	30199	Concordia (CA)	4	1968068	Enrique, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968068	-	So	38	0
+2019	14383	30199	Concordia (CA)	6	1765581	Gibb, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765581	6-2	Sr	37	0
+2019	14383	30199	Concordia (CA)	15	1968063	Glave, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968063	-	So	2	0
 2019	14383	30199	Concordia (CA)	24		Hetherington, Luke		-	Fr	0	0
-2019	14383	30199	Concordia (CA)	23	1968043	Hoppe, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968043	-	Jr	10	0
-2019	14383	30199	Concordia (CA)	7	1749511	Howell, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749511	6-7	Sr	10	0
-2019	14383	30199	Concordia (CA)	13	1749512	Kaaa, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749512	6-2	Sr	7	0
-2019	14383	30199	Concordia (CA)	11		Krzmarzick, Luke		-	Fr	0	0
-2019	14383	30199	Concordia (CA)	29	1968070	Lassandro, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968070	-	Fr	9	0
-2019	14383	30199	Concordia (CA)	14	1968040	Maki, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968040	-	Jr	2	0
-2019	14383	30199	Concordia (CA)	5		Merchen, Kyle		-	Fr	0	0
-2019	14383	30199	Concordia (CA)	10	1865234	Meyer, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865234	6-4	So	2	0
+2019	14383	30199	Concordia (CA)	23	1968043	Hoppe, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968043	-	Jr	38	0
+2019	14383	30199	Concordia (CA)	7	1749511	Howell, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749511	6-7	Sr	40	0
+2019	14383	30199	Concordia (CA)	13	1749512	Kaaa, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749512	6-2	Sr	30	0
+2019	14383	30199	Concordia (CA)	11	2108851	Krzmarzick, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108851	-	Fr	18	0
+2019	14383	30199	Concordia (CA)	29	1968070	Lassandro, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968070	-	Fr	36	0
+2019	14383	30199	Concordia (CA)	14	1968040	Maki, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968040	-	Jr	9	0
+2019	14383	30199	Concordia (CA)	35		Merchen, Kyle		-	Fr	0	0
+2019	14383	30199	Concordia (CA)	10	1865234	Meyer, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865234	6-4	So	9	0
 2019	14383	30199	Concordia (CA)	25		Mullins, Mason		-	Fr	0	0
-2019	14383	30199	Concordia (CA)	17	1862823	Mundy, Bailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862823	6-5	Jr	4	0
+2019	14383	30199	Concordia (CA)	17	1862823	Mundy, Bailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862823	6-5	Jr	13	0
 2019	14383	30199	Concordia (CA)	12		Nowtash, Christian		-	Fr	0	0
 2019	14383	30199	Concordia (CA)	8		Omartian, Blake		-	Jr	0	0
-2019	14383	30199	Concordia (CA)	19	1968066	Taig, Darcy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968066	-	Jr	2	0
-2019	14383	30199	Concordia (CA)	3	2108850	Wirth, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108850	-	Fr	1	0
-2019	14383	30174	Daemen	1		Beck, Ryan		5-10	Fr	0	0
-2019	14383	30174	Daemen	10		Casterline, Brandon		6-5	Fr	0	0
-2019	14383	30174	Daemen	11		Donorovich, Jesse		6-5	Fr	0	0
-2019	14383	30174	Daemen	2		Gillette, Jaden		5-10	Fr	0	0
-2019	14383	30174	Daemen	5		Kon, Kyle		6-2	Fr	0	0
-2019	14383	30174	Daemen	3		Krueger, Michael		6-2	Fr	0	0
+2019	14383	30199	Concordia (CA)	19	1968066	Taig, Darcy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1968066	-	Jr	15	0
+2019	14383	30199	Concordia (CA)	5	2108850	Wirth, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108850	-	Fr	5	0
+2019	14383	30174	Daemen	1	2109992	Beck, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109992	5-10	Fr	18	0
+2019	14383	30174	Daemen	10	2109995	Casterline, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109995	6-5	Fr	23	0
+2019	14383	30174	Daemen	11	2109973	Donorovich, Jesse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109973	6-5	Fr	21	0
+2019	14383	30174	Daemen	2	2109993	Gillette, Jaden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109993	5-10	Fr	18	0
+2019	14383	30174	Daemen	5	2109994	Kon, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109994	6-2	Fr	22	0
+2019	14383	30174	Daemen	3	2109971	Krueger, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109971	6-2	Fr	23	0
 2019	14383	30174	Daemen	6		McIntosh, Dwayne		6-1	Fr	0	0
-2019	14383	30174	Daemen	12		Moffitt, Henry		6-6	Fr	0	0
-2019	14383	30174	Daemen	14		Winkfield, Jahari		6-4	Fr	0	0
-2019	14383	30193	Emmanuel (GA)	4	1981567	Bade, Mateus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981567	6-1	So	0	0
-2019	14383	30193	Emmanuel (GA)	7	1750023	Bonaventure, Caleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750023	6-2	Sr	0	0
-2019	14383	30193	Emmanuel (GA)	11		Camacho, Jonathan		6-5	Fr	0	0
-2019	14383	30193	Emmanuel (GA)	1	1865704	Lakic, Aleksa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865704	6-4	Jr	0	0
-2019	14383	30193	Emmanuel (GA)	13	1750026	Maloney, Demetrius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750026	5-10	Sr	0	0
-2019	14383	30193	Emmanuel (GA)	9		Mondostin, Jomar		6-1	Fr	0	0
+2019	14383	30174	Daemen	12	2109996	Moffitt, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109996	6-6	Fr	23	0
+2019	14383	30174	Daemen	14	2109974	Winkfield, Jahari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109974	6-4	Fr	22	0
+2019	14383	30193	Emmanuel (GA)	4	1981567	Bade, Mateus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981567	6-1	So	14	0
+2019	14383	30193	Emmanuel (GA)	7	1750023	Bonaventure, Caleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750023	6-2	Sr	37	0
+2019	14383	30193	Emmanuel (GA)	11	2117854	Camacho, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117854	6-5	Fr	38	0
+2019	14383	30193	Emmanuel (GA)	1	1865704	Lakic, Aleksa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865704	6-4	Jr	38	0
+2019	14383	30193	Emmanuel (GA)	13	1750026	Maloney, Demetrius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750026	5-10	Sr	37	0
+2019	14383	30193	Emmanuel (GA)	9	2117859	Mondestin, Jomar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117859	6-1	Fr	33	0
 2019	14383	30193	Emmanuel (GA)	8		Peterson, Ray		5-8	Fr	0	0
-2019	14383	30193	Emmanuel (GA)	14	1977182	Robles, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977182	-	Jr	0	0
-2019	14383	30193	Emmanuel (GA)	6	1862205	Thompson, Don	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862205	6-4	Jr	0	0
-2019	14383	30193	Emmanuel (GA)	10	1981572	Zayas, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981572	6-3	Jr	0	0
-2019	14383	1072	Erskine	4		Abdullah, Umar		-	Fr	0	0
-2019	14383	1072	Erskine	15		Aldebol, Lancy		-	Fr	0	0
+2019	14383	30193	Emmanuel (GA)	14	1977182	Robles, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977182	-	Jr	24	0
+2019	14383	30193	Emmanuel (GA)	6	1862205	Thompson, Don	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862205	6-4	Jr	37	0
+2019	14383	30193	Emmanuel (GA)	10	1981572	Zayas, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981572	6-3	Jr	25	0
+2019	14383	1072	Erskine	4	2117032	Abdullah, Umar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117032	-	Fr	1	0
+2019	14383	1072	Erskine	15	2117069	Aldebol, Lancy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117069	-	Fr	39	0
 2019	14383	1072	Erskine	21	1864681	Aromin, Gary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864681	6-1	Jr	0	0
-2019	14383	1072	Erskine	17		Arrowood, Josh		-	Fr	0	0
-2019	14383	1072	Erskine	5		Coffin, Sili		-	Fr	0	0
-2019	14383	1072	Erskine	7		Collazo, Hector		-	Fr	0	0
+2019	14383	1072	Erskine	17	2117037	Arrowood, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117037	-	Fr	38	0
+2019	14383	1072	Erskine	5	2117033	Coffin, Sili	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117033	-	Fr	2	0
+2019	14383	1072	Erskine	7	2117065	Collazo, Hector	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117065	-	Fr	38	0
 2019	14383	1072	Erskine	3		Desauguste, Kai		-	Fr	0	0
 2019	14383	1072	Erskine	12		Fleming, Jakob		-	Fr	0	0
-2019	14383	1072	Erskine	24		Greenhow, Devaughn		-	Fr	0	0
-2019	14383	1072	Erskine	1		Hinderberger, Matthew		-	Fr	0	0
-2019	14383	1072	Erskine	2		Irizarry, Alejandro		-	Fr	0	0
+2019	14383	1072	Erskine	24	2117070	Greenhow, Devaughn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117070	-	Fr	1	0
+2019	14383	1072	Erskine	1	2117061	Hinderberger, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117061	-	Fr	2	0
+2019	14383	1072	Erskine	2	2117062	Irizarry, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117062	-	Fr	36	0
 2019	14383	1072	Erskine	14		Martinez, Koedi		-	Fr	0	0
-2019	14383	1072	Erskine	6		McArthur, Marc		-	Fr	0	0
-2019	14383	1072	Erskine	10		Medellin, Bryan		-	Fr	0	0
-2019	14383	1072	Erskine	11		Pomar, Francisco		-	Fr	0	0
-2019	14383	1072	Erskine	9		Rendon, Justin		-	Fr	0	0
-2019	14383	1072	Erskine	25	1864686	Spence, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864686	6-3	Jr	0	0
-2019	14383	1072	Erskine	22	1753443	Sullivan, Keegan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753443	6-4	Sr	0	0
-2019	14383	1072	Erskine	16		Vigo, Cole		-	Fr	0	0
-2019	14383	248	George Mason	15	1863144	Allen, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863144	6-3	Jr	0	0
-2019	14383	248	George Mason	3	1753908	Barnes, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753908	6-4	Sr	4	0
-2019	14383	248	George Mason	10	1765746	Calaman, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765746	5-8	Sr	3	0
-2019	14383	248	George Mason	19	1752876	Coleman, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752876	6-3	Sr	4	0
-2019	14383	248	George Mason	2	1977719	Creamer, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977719	6-9	Jr	0	0
-2019	14383	248	George Mason	17	1769990	Cymbor, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1769990	6-3	Sr	1	0
-2019	14383	248	George Mason	22	1863145	Gatling, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863145	6-4	Jr	1	0
-2019	14383	248	George Mason	6	1863142	Greenslade, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863142	6-7	Jr	7	0
+2019	14383	1072	Erskine	6	2117064	McArthur, Marc	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117064	-	Fr	3	0
+2019	14383	1072	Erskine	10	2117034	Medellin, Bryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117034	-	Fr	1	0
+2019	14383	1072	Erskine	11	2117035	Pomar, Francisco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117035	-	Fr	38	0
+2019	14383	1072	Erskine	9	2117066	Rendon, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117066	-	Fr	2	0
+2019	14383	1072	Erskine	25	1864686	Spence, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864686	6-3	Jr	38	0
+2019	14383	1072	Erskine	22	1753443	Sullivan, Keegan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753443	6-4	Sr	39	0
+2019	14383	1072	Erskine	16	2117036	Vigo, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117036	-	Fr	14	0
+2019	14383	248	George Mason	15	1863144	Allen, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863144	6-3	Jr	1	0
+2019	14383	248	George Mason	3	1753908	Barnes, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753908	6-4	Sr	25	0
+2019	14383	248	George Mason	10	1765746	Calaman, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765746	5-8	Sr	17	0
+2019	14383	248	George Mason	19	1752876	Coleman, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752876	6-3	Sr	19	0
+2019	14383	248	George Mason	2	1977719	Creamer, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977719	6-9	Jr	1	0
+2019	14383	248	George Mason	17	1769990	Cymbor, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1769990	6-3	Sr	5	0
+2019	14383	248	George Mason	22	1863145	Gatling, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863145	6-4	Jr	8	0
+2019	14383	248	George Mason	6	1863142	Greenslade, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863142	6-7	Jr	26	0
 2019	14383	248	George Mason	11	2111750	Hoff, Richie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111750	6-4	Fr	3	0
-2019	14383	248	George Mason	1	1977700	Kapusta, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977700	6-7	So	0	0
-2019	14383	248	George Mason	4	2111731	Kennan, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111731	6-2	Fr	4	0
-2019	14383	248	George Mason	12	1978473	O'Gorman, Travis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978473	6-3	Sr	0	0
-2019	14383	248	George Mason	5	1640862	Payne, Langston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640862	6-5	Sr	7	0
-2019	14383	248	George Mason	18	1864738	Reese, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864738	6-8	So	6	0
+2019	14383	248	George Mason	1	1977700	Kapusta, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977700	6-7	So	2	0
+2019	14383	248	George Mason	4	2111731	Kennan, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111731	6-2	Fr	12	0
+2019	14383	248	George Mason	12	1978473	O'Gorman, Travis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978473	6-3	Sr	1	0
+2019	14383	248	George Mason	5	1640862	Payne, Langston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640862	6-5	Sr	28	0
+2019	14383	248	George Mason	18	1864738	Reese, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864738	6-8	So	21	0
 2019	14383	248	George Mason	7		Spiegel, Justin		6-7	So	0	0
 2019	14383	248	George Mason	14		Talamoa, Zach		5-11	Fr	0	0
-2019	14383	248	George Mason	21	1978474	Velez, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978474	6-4	So	3	0
-2019	14383	248	George Mason	9	1863143	Wagner, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863143	6-6	Jr	7	0
-2019	14383	1104	Grand Canyon	18	1863275	Blazer, Caleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863275	6-6	Jr	10	0
-2019	14383	1104	Grand Canyon	16		Broadway, Parker		6-7	Fr	0	0
+2019	14383	248	George Mason	21	1978474	Velez, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978474	6-4	So	17	0
+2019	14383	248	George Mason	9	1863143	Wagner, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863143	6-6	Jr	28	0
+2019	14383	1104	Grand Canyon	18	1863275	Blazer, Caleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863275	6-6	Jr	33	0
+2019	14383	1104	Grand Canyon	16	2110439	Broadway, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110439	6-7	Fr	2	0
 2019	14383	1104	Grand Canyon	12		Browning, Grayson		6-5	Fr	0	0
-2019	14383	1104	Grand Canyon	7	1863280	Burton, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863280	6-4	Jr	10	0
-2019	14383	1104	Grand Canyon	9	1977447	Cukur, Onur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977447	6-8	So	11	0
-2019	14383	1104	Grand Canyon	6	1977424	Enriques, Avery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977424	5-10	So	4	0
-2019	14383	1104	Grand Canyon	19	1977451	Fischer, Hugo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977451	6-8	So	2	0
+2019	14383	1104	Grand Canyon	7	1863280	Burton, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863280	6-4	Jr	38	0
+2019	14383	1104	Grand Canyon	9	1977447	Cukur, Onur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977447	6-8	So	36	0
+2019	14383	1104	Grand Canyon	6	1977424	Enriques, Avery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977424	5-10	So	8	0
+2019	14383	1104	Grand Canyon	19	1977451	Fischer, Hugo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977451	6-8	So	4	0
 2019	14383	1104	Grand Canyon	5		Gianni, Camden		6-5	Fr	0	0
-2019	14383	1104	Grand Canyon	8		Hughes, Heath		6-7	Fr	0	0
-2019	14383	1104	Grand Canyon	11	2110437	Janke, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110437	6-5	Fr	11	0
-2019	14383	1104	Grand Canyon	22	1863276	Kisiel, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863276	6-5	So	4	0
-2019	14383	1104	Grand Canyon	1		Losch, Ryan		6-4	So	0	0
-2019	14383	1104	Grand Canyon	10	1863272	McClain, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863272	6-6	So	0	0
-2019	14383	1104	Grand Canyon	25	1977484	Petchul, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977484	6-5	So	3	0
-2019	14383	1104	Grand Canyon	20	1759370	Schwob, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1759370	6-4	Sr	9	0
-2019	14383	1104	Grand Canyon	24	1977464	Shmelev, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977464	6-6	Sr	11	0
-2019	14383	1104	Grand Canyon	23	2110440	Thompson, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110440	6-7	Fr	1	0
-2019	14383	1104	Grand Canyon	13	2110438	Udall, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110438	6-3	Fr	9	0
-2019	14383	1104	Grand Canyon	4	1977427	Weary, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977427	6-7	So	3	0
-2019	14383	275	Harvard	15	1863136	Connolly, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863136	5-9	Jr	1	0
-2019	14383	275	Harvard	10	1863134	Ctvrlik, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863134	6-5	Jr	13	0
-2019	14383	275	Harvard	8	1749677	Dow, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749677	6-10	Sr	13	0
-2019	14383	275	Harvard	4	1970726	Gordon, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970726	6-2	So	10	0
-2019	14383	275	Harvard	16	1863137	Heavey, Marty	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863137	6-4	Jr	9	0
-2019	14383	275	Harvard	3	2110409	Hong, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110409	6-2	Fr	13	0
+2019	14383	1104	Grand Canyon	8	2110436	Hughes, Heath	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110436	6-7	Fr	18	0
+2019	14383	1104	Grand Canyon	11	2110437	Janke, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110437	6-5	Fr	47	0
+2019	14383	1104	Grand Canyon	22	1863276	Kisiel, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863276	6-5	So	19	0
+2019	14383	1104	Grand Canyon	1	1977426	Losch, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977426	6-4	So	2	0
+2019	14383	1104	Grand Canyon	10	1863272	McClain, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863272	6-6	So	5	0
+2019	14383	1104	Grand Canyon	25	1977484	Petchul, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977484	6-5	So	15	0
+2019	14383	1104	Grand Canyon	20	1759370	Schwob, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1759370	6-4	Sr	35	0
+2019	14383	1104	Grand Canyon	24	1977464	Shmelev, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977464	6-6	Sr	43	0
+2019	14383	1104	Grand Canyon	23	2110440	Thompson, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110440	6-7	Fr	16	0
+2019	14383	1104	Grand Canyon	13	2110438	Udall, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110438	6-3	Fr	42	0
+2019	14383	1104	Grand Canyon	4	1977427	Weary, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977427	6-7	So	17	0
+2019	14383	275	Harvard	15	1863136	Connolly, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863136	5-9	Jr	10	0
+2019	14383	275	Harvard	10	1863134	Ctvrlik, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863134	6-5	Jr	30	0
+2019	14383	275	Harvard	8	1749677	Dow, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749677	6-10	Sr	30	0
+2019	14383	275	Harvard	4	1970726	Gordon, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970726	6-2	So	15	0
+2019	14383	275	Harvard	16	1863137	Heavey, Marty	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863137	6-4	Jr	22	0
+2019	14383	275	Harvard	3	2110409	Hong, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110409	6-2	Fr	27	0
 2019	14383	275	Harvard	1	1863133	Howard, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863133	6-2	Jr	0	0
-2019	14383	275	Harvard	11	1863135	Johnsson, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863135	6-4	Jr	13	0
-2019	14383	275	Harvard	7		Li, Eric		6-6	Fr	0	0
-2019	14383	275	Harvard	5	1970727	Schmit, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970727	6-5	So	13	0
-2019	14383	275	Harvard	12	2110411	Schoenfeld, Campbell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110411	6-8	Fr	13	0
-2019	14383	275	Harvard	13		Scott, Buddy		6-6	Fr	0	0
-2019	14383	275	Harvard	17	2110413	Shen, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110413	5-11	Fr	12	0
-2019	14383	275	Harvard	14	1970710	Zhao, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970710	6-6	Jr	0	0
-2019	14383	277	Hawaii	2	1749485	Anastassiades, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749485	6-5	Jr	0	0
-2019	14383	277	Hawaii	17	1749486	Cowell, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749486	6-2	Jr	0	0
-2019	14383	277	Hawaii	15	1749489	Gasman, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749489	6-10	Jr	0	0
+2019	14383	275	Harvard	11	1863135	Johnsson, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863135	6-4	Jr	30	0
+2019	14383	275	Harvard	7	2110410	Li, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110410	6-6	Fr	17	0
+2019	14383	275	Harvard	5	1970727	Schmit, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970727	6-5	So	22	0
+2019	14383	275	Harvard	12	2110411	Schoenfeld, Campbell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110411	6-8	Fr	30	0
+2019	14383	275	Harvard	13	2110412	Scott, Buddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110412	6-6	Fr	2	0
+2019	14383	275	Harvard	17	2110413	Shen, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110413	5-11	Fr	21	0
+2019	14383	275	Harvard	14	1970710	Zhao, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1970710	6-6	Jr	1	0
+2019	14383	277	Hawaii	2	1749485	Anastassiades, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749485	6-5	Jr	10	0
+2019	14383	277	Hawaii	17	1749486	Cowell, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749486	6-2	Jr	15	0
+2019	14383	277	Hawaii	15	1749489	Gasman, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749489	6-10	Jr	13	0
 2019	14383	277	Hawaii	7		Hogland, Cole		6-4	Fr	0	0
-2019	14383	277	Hawaii	16		Humler, Filip		6-7	Fr	0	0
+2019	14383	277	Hawaii	16	2111132	Humler, Filip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111132	6-7	Fr	3	0
 2019	14383	277	Hawaii	9		Johnson, Devon		6-6	Fr	0	0
-2019	14383	277	Hawaii	19	1864714	Parapunov, Rado	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864714	6-9	Jr	0	0
-2019	14383	277	Hawaii	13		Rosenfeld, Max		6-7	So	0	0
-2019	14383	277	Hawaii	3	1749492	Rosenmeier, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749492	6-6	Sr	0	0
+2019	14383	277	Hawaii	19	1864714	Parapunov, Rado	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864714	6-9	Jr	13	0
+2019	14383	277	Hawaii	13	1964783	Rosenfeld, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964783	6-7	So	2	0
+2019	14383	277	Hawaii	3	1749492	Rosenmeier, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749492	6-6	Sr	3	0
 2019	14383	277	Hawaii	12		Sheward, Brett		6-2	Fr	0	0
-2019	14383	277	Hawaii	11	1749493	Solbrig, Dalton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749493	6-6	Sr	0	0
-2019	14383	277	Hawaii	10		Thelle, Jakob		6-6	Fr	0	0
+2019	14383	277	Hawaii	11	1749493	Solbrig, Dalton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749493	6-6	Sr	15	0
+2019	14383	277	Hawaii	10	2111135	Thelle, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111135	6-6	Fr	12	0
 2019	14383	277	Hawaii	14		Todd, Alaka‘i		6-8	Fr	0	0
-2019	14383	277	Hawaii	20	1864740	Van Eekeren, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864740	6-6	So	0	0
+2019	14383	277	Hawaii	20	1864740	Van Eekeren, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864740	6-6	So	5	0
 2019	14383	277	Hawaii	24		Wong, Danny		6-6	Fr	0	0
-2019	14383	277	Hawaii	6	1964765	Worsley, Gage	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964765	6-1	So	0	0
-2019	14383	277	Hawaii	1	1749495	Worsley, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749495	6-0	Sr	0	0
-2019	14383	277	Hawaii	4	1749494	van Tilburg, Stijn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749494	6-8	Sr	0	0
+2019	14383	277	Hawaii	1	1749495	Worsley, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749495	6-0	Sr	15	0
+2019	14383	277	Hawaii	6	1964765	Worsley, Gage	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964765	6-1	So	15	0
+2019	14383	277	Hawaii	4	1749494	van Tilburg, Stijn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749494	6-8	Sr	13	0
 2019	14383	30051	King (TN)	13		Bryja, Radek		6-1	Fr	0	0
-2019	14383	30051	King (TN)	20	1749633	Christy, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749633	6-6	Sr	0	0
-2019	14383	30051	King (TN)	9	1959631	Deppe, JT	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959631	6-3	So	0	0
-2019	14383	30051	King (TN)	44		Florencio, Douglas		6-7	So	0	0
-2019	14383	30051	King (TN)	7		Harris, Suetonius		6-1	Fr	0	0
-2019	14383	30051	King (TN)	18	1959632	Jennings, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959632	5-11	So	0	0
-2019	14383	30051	King (TN)	23	1749632	Johnson, Dalton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749632	6-7	Sr	0	0
-2019	14383	30051	King (TN)	5		Kim, Joshua		6-6	So	0	0
-2019	14383	30051	King (TN)	3	1959648	Kohlhase, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959648	6-4	So	0	0
-2019	14383	30051	King (TN)	15		Marcano, Diego		6-2	Fr	0	0
-2019	14383	30051	King (TN)	22		McCrury, Mason		5-11	So	0	0
-2019	14383	30051	King (TN)	8		Melendez, Noah		5-10	Fr	0	0
-2019	14383	30051	King (TN)	6		Milstead, Aaron		6-4	Fr	0	0
+2019	14383	30051	King (TN)	20	1749633	Christy, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749633	6-6	Sr	17	0
+2019	14383	30051	King (TN)	9	1959631	Deppe, JT	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959631	6-3	So	16	0
+2019	14383	30051	King (TN)	44	2111428	Florencio, Douglas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111428	6-7	So	1	0
+2019	14383	30051	King (TN)	7	2111407	Harris, Suetonius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111407	6-1	Fr	30	0
+2019	14383	30051	King (TN)	18	1959632	Jennings, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959632	5-11	So	1	0
+2019	14383	30051	King (TN)	23	1749632	Johnson, Dalton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749632	6-7	Sr	30	0
+2019	14383	30051	King (TN)	5	2111406	Kim, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111406	6-6	So	19	0
+2019	14383	30051	King (TN)	3	1959648	Kohlhase, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959648	6-4	So	29	0
+2019	14383	30051	King (TN)	15	2111411	Marcano, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111411	6-2	Fr	1	0
+2019	14383	30051	King (TN)	22	1959633	McCrury, Mason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959633	5-11	So	3	0
+2019	14383	30051	King (TN)	8	2111408	Melendez, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111408	5-10	Fr	3	0
+2019	14383	30051	King (TN)	6	2111426	Milstead, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111426	6-4	Fr	1	0
 2019	14383	30051	King (TN)	12		Palmer, Sergio		5-7	So	0	0
 2019	14383	30051	King (TN)	19		Spurlock, Walter		6-1	Fr	0	0
 2019	14383	30051	King (TN)	27		Tolentino, Constan		5-9	So	0	0
 2019	14383	30051	King (TN)	10		Tornow, Jordan		6-2	So	0	0
-2019	14383	30051	King (TN)	14		Wajciechowski, Adam		6-4	Fr	0	0
-2019	14383	30051	King (TN)	11	1749631	Wheaton, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749631	6-8	Sr	0	0
-2019	14383	30051	King (TN)	4	1749630	Young, Julian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749630	6-5	Sr	0	0
-2019	14383	30051	King (TN)	2	1959647	de Quadros, Leo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959647	6-0	So	0	0
+2019	14383	30051	King (TN)	14	2111410	Wajciechowski, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111410	6-4	Fr	1	0
+2019	14383	30051	King (TN)	11	1749631	Wheaton, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749631	6-8	Sr	30	0
+2019	14383	30051	King (TN)	4	1749630	Young, Julian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749630	6-5	Sr	16	0
+2019	14383	30051	King (TN)	2	1959647	de Quadros, Leo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1959647	6-0	So	30	0
 2019	14383	13302	Lees-McRae	8	1972426	Bowling, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972426	6-6	So	0	0
-2019	14383	13302	Lees-McRae	10		Cookingham, Nick		6-4	Fr	0	0
-2019	14383	13302	Lees-McRae	15	1986066	Dorfman, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1986066	6-4	So	0	0
-2019	14383	13302	Lees-McRae	5	1972425	Gardner, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972425	6-6	So	0	0
-2019	14383	13302	Lees-McRae	2	1972374	Graf, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972374	6-1	So	0	0
-2019	14383	13302	Lees-McRae	1		Olson, Jeffrey		5-11	Fr	0	0
+2019	14383	13302	Lees-McRae	10	2117177	Cookingham, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117177	6-4	Fr	29	0
+2019	14383	13302	Lees-McRae	15	1986066	Dorfman, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1986066	6-4	So	29	0
+2019	14383	13302	Lees-McRae	5	1972425	Gardner, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972425	6-6	So	29	0
+2019	14383	13302	Lees-McRae	1	2117188	Olson, Jeffrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117188	5-11	Fr	10	0
 2019	14383	13302	Lees-McRae	12		Rauen, Nash		6-1	So	0	0
-2019	14383	13302	Lees-McRae	13	1986049	Reed, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1986049	5-10	So	0	0
-2019	14383	13302	Lees-McRae	7	1749349	Serviat, Hector	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749349	6-3	Sr	0	0
-2019	14383	13302	Lees-McRae	11		Sims, Drew		6-4	Jr	0	0
-2019	14383	13302	Lees-McRae	18	1864663	Woolslayer, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864663	6-1	Jr	0	0
+2019	14383	13302	Lees-McRae	13	1986049	Reed, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1986049	5-10	So	29	0
+2019	14383	13302	Lees-McRae	7	1749349	Serviat, Hector	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749349	6-3	Sr	29	0
+2019	14383	13302	Lees-McRae	11	2117178	Sims, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2117178	6-4	Jr	29	0
+2019	14383	13302	Lees-McRae	18	1864663	Woolslayer, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864663	6-1	Jr	29	0
 2019	14383	354	Lewis	22		Bonte, Auston		6-1	Fr	0	0
 2019	14383	354	Lewis	1		Brillhart, Cole		6-2	Fr	0	0
-2019	14383	354	Lewis	21	1865240	Bugee, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865240	6-5	Jr	4	0
-2019	14383	354	Lewis	9	1749852	Coenen, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749852	6-9	Jr	6	0
+2019	14383	354	Lewis	21	1865240	Bugee, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865240	6-5	Jr	24	0
+2019	14383	354	Lewis	9	1749852	Coenen, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749852	6-9	Jr	36	0
 2019	14383	354	Lewis	5		Gibbs, Jason		6-3	Fr	0	0
-2019	14383	354	Lewis	19	1865239	Holve, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865239	6-3	So	1	0
-2019	14383	354	Lewis	14	1749857	Instenes, Dalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749857	6-5	Jr	4	0
+2019	14383	354	Lewis	19	1865239	Holve, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865239	6-3	So	4	0
+2019	14383	354	Lewis	14	1749857	Instenes, Dalen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749857	6-5	Jr	21	0
 2019	14383	354	Lewis	24		Jimenez, Carlos		6-1	Fr	0	0
-2019	14383	354	Lewis	7	1964717	Kenzinger, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964717	6-6	So	1	0
-2019	14383	354	Lewis	11	1749854	Kerschner, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749854	6-4	Jr	6	0
+2019	14383	354	Lewis	7	1964717	Kenzinger, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964717	6-6	So	4	0
+2019	14383	354	Lewis	11	1749854	Kerschner, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749854	6-4	Jr	35	0
 2019	14383	354	Lewis	10		Lehnert, Alec		6-8	Fr	0	0
 2019	14383	354	Lewis	18	1749859	Maurer, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749859	6-8	Sr	0	0
-2019	14383	354	Lewis	23	1964719	McClintic, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964719	6-10	So	1	0
-2019	14383	354	Lewis	8	1964718	Mitchem, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964718	6-10	So	7	0
-2019	14383	354	Lewis	6	1749850	Moses, Julian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749850	6-4	Sr	6	0
-2019	14383	354	Lewis	15	1865237	Murray, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865237	6-9	So	6	0
-2019	14383	354	Lewis	2		Oliver Jr., Robert		6-8	Fr	0	0
-2019	14383	354	Lewis	17	2108565	Pallman, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108565	6-6	Fr	1	0
+2019	14383	354	Lewis	23	1964719	McClintic, Colin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964719	6-10	So	2	0
+2019	14383	354	Lewis	8	1964718	Mitchem, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964718	6-10	So	41	0
+2019	14383	354	Lewis	6	1749850	Moses, Julian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749850	6-4	Sr	31	0
+2019	14383	354	Lewis	15	1865237	Murray, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865237	6-9	So	37	0
+2019	14383	354	Lewis	2	2108556	Oliver Jr., Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108556	6-8	Fr	1	0
+2019	14383	354	Lewis	17	2108565	Pallman, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108565	6-6	Fr	21	0
 2019	14383	354	Lewis	10	1749853	Perinar, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749853	6-6	Sr	0	0
 2019	14383	354	Lewis	18		Rodriguez, Antonio Elias		6-8	Fr	0	0
 2019	14383	354	Lewis	12		Shaffer, Kyle		6-3	Fr	0	0
-2019	14383	354	Lewis	16	1749858	Simmons, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749858	6-4	Sr	6	0
+2019	14383	354	Lewis	16	1749858	Simmons, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749858	6-4	Sr	34	0
 2019	14383	354	Lewis	4	1964712	Stepnowski, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964712	6-1	So	0	0
-2019	14383	354	Lewis	13	1865236	Van Loo, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865236	6-3	Jr	2	0
+2019	14383	354	Lewis	13	1865236	Van Loo, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865236	6-3	Jr	14	0
 2019	14383	354	Lewis	20	1758870	Vander Zanden, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1758870	6-9	Sr	0	0
-2019	14383	354	Lewis	1	1749847	Walenga, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749847	6-0	Sr	6	0
-2019	14383	354	Lewis	3	1749856	Yoshimoto, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749856	6-5	Sr	6	0
-2019	14383	1174	Limestone	4	1976800	Anetrella, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976800	6-0	So	0	0
-2019	14383	1174	Limestone	9	1976815	Armero, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976815	5-8	Sr	0	0
-2019	14383	1174	Limestone	7	1976813	Loftus, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976813	6-5	So	0	0
-2019	14383	1174	Limestone	14	1976803	Malone, Jarrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976803	6-4	So	0	0
-2019	14383	1174	Limestone	12	1644982	Riley, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1644982	6-3	Sr	0	0
-2019	14383	1174	Limestone	11	1976814	Rivera, Geraldo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976814	5-10	So	0	0
-2019	14383	1174	Limestone	3	1976799	Ruhm, Florian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976799	5-11	So	0	0
-2019	14383	1174	Limestone	5	1976801	Saint-Eloi, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976801	6-1	So	0	0
-2019	14383	1174	Limestone	6	1976802	Salinger Cenzual, Francisco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976802	6-3	So	0	0
-2019	14383	1174	Limestone	20	1976804	Simpson, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976804	6-2	So	0	0
-2019	14383	1176	Lincoln Memorial	18		Bridenbaugh, Matt		5-10	So	0	0
-2019	14383	1176	Lincoln Memorial	9	1866559	Carvalho, Pedro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866559	6-7	Jr	0	0
-2019	14383	1176	Lincoln Memorial	13	1866563	Corey, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866563	6-4	Jr	0	0
-2019	14383	1176	Lincoln Memorial	19		Delgado, Andres		5-9	Fr	0	0
-2019	14383	1176	Lincoln Memorial	5		Foy, Ryan		6-5	Fr	0	0
-2019	14383	1176	Lincoln Memorial	17		Hermida, Danny		6-4	So	0	0
-2019	14383	1176	Lincoln Memorial	6	1978332	Kerley, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978332	6-4	So	0	0
-2019	14383	1176	Lincoln Memorial	7	1978348	Kerley, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978348	6-2	So	0	0
-2019	14383	1176	Lincoln Memorial	2		Negron, Johansen		6-2	Fr	0	0
-2019	14383	1176	Lincoln Memorial	12	1978330	Risavy, AJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978330	6-7	So	0	0
+2019	14383	354	Lewis	1	1749847	Walenga, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749847	6-0	Sr	38	0
+2019	14383	354	Lewis	3	1749856	Yoshimoto, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749856	6-5	Sr	36	0
+2019	14383	1174	Limestone	4	1976800	Anetrella, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976800	6-1	So	9	0
+2019	14383	1174	Limestone	9	1976815	Armero, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976815	5-8	Jr	6	0
+2019	14383	1174	Limestone	6	2121960	Barreto, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2121960	5-9	Jr	21	0
+2019	14383	1174	Limestone	15	2119523	Holman, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119523	6-5	Sr	23	0
+2019	14383	1174	Limestone	20	2119526	Igo, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119526	6-7	Fr	23	0
+2019	14383	1174	Limestone	7	1976813	Loftus, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976813	6-5	So	2	0
+2019	14383	1174	Limestone	14	1976803	Malone, Jarrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976803	6-5	So	0	0
+2019	14383	1174	Limestone	16	2119525	Owens, Brison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119525	5-11	Fr	2	0
+2019	14383	1174	Limestone	3	2119520	Podgorzak, Michal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119520	5-11	Fr	23	0
+2019	14383	1174	Limestone	18	1644982	Riley, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1644982	6-4	Sr	23	0
+2019	14383	1174	Limestone	1	1976814	Rivera, Geraldo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976814	6-0	So	18	0
+2019	14383	1174	Limestone	2	1976801	Saint-Eloi, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976801	6-1	So	6	0
+2019	14383	1174	Limestone	17	1976802	Salinger Cenzual, Francisco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976802	6-5	So	19	0
+2019	14383	1174	Limestone	10	1976804	Simpson, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976804	6-2	So	0	0
+2019	14383	1176	Lincoln Memorial	18	2118419	Bridenbaugh, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118419	5-10	So	25	0
+2019	14383	1176	Lincoln Memorial	9	1866559	Carvalho, Pedro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866559	6-7	Jr	28	0
+2019	14383	1176	Lincoln Memorial	13	1866563	Corey, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866563	6-4	Jr	28	0
+2019	14383	1176	Lincoln Memorial	19	2118420	Delgado, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118420	5-9	Fr	17	0
+2019	14383	1176	Lincoln Memorial	5	2118415	Foy, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118415	6-5	Fr	6	0
+2019	14383	1176	Lincoln Memorial	17	2118418	Hermida, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118418	6-4	So	25	0
+2019	14383	1176	Lincoln Memorial	7	1978348	Kerley, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978348	6-2	So	13	0
+2019	14383	1176	Lincoln Memorial	6	1978332	Kerley, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978332	6-4	So	1	0
+2019	14383	1176	Lincoln Memorial	2	2118414	Negron, Johansen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118414	6-2	Fr	16	0
+2019	14383	1176	Lincoln Memorial	15	1978330	Risavy, AJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1978330	6-7	So	28	0
 2019	14383	1176	Lincoln Memorial	11	1866561	Rivera, Randy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866561	6-2	Jr	0	0
 2019	14383	1176	Lincoln Memorial	16		Taylor-Ford, Jacquee		6-7	Fr	0	0
-2019	14383	1176	Lincoln Memorial	10		Titus, Jacob		6-4	Fr	0	0
-2019	14383	1176	Lincoln Memorial	3	1866565	Triana, Nico	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866565	6-3	Jr	0	0
-2019	14383	1176	Lincoln Memorial	1		Walker, Dawson		6-6	Fr	0	0
-2019	14383	1176	Lincoln Memorial	8	1866558	Walley, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866558	6-3	Sr	0	0
-2019	14383	1176	Lincoln Memorial	14	1866560	Washington, Nyjaee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866560	6-3	Sr	0	0
-2019	14383	30136	Lindenwood (MO)	5	1749635	Brewster, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749635	6-3	Sr	0	0
-2019	14383	30136	Lindenwood (MO)	15		Brinkerhoff, Brad		6-5	So	0	0
-2019	14383	30136	Lindenwood (MO)	9	1749636	Hipelius, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749636	6-8	Sr	0	0
-2019	14383	30136	Lindenwood (MO)	17	1863151	Hlavin, Charley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863151	6-5	So	0	0
-2019	14383	30136	Lindenwood (MO)	20	1863152	Jennings, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863152	6-6	Jr	0	0
+2019	14383	1176	Lincoln Memorial	10	2118416	Titus, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118416	6-4	Fr	2	0
+2019	14383	1176	Lincoln Memorial	3	1866565	Triana, Nico	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866565	6-3	Jr	3	0
+2019	14383	1176	Lincoln Memorial	1	2118413	Walker, Dawson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2118413	6-6	Fr	28	0
+2019	14383	1176	Lincoln Memorial	8	1866558	Walley, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866558	6-3	Sr	18	0
+2019	14383	30136	Lindenwood (MO)	5	1749635	Brewster, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749635	6-3	Sr	34	0
+2019	14383	30136	Lindenwood (MO)	15	1971925	Brinkerhoff, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971925	6-5	So	13	0
+2019	14383	30136	Lindenwood (MO)	9	1749636	Hipelius, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749636	6-8	Sr	37	0
+2019	14383	30136	Lindenwood (MO)	17	1863151	Hlavin, Charley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863151	6-5	So	31	0
+2019	14383	30136	Lindenwood (MO)	20	1863152	Jennings, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863152	6-6	Jr	14	0
 2019	14383	30136	Lindenwood (MO)	13		Kirch, Jeremy		6-6	Fr	0	0
 2019	14383	30136	Lindenwood (MO)	21		Koroma, Sheku		6-0	Sr	0	0
-2019	14383	30136	Lindenwood (MO)	12	1971904	Nash, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971904	6-3	So	0	0
-2019	14383	30136	Lindenwood (MO)	11		Negron, Diego		6-4	Fr	0	0
+2019	14383	30136	Lindenwood (MO)	12	1971904	Nash, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971904	6-3	So	7	0
+2019	14383	30136	Lindenwood (MO)	11	1976678	Negron, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976678	6-4	Fr	29	0
 2019	14383	30136	Lindenwood (MO)	3		Pappas, Alex		6-7	So	0	0
-2019	14383	30136	Lindenwood (MO)	4		Reid, Jake		6-5	Fr	0	0
-2019	14383	30136	Lindenwood (MO)	8	1863149	Schindler, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863149	6-7	Jr	0	0
-2019	14383	30136	Lindenwood (MO)	6		Schwob, Brian		6-3	Fr	0	0
-2019	14383	30136	Lindenwood (MO)	16	1863154	Stevenson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863154	6-3	Jr	0	0
-2019	14383	30136	Lindenwood (MO)	1		Swartz, Phil		6-7	Fr	0	0
-2019	14383	30136	Lindenwood (MO)	2	1749639	Symonds, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749639	6-2	Jr	0	0
+2019	14383	30136	Lindenwood (MO)	4	2108806	Reid, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108806	6-5	Fr	3	0
+2019	14383	30136	Lindenwood (MO)	8	1863149	Schindler, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863149	6-7	Jr	37	0
+2019	14383	30136	Lindenwood (MO)	6	2108787	Schwob, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108787	6-3	Fr	3	0
+2019	14383	30136	Lindenwood (MO)	16	1863154	Stevenson, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863154	6-3	Jr	28	0
+2019	14383	30136	Lindenwood (MO)	1	2108786	Swartz, Phil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108786	6-7	Fr	12	0
+2019	14383	30136	Lindenwood (MO)	2	1749639	Symonds, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749639	6-2	Jr	33	0
 2019	14383	30136	Lindenwood (MO)	22		Weir, Aiden		6-5	Fr	0	0
 2019	14383	30136	Lindenwood (MO)	23		Werths, Cal		6-7	Fr	0	0
-2019	14383	30136	Lindenwood (MO)	10	1971903	Winkler, Johnny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971903	6-3	So	0	0
+2019	14383	30136	Lindenwood (MO)	10	1971903	Winkler, Johnny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971903	6-3	So	6	0
 2019	14383	99	Long Beach St.	8	1976973	Adams, Gary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976973	6-5	So	0	0
-2019	14383	99	Long Beach St.	25	1864928	Amado, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864928	6-6	Sr	6	0
-2019	14383	99	Long Beach St.	30	1976980	Anastassiades, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976980	6-8	Fr	2	0
-2019	14383	99	Long Beach St.	13	1976974	Andersen, Simon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976974	6-8	So	9	0
+2019	14383	99	Long Beach St.	25	1864928	Amado, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864928	6-6	Sr	25	0
+2019	14383	99	Long Beach St.	30	1976980	Anastassiades, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976980	6-8	Fr	8	0
+2019	14383	99	Long Beach St.	13	1976974	Andersen, Simon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976974	6-8	So	27	0
 2019	14383	99	Long Beach St.	26		Bollinger, Mitchell		6-2	Fr	0	0
-2019	14383	99	Long Beach St.	6	1976972	Briggs, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976972	6-0	So	0	0
+2019	14383	99	Long Beach St.	6	1976972	Briggs, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976972	6-0	So	1	0
 2019	14383	99	Long Beach St.	18		Coronado, Jevan		6-4	Fr	0	0
-2019	14383	99	Long Beach St.	11	1749663	DeFalco, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749663	6-4	Sr	9	0
-2019	14383	99	Long Beach St.	5	1749661	Ensing, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749661	6-7	Sr	9	0
+2019	14383	99	Long Beach St.	11	1749663	DeFalco, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749663	6-4	Sr	31	0
+2019	14383	99	Long Beach St.	5	1749661	Ensing, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749661	6-7	Sr	30	0
 2019	14383	99	Long Beach St.	4		Fugate, Dawson		6-5	Fr	0	0
-2019	14383	99	Long Beach St.	28	2112447	Guinasso, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112447	6-0	Fr	2	0
-2019	14383	99	Long Beach St.	1	2114934	Holdaway, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2114934	6-8	Fr	3	0
+2019	14383	99	Long Beach St.	28	2112447	Guinasso, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112447	6-0	Fr	5	0
+2019	14383	99	Long Beach St.	1	2114934	Holdaway, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2114934	6-8	Fr	9	0
 2019	14383	99	Long Beach St.	27		Kimbrough, Jaylan		6-5	Fr	0	0
-2019	14383	99	Long Beach St.	9	1864923	Molina, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864923	5-9	Sr	9	0
-2019	14383	99	Long Beach St.	16		Moody, Marc		6-8	Fr	0	0
-2019	14383	99	Long Beach St.	31		Olivier, Spencer		6-6	Fr	0	0
-2019	14383	99	Long Beach St.	17	1976976	Poole, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976976	6-5	So	0	0
-2019	14383	99	Long Beach St.	2	1864922	Richard, Louis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864922	6-3	Sr	8	0
-2019	14383	99	Long Beach St.	24	1976979	Rivera, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976979	6-3	So	6	0
-2019	14383	99	Long Beach St.	19	1976978	Siegfried, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976978	6-1	So	4	0
-2019	14383	99	Long Beach St.	22		Trejo, Gary		6-0	Jr	0	0
-2019	14383	99	Long Beach St.	10	1749662	Tuaniga, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749662	6-3	Sr	9	0
-2019	14383	371	Loyola Chicago	11	1750737	Aylsworth, Avery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750737	6-0	Sr	7	0
-2019	14383	371	Loyola Chicago	15	1864694	Cowen, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864694	6-5	Jr	3	0
+2019	14383	99	Long Beach St.	9	1864923	Molina, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864923	5-9	Sr	28	0
+2019	14383	99	Long Beach St.	16	1976975	Moody, Marc	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976975	6-8	Fr	2	0
+2019	14383	99	Long Beach St.	31	1976981	Olivier, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976981	6-6	Fr	2	0
+2019	14383	99	Long Beach St.	17	1976976	Poole, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976976	6-5	So	4	0
+2019	14383	99	Long Beach St.	2	1864922	Richard, Louis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864922	6-3	Sr	26	0
+2019	14383	99	Long Beach St.	24	1976979	Rivera, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976979	6-3	So	25	0
+2019	14383	99	Long Beach St.	19	1976978	Siegfried, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976978	6-1	So	21	0
+2019	14383	99	Long Beach St.	22	1976933	Trejo, Gary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976933	6-0	Jr	1	0
+2019	14383	99	Long Beach St.	10	1749662	Tuaniga, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749662	6-3	Sr	28	0
+2019	14383	371	Loyola Chicago	11	1750737	Aylsworth, Avery	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750737	6-0	Sr	36	0
+2019	14383	371	Loyola Chicago	15	1864694	Cowen, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864694	6-5	Jr	23	0
 2019	14383	371	Loyola Chicago	14		D'Attomo, Joe		6-7	Fr	0	0
-2019	14383	371	Loyola Chicago	9	2108543	Denton, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108543	6-6	Fr	7	0
-2019	14383	371	Loyola Chicago	2	1864690	Freeman, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864690	5-10	Jr	5	0
+2019	14383	371	Loyola Chicago	9	2108543	Denton, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108543	6-6	Fr	33	0
+2019	14383	371	Loyola Chicago	2	1864690	Freeman, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864690	5-10	Jr	6	0
 2019	14383	371	Loyola Chicago	7		Herlihy, Mike		6-6	Fr	0	0
-2019	14383	371	Loyola Chicago	8	1977837	Joslyn, Devin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977837	6-6	So	2	0
-2019	14383	371	Loyola Chicago	12	1864693	Kotsakis, Kyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864693	6-5	Jr	5	0
+2019	14383	371	Loyola Chicago	8	1977837	Joslyn, Devin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977837	6-6	So	15	0
+2019	14383	371	Loyola Chicago	12	1864693	Kotsakis, Kyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864693	6-5	Jr	30	0
 2019	14383	371	Loyola Chicago	51	1977838	Kovanic, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977838	6-8	So	2	0
-2019	14383	371	Loyola Chicago	4	1750733	Leclair, Dane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750733	6-4	Sr	2	0
+2019	14383	371	Loyola Chicago	4	1750733	Leclair, Dane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750733	6-4	Sr	14	0
 2019	14383	371	Loyola Chicago	6		Lyons, Andrew		6-7	Fr	0	0
-2019	14383	371	Loyola Chicago	5	1750734	Mahan, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750734	6-5	Sr	7	0
-2019	14383	371	Loyola Chicago	10	1750736	Melbardis, Markus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750736	6-4	Sr	1	0
-2019	14383	371	Loyola Chicago	23	1750740	Narup, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750740	6-7	Sr	7	0
-2019	14383	371	Loyola Chicago	3	1864691	Piekarski, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864691	6-8	Jr	8	0
+2019	14383	371	Loyola Chicago	5	1750734	Mahan, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750734	6-5	Sr	36	0
+2019	14383	371	Loyola Chicago	10	1750736	Melbardis, Markus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750736	6-4	Sr	2	0
+2019	14383	371	Loyola Chicago	23	1750740	Narup, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750740	6-7	Sr	36	0
+2019	14383	371	Loyola Chicago	3	1864691	Piekarski, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864691	6-8	Jr	37	0
 2019	14383	371	Loyola Chicago	23		Piet, Ian		6-1	Fr	0	0
 2019	14383	371	Loyola Chicago	1		Schlothauer, Cole		6-5	Fr	0	0
 2019	14383	371	Loyola Chicago	21		Sutton Farrell, Danny		6-8	Fr	0	0
-2019	14383	371	Loyola Chicago	16	1750738	Tischler, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750738	6-7	Sr	7	0
-2019	14383	371	Loyola Chicago	13	1977854	Zolg, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977854	6-3	So	8	0
+2019	14383	371	Loyola Chicago	16	1750738	Tischler, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750738	6-7	Sr	33	0
+2019	14383	371	Loyola Chicago	13	1977854	Zolg, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1977854	6-3	So	37	0
 2019	14383	30138	McKendree	18		Backhus, Bryce		6-3	Fr	0	0
-2019	14383	30138	McKendree	24	1863118	Carroll, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863118	6-8	So	0	0
+2019	14383	30138	McKendree	24	1863118	Carroll, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863118	6-8	So	6	0
 2019	14383	30138	McKendree	0	1976965	Collazo, Jorge	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976965	5-10	So	0	0
-2019	14383	30138	McKendree	1		Comas, Francisco		5-6	Fr	0	0
-2019	14383	30138	McKendree	6	1863116	Dimke, Wyatt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863116	6-6	So	0	0
+2019	14383	30138	McKendree	1	2110572	Comas, Francisco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110572	5-6	Fr	7	0
+2019	14383	30138	McKendree	6	1863116	Dimke, Wyatt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863116	6-6	So	22	0
 2019	14383	30138	McKendree	2		Duggan, Daniel		6-6	Fr	0	0
-2019	14383	30138	McKendree	5	1976966	Dunn, Brendon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976966	6-4	Fr	0	0
-2019	14383	30138	McKendree	26	1749751	Frank, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749751	6-7	Sr	0	0
-2019	14383	30138	McKendree	12	1863117	Galifos, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863117	6-6	Jr	0	0
-2019	14383	30138	McKendree	13		Gall, Jacob		6-7	Fr	0	0
+2019	14383	30138	McKendree	5	1976966	Dunn, Brendon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976966	6-4	Fr	19	0
+2019	14383	30138	McKendree	26	1749751	Frank, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749751	6-7	Sr	9	0
+2019	14383	30138	McKendree	12	1863117	Galifos, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863117	6-6	Jr	18	0
+2019	14383	30138	McKendree	13	2110584	Gall, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110584	6-7	Fr	0	0
 2019	14383	30138	McKendree	16	1976967	Jackson, Kirk	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976967	6-7	Fr	0	0
 2019	14383	30138	McKendree	3		Kutsch, Kohl		6-5	Fr	0	0
-2019	14383	30138	McKendree	7		McGrath, Tommy		6-7	Fr	0	0
+2019	14383	30138	McKendree	7	1976968	McGrath, Tommy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976968	6-7	Fr	9	0
 2019	14383	30138	McKendree	8		Rodriguez, Matthew		6-2	Fr	0	0
-2019	14383	30138	McKendree	10	1976970	Ross, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976970	6-5	So	0	0
-2019	14383	30138	McKendree	4	1863115	Schnittker, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863115	6-4	Jr	0	0
-2019	14383	30138	McKendree	11	1976971	Serrano, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976971	6-3	Fr	0	0
-2019	14383	30138	McKendree	9	1749756	Thompson, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749756	5-6	Sr	0	0
-2019	14383	1245	Mount Olive	13	1971996	Adebisi, Iyanu	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971996	6-3	So	0	0
-2019	14383	1245	Mount Olive	9		Azeez, Tobi		6-4	Fr	0	0
-2019	14383	1245	Mount Olive	7	1972005	Cristina, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972005	6-5	So	0	0
-2019	14383	1245	Mount Olive	17	1864709	Erkek, Yigit	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864709	6-5	Jr	0	0
-2019	14383	1245	Mount Olive	2		Ferguson, Jarrod		6-6	Fr	0	0
+2019	14383	30138	McKendree	10	1976970	Ross, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976970	6-5	So	22	0
+2019	14383	30138	McKendree	4	1863115	Schnittker, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863115	6-4	Jr	20	0
+2019	14383	30138	McKendree	11	1976971	Serrano, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976971	6-3	Fr	24	0
+2019	14383	30138	McKendree	9	1749756	Thompson, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749756	5-6	Sr	21	0
+2019	14383	1245	Mount Olive	13	1971996	Adebisi, Iyanu	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971996	6-3	So	20	0
+2019	14383	1245	Mount Olive	9	2108750	Azeez, Tobi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108750	6-4	Fr	18	0
+2019	14383	1245	Mount Olive	7	1972005	Cristina, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972005	6-5	So	6	0
+2019	14383	1245	Mount Olive	17	1864709	Erkek, Yigit	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864709	6-5	Jr	6	0
+2019	14383	1245	Mount Olive	2	2108751	Ferguson, Jarrod	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108751	6-6	Fr	22	0
 2019	14383	1245	Mount Olive	6		Gillespie, Tyran		6-3	Fr	0	0
-2019	14383	1245	Mount Olive	16		Laxar, Nicolas		6-1	Fr	0	0
-2019	14383	1245	Mount Olive	15	1769991	Monaghan, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1769991	6-5	Sr	0	0
+2019	14383	1245	Mount Olive	16	2108749	Laxar, Nicolas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108749	6-1	Fr	17	0
+2019	14383	1245	Mount Olive	15	1769991	Monaghan, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1769991	6-5	Sr	24	0
 2019	14383	1245	Mount Olive	4	1864708	Orr, Jesiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864708	6-2	Jr	0	0
-2019	14383	1245	Mount Olive	11	1765748	Roberts, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765748	6-4	Sr	0	0
+2019	14383	1245	Mount Olive	11	1765748	Roberts, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765748	6-4	Sr	27	0
 2019	14383	1245	Mount Olive	23	1971983	Rogers, Jerell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971983	6-5	So	0	0
 2019	14383	1245	Mount Olive	18		Symons, Joshua		6-3	So	0	0
-2019	14383	1245	Mount Olive	3	1972000	Visgitis, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972000	6-5	So	0	0
-2019	14383	1245	Mount Olive	22	1971999	Visgitis, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971999	6-5	So	0	0
-2019	14383	1245	Mount Olive	1	1753911	Yeo, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753911	6-4	Jr	0	0
-2019	14383	471	NJIT	2		Andrews, Will		6-0	Fr	0	0
-2019	14383	471	NJIT	13	1972605	Berger, Luca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972605	6-10	Jr	8	0
-2019	14383	471	NJIT	14	1753056	Brandow, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753056	6-1	Sr	4	0
+2019	14383	1245	Mount Olive	22	1971999	Visgitis, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971999	6-5	So	27	0
+2019	14383	1245	Mount Olive	3	1972000	Visgitis, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972000	6-5	So	23	0
+2019	14383	1245	Mount Olive	1	1753911	Yeo, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753911	6-4	Jr	19	0
+2019	14383	471	NJIT	2	2111246	Andrews, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111246	6-0	Fr	3	0
+2019	14383	471	NJIT	13	1972605	Berger, Luca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972605	6-10	Jr	20	0
+2019	14383	471	NJIT	14	1753056	Brandow, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753056	6-1	Sr	10	0
 2019	14383	471	NJIT	8	1862825	Costantino, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862825	6-3	Jr	0	0
-2019	14383	471	NJIT	18	1862828	Cusenbary, Rex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862828	6-7	So	0	0
-2019	14383	471	NJIT	17		Evans, Derek		6-6	Fr	0	0
-2019	14383	471	NJIT	9	2111249	Feldhus, Jens	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111249	6-3	Fr	8	0
-2019	14383	471	NJIT	11	1976924	Gimeno, Alvaro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976924	6-7	So	8	0
-2019	14383	471	NJIT	3		Heft, Logan		6-5	Fr	0	0
-2019	14383	471	NJIT	7	1753055	Howell, Pat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753055	6-5	Jr	2	0
+2019	14383	471	NJIT	18	1862828	Cusenbary, Rex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862828	6-7	So	8	0
+2019	14383	471	NJIT	17	2111250	Evans, Derek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111250	6-6	Fr	3	0
+2019	14383	471	NJIT	9	2111249	Feldhus, Jens	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111249	6-3	Fr	21	0
+2019	14383	471	NJIT	11	1976924	Gimeno, Alvaro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976924	6-7	So	23	0
+2019	14383	471	NJIT	3	2111247	Heft, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111247	6-5	Fr	3	0
+2019	14383	471	NJIT	7	1753055	Howell, Pat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753055	6-5	Jr	9	0
 2019	14383	471	NJIT	12	1972606	Hresko, Zachary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972606	6-2	So	0	0
-2019	14383	471	NJIT	16		Jackson, Marcus		5-9	So	0	0
-2019	14383	471	NJIT	10		Lui, Parker		5-9	Jr	0	0
-2019	14383	471	NJIT	1	1862826	Namiotko, Piotr	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862826	6-0	Jr	5	0
-2019	14383	471	NJIT	15	2111266	Nido, Roque	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111266	6-4	Fr	6	0
-2019	14383	471	NJIT	4	1753053	Whitaker, Ricardo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753053	6-1	Sr	3	0
-2019	14383	471	NJIT	6	1753054	Wise, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753054	5-9	Sr	8	0
-2019	14383	471	NJIT	5	2111248	de Diego Garcia, Enrique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111248	6-5	Sr	8	0
-2019	14383	9223	North Greenville	10	1976617	Baker, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976617	6-6	So	5	0
-2019	14383	9223	North Greenville	6	1865981	Boldog, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865981	6-2	Jr	5	0
-2019	14383	9223	North Greenville	12	1756509	Campbell, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1756509	6-6	Sr	6	0
-2019	14383	9223	North Greenville	16	2113009	Carrillo, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113009	6-6	Fr	2	0
-2019	14383	9223	North Greenville	17	2113028	Eby, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113028	6-5	Fr	5	0
-2019	14383	9223	North Greenville	7	1976616	Gilbert, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976616	6-6	Jr	6	0
-2019	14383	9223	North Greenville	8		Green, Drayton		6-0	Fr	0	0
-2019	14383	9223	North Greenville	13	1865980	Hamsho, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865980	6-7	Jr	6	0
-2019	14383	9223	North Greenville	3	1976613	Kannee, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976613	6-4	So	0	0
-2019	14383	9223	North Greenville	9	1756506	Lawrence, Grayson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1756506	6-4	Sr	4	0
-2019	14383	9223	North Greenville	11	2113027	McGee, Cade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113027	6-2	Fr	3	0
-2019	14383	9223	North Greenville	18		Peach, Tyler		6-3	Sr	0	0
-2019	14383	9223	North Greenville	2	2112965	Phung, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112965	6-0	Fr	2	0
-2019	14383	9223	North Greenville	1	1976603	Rojba, Arlind	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976603	5-10	So	4	0
+2019	14383	471	NJIT	16	1976945	Jackson, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976945	5-9	So	3	0
+2019	14383	471	NJIT	10	1972626	Lui, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972626	5-9	Jr	7	0
+2019	14383	471	NJIT	1	1862826	Namiotko, Piotr	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862826	6-0	Jr	20	0
+2019	14383	471	NJIT	15	2111266	Nido, Roque	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111266	6-4	Fr	10	0
+2019	14383	471	NJIT	4	1753053	Whitaker, Ricardo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753053	6-1	Sr	15	0
+2019	14383	471	NJIT	6	1753054	Wise, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753054	5-9	Sr	22	0
+2019	14383	471	NJIT	5	2111248	de Diego Garcia, Enrique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111248	6-5	Sr	23	0
+2019	14383	9223	North Greenville	10	1976617	Baker, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976617	6-6	So	38	0
+2019	14383	9223	North Greenville	6	1865981	Boldog, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865981	6-2	Jr	29	0
+2019	14383	9223	North Greenville	12	1756509	Campbell, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1756509	6-6	Sr	37	0
+2019	14383	9223	North Greenville	16	2113009	Carrillo, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113009	6-6	Fr	21	0
+2019	14383	9223	North Greenville	17	2113028	Eby, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113028	6-5	Fr	27	0
+2019	14383	9223	North Greenville	7	1976616	Gilbert, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976616	6-6	Jr	37	0
+2019	14383	9223	North Greenville	8	2113007	Green, Drayton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113007	6-0	Fr	2	0
+2019	14383	9223	North Greenville	13	1865980	Hamsho, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865980	6-7	Jr	38	0
+2019	14383	9223	North Greenville	3	1976613	Kannee, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976613	6-4	So	2	0
+2019	14383	9223	North Greenville	9	1756506	Lawrence, Grayson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1756506	6-4	Sr	28	0
+2019	14383	9223	North Greenville	11	2113027	McGee, Cade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113027	6-2	Fr	22	0
+2019	14383	9223	North Greenville	18	1976618	Peach, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976618	6-3	Sr	2	0
+2019	14383	9223	North Greenville	2	2112965	Phung, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2112965	6-0	Fr	21	0
+2019	14383	9223	North Greenville	1	1976603	Rojba, Arlind	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976603	5-10	So	29	0
 2019	14383	9223	North Greenville	4		Skipper, Joel		5-8	Fr	0	0
-2019	14383	9223	North Greenville	5	2113026	Sturm, Lanakila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113026	6-2	Fr	4	0
-2019	14383	9223	North Greenville	14		Wertz, David		6-1	Fr	0	0
-2019	14383	518	Ohio St.	13	1864628	Alter, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864628	6-4	So	0	0
+2019	14383	9223	North Greenville	5	2113026	Sturm, Lanakila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113026	6-2	Fr	10	0
+2019	14383	9223	North Greenville	14	2113008	Wertz, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113008	6-1	Fr	3	0
+2019	14383	518	Ohio St.	13	1864628	Alter, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864628	6-4	So	5	0
 2019	14383	518	Ohio St.	20		Bruggemann, Jason		6-5	So	0	0
-2019	14383	518	Ohio St.	8	1864631	Devilbiss, Reese	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864631	6-2	Jr	7	0
-2019	14383	518	Ohio St.	21	1964422	Gerwig, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964422	6-5	So	7	0
-2019	14383	518	Ohio St.	16	1864632	Hanes, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864632	6-10	So	7	0
+2019	14383	518	Ohio St.	8	1864631	Devilbiss, Reese	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864631	6-2	Jr	22	0
+2019	14383	518	Ohio St.	21	1964422	Gerwig, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964422	6-5	So	18	0
+2019	14383	518	Ohio St.	16	1864632	Hanes, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864632	6-10	So	25	0
 2019	14383	518	Ohio St.	19	1864633	Henken, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864633	6-3	So	0	0
 2019	14383	518	Ohio St.	18		Herget, Todd		6-3	Fr	0	0
 2019	14383	518	Ohio St.	2	1864635	Hillman, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864635	6-3	Jr	0	0
 2019	14383	518	Ohio St.	7	1864636	Hughes, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864636	6-4	Jr	0	0
-2019	14383	518	Ohio St.	6	1971751	Lallemand, Martin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971751	6-4	So	7	0
-2019	14383	518	Ohio St.	11	1639252	Leeson, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639252	6-7	Sr	7	0
-2019	14383	518	Ohio St.	9	2113771	Lentin, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113771	6-3	Fr	1	0
-2019	14383	518	Ohio St.	4	1971765	Meidel, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971765	6-1	So	2	0
-2019	14383	518	Ohio St.	5	2113755	Mikesch, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113755	5-11	Fr	3	0
-2019	14383	518	Ohio St.	17	1971752	Moothart, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971752	5-10	Jr	1	0
+2019	14383	518	Ohio St.	6	1971751	Lallemand, Martin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971751	6-4	So	34	0
+2019	14383	518	Ohio St.	11	1639252	Leeson, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639252	6-7	Sr	34	0
+2019	14383	518	Ohio St.	9	2113771	Lentin, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113771	6-3	Fr	3	0
+2019	14383	518	Ohio St.	4	1971765	Meidel, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971765	6-1	So	14	0
+2019	14383	518	Ohio St.	5	2113755	Mikesch, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113755	5-11	Fr	22	0
+2019	14383	518	Ohio St.	17	1971752	Moothart, Chase	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971752	5-10	Jr	7	0
 2019	14383	518	Ohio St.	14		Murphy, Robbie		6-5	Fr	0	0
-2019	14383	518	Ohio St.	10		Ryan, Sean		6-5	Fr	0	0
-2019	14383	518	Ohio St.	1	1639253	Samarin, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639253	6-0	Sr	7	0
-2019	14383	518	Ohio St.	22	2113765	Skinner, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113765	6-4	So	2	0
-2019	14383	518	Ohio St.	19	2113757	Stevens, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113757	6-4	Fr	6	0
-2019	14383	518	Ohio St.	15		Talley, Ethan		6-7	Fr	0	0
-2019	14383	518	Ohio St.	3	1749720	Thomas, Sanil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749720	6-0	Sr	7	0
-2019	14383	518	Ohio St.	12	1971767	Wolmering, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971767	6-5	Jr	1	0
+2019	14383	518	Ohio St.	10	2113756	Ryan, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113756	6-5	Fr	9	0
+2019	14383	518	Ohio St.	1	1639253	Samarin, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639253	6-0	Sr	34	0
+2019	14383	518	Ohio St.	22	2113765	Skinner, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113765	6-4	So	18	0
+2019	14383	518	Ohio St.	19	2113757	Stevens, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113757	6-4	Fr	21	0
+2019	14383	518	Ohio St.	15	2113772	Talley, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2113772	6-7	Fr	15	0
+2019	14383	518	Ohio St.	3	1749720	Thomas, Sanil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749720	6-0	Sr	25	0
+2019	14383	518	Ohio St.	12	1971767	Wolmering, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971767	6-5	Jr	4	0
 2019	14383	24361	P.R.-Mayaguez	20	1765890	Escobar, J.H.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765890	-	Jr	0	0
 2019	14383	24361	P.R.-Mayaguez	12	1765886	Guntin, R.B.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765886	-	Jr	0	0
 2019	14383	24361	P.R.-Mayaguez	7	1765884	Maria, M.G.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765884	-	Jr	0	0
@@ -510,33 +516,33 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2019	14383	24361	P.R.-Mayaguez	17	1765889	Valentin, R.R.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765889	-	Jr	0	0
 2019	14383	24361	P.R.-Mayaguez	4	1765883	Vila, Y.A.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1765883	-	Jr	0	0
 2019	14383	24361	P.R.-Mayaguez	3	1670909	Vila, Yibran	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1670909	-	Sr	0	0
-2019	14383	539	Penn St.	20	1976230	Bantle, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976230	6-5	Fr	4	0
+2019	14383	539	Penn St.	20	1976230	Bantle, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976230	6-5	Fr	28	0
 2019	14383	539	Penn St.	11		Bartus, Cameron		6-10	So	0	0
-2019	14383	539	Penn St.	6	2109867	Bogner, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109867	6-3	Fr	3	0
-2019	14383	539	Penn St.	4	1753081	Braswell, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753081	6-4	Jr	4	0
-2019	14383	539	Penn St.	8	1753082	Donorovich, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753082	6-9	Jr	4	0
-2019	14383	539	Penn St.	19	2109878	Fisher, Cal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109878	6-3	Fr	3	0
+2019	14383	539	Penn St.	6	2109867	Bogner, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109867	6-3	Fr	25	0
+2019	14383	539	Penn St.	4	1753081	Braswell, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753081	6-4	Jr	8	0
+2019	14383	539	Penn St.	8	1753082	Donorovich, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753082	6-9	Jr	28	0
+2019	14383	539	Penn St.	19	2109878	Fisher, Cal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109878	6-3	Fr	28	0
 2019	14383	539	Penn St.	2		Goedken, Jack		6-4	Fr	0	0
-2019	14383	539	Penn St.	17	1976228	Lauten, Henrik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976228	6-5	Jr	1	0
+2019	14383	539	Penn St.	17	1976228	Lauten, Henrik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976228	6-5	Jr	25	0
 2019	14383	539	Penn St.	18	1976229	Mackiewicz, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976229	6-8	So	0	0
-2019	14383	539	Penn St.	14		Marsh, Sam		6-6	Fr	0	0
-2019	14383	539	Penn St.	13	1640331	McLaren, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640331	6-4	Sr	4	0
-2019	14383	539	Penn St.	3	1753083	Melvin, Frank	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753083	6-5	Jr	0	0
-2019	14383	539	Penn St.	16	1753084	Mende, Calvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753084	6-11	Jr	4	0
-2019	14383	539	Penn St.	10		Payne, Henry		6-4	Fr	0	0
-2019	14383	539	Penn St.	1	1863339	Pierce, Declan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863339	5-10	So	0	0
-2019	14383	539	Penn St.	5	1863340	Smith, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863340	6-5	Jr	0	0
-2019	14383	539	Penn St.	9	1640332	Smith, Lee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640332	6-6	Sr	3	0
-2019	14383	539	Penn St.	15	2109889	Tuman, Canyon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109889	6-6	Fr	4	0
+2019	14383	539	Penn St.	14	2109888	Marsh, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109888	6-6	Fr	13	0
+2019	14383	539	Penn St.	13	1640331	McLaren, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640331	6-4	Sr	25	0
+2019	14383	539	Penn St.	3	1753083	Melvin, Frank	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753083	6-5	Jr	1	0
+2019	14383	539	Penn St.	16	1753084	Mende, Calvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753084	6-11	Jr	8	0
+2019	14383	539	Penn St.	10	1976226	Payne, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976226	6-4	Fr	5	0
+2019	14383	539	Penn St.	1	1863339	Pierce, Declan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863339	5-10	So	1	0
+2019	14383	539	Penn St.	5	1863340	Smith, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863340	6-5	Jr	7	0
+2019	14383	539	Penn St.	9	1640332	Smith, Lee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640332	6-6	Sr	7	0
+2019	14383	539	Penn St.	15	2109889	Tuman, Canyon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109889	6-6	Fr	17	0
 2019	14383	539	Penn St.	7	1863341	Wilden, Bobby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863341	6-8	So	0	0
-2019	14383	539	Penn St.	12	2109887	Wildman, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109887	6-5	Fr	4	0
+2019	14383	539	Penn St.	12	2109887	Wildman, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2109887	6-5	Fr	28	0
 2019	14383	541	Pepperdine	24		Ardell, JT		6-9	Fr	0	0
-2019	14383	541	Pepperdine	9	1637538	Carr, Clay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637538	6-6	Sr	0	0
-2019	14383	541	Pepperdine	13	1749449	Chamberlain, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749449	6-6	Sr	7	0
-2019	14383	541	Pepperdine	6	2110047	Chandler, Brendin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110047	6-3	Fr	7	0
+2019	14383	541	Pepperdine	9	1637538	Carr, Clay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637538	6-6	Sr	14	0
+2019	14383	541	Pepperdine	13	1749449	Chamberlain, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749449	6-6	Sr	33	0
+2019	14383	541	Pepperdine	6	2110047	Chandler, Brendin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110047	6-3	Fr	10	0
 2019	14383	541	Pepperdine	3	1749444	Cole, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749444	6-6	So	1	0
-2019	14383	541	Pepperdine	10	1749448	Denmark, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749448	6-4	Sr	7	0
-2019	14383	541	Pepperdine	5	1862081	Dyer, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862081	6-5	Jr	7	0
+2019	14383	541	Pepperdine	10	1749448	Denmark, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749448	6-4	Sr	33	0
+2019	14383	541	Pepperdine	5	1862081	Dyer, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862081	6-5	Jr	33	0
 2019	14383	541	Pepperdine	14	1961007	Gettinger, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1961007	6-4	So	0	0
 2019	14383	541	Pepperdine	20		Grafton, Luke		6-0	Fr	0	0
 2019	14383	541	Pepperdine	16	1972429	Hancock, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972429	6-3	Fr	0	0
@@ -544,247 +550,251 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2019	14383	541	Pepperdine	15	1961029	Magorien, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1961029	6-5	Fr	0	0
 2019	14383	541	Pepperdine	11		Martin, JT		6-6	Fr	0	0
 2019	14383	541	Pepperdine	2		Minsberg, Jon		6-2	Fr	0	0
-2019	14383	541	Pepperdine	18	1862083	Mullahey, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862083	6-4	So	5	0
+2019	14383	541	Pepperdine	18	1862083	Mullahey, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862083	6-4	So	31	0
 2019	14383	541	Pepperdine	8	1961028	Norvid, Zac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1961028	6-1	Fr	0	0
 2019	14383	541	Pepperdine	21	1749452	Sharp, Nolan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749452	5-10	Sr	0	0
 2019	14383	541	Pepperdine	12		Steele, Jacob		6-8	Fr	0	0
 2019	14383	541	Pepperdine	17		Tyler, Mason		6-7	Fr	0	0
-2019	14383	541	Pepperdine	22	1751048	Vaz, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1751048	6-6	Sr	7	0
-2019	14383	541	Pepperdine	4		Weinberg, Ben		6-4	Fr	0	0
-2019	14383	541	Pepperdine	1	1749443	Wexter, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749443	6-6	Sr	7	0
-2019	14383	541	Pepperdine	7	1961027	Wickens, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1961027	6-0	So	4	0
-2019	14383	541	Pepperdine	19	1637539	Wieczorek, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637539	6-8	Sr	7	0
-2019	14383	554	Princeton	1	1640996	Andrew, Billy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640996	6-7	Sr	0	0
+2019	14383	541	Pepperdine	22	1751048	Vaz, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1751048	6-6	Sr	27	0
+2019	14383	541	Pepperdine	4	2110046	Weinberg, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2110046	6-4	Fr	3	0
+2019	14383	541	Pepperdine	1	1749443	Wexter, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749443	6-6	Sr	33	0
+2019	14383	541	Pepperdine	7	1961027	Wickens, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1961027	6-0	So	20	0
+2019	14383	541	Pepperdine	19	1637539	Wieczorek, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637539	6-8	Sr	33	0
+2019	14383	554	Princeton	1	1640996	Andrew, Billy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640996	6-7	Sr	10	0
 2019	14383	554	Princeton	11	1971734	Chen, Andy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971734	5-11	So	0	0
-2019	14383	554	Princeton	4	2111306	Delingat, Attila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111306	6-9	Fr	10	0
-2019	14383	554	Princeton	22	1864744	Dixon, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864744	6-6	Jr	13	0
+2019	14383	554	Princeton	4	2111306	Delingat, Attila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111306	6-9	Fr	15	0
+2019	14383	554	Princeton	22	1864744	Dixon, Parker	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864744	6-6	Jr	31	0
 2019	14383	554	Princeton	16		Fernandez, Rodrigo		6-6	Fr	0	0
 2019	14383	554	Princeton	21	1971736	Gjaja, Niko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971736	6-3	So	4	0
 2019	14383	554	Princeton	12	1864743	Gooding, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864743	6-4	Jr	0	0
-2019	14383	554	Princeton	3	1864741	Huhmann, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864741	6-11	Jr	13	0
-2019	14383	554	Princeton	7	1971709	Hunt, Jess	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971709	6-5	So	5	0
+2019	14383	554	Princeton	3	1864741	Huhmann, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864741	6-11	Jr	32	0
+2019	14383	554	Princeton	7	1971709	Hunt, Jess	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971709	6-5	So	10	0
 2019	14383	554	Princeton	10		Joseph, Orlson		6-3	Fr	0	0
-2019	14383	554	Princeton	20	1971735	Keegan, Cade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971735	5-8	So	3	0
-2019	14383	554	Princeton	14	1971710	Kelly, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971710	6-2	So	13	0
-2019	14383	554	Princeton	9	1864742	Luck, Greg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864742	6-5	Jr	13	0
-2019	14383	554	Princeton	17	2111309	Nelsen, Jerod	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111309	6-7	Fr	11	0
+2019	14383	554	Princeton	20	1971735	Keegan, Cade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971735	5-8	So	4	0
+2019	14383	554	Princeton	14	1971710	Kelly, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971710	6-2	So	31	0
+2019	14383	554	Princeton	9	1864742	Luck, Greg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864742	6-5	Jr	32	0
+2019	14383	554	Princeton	17	2111309	Nelsen, Jerod	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111309	6-7	Fr	23	0
 2019	14383	554	Princeton	5	1751056	Nicholas, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1751056	6-6	Sr	0	0
-2019	14383	554	Princeton	6	1640997	Ratter, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640997	6-4	Sr	0	0
-2019	14383	554	Princeton	24	1751059	Short, Corry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1751059	6-4	Sr	8	0
-2019	14383	554	Princeton	8	2111284	Thompson, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111284	6-7	Fr	6	0
-2019	14383	554	Princeton	2	2111305	Wedbush, Brady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111305	6-7	Fr	9	0
-2019	14383	308	Purdue Fort Wayne	6	1964451	Bontrager, Kade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964451	6-0	So	4	0
-2019	14383	308	Purdue Fort Wayne	11	1750337	Dickmann, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750337	6-4	Sr	0	0
-2019	14383	308	Purdue Fort Wayne	8	1862791	Diedrich, Richie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862791	6-9	Jr	6	0
-2019	14383	308	Purdue Fort Wayne	7	1981515	Gago, Tomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981515	6-8	So	6	0
-2019	14383	308	Purdue Fort Wayne	19		Geldmeier, Patrick		6-8	Fr	0	0
-2019	14383	308	Purdue Fort Wayne	3	2108827	Gooch, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108827	6-0	Fr	1	0
-2019	14383	308	Purdue Fort Wayne	1	1750340	Hansen, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750340	6-2	Sr	0	0
-2019	14383	308	Purdue Fort Wayne	12		Johnson, Cody		6-7	Fr	0	0
-2019	14383	308	Purdue Fort Wayne	4	1750341	Keegan, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750341	6-3	Sr	6	0
-2019	14383	308	Purdue Fort Wayne	15	1753360	Knorr, Kolbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753360	6-1	Sr	6	0
+2019	14383	554	Princeton	6	1640997	Ratter, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640997	6-4	Sr	12	0
+2019	14383	554	Princeton	24	1751059	Short, Corry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1751059	6-4	Sr	17	0
+2019	14383	554	Princeton	8	2111284	Thompson, Nate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111284	6-7	Fr	7	0
+2019	14383	554	Princeton	2	2111305	Wedbush, Brady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111305	6-7	Fr	19	0
+2019	14383	308	Purdue Fort Wayne	6	1964451	Bontrager, Kade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964451	6-0	So	29	0
+2019	14383	308	Purdue Fort Wayne	11	1750337	Dickmann, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750337	6-4	Sr	6	0
+2019	14383	308	Purdue Fort Wayne	8	1862791	Diedrich, Richie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862791	6-9	Jr	33	0
+2019	14383	308	Purdue Fort Wayne	7	1981515	Gago, Tomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981515	6-8	So	34	0
+2019	14383	308	Purdue Fort Wayne	19	2108831	Geldmeier, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108831	6-8	Fr	2	0
+2019	14383	308	Purdue Fort Wayne	3	2108827	Gooch, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108827	6-0	Fr	14	0
+2019	14383	308	Purdue Fort Wayne	1	1750340	Hansen, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750340	6-2	Sr	4	0
+2019	14383	308	Purdue Fort Wayne	12	2108829	Johnson, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108829	6-7	Fr	4	0
+2019	14383	308	Purdue Fort Wayne	4	1750341	Keegan, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750341	6-3	Sr	33	0
+2019	14383	308	Purdue Fort Wayne	15	1753360	Knorr, Kolbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753360	6-1	Sr	34	0
 2019	14383	308	Purdue Fort Wayne	20		Mailloux, Jacob		6-6	Fr	0	0
-2019	14383	308	Purdue Fort Wayne	13	1750342	Neace, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750342	6-5	Sr	5	0
-2019	14383	308	Purdue Fort Wayne	2	1639071	Price, Tony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639071	6-4	Sr	6	0
-2019	14383	308	Purdue Fort Wayne	16	1964457	Santos, Frederico	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964457	6-3	So	0	0
-2019	14383	308	Purdue Fort Wayne	5	1639073	Stone, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639073	6-5	Sr	6	0
+2019	14383	308	Purdue Fort Wayne	13	1750342	Neace, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750342	6-5	Sr	27	0
+2019	14383	308	Purdue Fort Wayne	2	1639071	Price, Tony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639071	6-4	Sr	31	0
+2019	14383	308	Purdue Fort Wayne	16	1964457	Santos, Frederico	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1964457	6-3	So	11	0
+2019	14383	308	Purdue Fort Wayne	5	1639073	Stone, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1639073	6-5	Sr	34	0
 2019	14383	308	Purdue Fort Wayne	17		Trznadel, Shawn		6-1	Fr	0	0
-2019	14383	308	Purdue Fort Wayne	14	1862792	Vargas, Pelegrin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862792	6-4	Jr	6	0
+2019	14383	308	Purdue Fort Wayne	14	1862792	Vargas, Pelegrin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862792	6-4	Jr	35	0
 2019	14383	11504	Queens (NC)	18		Bayner, Austin		6-3	Fr	0	0
 2019	14383	11504	Queens (NC)	32	1971809	Bethel, Donovan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971809	6-5	So	0	0
-2019	14383	11504	Queens (NC)	3	1981338	Bragg, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981338	6-4	So	2	0
-2019	14383	11504	Queens (NC)	8	1971813	Cavallaro, Nic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971813	6-3	So	3	0
-2019	14383	11504	Queens (NC)	2	1864669	Esquivel, Gregory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864669	6-1	Jr	0	0
-2019	14383	11504	Queens (NC)	17	1971782	Ford, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971782	6-4	So	0	0
-2019	14383	11504	Queens (NC)	6		Frye, Caden		6-2	Fr	0	0
-2019	14383	11504	Queens (NC)	11	1971818	Gray, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971818	5-11	Jr	1	0
-2019	14383	11504	Queens (NC)	4	1971810	Greenstein, Ruben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971810	5-7	So	3	0
-2019	14383	11504	Queens (NC)	13	2108570	Haigh, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108570	6-3	Fr	2	0
-2019	14383	11504	Queens (NC)	24	1971783	Mitchner, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971783	6-3	So	1	0
-2019	14383	11504	Queens (NC)	10	1971815	Nagaki, Conner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971815	5-7	So	0	0
-2019	14383	11504	Queens (NC)	9	1971814	Nix, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971814	6-6	So	3	0
-2019	14383	11504	Queens (NC)	14	1981307	Payne, JP	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981307	6-4	So	3	0
-2019	14383	11504	Queens (NC)	12	1976297	Perisic, Aleksandar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976297	6-8	So	0	0
+2019	14383	11504	Queens (NC)	3	1981338	Bragg, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981338	6-4	So	25	0
+2019	14383	11504	Queens (NC)	8	1971813	Cavallaro, Nic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971813	6-3	So	29	0
+2019	14383	11504	Queens (NC)	2	1864669	Esquivel, Gregory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864669	6-1	Jr	3	0
+2019	14383	11504	Queens (NC)	17	1971782	Ford, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971782	6-4	So	2	0
+2019	14383	11504	Queens (NC)	6	2108560	Frye, Caden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108560	6-2	Fr	5	0
+2019	14383	11504	Queens (NC)	11	1971818	Gray, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971818	5-11	Jr	21	0
+2019	14383	11504	Queens (NC)	4	1971810	Greenstein, Ruben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971810	5-7	So	28	0
+2019	14383	11504	Queens (NC)	13	2108570	Haigh, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108570	6-3	Fr	10	0
+2019	14383	11504	Queens (NC)	24	1971783	Mitchner, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971783	6-3	So	7	0
+2019	14383	11504	Queens (NC)	10	1971815	Nagaki, Conner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971815	5-7	So	5	0
+2019	14383	11504	Queens (NC)	9	1971814	Nix, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971814	6-6	So	29	0
+2019	14383	11504	Queens (NC)	14	1981307	Payne, JP	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981307	6-4	So	25	0
+2019	14383	11504	Queens (NC)	12	1976297	Perisic, Aleksandar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976297	6-8	So	8	0
 2019	14383	11504	Queens (NC)	26		Pfeiffer, Anthony		6-5	Fr	0	0
-2019	14383	11504	Queens (NC)	22	1971817	Santoyo, Tristan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971817	6-3	So	3	0
-2019	14383	11504	Queens (NC)	5	1641959	Schinzing, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1641959	6-2	Sr	2	0
+2019	14383	11504	Queens (NC)	22	1971817	Santoyo, Tristan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971817	6-3	So	29	0
+2019	14383	11504	Queens (NC)	5	1641959	Schinzing, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1641959	6-2	Sr	26	0
 2019	14383	11504	Queens (NC)	23		Spencer, Seamus		6-2	Fr	0	0
-2019	14383	11504	Queens (NC)	7	1971812	Vecellio, Marco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971812	6-5	Sr	1	0
+2019	14383	11504	Queens (NC)	7	1971812	Vecellio, Marco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971812	6-5	Sr	5	0
 2019	14383	561	Quincy	11		Bell, Ethan		6-4	Fr	0	0
-2019	14383	561	Quincy	6		Bresser, Stevie		6-5	Fr	0	0
-2019	14383	561	Quincy	7		Cha, Timothy		6-0	So	0	0
+2019	14383	561	Quincy	6	2116154	Bresser, Stevie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116154	6-5	Fr	30	0
 2019	14383	561	Quincy	14		Coleman, Cooper		6-11	Fr	0	0
-2019	14383	561	Quincy	2	1989648	Estrada, Brendon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1989648	6-2	So	0	0
-2019	14383	561	Quincy	1		Hannoun, Noam		5-11	Fr	0	0
-2019	14383	561	Quincy	10	1984565	Martin, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1984565	5-10	So	0	0
+2019	14383	561	Quincy	2	1989648	Estrada, Brendon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1989648	6-2	So	17	0
+2019	14383	561	Quincy	7	1981308	Friddle, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981308	6-4	So	24	0
+2019	14383	561	Quincy	1	2116152	Hannoun, Noam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116152	5-11	Fr	32	0
+2019	14383	561	Quincy	10	1984565	Martin, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1984565	5-10	So	7	0
 2019	14383	561	Quincy	26	1867181	McAdams, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1867181	6-10	Sr	0	0
 2019	14383	561	Quincy	21	1986005	Meyer, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1986005	6-7	So	0	0
 2019	14383	561	Quincy	9		Muhlenbeck, Drake		6-0	So	0	0
-2019	14383	561	Quincy	22		Rachilla, Ben		6-6	Fr	0	0
+2019	14383	561	Quincy	22	2116155	Rachilla, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116155	6-6	Fr	23	0
 2019	14383	561	Quincy	13	1753363	Randall, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753363	6-1	Sr	0	0
-2019	14383	561	Quincy	23	1981516	Reider, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981516	6-6	So	0	0
-2019	14383	561	Quincy	4		Robson, Thomas		5-10	Fr	0	0
-2019	14383	561	Quincy	12	1753362	Rogan, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753362	6-4	Sr	0	0
-2019	14383	561	Quincy	15	1670912	Sheets, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1670912	6-7	Sr	0	0
-2019	14383	561	Quincy	16	1867185	Sprecher, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1867185	6-8	Jr	0	0
-2019	14383	561	Quincy	18	1867180	Wheeler, Omari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1867180	6-4	Jr	0	0
+2019	14383	561	Quincy	23	1981516	Reider, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1981516	6-6	So	17	0
+2019	14383	561	Quincy	4	2116153	Robson, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2116153	5-10	Fr	16	0
+2019	14383	561	Quincy	12	1753362	Rogan, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753362	6-4	Sr	10	0
+2019	14383	561	Quincy	15	1670912	Sheets, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1670912	6-7	Sr	24	0
+2019	14383	561	Quincy	16	1867185	Sprecher, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1867185	6-8	Jr	30	0
+2019	14383	561	Quincy	18	1867180	Wheeler, Omari	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1867180	6-4	Jr	29	0
 2019	14383	590	Sacred Heart	4	1873843	Balaguer, Ramiro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1873843	6-1	Jr	0	0
+2019	14383	590	Sacred Heart	12	1653415	Bloomquist, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1653415	6-8	Sr	18	0
 2019	14383	590	Sacred Heart	11		Butler, Calin		6-2	Jr	0	0
-2019	14383	590	Sacred Heart	15	1863150	Chatterton, Rob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863150	6-6	Jr	0	0
-2019	14383	590	Sacred Heart	1	1752271	Cox, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752271	5-10	Sr	0	0
-2019	14383	590	Sacred Heart	5	1979212	Kakos, Zak	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979212	5-8	So	0	0
-2019	14383	590	Sacred Heart	25	1979198	Karlsson, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979198	6-3	So	0	0
-2019	14383	590	Sacred Heart	10	1865241	Mahony, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865241	6-4	Jr	0	0
-2019	14383	590	Sacred Heart	8	1752272	McLaughlin, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752272	6-5	Sr	0	0
-2019	14383	590	Sacred Heart	17		Palluzzi, Nicholas		6-5	So	0	0
-2019	14383	590	Sacred Heart	21	1979193	Panicali, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979193	6-1	So	0	0
-2019	14383	590	Sacred Heart	18	1752273	Ricchetti, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752273	6-4	Sr	0	0
-2019	14383	590	Sacred Heart	23	1979194	Tischler, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979194	6-6	So	0	0
-2019	14383	590	Sacred Heart	19	1865244	Waumans, Emerson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865244	6-7	Sr	0	0
-2019	14383	590	Sacred Heart	14	1752274	Wisniewski, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752274	6-2	Sr	0	0
-2019	14383	600	Saint Francis (PA)	15	1976930	Alu, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976930	6-0	So	0	0
-2019	14383	600	Saint Francis (PA)	20	1976947	Blair, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976947	6-5	So	0	0
-2019	14383	600	Saint Francis (PA)	1	1749418	Blair, B.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749418	6-4	Jr	0	0
-2019	14383	600	Saint Francis (PA)	9	1749419	Bryan, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749419	6-5	Jr	0	0
-2019	14383	600	Saint Francis (PA)	27	1865082	Carr, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865082	6-9	So	0	0
-2019	14383	600	Saint Francis (PA)	16	1749420	Carver, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749420	6-7	Sr	0	0
+2019	14383	590	Sacred Heart	15	1863150	Chatterton, Rob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863150	6-6	Jr	22	0
+2019	14383	590	Sacred Heart	1	1752271	Cox, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752271	5-10	Sr	10	0
+2019	14383	590	Sacred Heart	5	1979212	Kakos, Zak	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979212	5-8	So	15	0
+2019	14383	590	Sacred Heart	25	1979198	Karlsson, Jakob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979198	6-3	So	16	0
+2019	14383	590	Sacred Heart	10	1865241	Mahony, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865241	6-4	Jr	3	0
+2019	14383	590	Sacred Heart	6	2119419	McIntosh, Timothy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119419	6-0	Jr	13	0
+2019	14383	590	Sacred Heart	8	1752272	McLaughlin, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752272	6-5	Sr	8	0
+2019	14383	590	Sacred Heart	17	1979213	Palluzzi, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979213	6-5	So	2	0
+2019	14383	590	Sacred Heart	22	2119469	Peterson, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2119469	6-5	Fr	3	0
+2019	14383	590	Sacred Heart	13		Peterson, Aaron		6-6	Fr	0	0
+2019	14383	590	Sacred Heart	18	1752273	Ricchetti, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752273	6-4	Sr	21	0
+2019	14383	590	Sacred Heart	20		Samin, Paulo		6-0	Fr	0	0
+2019	14383	590	Sacred Heart	23	1979194	Tischler, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1979194	6-6	So	16	0
+2019	14383	590	Sacred Heart	19	1865244	Waumans, Emerson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865244	6-7	Sr	21	0
+2019	14383	590	Sacred Heart	14	1752274	Wisniewski, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1752274	6-2	Sr	16	0
+2019	14383	600	Saint Francis (PA)	15	1976930	Alu, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976930	6-0	So	4	0
+2019	14383	600	Saint Francis (PA)	1	1749418	Blair, B.J.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749418	6-4	Jr	30	0
+2019	14383	600	Saint Francis (PA)	20	1976947	Blair, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976947	6-5	So	3	0
+2019	14383	600	Saint Francis (PA)	9	1749419	Bryan, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749419	6-5	Jr	28	0
+2019	14383	600	Saint Francis (PA)	27	1865082	Carr, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865082	6-9	So	2	0
+2019	14383	600	Saint Francis (PA)	16	1749420	Carver, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749420	6-7	Sr	29	0
 2019	14383	600	Saint Francis (PA)	24		Edwards, Cross		6-3	Fr	0	0
 2019	14383	600	Saint Francis (PA)	24		Edwards, Cross		-	Fr	0	0
-2019	14383	600	Saint Francis (PA)	11	1749421	Feltz, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749421	6-3	Sr	0	0
-2019	14383	600	Saint Francis (PA)	7	1865080	Fisher, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865080	6-5	Jr	0	0
-2019	14383	600	Saint Francis (PA)	3		Fry, Daniel		6-2	Fr	0	0
-2019	14383	600	Saint Francis (PA)	23	1749422	Graziano, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749422	6-3	Jr	0	0
-2019	14383	600	Saint Francis (PA)	2		Griego, Christian		-	Fr	0	0
-2019	14383	600	Saint Francis (PA)	21	1749423	Herc, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749423	6-5	Sr	0	0
-2019	14383	600	Saint Francis (PA)	6	1865079	Najm, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865079	6-6	So	0	0
+2019	14383	600	Saint Francis (PA)	11	1749421	Feltz, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749421	6-3	Sr	20	0
+2019	14383	600	Saint Francis (PA)	7	1865080	Fisher, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865080	6-5	Jr	27	0
+2019	14383	600	Saint Francis (PA)	3	2111296	Fry, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111296	6-2	Fr	6	0
+2019	14383	600	Saint Francis (PA)	23	1749422	Graziano, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749422	6-3	Jr	3	0
+2019	14383	600	Saint Francis (PA)	2	2111293	Griego, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111293	-	Fr	1	0
+2019	14383	600	Saint Francis (PA)	21	1749423	Herc, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749423	6-5	Sr	28	0
+2019	14383	600	Saint Francis (PA)	6	1865079	Najm, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1865079	6-6	So	3	0
 2019	14383	600	Saint Francis (PA)	18		Rumbaugh, Tyler		-	Fr	0	0
-2019	14383	600	Saint Francis (PA)	22	1749426	Sangrey, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749426	5-10	Sr	0	0
+2019	14383	600	Saint Francis (PA)	22	1749426	Sangrey, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749426	5-10	Sr	28	0
 2019	14383	600	Saint Francis (PA)	8		Schmidt, AJ		6-5	Fr	0	0
 2019	14383	600	Saint Francis (PA)	10	1976929	Szwabinsky, Roman	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976929	6-8	So	0	0
-2019	14383	600	Saint Francis (PA)	4	1749427	Thompson, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749427	6-3	Sr	0	0
-2019	14383	600	Saint Francis (PA)	14	1749428	Woffindin, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749428	6-3	Jr	0	0
-2019	14383	657	Southern California	1		Browning, Brandon		6-4	Fr	0	0
-2019	14383	657	Southern California	12		Carracher, Izac		6-6	Fr	0	0
+2019	14383	600	Saint Francis (PA)	4	1749427	Thompson, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749427	6-3	Sr	27	0
+2019	14383	600	Saint Francis (PA)	14	1749428	Woffindin, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749428	6-3	Jr	28	0
+2019	14383	657	Southern California	1	2108585	Browning, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108585	6-4	Fr	9	0
+2019	14383	657	Southern California	12	2108587	Carracher, Izac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108587	6-6	Fr	7	0
 2019	14383	657	Southern California	4		Chang, Michael		5-8	So	0	0
 2019	14383	657	Southern California	15	1963573	Dickinson, Clay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963573	6-7	So	0	0
-2019	14383	657	Southern California	5	1749387	Douglas, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749387	5-10	Sr	0	0
-2019	14383	657	Southern California	8	1862719	Faraimo, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862719	6-3	So	0	0
+2019	14383	657	Southern California	5	1749387	Douglas, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749387	5-10	Sr	33	0
+2019	14383	657	Southern California	8	1862719	Faraimo, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862719	6-3	So	10	0
 2019	14383	657	Southern California	11		Fauntleroy, Billy		6-7	So	0	0
 2019	14383	657	Southern California	14	1963572	Franklin, Noah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963572	6-7	So	0	0
-2019	14383	657	Southern California	13	1963555	Gear, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963555	6-6	So	0	0
-2019	14383	657	Southern California	9	1874187	Grasso, Gianluca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1874187	6-2	Sr	0	0
-2019	14383	657	Southern California	6	1963553	Hall, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963553	6-2	So	0	0
-2019	14383	657	Southern California	7		Lewin, Vecas		6-7	Jr	0	0
-2019	14383	657	Southern California	23	1963575	Lewis, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963575	6-10	So	0	0
-2019	14383	657	Southern California	10		McKibbin, Jameson		6-3	Fr	0	0
-2019	14383	657	Southern California	24	1749386	Moss, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749386	6-8	Sr	0	0
+2019	14383	657	Southern California	13	1963555	Gear, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963555	6-6	So	27	0
+2019	14383	657	Southern California	9	1874187	Grasso, Gianluca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1874187	6-2	Sr	31	0
+2019	14383	657	Southern California	6	1963553	Hall, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963553	6-2	So	29	0
+2019	14383	657	Southern California	21	2108576	Lewin, Vecas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108576	6-7	Jr	13	0
+2019	14383	657	Southern California	23	1963575	Lewis, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963575	6-10	So	22	0
+2019	14383	657	Southern California	10	2108586	McKibbin, Jameson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108586	6-3	Fr	13	0
+2019	14383	657	Southern California	24	1749386	Moss, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749386	6-8	Sr	36	0
 2019	14383	657	Southern California	2		O'Toole, Michael		6-6	Fr	0	0
-2019	14383	657	Southern California	3	1963552	Paxson, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963552	5-11	So	0	0
-2019	14383	657	Southern California	16		Resnick, Tyler		6-8	Jr	0	0
+2019	14383	657	Southern California	3	1963552	Paxson, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963552	5-11	So	4	0
+2019	14383	657	Southern California	16	1749390	Resnick, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749390	6-8	Jr	28	0
 2019	14383	657	Southern California	19		Schroeder, Liam		6-8	Fr	0	0
-2019	14383	657	Southern California	20	1963576	Wyett, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963576	6-4	Sr	0	0
-2019	14383	674	Stanford	4	1863564	Beatty, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863564	6-7	Jr	5	0
-2019	14383	674	Stanford	3	1863563	Bischoff, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863563	6-5	Jr	5	0
-2019	14383	674	Stanford	1	1637648	Dagostino, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637648	5-9	Sr	6	0
-2019	14383	674	Stanford	6	1749773	Dervay, Russell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749773	6-1	Sr	4	0
-2019	14383	674	Stanford	12	1749775	Ewert, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749775	6-4	Sr	6	0
-2019	14383	674	Stanford	8	1971908	Henken, Leo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971908	6-5	So	0	0
-2019	14383	674	Stanford	23	1971937	Jasper, Jaylen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971937	6-7	So	6	0
+2019	14383	657	Southern California	20	1963576	Wyett, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963576	6-4	Sr	34	0
+2019	14383	674	Stanford	4	1863564	Beatty, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863564	6-7	Jr	20	0
+2019	14383	674	Stanford	3	1863563	Bischoff, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863563	6-5	Jr	33	0
+2019	14383	674	Stanford	1	1637648	Dagostino, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1637648	5-9	Sr	34	0
+2019	14383	674	Stanford	6	1749773	Dervay, Russell	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749773	6-1	Sr	5	0
+2019	14383	674	Stanford	12	1749775	Ewert, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749775	6-4	Sr	34	0
+2019	14383	674	Stanford	8	1971908	Henken, Leo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971908	6-5	So	13	0
+2019	14383	674	Stanford	23	1971937	Jasper, Jaylen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971937	6-7	So	34	0
 2019	14383	674	Stanford	2		Lui, Justin		5-10	Fr	0	0
 2019	14383	674	Stanford	11	1749774	Moore, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749774	6-5	Sr	1	0
-2019	14383	674	Stanford	9	1863566	Moye, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863566	6-9	Jr	5	0
+2019	14383	674	Stanford	9	1863566	Moye, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863566	6-9	Jr	33	0
 2019	14383	674	Stanford	20	1971909	Paullin, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971909	6-6	So	2	0
-2019	14383	674	Stanford	14	1971936	Presho, Kyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971936	6-8	So	6	0
-2019	14383	674	Stanford	5	1971935	Reilly, JP	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971935	6-4	So	0	0
+2019	14383	674	Stanford	14	1971936	Presho, Kyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971936	6-8	So	34	0
+2019	14383	674	Stanford	5	1971935	Reilly, JP	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1971935	6-4	So	1	0
 2019	14383	674	Stanford	19	1863568	Thoenen, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863568	6-6	Jr	0	0
-2019	14383	674	Stanford	7	1863565	Tufuga, Mason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863565	6-5	Jr	4	0
+2019	14383	674	Stanford	7	1863565	Tufuga, Mason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863565	6-5	Jr	13	0
 2019	14383	674	Stanford	17	1863567	Wopat, Eli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863567	6-5	Jr	2	0
-2019	14383	109	UC Irvine	16	1753667	Apfelbach, Karl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753667	6-8	Sr	12	0
-2019	14383	109	UC Irvine	5	2111286	Bowles, Jonny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111286	6-7	Fr	12	0
+2019	14383	109	UC Irvine	16	1753667	Apfelbach, Karl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753667	6-8	Sr	50	0
+2019	14383	109	UC Irvine	5	2111286	Bowles, Jonny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111286	6-7	Fr	47	0
 2019	14383	109	UC Irvine	22		Castro, Andre		6-0	Jr	0	0
 2019	14383	109	UC Irvine	15		Cavanah, Mac		6-11	Fr	0	0
-2019	14383	109	UC Irvine	2	1753668	Chakravorti, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753668	6-4	Sr	12	0
-2019	14383	109	UC Irvine	14		Dennis, Sean		6-11	So	0	0
+2019	14383	109	UC Irvine	2	1753668	Chakravorti, Dante	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753668	6-4	Sr	50	0
+2019	14383	109	UC Irvine	14	1976165	Dennis, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976165	6-11	So	1	0
 2019	14383	109	UC Irvine	8		Faille, AJ		6-0	Fr	0	0
-2019	14383	109	UC Irvine	6	2111287	Garcia, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111287	6-5	Fr	6	0
+2019	14383	109	UC Irvine	6	2111287	Garcia, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111287	6-5	Fr	32	0
 2019	14383	109	UC Irvine	20	1976150	Kam, JB	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976150	6-3	Jr	0	0
-2019	14383	109	UC Irvine	7	1753669	Koubi, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753669	6-5	Sr	12	0
+2019	14383	109	UC Irvine	7	1753669	Koubi, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1753669	6-5	Sr	50	0
 2019	14383	109	UC Irvine	19		Mills, Zack		6-5	So	0	0
-2019	14383	109	UC Irvine	12	1976144	Nsakanda, Alexandre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976144	6-4	Fr	10	0
-2019	14383	109	UC Irvine	11	1641150	Parker, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1641150	6-1	Sr	12	0
-2019	14383	109	UC Irvine	3	1976142	Schneidmiller, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976142	6-6	So	12	0
-2019	14383	109	UC Irvine	17	1976147	Sohacki, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976147	6-6	So	0	0
-2019	14383	109	UC Irvine	13	1863840	Stadick, Scott	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863840	7-0	Jr	12	0
+2019	14383	109	UC Irvine	12	1976144	Nsakanda, Alexandre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976144	6-4	Fr	19	0
+2019	14383	109	UC Irvine	11	1641150	Parker, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1641150	6-1	Sr	50	0
+2019	14383	109	UC Irvine	3	1976142	Schneidmiller, Joel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976142	6-6	So	50	0
+2019	14383	109	UC Irvine	17	1976147	Sohacki, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976147	6-6	So	5	0
+2019	14383	109	UC Irvine	13	1863840	Stadick, Scott	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863840	7-0	Jr	50	0
 2019	14383	109	UC Irvine	4		Vorenkamp, Patrick		6-6	Fr	0	0
 2019	14383	109	UC Irvine	10		Wahlgren, Owen		6-8	Fr	0	0
 2019	14383	109	UC Irvine	1		Williams, Zevan		6-3	So	0	0
-2019	14383	109	UC Irvine	18	1976148	Wilmot, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976148	6-9	So	12	0
-2019	14383	112	UC San Diego	3	1972616	Avillion, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972616	6-6	Fr	2	0
-2019	14383	112	UC San Diego	16	2108611	Benetz, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108611	6-6	Fr	5	0
+2019	14383	109	UC Irvine	18	1976148	Wilmot, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976148	6-9	So	50	0
+2019	14383	112	UC San Diego	3	1972616	Avillion, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972616	6-6	Fr	11	0
+2019	14383	112	UC San Diego	16	2108611	Benetz, Shane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108611	6-6	Fr	25	0
 2019	14383	112	UC San Diego	19		Biz, Alex		6-7	Fr	0	0
-2019	14383	112	UC San Diego	2	2108612	Clark, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108612	6-6	Fr	2	0
-2019	14383	112	UC San Diego	23	2108613	Crisp, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108613	6-3	Fr	4	0
-2019	14383	112	UC San Diego	6	1972637	Curtis, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972637	6-5	So	5	0
-2019	14383	112	UC San Diego	28		Gilruth, Macune		6-5	Fr	0	0
-2019	14383	112	UC San Diego	8	1972639	Harrison, Wyatt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972639	6-4	So	5	0
-2019	14383	112	UC San Diego	15	1749338	Jimenez, Xander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749338	6-4	Jr	7	0
+2019	14383	112	UC San Diego	2	2108612	Clark, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108612	6-6	Fr	12	0
+2019	14383	112	UC San Diego	23	2108613	Crisp, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108613	6-3	Fr	20	0
+2019	14383	112	UC San Diego	6	1972637	Curtis, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972637	6-5	So	23	0
+2019	14383	112	UC San Diego	28	1972647	Gilruth, Macune	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972647	6-5	Fr	1	0
+2019	14383	112	UC San Diego	8	1972639	Harrison, Wyatt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972639	6-4	So	37	0
+2019	14383	112	UC San Diego	15	1749338	Jimenez, Xander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749338	6-4	Jr	36	0
 2019	14383	112	UC San Diego	9		Ka, Ryan		6-2	Fr	0	0
-2019	14383	112	UC San Diego	11		Leech, Connor		6-4	So	0	0
-2019	14383	112	UC San Diego	1	1863090	Lew, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863090	5-11	Jr	7	0
+2019	14383	112	UC San Diego	11	1972642	Leech, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972642	6-4	So	8	0
+2019	14383	112	UC San Diego	1	1863090	Lew, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863090	5-11	Jr	39	0
 2019	14383	112	UC San Diego	17		Liu, Beikl		6-5	Fr	0	0
-2019	14383	112	UC San Diego	13	2108616	Miesfeld, Berkeley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108616	6-4	Fr	5	0
-2019	14383	112	UC San Diego	4		Palma, Matt		5-11	Fr	0	0
-2019	14383	112	UC San Diego	12	1863094	Pesic, Vlad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863094	6-8	So	5	0
+2019	14383	112	UC San Diego	13	2108616	Miesfeld, Berkeley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108616	6-4	Fr	32	0
+2019	14383	112	UC San Diego	4	2108617	Palma, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108617	5-11	Fr	4	0
+2019	14383	112	UC San Diego	12	1863094	Pesic, Vlad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863094	6-8	So	32	0
 2019	14383	112	UC San Diego	10		Posada, Marco		6-5	Fr	0	0
-2019	14383	112	UC San Diego	18	2108589	Schiffer, Leor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108589	6-4	Jr	3	0
-2019	14383	112	UC San Diego	7	1972638	Shannon, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972638	6-7	So	5	0
-2019	14383	112	UC San Diego	20	1972645	Staskus, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972645	6-4	Fr	3	0
+2019	14383	112	UC San Diego	18	2108589	Schiffer, Leor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2108589	6-4	Jr	9	0
+2019	14383	112	UC San Diego	7	1972638	Shannon, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972638	6-7	So	24	0
+2019	14383	112	UC San Diego	20	1972645	Staskus, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1972645	6-4	Fr	10	0
 2019	14383	112	UC San Diego	25		Urdahl, Michael		6-8	Fr	0	0
-2019	14383	112	UC San Diego	24	1863096	Walbrecht, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863096	6-4	Jr	7	0
-2019	14383	104	UC Santa Barbara	6	1640991	Boehle, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640991	6-1	Sr	11	0
+2019	14383	112	UC San Diego	24	1863096	Walbrecht, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863096	6-4	Jr	38	0
+2019	14383	104	UC Santa Barbara	6	1640991	Boehle, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640991	6-1	Sr	47	0
 2019	14383	104	UC Santa Barbara	22		Cajuste, Max		6-3	Fr	0	0
-2019	14383	104	UC Santa Barbara	12	1750086	Chavers, Corey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750086	6-6	Sr	11	0
-2019	14383	104	UC Santa Barbara	19	1866267	DeWeese, Randy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866267	6-6	Jr	8	0
+2019	14383	104	UC Santa Barbara	12	1750086	Chavers, Corey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750086	6-6	Sr	46	0
+2019	14383	104	UC Santa Barbara	19	1866267	DeWeese, Randy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866267	6-6	Jr	42	0
 2019	14383	104	UC Santa Barbara	13	1640989	Drake, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1640989	6-8	Jr	0	0
 2019	14383	104	UC Santa Barbara	16		Dunn, Conor		6-9	Fr	0	0
-2019	14383	104	UC Santa Barbara	23	1866270	Fredrick, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866270	6-3	Jr	3	0
-2019	14383	104	UC Santa Barbara	18	1976340	Hancock, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976340	6-4	So	3	0
-2019	14383	104	UC Santa Barbara	10	2115773	Hicks, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115773	6-4	Fr	2	0
-2019	14383	104	UC Santa Barbara	8	1750085	Hopper, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750085	6-7	So	3	0
+2019	14383	104	UC Santa Barbara	23	1866270	Fredrick, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866270	6-3	Jr	10	0
+2019	14383	104	UC Santa Barbara	18	1976340	Hancock, Henry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976340	6-4	So	5	0
+2019	14383	104	UC Santa Barbara	10	2115773	Hicks, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115773	6-4	Fr	31	0
+2019	14383	104	UC Santa Barbara	8	1750085	Hopper, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1750085	6-7	So	5	0
 2019	14383	104	UC Santa Barbara	9	1866265	Maricle, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866265	6-4	Fr	0	0
-2019	14383	104	UC Santa Barbara	3	1866269	McFarland, Roy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866269	6-4	Jr	3	0
-2019	14383	104	UC Santa Barbara	2	1866263	McGarry, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866263	6-1	Jr	9	0
+2019	14383	104	UC Santa Barbara	3	1866269	McFarland, Roy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866269	6-4	Jr	6	0
+2019	14383	104	UC Santa Barbara	2	1866263	McGarry, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866263	6-1	Jr	35	0
 2019	14383	104	UC Santa Barbara	17		McSweeney, Andrew		6-3	Fr	0	0
 2019	14383	104	UC Santa Barbara	14		Paragas, Patrick		6-0	Fr	0	0
 2019	14383	104	UC Santa Barbara	15		Pecsok, Ryan		5-10	Fr	0	0
-2019	14383	104	UC Santa Barbara	5	1866264	Sanders, Keenan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866264	6-7	Jr	9	0
+2019	14383	104	UC Santa Barbara	5	1866264	Sanders, Keenan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866264	6-7	Jr	43	0
 2019	14383	104	UC Santa Barbara	1	1976339	Seiber, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976339	6-4	So	1	0
 2019	14383	104	UC Santa Barbara	24		Tracy, Rhys		6-6	Fr	0	0
-2019	14383	104	UC Santa Barbara	20	1866268	Truman, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866268	6-11	Fr	8	0
-2019	14383	104	UC Santa Barbara	7	1976341	Ujkic, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976341	6-4	Sr	5	0
-2019	14383	104	UC Santa Barbara	4	2115777	Wilcox, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115777	6-2	Fr	5	0
-2019	14383	104	UC Santa Barbara	25	2115791	Xia, Haotian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115791	6-5	Fr	3	0
-2019	14383	104	UC Santa Barbara	11	1866266	Yould, Grady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866266	6-0	Jr	1	0
+2019	14383	104	UC Santa Barbara	20	1866268	Truman, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866268	6-11	Fr	15	0
+2019	14383	104	UC Santa Barbara	7	1976341	Ujkic, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1976341	6-4	Sr	14	0
+2019	14383	104	UC Santa Barbara	4	2115777	Wilcox, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115777	6-2	Fr	39	0
+2019	14383	104	UC Santa Barbara	25	2115791	Xia, Haotian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2115791	6-5	Fr	26	0
+2019	14383	104	UC Santa Barbara	11	1866266	Yould, Grady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1866266	6-0	Jr	5	0
 2019	14383	110	UCLA	17		Burgi, Sam		6-5	Fr	0	0
 2019	14383	110	UCLA	19		Eschenberg, Ian		6-5	Fr	0	0
-2019	14383	110	UCLA	16	1862444	Gyimah, Daenan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862444	6-8	Jr	7	0
+2019	14383	110	UCLA	16	1862444	Gyimah, Daenan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862444	6-8	Jr	33	0
 2019	14383	110	UCLA	11		Johnson, Cole		6-7	Fr	0	0
-2019	14383	110	UCLA	14	1862443	Jones, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862443	5-8	Jr	0	0
-2019	14383	110	UCLA	6		Kay, Jonah		6-6	Sr	0	0
+2019	14383	110	UCLA	14	1862443	Jones, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862443	5-8	Jr	6	0
+2019	14383	110	UCLA	6	1749354	Kay, Jonah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749354	6-6	Sr	2	0
 2019	14383	110	UCLA	8		Kobrine, Kevin		6-5	Fr	0	0
-2019	14383	110	UCLA	5	1862441	Kobrine, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862441	6-3	Jr	0	0
-2019	14383	110	UCLA	13	1749357	Ma'a, Micah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749357	6-3	Sr	7	0
-2019	14383	110	UCLA	10	1963513	Maleski, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963513	6-9	So	4	0
-2019	14383	110	UCLA	23	1864713	Matautia, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864713	6-4	Jr	7	0
+2019	14383	110	UCLA	5	1862441	Kobrine, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1862441	6-3	Jr	16	0
+2019	14383	110	UCLA	13	1749357	Ma'a, Micah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749357	6-3	Sr	34	0
+2019	14383	110	UCLA	10	1963513	Maleski, Grant	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963513	6-9	So	25	0
+2019	14383	110	UCLA	23	1864713	Matautia, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1864713	6-4	Jr	30	0
 2019	14383	110	UCLA	15		Matheney, David		6-7	Fr	0	0
-2019	14383	110	UCLA	12	1749356	Missry, Dylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749356	6-4	Sr	7	0
-2019	14383	110	UCLA	2		Norris IV, James		6-5	So	0	0
+2019	14383	110	UCLA	12	1749356	Missry, Dylan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749356	6-4	Sr	32	0
+2019	14383	110	UCLA	2	1963527	Norris IV, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963527	6-5	So	1	0
 2019	14383	110	UCLA	18		Orem, Chris		6-9	Jr	0	0
 2019	14383	110	UCLA	7	1963512	Parish, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963512	6-9	So	0	0
-2019	14383	110	UCLA	22		Parks, Adam		6-5	So	0	0
-2019	14383	110	UCLA	3	1963528	Parks, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963528	6-3	So	0	0
-2019	14383	110	UCLA	1	1963526	Peed V, Garland	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963526	6-2	So	5	0
-2019	14383	110	UCLA	4	2111022	Pender, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111022	6-2	Fr	2	0
-2019	14383	110	UCLA	9	1749490	Rattray, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749490	6-5	Jr	7	0
-2019	14383	110	UCLA	21	1749358	Sachs, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749358	6-0	Sr	0	0
-2019	14383	110	UCLA	24	1863841	Younggren, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863841	6-9	Jr	3	0
+2019	14383	110	UCLA	3	1963528	Parks, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963528	6-3	So	1	0
+2019	14383	110	UCLA	22	1963515	Parks, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963515	6-5	So	9	0
+2019	14383	110	UCLA	1	1963526	Peed V, Garland	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1963526	6-2	So	7	0
+2019	14383	110	UCLA	4	2111022	Pender, Cole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=2111022	6-2	Fr	26	0
+2019	14383	110	UCLA	9	1749490	Rattray, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749490	6-5	Jr	30	0
+2019	14383	110	UCLA	21	1749358	Sachs, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1749358	6-0	Sr	1	0
+2019	14383	110	UCLA	24	1863841	Younggren, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=14383&stats_player_seq=1863841	6-9	Jr	12	0

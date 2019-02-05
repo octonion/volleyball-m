@@ -27,7 +27,7 @@ files =[periods,notes,info,officials,pbp]
 data = []
 
 ids = []
-CSV.open("tsv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => TRUE}).each do |game|
+CSV.open("tsv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => true}).each do |game|
   if not(game[19]==nil)
     game_id = game[19]
     ids << game_id.to_i

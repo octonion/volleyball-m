@@ -32,7 +32,7 @@ periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
                                "r",
-                               {:col_sep => "\t", :headers => TRUE})
+                               {:col_sep => "\t", :headers => true})
 ncaa_play_by_play = CSV.open("tsv/ncaa_games_play_by_play_mt_#{year}_#{division}.tsv",
                              "w",
                              {:col_sep => "\t"})

@@ -20,7 +20,7 @@ roster_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
-                      {:col_sep => "\t", :headers => TRUE})
+                      {:col_sep => "\t", :headers => true})
 ncaa_team_rosters = CSV.open("tsv/ncaa_team_rosters_mt_#{year}_#{division}.tsv",
                              "w",
                              {:col_sep => "\t"})

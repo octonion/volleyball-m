@@ -26,7 +26,7 @@ box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
 
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
                                "r",
-                               {:col_sep => "\t", :headers => TRUE})
+                               {:col_sep => "\t", :headers => true})
 ncaa_box_scores = CSV.open("tsv/ncaa_games_box_scores_mt_#{year}_#{division}.tsv",
                            "w",
                            {:col_sep => "\t"})

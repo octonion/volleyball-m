@@ -9,7 +9,7 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_teams = CSV.open("tsv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_teams = CSV.open("tsv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => true})
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules.tsv","w",{:col_sep => "\t"})
 
 # Header for team file
@@ -74,16 +74,16 @@ ncaa_teams.each do |team|
         neutral = game_string.split(" @ ")[1]
 
         if (neutral==nil)
-          neutral_site = FALSE
+          neutral_site = false
           neutral_location = nil
         else
-          neutral_site = TRUE
+          neutral_site = true
           neutral_location = neutral.strip
         end
         if (opponent_string.include?("@"))
-          home_game = FALSE
+          home_game = false
         else
-          home_game = TRUE
+          home_game = true
         end
 
         opponent_name = opponent_string.gsub("@","").strip
@@ -112,9 +112,9 @@ ncaa_teams.each do |team|
         score_parameters = score_string.split(" ",2)
         if (score_parameters.size>1)
           if (score_parameters[0]=="W")
-            team_won = TRUE
+            team_won = true
           else
-            team_won = FALSE
+            team_won = false
           end
 
           scores = score_parameters[1].split("(")
@@ -124,10 +124,10 @@ ncaa_teams.each do |team|
           opponent_score = score.split("-")[1].strip
 
           if (scores[1]==nil)
-            overtime = FALSE
+            overtime = false
             overtime_periods = nil
           else
-            overtime = TRUE
+            overtime = true
             overtime_periods = scores[1].gsub(")","").strip
           end
 

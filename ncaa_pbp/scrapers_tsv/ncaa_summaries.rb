@@ -16,7 +16,7 @@ retries = 3
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
-                      {:col_sep => "\t", :headers => TRUE})
+                      {:col_sep => "\t", :headers => true})
 ncaa_player_summaries = CSV.open("tsv/ncaa_player_summaries_#{year}_#{division}.tsv",
                                  "w",
                                  {:col_sep => "\t"})

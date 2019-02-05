@@ -21,7 +21,7 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => true})
 ncaa_play_by_play = CSV.open("tsv/ncaa_games_play_by_play_revised.tsv","w",{:col_sep => "\t"})
 ncaa_periods = CSV.open("tsv/ncaa_games_periods_revised.tsv","w",{:col_sep => "\t"})
 
